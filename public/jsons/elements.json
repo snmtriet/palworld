@@ -1,0 +1,11 @@
+[
+  { "src": "/images/icons/T_Icon_element_s_08.png", "name": "Ice" },
+  { "src": "/images/icons/T_Icon_element_s_05.png", "name": "Dark" },
+  { "src": "/images/icons/T_Icon_element_s_06.png", "name": "Dragon" },
+  { "src": "/images/icons/T_Icon_element_s_07.png", "name": "Earth" },
+  { "src": "/images/icons/T_Icon_element_s_04.png", "name": "Leaf" },
+  { "src": "/images/icons/T_Icon_element_s_03.png", "name": "Electricity" },
+  { "src": "/images/icons/T_Icon_element_s_02.png", "name": "Water" },
+  { "src": "/images/icons/T_Icon_element_s_01.png", "name": "Fire" },
+  { "src": "/images/icons/T_Icon_element_s_00.png", "name": "Normal" }
+]

@@ -1,0 +1,3289 @@
+[
+  {
+    "name": "Melpaca",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_Alpaca_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Kitsun",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_AmaterasuWolf_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Anubis",
+    "rarity": "Epic",
+    "level": "10",
+    "palImage": "/images/palicon/T_Anubis_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "4"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Incineram",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_Baphomet_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" },
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Incineram Noct",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_Baphomet_Dark_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Mau",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Bastet_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Mau Cryst",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_Bastet_Ice_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "BeardedDragon",
+    "rarity": "Common",
+    "level": "0",
+    "palImage": "/images/palicon/T_BeardedDragon_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": []
+  },
+  {
+    "name": "Caprity",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_BerryGoat_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Vanwyrm",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_BirdDragon_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" },
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Vanwyrm Cryst",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_BirdDragon_Ice_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" },
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Necromus",
+    "rarity": "Legendary",
+    "level": "20",
+    "palImage": "/images/palicon/T_BlackCentaur_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Dragostrophe",
+    "rarity": "Epic",
+    "level": "10",
+    "palImage": "/images/palicon/T_BlackFurDragon_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" },
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Shadowbeak",
+    "rarity": "Epic",
+    "level": "10",
+    "palImage": "/images/palicon/T_BlackGriffon_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Astegon",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_BlackMetalDragon_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" },
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "4"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_09.png",
+        "name": "Oil Extracting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Azurobe",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_BlueDragon_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" },
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Fuack",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_BluePlatypus_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Rushoar",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Boar_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Penking",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_CaptainPenguin_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" },
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Lifmunk",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Carbunclo_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Tombat",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_CatBat_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Katress",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_CatMage_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Felbat",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_CatVampire_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Chikipi",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_ChickenPal_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Tocotoco",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_ColorfulBird_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Mozzarina",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_CowPal_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Cinnamoth",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_CuteButterfly_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Vixy",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_CuteFox_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Fuddler",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_CuteMole_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Cawgnito",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_DarkCrow_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "DarkMutant",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_DarkMutant_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Menasting",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_DarkScorpion_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" },
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Eikthyrdeer",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_Deer_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Eikthyrdeer Terra",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_Deer_Ground_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Daedream",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_DreamDemon_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Digtoise",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_DrillGame_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Galeclaw",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_Eagle_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Sparkit",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_ElecCat_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Boltmane",
+    "rarity": "Common",
+    "level": "0",
+    "palImage": "/images/palicon/T_ElecLion_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Grizzbolt",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_ElecPanda_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Elphidran",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_FairyDragon_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Elphidran Aqua",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_FairyDragon_Water_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" },
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Fenglope",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_FengyunDeeper_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Pyrin",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_FireKirin_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Pyrin Noct",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_FireKirin_Dark_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" },
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Rooby",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_FlameBambi_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Arsox",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_FlameBuffalo_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Dinossom",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_FlowerDinosaur_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" },
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Dinossom Lux",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_FlowerDinosaur_Electric_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      },
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Petallia",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_FlowerDoll_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Flopie",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_FlowerRabbit_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Celaray",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_FlyingManta_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Wixen",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_FoxMage_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Teafant",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Ganesha_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Direhowl",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_Garm_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Maraith",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_GhostBeast_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Gorirat",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_Gorilla_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Mammorest",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_GrassMammoth_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Mammorest Cryst",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_GrassMammoth_Ice_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Mossanda",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_GrassPanda_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Mossanda Lux",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_GrassPanda_Electric_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Verdash",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_GrassRabbitMan_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Helzephyr",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_HadesBird_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Nitewing",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_HawkBird_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Jolthog",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Hedgehog_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Jolthog Cryst",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_Hedgehog_Ice_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Warsect",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_HerculesBeetle_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" },
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Faleris",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_Horus_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Reindrix",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_IceDeer_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Foxcicle",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_IceFox_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Frostallion",
+    "rarity": "Legendary",
+    "level": "20",
+    "palImage": "/images/palicon/T_IceHorse_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "name": "Frostallion Noct",
+    "rarity": "Legendary",
+    "level": "20",
+    "palImage": "/images/palicon/T_IceHorse_Dark_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "name": "Jetragon",
+    "rarity": "Legendary",
+    "level": "20",
+    "palImage": "/images/palicon/T_JetDragon_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_09.png",
+        "name": "Oil Extracting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Kelpsea",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Kelpie_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Kelpsea Ignis",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_Kelpie_Fire_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Kingpaca",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_KingAlpaca_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Ice Kingpaca",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_KingAlpaca_Ice_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Blazamut",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_KingBahamut_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "name": "Univolt",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_Kirin_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Foxparks",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Kitsunebi_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Flambelle",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_LavaGirl_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Dumud",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_LazyCatfish_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_09.png",
+        "name": "Oil Extracting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Relaxaurus",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_LazyDragon_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" },
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Relaxaurus Lux",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_LazyDragon_Electric_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" },
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Lyleen",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_LilyQueen_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "name": "Lyleen Noct",
+    "rarity": "Epic",
+    "level": "10",
+    "palImage": "/images/palicon/T_LilyQueen_Dark_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Bristla",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_LittleBriarRose_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Leezpunk",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_LizardMan_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Leezpunk Ignis",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_LizardMan_Fire_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Blazehowl",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_Manticore_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Blazehowl Noct",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_Manticore_Dark_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" },
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Tanzee",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Monkey_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Swee",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_MopBaby_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Sweepa",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_MopKing_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Lunaris",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_Mutant_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Grintale",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_NaughtyCat_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Depresso",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_NegativeKoala_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Killamari",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_NegativeOctopus_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Nox",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_NightFox_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Pengullet",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_Penguin_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" },
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Cattiva",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_PinkCat_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Lovander",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_PinkLizard_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Ribbuny",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_PinkRabbit_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Gumoss",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_PlantSlime_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" },
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Elizabee",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_QueenBee_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Dazzi",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_RaijinDaughter_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Ragnahawk",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_RedArmorBird_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Robinquill",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_RobinHood_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Robinquill Terra",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_RobinHood_Ground_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" },
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Bushi",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_Ronin_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Paladius",
+    "rarity": "Legendary",
+    "level": "20",
+    "palImage": "/images/palicon/T_SaintCentaur_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Broncherry",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_SakuraSaurus_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Broncherry Aqua",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_SakuraSaurus_Water_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" },
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Surfent",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_Serpent_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Surfent Terra",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_Serpent_Ground_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Gobfin",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_SharkKid_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Gobfin Ignis",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_SharkKid_Fire_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Lamball",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_SheepBall_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Quivern",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_SkyDragon_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Beegarde",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_SoldierBee_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Suzaku",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_Suzaku_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Suzaku Aqua",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_Suzaku_Water_icon_normal.png",
+    "elements": [
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Woolipop",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_SweetsSheep_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Beakon",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_ThunderBird_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Rayhound",
+    "rarity": "Rare",
+    "level": "5",
+    "palImage": "/images/palicon/T_ThunderDog_icon_normal.png",
+    "elements": [
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Orserk",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_ThunderDragonMan_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" },
+      {
+        "name": "electricity",
+        "image": "/images/icons/T_Icon_element_s_03.png"
+      }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_03.png",
+        "name": "Generating Electricity",
+        "level": "4"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Jormuntide",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_Umihebi_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" },
+      { "name": "water", "image": "/images/icons/T_Icon_element_s_02.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_01.png",
+        "name": "Watering",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "name": "Jormuntide Ignis",
+    "rarity": "Epic",
+    "level": "9",
+    "palImage": "/images/palicon/T_Umihebi_Fire_icon_normal.png",
+    "elements": [
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" },
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "name": "Vaelet",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_VioletFairy_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Reptyro",
+    "rarity": "Rare",
+    "level": "6",
+    "palImage": "/images/palicon/T_VolcanicMonster_icon_normal.png",
+    "elements": [
+      { "name": "fire", "image": "/images/icons/T_Icon_element_s_01.png" },
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_00.png",
+        "name": "Kindling",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Ice Reptyro",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_VolcanicMonster_Ice_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" },
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_07.png",
+        "name": "Mining",
+        "level": "3"
+      }
+    ]
+  },
+  {
+    "name": "Chillet",
+    "rarity": "Common",
+    "level": "4",
+    "palImage": "/images/palicon/T_WeaselDragon_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" },
+      { "name": "dragon", "image": "/images/icons/T_Icon_element_s_06.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Loupmoon",
+    "rarity": "Common",
+    "level": "3",
+    "palImage": "/images/palicon/T_Werewolf_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Sibelyx",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_WhiteMoth_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_08.png",
+        "name": "Medicine Production",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Cryolinx",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_WhiteTiger_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Hangyu",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_WindChimes_icon_normal.png",
+    "elements": [
+      { "name": "earth", "image": "/images/icons/T_Icon_element_s_07.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Hangyu Cryst",
+    "rarity": "Common",
+    "level": "2",
+    "palImage": "/images/palicon/T_WindChimes_Ice_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "2"
+      }
+    ]
+  },
+  {
+    "name": "Hoocrates",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_WizardOwl_icon_normal.png",
+    "elements": [
+      { "name": "dark", "image": "/images/icons/T_Icon_element_s_05.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Cremis",
+    "rarity": "Common",
+    "level": "1",
+    "palImage": "/images/palicon/T_WoolFox_icon_normal.png",
+    "elements": [
+      { "name": "normal", "image": "/images/icons/T_Icon_element_s_00.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_05.png",
+        "name": "Gathering",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_12.png",
+        "name": "Farming",
+        "level": "1"
+      }
+    ]
+  },
+  {
+    "name": "Wumpo",
+    "rarity": "Rare",
+    "level": "7",
+    "palImage": "/images/palicon/T_Yeti_icon_normal.png",
+    "elements": [
+      { "name": "ice", "image": "/images/icons/T_Icon_element_s_08.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_10.png",
+        "name": "Cooling",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "4"
+      }
+    ]
+  },
+  {
+    "name": "Wumpo Botan",
+    "rarity": "Epic",
+    "level": "8",
+    "palImage": "/images/palicon/T_Yeti_Grass_icon_normal.png",
+    "elements": [
+      { "name": "leaf", "image": "/images/icons/T_Icon_element_s_04.png" }
+    ],
+    "works": [
+      {
+        "image": "/images/icons/T_icon_palwork_06.png",
+        "name": "Deforesting",
+        "level": "3"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_04.png",
+        "name": "Handiwork",
+        "level": "2"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_02.png",
+        "name": "Planting",
+        "level": "1"
+      },
+      {
+        "image": "/images/icons/T_icon_palwork_11.png",
+        "name": "Transporting",
+        "level": "4"
+      }
+    ]
+  }
+]

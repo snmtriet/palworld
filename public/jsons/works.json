@@ -1,0 +1,21 @@
+[
+  { "src": "/images/icons/T_icon_palwork_05.png", "name": "Gathering" },
+  { "src": "/images/icons/T_icon_palwork_10.png", "name": "Cooling" },
+  { "src": "/images/icons/T_icon_palwork_06.png", "name": "Deforesting" },
+  { "src": "/images/icons/T_icon_palwork_00.png", "name": "Kindling" },
+  {
+    "src": "/images/icons/T_icon_palwork_03.png",
+    "name": "Generating Electricity"
+  },
+  { "src": "/images/icons/T_icon_palwork_04.png", "name": "Handiwork" },
+  { "src": "/images/icons/T_icon_palwork_07.png", "name": "Mining" },
+  { "src": "/images/icons/T_icon_palwork_12.png", "name": "Farming" },
+  { "src": "/images/icons/T_icon_palwork_09.png", "name": "Oil Extracting" },
+  {
+    "src": "/images/icons/T_icon_palwork_08.png",
+    "name": "Medicine Production"
+  },
+  { "src": "/images/icons/T_icon_palwork_02.png", "name": "Planting" },
+  { "src": "/images/icons/T_icon_palwork_11.png", "name": "Transporting" },
+  { "src": "/images/icons/T_icon_palwork_01.png", "name": "Watering" }
+]

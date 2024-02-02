@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Deutsch",
+    "href": "/de",
+    "image": "/images/countries/de.svg"
+  },
+  {
+    "title": "Español",
+    "href": "/es",
+    "image": "/images/countries/es.png"
+  },
+  {
+    "title": "Français",
+    "href": "/fr",
+    "image": "/images/countries/fr.svg"
+  },
+  {
+    "title": "italiano",
+    "href": "/it",
+    "image": "/images/countries/it.svg"
+  },
+  {
+    "title": "Русский язык",
+    "href": "/ru",
+    "image": "/images/countries/ru.svg"
+  },
+  {
+    "title": "日本語",
+    "href": "/jp",
+    "image": "/images/countries/jp.svg"
+  },
+  {
+    "title": "한국어",
+    "href": "/ko",
+    "image": "/images/countries/kr.svg"
+  },
+  {
+    "title": "Português",
+    "href": "/pt-BR",
+    "image": "/images/countries/br.svg"
+  },
+  {
+    "title": "繁體中文",
+    "href": "/zh-Hant",
+    "image": "/images/countries/tw.svg"
+  },
+  {
+    "title": "简体中文",
+    "href": "/zh-Hans",
+    "image": "/images/countries/cn.svg"
+  }
+]
