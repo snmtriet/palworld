@@ -1,1 +1,229 @@
-[{"data":1,"prerenderedAt":119},["Reactive",2],{"zr6vB98jHO":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":20,"Support":22,"CraftSpeed":22,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":24,"ExpRatio":12,"Price":25,"AIResponse":26,"AISightResponse":5,"SlowWalkSpeed":27,"WalkSpeed":28,"RunSpeed":29,"RideSprintSpeed":30,"TransportSpeed":31,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":32,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":33,"FullStomachDecreaseRate":12,"FoodAmount":34,"ViewingDistance":35,"ViewingAngle":36,"HearingRate":12,"NooseTrap":6,"Nocturnal":18,"BiologicalGrade":37,"Predator":18,"Edible":6,"Stamina":22,"MaleProbability":38,"CombiRank":39,"WorkSuitability_EmitFlame":12,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":37,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":43,"Drops":44,"ActiveSkills":53,"PassiveSkills":117,"Description":118},"Foxparks","None",true,"EPalTribeID::Kitsunebi","Kitsunebi",5,"","EPalSizeType::XS",1,"EPalElementType::Fire","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,65,70,75,100,1.3,1.1,1040,"Escape_to_Battle",40,80,400,550,240,"EPalBattleBGMType::Cute",150,2,25,90,0,50,1400,"Huggy Fire","When activated, equips to the player\r\nand transforms into a flamethrower.",[],"Revealer of Paths",[45,49],{"max":12,"min":12,"rate":22,"name":46,"descr":47,"icon":48},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":34,"min":12,"rate":22,"name":50,"descr":51,"icon":52},"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",[54,67,77,85,95,101,109],{"WazaType":55,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":57,"IsLeanBack":18,"CameraShake":58,"MinRange":59,"MaxRange":60,"CoolTime":34,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":38,"EffectValueEx1":37,"EffectType2":63,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":64,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":65,"WazaDesc":66},"EPalWazaID::FireBlast","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":68,"Element":69,"IgnoreRandomInherit":18,"Category":56,"Power":27,"IsLeanBack":18,"CameraShake":58,"MinRange":59,"MaxRange":70,"CoolTime":71,"ForceRagdollSize":61,"EffectType1":72,"EffectValue1":38,"EffectValueEx1":37,"EffectType2":63,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":73,"bIsWeaponDamage":18,"DisabledData":18,"Level":74,"WazaName":75,"WazaDesc":76},"EPalWazaID::MudShot","EPalElementType::Earth",3000,4,"EPalAdditionalEffectType::Muddy",[],7,"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":78,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":79,"IsLeanBack":18,"CameraShake":58,"MinRange":80,"MaxRange":70,"CoolTime":74,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":63,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":81,"bIsWeaponDamage":18,"DisabledData":18,"Level":82,"WazaName":83,"WazaDesc":84},"EPalWazaID::FireSeed",45,1000,[],15,"Spirit Fire","Shoots fireballs towards an enemy.\r\nThe fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",{"WazaType":86,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":87,"IsLeanBack":18,"CameraShake":88,"MinRange":59,"MaxRange":60,"CoolTime":89,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":90,"EffectValueEx1":37,"EffectType2":63,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":91,"bIsWeaponDamage":18,"DisabledData":18,"Level":92,"WazaName":93,"WazaDesc":94},"EPalWazaID::FlareArrow",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,103,[],22,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":96,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":20,"IsLeanBack":18,"CameraShake":88,"MinRange":59,"MaxRange":97,"CoolTime":82,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":63,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":98,"bIsWeaponDamage":18,"DisabledData":18,"Level":57,"WazaName":99,"WazaDesc":100},"EPalWazaID::Flamethrower",1500,[],"Ignis Breath","Shoots flames at an enemy,\r\ndealing continuous damage.",{"WazaType":102,"Element":103,"IgnoreRandomInherit":18,"Category":56,"Power":21,"IsLeanBack":18,"CameraShake":88,"MinRange":59,"MaxRange":60,"CoolTime":104,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":105,"EffectValueEx1":37,"EffectType2":63,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":27,"WazaName":107,"WazaDesc":108},"EPalWazaID::GhostFlame","EPalElementType::Dark",16,102,[],"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":110,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":33,"IsLeanBack":18,"CameraShake":111,"MinRange":59,"MaxRange":112,"CoolTime":87,"ForceRagdollSize":113,"EffectType1":62,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":63,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":38,"WazaName":115,"WazaDesc":116},"EPalWazaID::FireBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],"Fire Ball","Creates a giant ball of flame and hurls it at an enemy.\r\nThe ball explodes over a wide area upon impact.",[],"It is unskilled at controlling fire from the moment it is born\r\nand tends to choke on the flames it breathes unintentionally.\r\n\u003CcharacterName id=|Kitsunebi|/> sneezes are one of the leading causes of forest fires.",1706864123198]
+{
+  "name": "Foxparks",
+  "title": "Revealer of Paths",
+  "image": "/images/full_palicon/T_Kitsunebi_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    }
+  ],
+  "description": "It is unskilled at controlling fire from the moment it is born\nand tends to choke on the flames it breathes unintentionally.\nKitsunebi sneezes are one of the leading causes of forest fires.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "1 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "65"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "70"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "75"
+    },
+    {
+      "name": "Price",
+      "value": "1040"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "400"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "40"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Huggy Fire",
+    "description": "When activated, equips to the player\nand transforms into a flamethrower."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Spirit Fire",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "45",
+      "coolDown": "7",
+      "range": "1000 - 3000",
+      "description": "Shoots fireballs towards an enemy.\nThe fireballs explode after a short distance,\ngenerating smaller fireballs that spread forward."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Ignis Breath",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Shoots flames at an enemy,\ndealing continuous damage."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Fire Ball",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 9999",
+      "description": "Creates a giant ball of flame and hurls it at an enemy.\nThe ball explodes over a wide area upon impact."
+    }
+  ],
+  "uniqueName": "foxparks"
+}

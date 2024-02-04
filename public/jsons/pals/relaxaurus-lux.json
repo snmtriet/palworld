@@ -1,1 +1,269 @@
-[{"data":1,"prerenderedAt":133},["Reactive",2],{"Krom9TPTdJ":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":19,"Defense":20,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":22,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":6,"Edible":6,"Stamina":21,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":38,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":39,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":38,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":22,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":55,"Drops":56,"ActiveSkills":71,"PassiveSkills":131,"Description":132},"Relaxaurus Lux","None",true,"EPalTribeID::LazyDragon_Electric","LazyDragon_Electric",85,"B","EPalSizeType::XL",9,"EPalElementType::Dragon","EPalElementType::Electricity","EPalGenusCategoryType::Monster","EPalOrganizationType::None","EPalWeaponType::None",false,110,75,100,1,10380,"Warlike",40,60,650,800,150,"EPalBattleBGMType::Cute",475,7,25,90,5,50,270,0,3,"Missile Party","Can be ridden.\r\nCan rapidly fire a missile launcher while mounted.",[43,51],{"ParentTribeA":44,"ParentTribeB":47,"ChildCharacterID":50},{"name":45,"BPClass":46},"Relaxaurus","LazyDragon",{"name":48,"BPClass":49},"Sparkit","ElecCat",{"name":4,"BPClass":8},{"ParentTribeA":52,"ParentTribeB":53,"ChildCharacterID":54},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Gluttonous Thunder Dragon",[57,62,67],{"max":58,"min":22,"rate":21,"name":59,"descr":60,"icon":61},4,"High Quality Pal Oil","High-quality oil that can be extracted from Pal.\r\nNecessary for making \u003CitemName id=|Polymer|/>. ","T_itemicon_Material_PalOil",{"max":39,"min":63,"rate":21,"name":64,"descr":65,"icon":66},2,"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",{"max":22,"min":22,"rate":35,"name":68,"descr":69,"icon":70},"Sapphire","A gemstone that glows blue.\r\nCan be sold to a merchant for a high price.","T_itemicon_Material_Sapphire",[72,85,93,101,110,117,124],{"WazaType":73,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":75,"IsLeanBack":18,"CameraShake":76,"MinRange":77,"MaxRange":78,"CoolTime":63,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":21,"EffectValueEx1":38,"EffectType2":81,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":82,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":83,"WazaDesc":84},"EPalWazaID::SpreadPulse","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Electrical","EPalAdditionalEffectType::None",[],"Spark Blast","The user releases a lightning ball\r\nthat expands outward in a forward, circular pattern.",{"WazaType":86,"Element":13,"IgnoreRandomInherit":18,"Category":74,"Power":75,"IsLeanBack":18,"CameraShake":76,"MinRange":77,"MaxRange":87,"CoolTime":63,"ForceRagdollSize":79,"EffectType1":88,"EffectValue1":89,"EffectValueEx1":38,"EffectType2":81,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":90,"bIsWeaponDamage":18,"DisabledData":18,"Level":32,"WazaName":91,"WazaDesc":92},"EPalWazaID::DragonCanon",4000,"EPalAdditionalEffectType::Burn",35,[],"Dragon Cannon","Hurls an energy ball imbued\r\nwith draconic energy at an enemy.",{"WazaType":94,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":25,"IsLeanBack":18,"CameraShake":76,"MinRange":38,"MaxRange":95,"CoolTime":58,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":96,"EffectValueEx1":38,"EffectType2":81,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::ElecWave",300,103,[],15,"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":102,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":20,"IsLeanBack":18,"CameraShake":103,"MinRange":77,"MaxRange":104,"CoolTime":105,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":21,"EffectValueEx1":38,"EffectType2":81,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":107,"WazaName":108,"WazaDesc":109},"EPalWazaID::LineThunder","EPalPlayerDamageCameraShakeCategory::Waza_M",2000,16,[],22,"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":111,"Element":13,"IgnoreRandomInherit":18,"Category":74,"Power":112,"IsLeanBack":18,"CameraShake":103,"MinRange":77,"MaxRange":113,"CoolTime":98,"ForceRagdollSize":79,"EffectType1":88,"EffectValue1":21,"EffectValueEx1":38,"EffectType2":81,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":75,"WazaName":115,"WazaDesc":116},"EPalWazaID::DragonBreath",70,1500,[],"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":118,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":119,"IsLeanBack":18,"CameraShake":120,"MinRange":38,"MaxRange":77,"CoolTime":25,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":21,"EffectValueEx1":38,"EffectType2":81,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":121,"bIsWeaponDamage":18,"DisabledData":18,"Level":25,"WazaName":122,"WazaDesc":123},"EPalWazaID::LightningStrike",120,"EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Lightning Strike","Acts as a lightning rod, calling down thunderbolts\r\nthat electrocute the surrounding area.",{"WazaType":125,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":29,"IsLeanBack":18,"CameraShake":120,"MinRange":77,"MaxRange":126,"CoolTime":127,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":21,"EffectValueEx1":38,"EffectType2":81,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":128,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":129,"WazaDesc":130},"EPalWazaID::Thunderbolt",3000,55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"One day, \u003CcharacterName id=|LazyDragon|/> had an idea.\r\nMaybe it was about time for a change.\r\nJust then, an electric shock raced through its body!",1706864123603]
+{
+  "name": "Relaxaurus Lux",
+  "title": "Gluttonous Thunder Dragon",
+  "image": "/images/full_palicon/T_LazyDragon_Electric_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "9",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Dragon",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "className": "elm3"
+    },
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "One day, LazyDragon had an idea.\nMaybe it was about time for a change.\nJust then, an electric shock raced through its body!",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalOil.png",
+      "name": "High Quality Pal Oil",
+      "amount": "1 - 4",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "2 - 3",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Sapphire.png",
+      "name": "Sapphire",
+      "amount": "1 - 1",
+      "rate": "5%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "110"
+    },
+    {
+      "name": "Defense",
+      "value": "75"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "110"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "110"
+    },
+    {
+      "name": "Price",
+      "value": "10380"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "650"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "800"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "40"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Relaxaurus",
+        "image": "/images/palicon/T_LazyDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Sparkit",
+        "image": "/images/palicon/T_ElecCat_icon_normal.png"
+      },
+      "result": {
+        "name": "Relaxaurus Lux",
+        "image": "/images/palicon/T_LazyDragon_Electric_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Relaxaurus Lux",
+        "image": "/images/palicon/T_LazyDragon_Electric_icon_normal.png"
+      },
+      "female": {
+        "name": "Relaxaurus Lux",
+        "image": "/images/palicon/T_LazyDragon_Electric_icon_normal.png"
+      },
+      "result": {
+        "name": "Relaxaurus Lux",
+        "image": "/images/palicon/T_LazyDragon_Electric_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Missile Party",
+    "description": "Can be ridden.\nCan rapidly fire a missile launcher while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Spark Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "The user releases a lightning ball\nthat expands outward in a forward, circular pattern."
+    },
+    {
+      "name": "Dragon Cannon",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Hurls an energy ball imbued\nwith draconic energy at an enemy."
+    },
+    {
+      "name": "Shockwave",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Lightning Strike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "0 - 500",
+      "description": "Acts as a lightning rod, calling down thunderbolts\nthat electrocute the surrounding area."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "relaxaurus-lux"
+}

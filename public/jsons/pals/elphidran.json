@@ -1,1 +1,238 @@
-[{"data":1,"prerenderedAt":122},["Reactive",2],{"FmlLoCfjP7":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":9,"ShotAttack":9,"Defense":20,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":20,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":34,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":37,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":50,"Drops":51,"ActiveSkills":57,"PassiveSkills":120,"Description":121},"Elphidran","None",true,"EPalTribeID::FairyDragon","FairyDragon",80,"","EPalSizeType::L",7,"EPalElementType::Dragon","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,110,90,100,1,5230,"Escape_to_Battle",83,630,800,456,"EPalBattleBGMType::Cool",400,6,25,5,130,50,540,0,2,"Amicable Holy Dragon","Can be ridden as an flying mount.\r\nWhile fighting together, \u003CuiCommon id=|COMMON_ELEMENT_NAME_Dark|/> Pals drop more items when defeated.",[42],{"ParentTribeA":43,"ParentTribeB":44,"ChildCharacterID":47},{"name":4,"BPClass":8},{"name":45,"BPClass":46},"Surfent","Serpent",{"name":48,"BPClass":49},"Elphidran Aqua","FairyDragon_Water","Gentle Sky Dragon",[52],{"max":53,"min":38,"rate":21,"name":54,"descr":55,"icon":56},3,"High Quality Pal Oil","High-quality oil that can be extracted from Pal.\r\nNecessary for making \u003CitemName id=|Polymer|/>. ","T_itemicon_Material_PalOil",[58,72,81,90,98,104,114],{"WazaType":59,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":61,"IsLeanBack":18,"CameraShake":62,"MinRange":63,"MaxRange":64,"CoolTime":38,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":67,"EffectValueEx1":37,"EffectType2":68,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":69,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":70,"WazaDesc":71},"EPalWazaID::DragonCanon","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::Burn",35,"EPalAdditionalEffectType::None",[],"Dragon Cannon","Hurls an energy ball imbued\r\nwith draconic energy at an enemy.",{"WazaType":73,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":74,"IsLeanBack":18,"CameraShake":75,"MinRange":37,"MaxRange":76,"CoolTime":77,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":68,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":79,"WazaDesc":80},"EPalWazaID::DragonWave",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",200,10,[],"Dragon Burst","Quickly discharges draconic energy,\r\ndamaging those around it.",{"WazaType":82,"Element":83,"IgnoreRandomInherit":18,"Category":60,"Power":74,"IsLeanBack":18,"CameraShake":75,"MinRange":63,"MaxRange":84,"CoolTime":77,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":85,"EffectValueEx1":37,"EffectType2":68,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::FlareArrow","EPalElementType::Fire",5000,103,[],15,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":91,"Element":13,"IgnoreRandomInherit":6,"Category":60,"Power":92,"IsLeanBack":18,"CameraShake":75,"MinRange":37,"MaxRange":93,"CoolTime":77,"ForceRagdollSize":65,"EffectType1":68,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":68,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":94,"bIsWeaponDamage":18,"DisabledData":18,"Level":95,"WazaName":96,"WazaDesc":97},"EPalWazaID::Unique_FairyDragon_FairyTornado",70,3000,[],22,"Mystic Whirlwind","Elphidran's exclusive skill.\r\nGenerates twin whirlwinds imbued with a mysterious power\r\nthat pursues enemies.",{"WazaType":99,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":92,"IsLeanBack":18,"CameraShake":75,"MinRange":63,"MaxRange":100,"CoolTime":87,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":21,"EffectValueEx1":37,"EffectType2":68,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":101,"bIsWeaponDamage":18,"DisabledData":18,"Level":61,"WazaName":102,"WazaDesc":103},"EPalWazaID::DragonBreath",1500,[],"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":105,"Element":106,"IgnoreRandomInherit":18,"Category":60,"Power":107,"IsLeanBack":18,"CameraShake":108,"MinRange":63,"MaxRange":109,"CoolTime":74,"ForceRagdollSize":65,"EffectType1":68,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":68,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":110,"bIsWeaponDamage":18,"DisabledData":18,"Level":111,"WazaName":112,"WazaDesc":113},"EPalWazaID::HyperBeam","EPalElementType::Normal",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",1800,[],40,"Pal Blast","Charges destructive energy before firing\r\na high-powered beam forward across a wide area.",{"WazaType":115,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":107,"IsLeanBack":18,"CameraShake":108,"MinRange":63,"MaxRange":84,"CoolTime":74,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":116,"EffectValueEx1":37,"EffectType2":68,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":117,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":118,"WazaDesc":119},"EPalWazaID::DragonMeteor",45,[],"Dragon Meteor","Calls down numerous small meteorites\r\nand launches them at an enemy.",[],"It possesses a demeanor as pure as its appearance suggests.\r\nPerhaps because of this, it is sometimes unable to discern good from evil,\r\noften allowing wrongdoers to take advantage of it.",1706864117505]
+{
+  "name": "Elphidran",
+  "title": "Gentle Sky Dragon",
+  "image": "/images/full_palicon/T_FairyDragon_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "7",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Dragon",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "className": "elm3"
+    }
+  ],
+  "description": "It possesses a demeanor as pure as its appearance suggests.\nPerhaps because of this, it is sometimes unable to discern good from evil,\noften allowing wrongdoers to take advantage of it.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalOil.png",
+      "name": "High Quality Pal Oil",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "110"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "80"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "80"
+    },
+    {
+      "name": "Price",
+      "value": "5230"
+    },
+    {
+      "name": "Stamina",
+      "value": "130"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "630"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "800"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "83"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Elphidran",
+        "image": "/images/palicon/T_FairyDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Surfent",
+        "image": "/images/palicon/T_Serpent_icon_normal.png"
+      },
+      "result": {
+        "name": "Elphidran Aqua",
+        "image": "/images/palicon/T_FairyDragon_Water_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Amicable Holy Dragon",
+    "description": "Can be ridden as an flying mount.\nWhile fighting together, COMMON_ELEMENT_NAME_Dark Pals drop more items when defeated."
+  },
+  "activeSkills": [
+    {
+      "name": "Dragon Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Hurls an energy ball imbued\nwith draconic energy at an enemy."
+    },
+    {
+      "name": "Dragon Burst",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 200",
+      "description": "Quickly discharges draconic energy,\ndamaging those around it."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Mystic Whirlwind",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "10",
+      "range": "0 - 3000",
+      "description": "Elphidran's exclusive skill.\nGenerates twin whirlwinds imbued with a mysterious power\nthat pursues enemies."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Pal Blast",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges destructive energy before firing\na high-powered beam forward across a wide area."
+    },
+    {
+      "name": "Dragon Meteor",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 5000",
+      "description": "Calls down numerous small meteorites\nand launches them at an enemy."
+    }
+  ],
+  "uniqueName": "elphidran"
+}

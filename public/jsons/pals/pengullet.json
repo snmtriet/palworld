@@ -1,1 +1,263 @@
-[{"data":1,"prerenderedAt":131},["Reactive",2],{"J0dWPCNlWS":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":19,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":12,"CaptureRateCorrect":22,"ExpRatio":12,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":12,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":12,"NooseTrap":6,"Nocturnal":18,"BiologicalGrade":35,"Predator":18,"Edible":6,"Stamina":21,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":35,"WorkSuitability_Watering":12,"WorkSuitability_Seeding":35,"WorkSuitability_GenerateElectricity":35,"WorkSuitability_Handcraft":12,"WorkSuitability_Collection":35,"WorkSuitability_Deforest":35,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":35,"WorkSuitability_ProductMedicine":35,"WorkSuitability_Cool":12,"WorkSuitability_Transport":12,"WorkSuitability_MonsterFarm":35,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":57,"Drops":58,"ActiveSkills":67,"PassiveSkills":129,"Description":130},"Pengullet","None",true,"EPalTribeID::Penguin","Penguin",10,"","EPalSizeType::XS",1,"EPalElementType::Water","EPalElementType::Ice","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,70,75,100,0.9,1080,"Escape_to_Battle",30,60,500,650,265,"EPalBattleBGMType::Cute",150,2,25,90,0,50,1350,"Pengullet Cannon","When activated, the player equips a \u003CitemName id=|Launcher_Default|/>\r\nand fires \u003CcharacterName id=|Penguin|/> as ammunition.\r\n\u003CcharacterName id=|Penguin|/> explodes on contact and is incapacitated.",[41,49],{"ParentTribeA":42,"ParentTribeB":45,"ChildCharacterID":46},{"name":43,"BPClass":44},"Mau","Bastet",{"name":4,"BPClass":8},{"name":47,"BPClass":48},"Mau Cryst","Bastet_Ice",{"ParentTribeA":50,"ParentTribeB":53,"ChildCharacterID":54},{"name":51,"BPClass":52},"Jolthog","Hedgehog",{"name":4,"BPClass":8},{"name":55,"BPClass":56},"Jolthog Cryst","Hedgehog_Ice","Ate Too Much",[59,63],{"max":32,"min":12,"rate":21,"name":60,"descr":61,"icon":62},"Ice Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> Pals.\r\nCan be used to make \u003CmapObjectName id=|Trap_MineFreeze|/> and more.","T_itemicon_Material_IceOrgan",{"max":12,"min":12,"rate":21,"name":64,"descr":65,"icon":66},"Pal Fluids","Body fluids taken from a Pal.\r\nUseful for its high viscosity.","T_itemicon_Material_PalFluid",[68,82,91,99,108,114,123],{"WazaType":69,"Element":14,"IgnoreRandomInherit":18,"Category":70,"Power":25,"IsLeanBack":18,"CameraShake":71,"MinRange":72,"MaxRange":73,"CoolTime":74,"ForceRagdollSize":75,"EffectType1":76,"EffectValue1":77,"EffectValueEx1":35,"EffectType2":78,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":79,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":80,"WazaDesc":81},"EPalWazaID::IceMissile","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",800,3000,3,"EPalSizeType::None","EPalAdditionalEffectType::Freeze",103,"EPalAdditionalEffectType::None",[],"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":83,"Element":13,"IgnoreRandomInherit":18,"Category":70,"Power":25,"IsLeanBack":18,"CameraShake":71,"MinRange":27,"MaxRange":84,"CoolTime":32,"ForceRagdollSize":75,"EffectType1":85,"EffectValue1":86,"EffectValueEx1":35,"EffectType2":78,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":87,"bIsWeaponDamage":18,"DisabledData":18,"Level":88,"WazaName":89,"WazaDesc":90},"EPalWazaID::AquaJet",5000,"EPalAdditionalEffectType::Wetness",35,[],7,"Hydro Jet","Hurls a high speed ball of water\r\nat an enemy.",{"WazaType":92,"Element":13,"IgnoreRandomInherit":18,"Category":70,"Power":93,"IsLeanBack":18,"CameraShake":71,"MinRange":27,"MaxRange":84,"CoolTime":94,"ForceRagdollSize":75,"EffectType1":85,"EffectValue1":36,"EffectValueEx1":35,"EffectType2":78,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":95,"bIsWeaponDamage":18,"DisabledData":18,"Level":96,"WazaName":97,"WazaDesc":98},"EPalWazaID::WaterGun",40,4,[],15,"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":100,"Element":14,"IgnoreRandomInherit":18,"Category":70,"Power":101,"IsLeanBack":18,"CameraShake":102,"MinRange":27,"MaxRange":103,"CoolTime":9,"ForceRagdollSize":75,"EffectType1":76,"EffectValue1":36,"EffectValueEx1":35,"EffectType2":78,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":104,"bIsWeaponDamage":18,"DisabledData":18,"Level":105,"WazaName":106,"WazaDesc":107},"EPalWazaID::IceBlade",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",4000,[],22,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":109,"Element":14,"IgnoreRandomInherit":18,"Category":70,"Power":19,"IsLeanBack":18,"CameraShake":102,"MinRange":21,"MaxRange":110,"CoolTime":96,"ForceRagdollSize":75,"EffectType1":76,"EffectValue1":21,"EffectValueEx1":35,"EffectType2":78,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":25,"WazaName":112,"WazaDesc":113},"EPalWazaID::BlizzardLance",9999,[],"Iceberg","Summons a sharp ice lance\r\nunder an enemy.",{"WazaType":115,"Element":14,"IgnoreRandomInherit":18,"Category":70,"Power":116,"IsLeanBack":18,"CameraShake":117,"MinRange":118,"MaxRange":110,"CoolTime":119,"ForceRagdollSize":75,"EffectType1":76,"EffectValue1":21,"EffectValueEx1":35,"EffectType2":78,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":120,"bIsWeaponDamage":18,"DisabledData":18,"Level":93,"WazaName":121,"WazaDesc":122},"EPalWazaID::IcicleThrow",130,"EPalPlayerDamageCameraShakeCategory::Waza_L",1000,45,[],"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",{"WazaType":124,"Element":13,"IgnoreRandomInherit":18,"Category":70,"Power":31,"IsLeanBack":18,"CameraShake":117,"MinRange":27,"MaxRange":125,"CoolTime":101,"ForceRagdollSize":75,"EffectType1":85,"EffectValue1":21,"EffectValueEx1":35,"EffectType2":78,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":126,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":127,"WazaDesc":128},"EPalWazaID::HydroPump",1800,[],"Hydro Laser","Shoots pressurized water at extreme velocities,\r\nsweeping over a wide area in front of it.",[],"The feathers of this Pal have all but disappeared,\r\nbut sadly, its desire to fly has remained as strong as ever.\r\nEven now, it tries to fly again in any way it can.",1706864126163]
+{
+  "name": "Pengullet",
+  "title": "Ate Too Much",
+  "image": "/images/full_palicon/T_Penguin_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    },
+    {
+      "name": "Ice",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "className": "elm1"
+    }
+  ],
+  "description": "The feathers of this Pal have all but disappeared,\nbut sadly, its desire to fly has remained as strong as ever.\nEven now, it tries to fly again in any way it can.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_IceOrgan.png",
+      "name": "Ice Organ",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_PalFluid.png",
+      "name": "Pal Fluids",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "70"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "70"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "75"
+    },
+    {
+      "name": "Price",
+      "value": "1080"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "500"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "650"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "30"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Mau",
+        "image": "/images/palicon/T_Bastet_icon_normal.png"
+      },
+      "female": {
+        "name": "Pengullet",
+        "image": "/images/palicon/T_Penguin_icon_normal.png"
+      },
+      "result": {
+        "name": "Mau Cryst",
+        "image": "/images/palicon/T_Bastet_Ice_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Jolthog",
+        "image": "/images/palicon/T_Hedgehog_icon_normal.png"
+      },
+      "female": {
+        "name": "Pengullet",
+        "image": "/images/palicon/T_Penguin_icon_normal.png"
+      },
+      "result": {
+        "name": "Jolthog Cryst",
+        "image": "/images/palicon/T_Hedgehog_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Pengullet Cannon",
+    "description": "When activated, the player equips a Launcher_Default\nand fires Penguin as ammunition.\nPenguin explodes on contact and is incapacitated."
+  },
+  "activeSkills": [
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Hydro Jet",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a high speed ball of water\nat an enemy."
+    },
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Iceberg",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "100 - 9999",
+      "description": "Summons a sharp ice lance\nunder an enemy."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    },
+    {
+      "name": "Hydro Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Shoots pressurized water at extreme velocities,\nsweeping over a wide area in front of it."
+    }
+  ],
+  "uniqueName": "pengullet"
+}

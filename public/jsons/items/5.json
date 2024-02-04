@@ -1,0 +1,4354 @@
+[
+  {
+    "name": "Incendiary Grenade",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_FragGrenade_Fire.png",
+    "description": "Useful for mid-range combat.\r\nIt detonates on impact when thrown, dealing damage and setting the surrounding environment on fire.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "750"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Ice Grenade",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_FragGrenade_Ice.png",
+    "description": "Useful for mid-range combat.\r\nIt detonates on impact when thrown, dealing damage and freezing the surrounding environment.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "750"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Fried Chikipi",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_FriedChicken.png",
+    "description": "Magnificently juicy poultry.\r\nEat to increase work speed\r\nand make SAN decrease slower for a period of time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1080"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "14"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "108"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Chikipi Poultry",
+        "image": "/images/items/T_itemicon_Food_Meat_ChickenPal.png"
+      },
+      {
+        "name": "1 Flour",
+        "image": "/images/items/T_itemicon_Material_Flour.png"
+      },
+      {
+        "name": "1 Egg",
+        "image": "/images/items/T_itemicon_Food_Egg.png"
+      },
+      {
+        "name": "1 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      }
+    ]
+  },
+  {
+    "name": "Fried Egg",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_FriedEggs.png",
+    "description": "An Egg now fried and even more delicious.\r\nGreat for keeping hunger away.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "23"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Egg",
+        "image": "/images/items/T_itemicon_Food_Egg.png"
+      }
+    ]
+  },
+  {
+    "name": "Fried Kelpsea",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_FriedKelpie.png",
+    "description": "Crunchy fried batter perfectly accentuates the Kelpsea's plumpness.\r\nEat to increase COMMON_STATUS_DEFENCE by +10%\r\nand make SAN decrease slower for a period of time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1080"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "14"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "108"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Raw Kelpsea",
+        "image": "/images/items/T_itemicon_Food_Meat_Kelpie.png"
+      },
+      {
+        "name": "1 Flour",
+        "image": "/images/items/T_itemicon_Material_Flour.png"
+      },
+      {
+        "name": "1 Egg",
+        "image": "/images/items/T_itemicon_Food_Egg.png"
+      },
+      {
+        "name": "1 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      }
+    ]
+  },
+  {
+    "name": "Stir-fried Veggies",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_FriedVegetables.png",
+    "description": "A dish prepared by stir frying Lettuce and Meat. When eaten, it will temporarily increase COMMON_STATUS_RANGE_ATTACK by +10%.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "7"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "89"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmor.png",
+    "description": "Armor made from Leather.\r\nIts warmth and defense have been improved.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "360"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "140"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "35"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorCold.png",
+    "description": "A FurArmor produced in cold regions.\r\nCan withstand freezing cold temperatures.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "140"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "4 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorCold.png",
+    "description": "A FurArmor produced in cold regions.\r\nCan withstand freezing cold temperatures.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "3600"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "360"
+      },
+      {
+        "name": "HP",
+        "value": "182"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "58"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "8 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorCold.png",
+    "description": "A FurArmor produced in cold regions.\r\nCan withstand freezing cold temperatures.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "4500"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "450"
+      },
+      {
+        "name": "HP",
+        "value": "196"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "63"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "45 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "12 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorCold.png",
+    "description": "A FurArmor produced in cold regions.\r\nCan withstand freezing cold temperatures.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "5400"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "540"
+      },
+      {
+        "name": "HP",
+        "value": "210"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "67"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "67 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "18 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorCold.png",
+    "description": "A FurArmor produced in cold regions.\r\nCan withstand freezing cold temperatures.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "6600"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "660"
+      },
+      {
+        "name": "HP",
+        "value": "224"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "72"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "27 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorHeat.png",
+    "description": "A FurArmor produced in hot regions.\r\nCan withstand some heat.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "140"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "4 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorHeat.png",
+    "description": "A FurArmor produced in hot regions.\r\nCan withstand some heat.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "3600"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "360"
+      },
+      {
+        "name": "HP",
+        "value": "182"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "58"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "8 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorHeat.png",
+    "description": "A FurArmor produced in hot regions.\r\nCan withstand some heat.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "4500"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "450"
+      },
+      {
+        "name": "HP",
+        "value": "196"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "63"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "45 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "12 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorHeat.png",
+    "description": "A FurArmor produced in hot regions.\r\nCan withstand some heat.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "5400"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "540"
+      },
+      {
+        "name": "HP",
+        "value": "210"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "67"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "67 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "18 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmorHeat.png",
+    "description": "A FurArmor produced in hot regions.\r\nCan withstand some heat.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "6600"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "660"
+      },
+      {
+        "name": "HP",
+        "value": "224"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "72"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "27 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmor.png",
+    "description": "Armor made from Leather.\r\nIts warmth and defense have been improved.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "468"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "400"
+      },
+      {
+        "name": "HP",
+        "value": "182"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "3 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmor.png",
+    "description": "Armor made from Leather.\r\nIts warmth and defense have been improved.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "540"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "500"
+      },
+      {
+        "name": "HP",
+        "value": "196"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "49"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmor.png",
+    "description": "Armor made from Leather.\r\nIts warmth and defense have been improved.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "612"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "600"
+      },
+      {
+        "name": "HP",
+        "value": "210"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "52"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "45 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "7 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pelt Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurArmor.png",
+    "description": "Armor made from Leather.\r\nIts warmth and defense have been improved.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "684"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "700"
+      },
+      {
+        "name": "HP",
+        "value": "224"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "56"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "67 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "13 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Feathered Hair Band",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurHelmet.png",
+    "description": "A beautiful feathered headband.\r\nThough improbable, it somehow seems to protect its wearer from lethal head injuries.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "200"
+      },
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "15"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Feathered Hair Band",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurHelmet.png",
+    "description": "A beautiful feathered headband.\r\nThough improbable, it somehow seems to protect its wearer from lethal head injuries.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "234"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "260"
+      },
+      {
+        "name": "HP",
+        "value": "78"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "19"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "3 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Feathered Hair Band",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurHelmet.png",
+    "description": "A beautiful feathered headband.\r\nThough improbable, it somehow seems to protect its wearer from lethal head injuries.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "84"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "21"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "15 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Feathered Hair Band",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurHelmet.png",
+    "description": "A beautiful feathered headband.\r\nThough improbable, it somehow seems to protect its wearer from lethal head injuries.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "306"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "340"
+      },
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "22"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "45 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "22 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "7 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Feathered Hair Band",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_FurHelmet.png",
+    "description": "A beautiful feathered headband.\r\nThough improbable, it somehow seems to protect its wearer from lethal head injuries.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "342"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "380"
+      },
+      {
+        "name": "HP",
+        "value": "96"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "24"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "67 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "33 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "13 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Gas Mask",
+    "type": "Accessory",
+    "image": "/images/items/Tex_clothes_18.png",
+    "description": "Gas Mask",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grilled Lamball",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_GenghisKhan.png",
+    "description": "Marinated mutton slow cooked over a grill.\r\nEat to slightly increase work speed\r\nand make SAN decrease slightly slower for a period of time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1470"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "18"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "147"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Lamball Mutton",
+        "image": "/images/items/T_itemicon_Food_Meat_SheepBall.png"
+      },
+      {
+        "name": "2 Lettuce",
+        "image": "/images/items/T_itemicon_Food_Lettuce.png"
+      }
+    ]
+  },
+  {
+    "name": "Mega Glider",
+    "type": "Glider",
+    "image": "/images/items/T_itemicon_Glider_Glider_Good.png",
+    "description": "A glider for soaring through the air.\r\nA mass produced commercial model, it’s decently fast.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Bone",
+        "image": "/images/items/T_itemicon_Material_Bone.png"
+      },
+      {
+        "name": "20 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Hyper Glider",
+    "type": "Glider",
+    "image": "/images/items/T_itemicon_Glider_Glider_Legendary.png",
+    "description": "A glider for soaring through the air.\r\nAlmost fast enough to keep up with airplanes.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "45200"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Normal Parachute",
+    "type": "Glider",
+    "image": "/images/items/T_itemicon_Glider_Glider_Old.png",
+    "description": "A glider for soaring through the air.\r\nSimply made, it isn't very fast.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1200"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Giga Glider",
+    "type": "Glider",
+    "image": "/images/items/T_itemicon_Glider_Glider_Super.png",
+    "description": "A glider for soaring through the air.\r\nWith its capabilities improved, it can soar at high speeds.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "13200"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "10 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Grape",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Grape.png",
+    "description": "Grape",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "40"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grappling Gun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_GrapplingGun.png",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target.\r\nIt allows for easy movement between places with varying elevation.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "1 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Mega Grappling Gun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_GrapplingGun.png",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target.\r\nSince it's upgraded, it now has greater range.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Durability",
+        "value": "250"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Giga Grappling Gun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_GrapplingGun.png",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target.\r\nUsing data from prototype versions, its capabilities have been further increased.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Durability",
+        "value": "350"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "80 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Hyper Grappling Gun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_GrapplingGun.png",
+    "description": "It fires a hook that latches on to distant targets, pulling the user's body towards the target.\r\nAs a result of research, it has achieved overwhelming mobility.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Durability",
+        "value": "450"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "20 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "15 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Grilled Fish",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_GrilledFish.png",
+    "description": "Grilled Fish",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "75"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grilled Meat",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_GrilledMeat.png",
+    "description": "Grilled meat.\r\nA full stomach leads to smiling faces.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "3"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "45"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Herb Roasted Lamball",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_GrilledSheepHerbs.png",
+    "description": "Indulges in an abundance of fresh berries\r\nto create a tantalizing aroma that accentuates the unique flavor of mutton.\r\nEat to increase COMMON_STATUS_DEFENCE by +10% for a period of time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "940"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "12"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "94"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Lamball Mutton",
+        "image": "/images/items/T_itemicon_Food_Meat_SheepBall.png"
+      },
+      {
+        "name": "2 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      }
+    ]
+  },
+  {
+    "name": "Gunpowder",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Gunpowder.png",
+    "description": "Gunpowder",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Gunpowder",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Gunpowder2.png",
+    "description": "Gunpowder2 used to fire ammunition.\r\nRequired to make bullets.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "220"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Charcoal",
+        "image": "/images/items/T_itemicon_Material_Charcoal.png"
+      },
+      {
+        "name": "1 Sulfur",
+        "image": "/images/items/T_itemicon_Material_Sulfur.png"
+      }
+    ]
+  },
+  {
+    "name": "Hamburger",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Hamburger.png",
+    "description": "A dish where a hamburger, Lettuce the Tomato are contained in the Pan. When eaten, it boosts one's stomach fullness and COMMON_STATUS_RANGE_ATTACK by +10% for a while.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "3250"
+      },
+      {
+        "name": "Weight",
+        "value": "0.3"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "22"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "316"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Mozzarina Hamburger",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Hamburger_2.png",
+    "description": "The rich flavor of beef melds with the sweetness of the buns in perfect harmony in this masterpiece.\r\nEat to increase work speed\r\nand make SAN decrease slightly slower for a period of time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1620"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "20"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "162"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Mozzarina Meat",
+        "image": "/images/items/T_itemicon_Food_Meat_CowPal.png"
+      },
+      {
+        "name": "1 Flour",
+        "image": "/images/items/T_itemicon_Material_Flour.png"
+      },
+      {
+        "name": "2 Lettuce",
+        "image": "/images/items/T_itemicon_Food_Lettuce.png"
+      }
+    ]
+  },
+  {
+    "name": "Handgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_HandGun_Default.png",
+    "description": "Pistol with improved capacity and rapid-fire capabilities.\r\nHas more immediate firepower than a MakeshiftHandgun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "33000"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "400"
+      },
+      {
+        "name": "Magazine",
+        "value": "8"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "250"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "15 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      }
+    ]
+  },
+  {
+    "name": "Handgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_HandGun_Default.png",
+    "description": "Pistol with improved capacity and rapid-fire capabilities.\r\nHas more immediate firepower than a MakeshiftHandgun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "33000"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "600"
+      },
+      {
+        "name": "Magazine",
+        "value": "10"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "437"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "3 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Handgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_HandGun_Default.png",
+    "description": "Pistol with improved capacity and rapid-fire capabilities.\r\nHas more immediate firepower than a MakeshiftHandgun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "33000"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "800"
+      },
+      {
+        "name": "Magazine",
+        "value": "12"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "500"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "150 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "45 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Handgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_HandGun_Default.png",
+    "description": "Pistol with improved capacity and rapid-fire capabilities.\r\nHas more immediate firepower than a MakeshiftHandgun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "33000"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "1000"
+      },
+      {
+        "name": "Magazine",
+        "value": "14"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "562"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "225 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "67 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "7 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Handgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_HandGun_Default.png",
+    "description": "Pistol with improved capacity and rapid-fire capabilities.\r\nHas more immediate firepower than a MakeshiftHandgun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "33000"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "1200"
+      },
+      {
+        "name": "Magazine",
+        "value": "16"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "625"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "337 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "100 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Handgun Ammo",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_HandgunBullet.png",
+    "description": "Bullets used in items like HandGun_Default.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "120"
+      },
+      {
+        "name": "Weight",
+        "value": "0.025"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Gunpowder",
+        "image": "/images/items/T_itemicon_Material_Gunpowder2.png"
+      }
+    ]
+  },
+  {
+    "name": "Monarch's Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head001.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "7"
+      },
+      {
+        "name": "Durability",
+        "value": "350"
+      },
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "30"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Monarch's Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head001.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "7"
+      },
+      {
+        "name": "Durability",
+        "value": "420"
+      },
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "4 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Monarch's Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head001.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "7"
+      },
+      {
+        "name": "Durability",
+        "value": "525"
+      },
+      {
+        "name": "HP",
+        "value": "180"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "67"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "45 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "6 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Monarch's Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head001.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "7"
+      },
+      {
+        "name": "Durability",
+        "value": "630"
+      },
+      {
+        "name": "HP",
+        "value": "240"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "90"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "67 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "9 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Monarch's Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head001.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "7"
+      },
+      {
+        "name": "Durability",
+        "value": "770"
+      },
+      {
+        "name": "HP",
+        "value": "320"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "120"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "13 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Golden Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head002.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "30"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Golden Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head002.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "360"
+      },
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "37 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Golden Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head002.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "450"
+      },
+      {
+        "name": "HP",
+        "value": "180"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "67"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "55 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Golden Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head002.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "540"
+      },
+      {
+        "name": "HP",
+        "value": "240"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "90"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "82 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Golden Crown",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head002.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "660"
+      },
+      {
+        "name": "HP",
+        "value": "320"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "120"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "123 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Long-eared Headband",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head003.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      },
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "20"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Long-eared Headband",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head003.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Durability",
+        "value": "180"
+      },
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "30"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "18 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Long-eared Headband",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head003.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Durability",
+        "value": "225"
+      },
+      {
+        "name": "HP",
+        "value": "135"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "27 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "4 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Long-eared Headband",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head003.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Durability",
+        "value": "270"
+      },
+      {
+        "name": "HP",
+        "value": "180"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "60"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "40 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "6 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Long-eared Headband",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head003.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Durability",
+        "value": "330"
+      },
+      {
+        "name": "HP",
+        "value": "240"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "80"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "9 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Witch Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head004.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "200"
+      },
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "20"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Witch Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head004.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "240"
+      },
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "30"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "4 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Witch Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head004.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "135"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "22 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "6 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Witch Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head004.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "360"
+      },
+      {
+        "name": "HP",
+        "value": "180"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "60"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "33 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "9 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Witch Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head004.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "440"
+      },
+      {
+        "name": "HP",
+        "value": "240"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "80"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "49 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "13 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Soft Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head005.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "180"
+      },
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Soft Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head005.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "216"
+      },
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "37"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "15 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Soft Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head005.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "270"
+      },
+      {
+        "name": "HP",
+        "value": "157"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "56"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "22 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "22 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Soft Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head005.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "324"
+      },
+      {
+        "name": "HP",
+        "value": "210"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "75"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "33 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "33 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Soft Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head005.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "396"
+      },
+      {
+        "name": "HP",
+        "value": "280"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "100"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "49 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "49 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Helmet",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head006.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "400"
+      },
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "30"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Helmet",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head006.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "480"
+      },
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "7 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Helmet",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head006.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "600"
+      },
+      {
+        "name": "HP",
+        "value": "180"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "67"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "45 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Helmet",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head006.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "720"
+      },
+      {
+        "name": "HP",
+        "value": "240"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "90"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "67 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "15 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Helmet",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head006.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "8"
+      },
+      {
+        "name": "Durability",
+        "value": "880"
+      },
+      {
+        "name": "HP",
+        "value": "320"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "120"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "22 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Silk Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head007.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "200"
+      },
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Silk Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head007.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "240"
+      },
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "37"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "22 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Silk Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head007.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "157"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "56"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "33 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Silk Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head007.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "360"
+      },
+      {
+        "name": "HP",
+        "value": "210"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "75"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "49 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Silk Hat",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head007.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "4"
+      },
+      {
+        "name": "Durability",
+        "value": "440"
+      },
+      {
+        "name": "HP",
+        "value": "280"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "100"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "73 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Tricorne",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head008.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "250"
+      },
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tricorne",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head008.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "37"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Tricorne",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head008.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "375"
+      },
+      {
+        "name": "HP",
+        "value": "157"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "56"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "22 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Tricorne",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head008.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "450"
+      },
+      {
+        "name": "HP",
+        "value": "210"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "75"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "33 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Tricorne",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head008.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "550"
+      },
+      {
+        "name": "HP",
+        "value": "280"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "100"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "49 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Explorer Cap",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head009.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "180"
+      },
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Explorer Cap",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head009.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "216"
+      },
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "37"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "4 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Explorer Cap",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head009.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "270"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "270"
+      },
+      {
+        "name": "HP",
+        "value": "157"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "56"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "22 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "6 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "4 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "6 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Explorer Cap",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head009.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "324"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "324"
+      },
+      {
+        "name": "HP",
+        "value": "210"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "75"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "33 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "9 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "6 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Explorer Cap",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head009.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "396"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "396"
+      },
+      {
+        "name": "HP",
+        "value": "280"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "100"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "49 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "13 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "9 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "14 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Graduation cap",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head010.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "180"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "200"
+      },
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "30"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Graduation cap",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Head010.png",
+    "description": "",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "216"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "240"
+      },
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "45"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "15 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  }
+]

@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":113},["Reactive",2],{"DT9uqqml2i":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":22,"CraftSpeed":22,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":23,"FoodAmount":12,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":18,"Edible":6,"Stamina":22,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":35,"WorkSuitability_Watering":35,"WorkSuitability_Seeding":35,"WorkSuitability_GenerateElectricity":23,"WorkSuitability_Handcraft":23,"WorkSuitability_Collection":35,"WorkSuitability_Deforest":35,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":35,"WorkSuitability_ProductMedicine":35,"WorkSuitability_Cool":35,"WorkSuitability_Transport":23,"WorkSuitability_MonsterFarm":35,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":41,"Drops":42,"ActiveSkills":47,"PassiveSkills":111,"Description":112},"Dazzi","None",true,"EPalTribeID::RaijinDaughter","RaijinDaughter",62,"","EPalSizeType::XS",2,"EPalElementType::Electricity","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,70,110,80,100,1,1390,"Escape_to_Battle",120,200,400,550,300,"EPalBattleBGMType::Cute",150,25,90,0,20,1210,"Lady of Lightning","While in team, appears near the player.\r\nFollows up player attacks with lightning bolts.",[],"Born of the Storm",[43],{"max":23,"min":23,"rate":22,"name":44,"descr":45,"icon":46},"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",[48,60,70,81,90,97,103],{"WazaType":49,"Element":50,"IgnoreRandomInherit":18,"Category":51,"Power":33,"IsLeanBack":18,"CameraShake":52,"MinRange":53,"MaxRange":54,"CoolTime":12,"ForceRagdollSize":55,"EffectType1":56,"EffectValue1":35,"EffectValueEx1":35,"EffectType2":56,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":57,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":58,"WazaDesc":59},"EPalWazaID::AirCanon","EPalElementType::Normal","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":61,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":62,"IsLeanBack":18,"CameraShake":52,"MinRange":35,"MaxRange":30,"CoolTime":63,"ForceRagdollSize":55,"EffectType1":64,"EffectValue1":65,"EffectValueEx1":35,"EffectType2":56,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":66,"bIsWeaponDamage":18,"DisabledData":18,"Level":67,"WazaName":68,"WazaDesc":69},"EPalWazaID::ElecWave",40,4,"EPalAdditionalEffectType::Electrical",103,[],7,"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":71,"Element":72,"IgnoreRandomInherit":18,"Category":51,"Power":21,"IsLeanBack":18,"CameraShake":73,"MinRange":22,"MaxRange":74,"CoolTime":75,"ForceRagdollSize":55,"EffectType1":76,"EffectValue1":22,"EffectValueEx1":35,"EffectType2":56,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":77,"bIsWeaponDamage":18,"DisabledData":18,"Level":78,"WazaName":79,"WazaDesc":80},"EPalWazaID::AcidRain","EPalElementType::Water","EPalPlayerDamageCameraShakeCategory::Waza_M",1000,18,"EPalAdditionalEffectType::Wetness",[],15,"Acid Rain","Creates acidic clouds that\r\npour down acid rain on enemies.",{"WazaType":82,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":83,"IsLeanBack":18,"CameraShake":73,"MinRange":53,"MaxRange":84,"CoolTime":85,"ForceRagdollSize":55,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":35,"EffectType2":56,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::LineThunder",75,2000,16,[],22,"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":91,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":34,"IsLeanBack":18,"CameraShake":73,"MinRange":35,"MaxRange":92,"CoolTime":87,"ForceRagdollSize":55,"EffectType1":64,"EffectValue1":65,"EffectValueEx1":35,"EffectType2":56,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":93,"bIsWeaponDamage":18,"DisabledData":18,"Level":94,"WazaName":95,"WazaDesc":96},"EPalWazaID::ThreeThunder",9999,[],30,"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":98,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":26,"IsLeanBack":18,"CameraShake":99,"MinRange":35,"MaxRange":53,"CoolTime":62,"ForceRagdollSize":55,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":35,"EffectType2":56,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":100,"bIsWeaponDamage":18,"DisabledData":18,"Level":62,"WazaName":101,"WazaDesc":102},"EPalWazaID::LightningStrike","EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Lightning Strike","Acts as a lightning rod, calling down thunderbolts\r\nthat electrocute the surrounding area.",{"WazaType":104,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":32,"IsLeanBack":18,"CameraShake":99,"MinRange":53,"MaxRange":105,"CoolTime":106,"ForceRagdollSize":55,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":35,"EffectType2":56,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":108,"WazaName":109,"WazaDesc":110},"EPalWazaID::Thunderbolt",3000,55,[],50,"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"Often kind to lonely pals.\r\nHowever, the moment a Pal mistakes this for actual companionship,\r\nit seizes the opportunity to blast them with a thunderbolt.",1706864126727]
+{
+  "name": "Dazzi",
+  "title": "Born of the Storm",
+  "image": "/images/full_palicon/T_RaijinDaughter_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "2",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "Often kind to lonely pals.\nHowever, the moment a Pal mistakes this for actual companionship,\nit seizes the opportunity to blast them with a thunderbolt.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "70"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "110"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "80"
+    },
+    {
+      "name": "Price",
+      "value": "1390"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "400"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "120"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Lady of Lightning",
+    "description": "While in team, appears near the player.\nFollows up player attacks with lightning bolts."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Shockwave",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Acid Rain",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 1000",
+      "description": "Creates acidic clouds that\npour down acid rain on enemies."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Lightning Strike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "0 - 500",
+      "description": "Acts as a lightning rod, calling down thunderbolts\nthat electrocute the surrounding area."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "dazzi"
+}

@@ -1,1 +1,257 @@
-[{"data":1,"prerenderedAt":133},["Reactive",2],{"FdtvHYUMSt":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":19,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":21,"CaptureRateCorrect":21,"ExpRatio":21,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":24,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":29,"FullStomachDecreaseRate":21,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":21,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":6,"Edible":6,"Stamina":19,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":39,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":40,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":41,"PartnerSkillDesc":42,"Combinations":43,"PrefixName":56,"Drops":57,"ActiveSkills":62,"PassiveSkills":123,"Description":132},"Orserk","None",true,"EPalTribeID::ThunderDragonMan","ThunderDragonMan",106,"","EPalSizeType::L",9,"EPalElementType::Dragon","EPalElementType::Electricity","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,100,130,1,8320,"Warlike",185,900,1200,250,"EPalBattleBGMType::Strong",475,7,25,90,5,50,140,0,4,2,3,"ElementBoost_Thunder_2_PAL","Ferocious Thunder Dragon","While fighting together, \u003CuiCommon id=|COMMON_ELEMENT_NAME_Water|/> Pals drop more items when defeated.",[44,52],{"ParentTribeA":45,"ParentTribeB":48,"ChildCharacterID":51},{"name":46,"BPClass":47},"Grizzbolt","ElecPanda",{"name":49,"BPClass":50},"Relaxaurus","LazyDragon",{"name":4,"BPClass":8},{"ParentTribeA":53,"ParentTribeB":54,"ChildCharacterID":55},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Roaring Thunder",[58],{"max":38,"min":21,"rate":19,"name":59,"descr":60,"icon":61},"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",[63,75,83,91,101,109,115],{"WazaType":64,"Element":14,"IgnoreRandomInherit":6,"Category":65,"Power":19,"IsLeanBack":18,"CameraShake":66,"MinRange":36,"MaxRange":67,"CoolTime":68,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":72,"bIsWeaponDamage":18,"DisabledData":18,"Level":21,"WazaName":73,"WazaDesc":74},"EPalWazaID::Unique_ThunderDragonMan_ThunderSwordAttack","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,30,"EPalSizeType::None","EPalAdditionalEffectType::Electrical","EPalAdditionalEffectType::None",[],"Kerauno","\u003CcharacterName id=|ThunderDragonMan|/>'s exclusive skill.\r\nSummons a blade of lightning while leaping into the air\r\nbefore throwing it at an enemy.",{"WazaType":76,"Element":14,"IgnoreRandomInherit":18,"Category":65,"Power":77,"IsLeanBack":18,"CameraShake":66,"MinRange":36,"MaxRange":78,"CoolTime":79,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":80,"bIsWeaponDamage":18,"DisabledData":18,"Level":30,"WazaName":81,"WazaDesc":82},"EPalWazaID::LightningStrike",120,500,40,[],"Lightning Strike","Acts as a lightning rod, calling down thunderbolts\r\nthat electrocute the surrounding area.",{"WazaType":84,"Element":14,"IgnoreRandomInherit":18,"Category":65,"Power":68,"IsLeanBack":18,"CameraShake":85,"MinRange":78,"MaxRange":86,"CoolTime":38,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":87,"bIsWeaponDamage":18,"DisabledData":18,"Level":88,"WazaName":89,"WazaDesc":90},"EPalWazaID::SpreadPulse","EPalPlayerDamageCameraShakeCategory::Waza_S",5000,[],15,"Spark Blast","The user releases a lightning ball\r\nthat expands outward in a forward, circular pattern.",{"WazaType":92,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":93,"IsLeanBack":18,"CameraShake":94,"MinRange":78,"MaxRange":95,"CoolTime":88,"ForceRagdollSize":69,"EffectType1":96,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::DragonBreath",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",1500,"EPalAdditionalEffectType::Burn",[],22,"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":102,"Element":14,"IgnoreRandomInherit":18,"Category":65,"Power":103,"IsLeanBack":18,"CameraShake":94,"MinRange":78,"MaxRange":104,"CoolTime":105,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":68,"WazaName":107,"WazaDesc":108},"EPalWazaID::LineThunder",75,2000,16,[],"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":110,"Element":14,"IgnoreRandomInherit":18,"Category":65,"Power":32,"IsLeanBack":18,"CameraShake":94,"MinRange":36,"MaxRange":67,"CoolTime":98,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":111,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":79,"WazaName":113,"WazaDesc":114},"EPalWazaID::ThreeThunder",103,[],"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":116,"Element":14,"IgnoreRandomInherit":18,"Category":65,"Power":117,"IsLeanBack":18,"CameraShake":66,"MinRange":78,"MaxRange":118,"CoolTime":119,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":120,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":121,"WazaDesc":122},"EPalWazaID::Thunderbolt",150,3000,55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[124],{"Rank":39,"OverrideDescMsgID":125,"EffectType1":126,"EffectValue1":127,"TargetType1":128,"EffectType2":129,"EffectValue2":36,"TargetType2":128,"EffectType3":129,"EffectValue3":36,"TargetType3":128,"InvokeActiveOtomo":18,"InvokeWorker":18,"InvokeRiding":18,"InvokeReserve":18,"InvokeInOtomo":18,"InvokeAlways":6,"AddPal":18,"AddRarePal":18,"AddShotWeapon":18,"AddMeleeWeapon":18,"AddArmor":18,"AddAccessory":18,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":130,"Name":131},"PASSIVE_ElementBoost_Thunder_1_PAL","EPalPassiveSkillEffectType::ElementBoost_Electricity",20,"EPalPassiveSkillEffectTargetType::ToSelf","EPalPassiveSkillEffectType::no","{EffectValue1}% increase to Lightning attack damage.","Lord of Lightning","It sends electricity into its foes' wounds, roasting them from the inside out.\r\nFights between \u003CcharacterName id=|ThunderDragonMan|/>\r\nend in the blink of an eye.",1706864130344]
+{
+  "name": "Orserk",
+  "title": "Roaring Thunder",
+  "image": "/images/full_palicon/T_ThunderDragonMan_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "9",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Dragon",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "className": "elm3"
+    },
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "It sends electricity into its foes' wounds, roasting them from the inside out.\nFights between ThunderDragonMan\nend in the blink of an eye.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "1 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "130"
+    },
+    {
+      "name": "Price",
+      "value": "8320"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "900"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1200"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Grizzbolt",
+        "image": "/images/palicon/T_ElecPanda_icon_normal.png"
+      },
+      "female": {
+        "name": "Relaxaurus",
+        "image": "/images/palicon/T_LazyDragon_icon_normal.png"
+      },
+      "result": {
+        "name": "Orserk",
+        "image": "/images/palicon/T_ThunderDragonMan_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Orserk",
+        "image": "/images/palicon/T_ThunderDragonMan_icon_normal.png"
+      },
+      "female": {
+        "name": "Orserk",
+        "image": "/images/palicon/T_ThunderDragonMan_icon_normal.png"
+      },
+      "result": {
+        "name": "Orserk",
+        "image": "/images/palicon/T_ThunderDragonMan_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "4",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Ferocious Thunder Dragon",
+    "description": "While fighting together, COMMON_ELEMENT_NAME_Water Pals drop more items when defeated."
+  },
+  "activeSkills": [
+    {
+      "name": "Kerauno",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "0 - 9999",
+      "description": "ThunderDragonMan's exclusive skill.\nSummons a blade of lightning while leaping into the air\nbefore throwing it at an enemy."
+    },
+    {
+      "name": "Lightning Strike",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "0 - 500",
+      "description": "Acts as a lightning rod, calling down thunderbolts\nthat electrocute the surrounding area."
+    },
+    {
+      "name": "Spark Blast",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "The user releases a lightning ball\nthat expands outward in a forward, circular pattern."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "orserk"
+}

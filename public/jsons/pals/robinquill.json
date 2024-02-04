@@ -1,1 +1,244 @@
-[{"data":1,"prerenderedAt":127},["Reactive",2],{"G871ZDfVFq":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":20,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":23,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":19,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":31,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":33,"CombiRank":34,"WorkSuitability_EmitFlame":35,"WorkSuitability_Watering":35,"WorkSuitability_Seeding":23,"WorkSuitability_GenerateElectricity":35,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":23,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":35,"WorkSuitability_ProductMedicine":23,"WorkSuitability_Cool":35,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":35,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":37,"PartnerSkillDesc":38,"Combinations":39,"PrefixName":48,"Drops":49,"ActiveSkills":59,"PassiveSkills":125,"Description":126},"Robinquill","None",true,"EPalTribeID::RobinHood","RobinHood",48,"","EPalSizeType::M",5,"EPalElementType::Leaf","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,90,100,105,80,1,2050,"Warlike",600,750,400,"EPalBattleBGMType::Cool",225,3,25,50,1020,0,2,"Hawk Eye","While fighting together,\r\nallows you to deal more damage to weak points.",[40],{"ParentTribeA":41,"ParentTribeB":42,"ChildCharacterID":45},{"name":4,"BPClass":8},{"name":43,"BPClass":44},"Fuddler","CuteMole",{"name":46,"BPClass":47},"Robinquill Terra","RobinHood_Ground","Archer of the Forest",[50,54],{"max":36,"min":23,"rate":33,"name":51,"descr":52,"icon":53},"Wheat Seeds","Seeds that produce \u003CitemName id=|Wheat|/>.\r\nNecessary for starting a farm.\r\nCan be purchased from a merchant.","T_itemicon_Material_WheatSeeds",{"max":55,"min":36,"rate":20,"name":56,"descr":57,"icon":58},4,"Arrow","An \u003CitemName id=|Arrow|/> for use with a bow.","T_itemicon_Ammo_Arrow",[60,74,82,92,101,108,116],{"WazaType":61,"Element":13,"IgnoreRandomInherit":18,"Category":62,"Power":63,"IsLeanBack":18,"CameraShake":64,"MinRange":65,"MaxRange":66,"CoolTime":36,"ForceRagdollSize":67,"EffectType1":68,"EffectValue1":69,"EffectValueEx1":35,"EffectType2":70,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":71,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":72,"WazaDesc":73},"EPalWazaID::WindCutter","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::IvyCling",35,"EPalAdditionalEffectType::None",[],"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":75,"Element":76,"IgnoreRandomInherit":18,"Category":62,"Power":69,"IsLeanBack":18,"CameraShake":64,"MinRange":26,"MaxRange":77,"CoolTime":55,"ForceRagdollSize":67,"EffectType1":70,"EffectValue1":35,"EffectValueEx1":35,"EffectType2":70,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":79,"WazaName":80,"WazaDesc":81},"EPalWazaID::PowerShot","EPalElementType::Normal",3000,[],7,"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":83,"Element":13,"IgnoreRandomInherit":6,"Category":62,"Power":84,"IsLeanBack":18,"CameraShake":85,"MinRange":86,"MaxRange":66,"CoolTime":87,"ForceRagdollSize":67,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":70,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":88,"bIsWeaponDamage":18,"DisabledData":18,"Level":89,"WazaName":90,"WazaDesc":91},"EPalWazaID::Unique_RobinHood_BowSnipe",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",1000,9,[],15,"Focus Shot","Robinquill's exclusive skill.\r\nTakes aim while drawing its bow\r\nbefore loosing a powerful shot at an enemy.",{"WazaType":93,"Element":13,"IgnoreRandomInherit":18,"Category":62,"Power":84,"IsLeanBack":18,"CameraShake":85,"MinRange":94,"MaxRange":95,"CoolTime":96,"ForceRagdollSize":67,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":70,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::SeedMine",800,9999,13,[],22,"Seed Mine","Launches a deadly seed.\r\nIf it hits an enemy, the seed explodes.",{"WazaType":102,"Element":13,"IgnoreRandomInherit":18,"Category":62,"Power":22,"IsLeanBack":18,"CameraShake":85,"MinRange":103,"MaxRange":77,"CoolTime":104,"ForceRagdollSize":67,"EffectType1":68,"EffectValue1":84,"EffectValueEx1":35,"EffectType2":70,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":105,"bIsWeaponDamage":18,"DisabledData":18,"Level":63,"WazaName":106,"WazaDesc":107},"EPalWazaID::GrassTornado",700,18,[],"Grass Tornado","Generates two tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":109,"Element":13,"IgnoreRandomInherit":18,"Category":62,"Power":110,"IsLeanBack":18,"CameraShake":85,"MinRange":65,"MaxRange":95,"CoolTime":32,"ForceRagdollSize":111,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":70,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":113,"WazaName":114,"WazaDesc":115},"EPalWazaID::RootAttack",95,"EPalSizeType::S",[],40,"Spine Vine","Generates spiny thorns that chase an enemy\r\nalong the ground, piercing them from below.",{"WazaType":117,"Element":13,"IgnoreRandomInherit":18,"Category":62,"Power":118,"IsLeanBack":18,"CameraShake":119,"MinRange":65,"MaxRange":120,"CoolTime":121,"ForceRagdollSize":67,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":70,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":122,"bIsWeaponDamage":18,"DisabledData":18,"Level":33,"WazaName":123,"WazaDesc":124},"EPalWazaID::SolarBeam",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",1800,55,[],"Solar Blast","Charges solar energy before\r\nblasting enemies with a powerful beam.",[],"A pal that is very similar to humans who hunt and live in the forests.\r\nIt may prove to be a key for understanding what Pals are\r\nand how they diverged from humans so long ago.",1706864127382]
+{
+  "name": "Robinquill",
+  "title": "Archer of the Forest",
+  "image": "/images/full_palicon/T_RobinHood_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "5",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Leaf",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "className": "elm5"
+    }
+  ],
+  "description": "A pal that is very similar to humans who hunt and live in the forests.\nIt may prove to be a key for understanding what Pals are\nand how they diverged from humans so long ago.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_WheatSeeds.png",
+      "name": "Wheat Seeds",
+      "amount": "1 - 2",
+      "rate": "50%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Ammo_Arrow.png",
+      "name": "Arrow",
+      "amount": "2 - 4",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "2050"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "600"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "750"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Robinquill",
+        "image": "/images/palicon/T_RobinHood_icon_normal.png"
+      },
+      "female": {
+        "name": "Fuddler",
+        "image": "/images/palicon/T_CuteMole_icon_normal.png"
+      },
+      "result": {
+        "name": "Robinquill Terra",
+        "image": "/images/palicon/T_RobinHood_Ground_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Hawk Eye",
+    "description": "While fighting together,\nallows you to deal more damage to weak points."
+  },
+  "activeSkills": [
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Power Shot",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Focus Shot",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "65",
+      "coolDown": "9",
+      "range": "1000 - 5000",
+      "description": "Robinquill's exclusive skill.\nTakes aim while drawing its bow\nbefore loosing a powerful shot at an enemy."
+    },
+    {
+      "name": "Seed Mine",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "800 - 9999",
+      "description": "Launches a deadly seed.\nIf it hits an enemy, the seed explodes."
+    },
+    {
+      "name": "Grass Tornado",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Spine Vine",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "95",
+      "coolDown": "25",
+      "range": "500 - 9999",
+      "description": "Generates spiny thorns that chase an enemy\nalong the ground, piercing them from below."
+    },
+    {
+      "name": "Solar Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges solar energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "robinquill"
+}

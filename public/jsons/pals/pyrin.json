@@ -1,1 +1,244 @@
-[{"data":1,"prerenderedAt":127},["Reactive",2],{"fJao85BQYN":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":22,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":32,"Predator":18,"Edible":6,"Stamina":19,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":23,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":37,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":49,"Drops":50,"ActiveSkills":61,"PassiveSkills":125,"Description":126},"Pyrin","None",true,"EPalTribeID::FireKirin","FireKirin",58,"","EPalSizeType::L",6,"EPalElementType::Fire","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,100,110,95,90,1,6720,"Warlike",150,850,1300,500,"EPalBattleBGMType::Cool",350,5,25,50,360,2,0,"Red Hare","Can be ridden.\r\nApplies \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> damage\r\nto the player's attacks while mounted.",[41],{"ParentTribeA":42,"ParentTribeB":43,"ChildCharacterID":46},{"name":4,"BPClass":8},{"name":44,"BPClass":45},"Katress","CatMage",{"name":47,"BPClass":48},"Pyrin Noct","FireKirin_Dark","Steed of Flames",[51,56],{"max":32,"min":52,"rate":19,"name":53,"descr":54,"icon":55},4,"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",{"max":57,"min":36,"rate":19,"name":58,"descr":59,"icon":60},3,"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",[62,75,84,92,102,112,119],{"WazaType":63,"Element":64,"IgnoreRandomInherit":18,"Category":65,"Power":66,"IsLeanBack":18,"CameraShake":67,"MinRange":29,"MaxRange":68,"CoolTime":52,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":34,"EffectValueEx1":37,"EffectType2":71,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":72,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":73,"WazaDesc":74},"EPalWazaID::MudShot","EPalElementType::Earth","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",3000,"EPalSizeType::None","EPalAdditionalEffectType::Muddy","EPalAdditionalEffectType::None",[],"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":76,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":77,"IsLeanBack":18,"CameraShake":67,"MinRange":29,"MaxRange":78,"CoolTime":36,"ForceRagdollSize":69,"EffectType1":79,"EffectValue1":34,"EffectValueEx1":37,"EffectType2":71,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":80,"bIsWeaponDamage":18,"DisabledData":18,"Level":81,"WazaName":82,"WazaDesc":83},"EPalWazaID::FireBlast",30,5000,"EPalAdditionalEffectType::Burn",[],7,"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":85,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":86,"IsLeanBack":18,"CameraShake":67,"MinRange":87,"MaxRange":68,"CoolTime":81,"ForceRagdollSize":69,"EffectType1":79,"EffectValue1":19,"EffectValueEx1":37,"EffectType2":71,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":88,"bIsWeaponDamage":18,"DisabledData":18,"Level":89,"WazaName":90,"WazaDesc":91},"EPalWazaID::FireSeed",45,1000,[],15,"Spirit Fire","Shoots fireballs towards an enemy.\r\nThe fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",{"WazaType":93,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":94,"IsLeanBack":18,"CameraShake":95,"MinRange":29,"MaxRange":78,"CoolTime":96,"ForceRagdollSize":69,"EffectType1":79,"EffectValue1":97,"EffectValueEx1":37,"EffectType2":71,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":98,"bIsWeaponDamage":18,"DisabledData":18,"Level":99,"WazaName":100,"WazaDesc":101},"EPalWazaID::FlareArrow",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,103,[],22,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":103,"Element":13,"IgnoreRandomInherit":6,"Category":104,"Power":105,"IsLeanBack":18,"CameraShake":95,"MinRange":37,"MaxRange":106,"CoolTime":107,"ForceRagdollSize":108,"EffectType1":79,"EffectValue1":19,"EffectValueEx1":37,"EffectType2":71,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":109,"bIsWeaponDamage":18,"DisabledData":18,"Level":77,"WazaName":110,"WazaDesc":111},"EPalWazaID::Unique_FireKirin_Tackle","EPalWazaCategory::Melee",85,2500,14,"EPalSizeType::S",[],"Ignis Slam","\u003CcharacterName id=|FireKirin|/>'s exclusive skill.\r\nCharges forward while clad in a veil of flames.\r\nFlames continue to burn in its wake.",{"WazaType":113,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":114,"IsLeanBack":18,"CameraShake":115,"MinRange":19,"MaxRange":87,"CoolTime":66,"ForceRagdollSize":69,"EffectType1":79,"EffectValue1":19,"EffectValueEx1":37,"EffectType2":71,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":116,"bIsWeaponDamage":18,"DisabledData":18,"Level":66,"WazaName":117,"WazaDesc":118},"EPalWazaID::Inferno",120,"EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Ignis Rage","Energizes the surrounding ground,\r\ncausing it to explode after a set amount of time.",{"WazaType":120,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":26,"IsLeanBack":18,"CameraShake":115,"MinRange":29,"MaxRange":121,"CoolTime":94,"ForceRagdollSize":108,"EffectType1":79,"EffectValue1":19,"EffectValueEx1":37,"EffectType2":71,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":122,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":123,"WazaDesc":124},"EPalWazaID::FireBall",9999,[],"Fire Ball","Creates a giant ball of flame and hurls it at an enemy.\r\nThe ball explodes over a wide area upon impact.",[],"Its entire body has evolved into a highly efficient radiator,\r\ngifting it with astounding stamina.\r\nWhen someone has mounted it, this Pal takes caution not to burn them.",1706864117645]
+{
+  "name": "Pyrin",
+  "title": "Steed of Flames",
+  "image": "/images/full_palicon/T_FireKirin_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    }
+  ],
+  "description": "Its entire body has evolved into a highly efficient radiator,\ngifting it with astounding stamina.\nWhen someone has mounted it, this Pal takes caution not to burn them.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "4 - 5",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "110"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "95"
+    },
+    {
+      "name": "Price",
+      "value": "6720"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "850"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1300"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Pyrin",
+        "image": "/images/palicon/T_FireKirin_icon_normal.png"
+      },
+      "female": {
+        "name": "Katress",
+        "image": "/images/palicon/T_CatMage_icon_normal.png"
+      },
+      "result": {
+        "name": "Pyrin Noct",
+        "image": "/images/palicon/T_FireKirin_Dark_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Red Hare",
+    "description": "Can be ridden.\nApplies COMMON_ELEMENT_NAME_Fire damage\nto the player's attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Spirit Fire",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "45",
+      "coolDown": "7",
+      "range": "1000 - 3000",
+      "description": "Shoots fireballs towards an enemy.\nThe fireballs explode after a short distance,\ngenerating smaller fireballs that spread forward."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Ignis Slam",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "85",
+      "coolDown": "14",
+      "range": "0 - 2500",
+      "description": "FireKirin's exclusive skill.\nCharges forward while clad in a veil of flames.\nFlames continue to burn in its wake."
+    },
+    {
+      "name": "Ignis Rage",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "100 - 1000",
+      "description": "Energizes the surrounding ground,\ncausing it to explode after a set amount of time."
+    },
+    {
+      "name": "Fire Ball",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 9999",
+      "description": "Creates a giant ball of flame and hurls it at an enemy.\nThe ball explodes over a wide area upon impact."
+    }
+  ],
+  "uniqueName": "pyrin"
+}

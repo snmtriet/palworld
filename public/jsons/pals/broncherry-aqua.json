@@ -1,1 +1,263 @@
-[{"data":1,"prerenderedAt":132},["Reactive",2],{"IT3dkX8Rsy":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":19,"CraftSpeed":22,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":23,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":35,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":36,"Predator":18,"Edible":6,"Stamina":22,"MaleProbability":26,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":38,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":55,"Drops":56,"ActiveSkills":66,"PassiveSkills":130,"Description":131},"Broncherry Aqua","None",true,"EPalTribeID::SakuraSaurus_Water","SakuraSaurus_Water",86,"B","EPalSizeType::XL",8,"EPalElementType::Leaf","EPalElementType::Water","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,120,80,95,100,1,3110,"NotInterested",50,75,350,500,200,"EPalBattleBGMType::Cute",475,7,25,90,5,840,0,3,"Overaffectionate","Can be ridden.\r\nWhile in team, \u003CcharacterName id=|SakuraSaurus_Water|/> helps carry supplies,\r\nincreasing the player's max carrying capacity.",[43,51],{"ParentTribeA":44,"ParentTribeB":47,"ChildCharacterID":50},{"name":45,"BPClass":46},"Broncherry","SakuraSaurus",{"name":48,"BPClass":49},"Fuack","BluePlatypus",{"name":4,"BPClass":8},{"ParentTribeA":52,"ParentTribeB":53,"ChildCharacterID":54},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Waves of Summer",[57,62],{"max":58,"min":58,"rate":22,"name":59,"descr":60,"icon":61},2,"Broncherry Meat","\u003CcharacterName id=|SakuraSaurus|/> meat.\r\nGiant meat full of massive stores of energy.\r\nStuffed to the brim with nutrients gathered through photosynthesis.","T_itemicon_Food_Meat_SakuraSaurus",{"max":58,"min":23,"rate":26,"name":63,"descr":64,"icon":65},"Lettuce Seeds","Seeds that produce \u003CitemName id=|Lettuce|/>.\r\nNecessary for starting a farm.\r\nCan be purchased from a merchant.","T_itemicon_Material_LettuceSeeds",[67,80,90,101,110,116,122],{"WazaType":68,"Element":14,"IgnoreRandomInherit":18,"Category":69,"Power":70,"IsLeanBack":18,"CameraShake":71,"MinRange":29,"MaxRange":72,"CoolTime":73,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":26,"EffectValueEx1":38,"EffectType2":76,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":77,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":78,"WazaDesc":79},"EPalWazaID::WaterGun","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",5000,4,"EPalSizeType::None","EPalAdditionalEffectType::Wetness","EPalAdditionalEffectType::None",[],"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":81,"Element":14,"IgnoreRandomInherit":18,"Category":69,"Power":82,"IsLeanBack":18,"CameraShake":83,"MinRange":84,"MaxRange":85,"CoolTime":86,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":76,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":87,"bIsWeaponDamage":18,"DisabledData":18,"Level":33,"WazaName":88,"WazaDesc":89},"EPalWazaID::BubbleShot",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",1000,3500,13,[],"Bubble Blast","Fires numerous bubbles\r\nthat slowly pursue an enemy.",{"WazaType":91,"Element":92,"IgnoreRandomInherit":6,"Category":93,"Power":20,"IsLeanBack":18,"CameraShake":83,"MinRange":38,"MaxRange":94,"CoolTime":95,"ForceRagdollSize":96,"EffectType1":76,"EffectValue1":38,"EffectValueEx1":38,"EffectType2":76,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::Unique_SakuraSaurus_SideTackle","EPalElementType::Normal","EPalWazaCategory::Melee",400,12,"EPalSizeType::S",[],15,"Muscle Slam","Broncherry's exclusive skill.\r\nTurns sideways before tackling enemies in front of it,\r\nsending them flying into the air.",{"WazaType":102,"Element":13,"IgnoreRandomInherit":18,"Category":69,"Power":82,"IsLeanBack":18,"CameraShake":83,"MinRange":103,"MaxRange":104,"CoolTime":86,"ForceRagdollSize":74,"EffectType1":105,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":76,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":107,"WazaName":108,"WazaDesc":109},"EPalWazaID::SeedMine",800,9999,"EPalAdditionalEffectType::IvyCling",[],22,"Seed Mine","Launches a deadly seed.\r\nIf it hits an enemy, the seed explodes.",{"WazaType":111,"Element":13,"IgnoreRandomInherit":18,"Category":69,"Power":21,"IsLeanBack":18,"CameraShake":83,"MinRange":29,"MaxRange":104,"CoolTime":34,"ForceRagdollSize":96,"EffectType1":105,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":76,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":113,"WazaName":114,"WazaDesc":115},"EPalWazaID::RootAttack",[],30,"Spine Vine","Generates spiny thorns that chase an enemy\r\nalong the ground, piercing them from below.",{"WazaType":117,"Element":14,"IgnoreRandomInherit":18,"Category":69,"Power":22,"IsLeanBack":18,"CameraShake":118,"MinRange":84,"MaxRange":104,"CoolTime":113,"ForceRagdollSize":96,"EffectType1":75,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":76,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":119,"bIsWeaponDamage":18,"DisabledData":18,"Level":70,"WazaName":120,"WazaDesc":121},"EPalWazaID::WaterBall","EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Aqua Burst","Creates a giant ball of water\r\nand hurls it at an enemy.",{"WazaType":123,"Element":14,"IgnoreRandomInherit":18,"Category":69,"Power":124,"IsLeanBack":18,"CameraShake":118,"MinRange":29,"MaxRange":125,"CoolTime":126,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":76,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":127,"bIsWeaponDamage":18,"DisabledData":18,"Level":26,"WazaName":128,"WazaDesc":129},"EPalWazaID::HydroPump",150,1800,55,[],"Hydro Laser","Shoots pressurized water at extreme velocities,\r\nsweeping over a wide area in front of it.",[],"Its scent drastically changes before and after pairing.\r\nIt exudes a pleasing aroma before finding a partner,\r\nwhich is called the |perfume of purity.|",1706864128772]
+{
+  "name": "Broncherry Aqua",
+  "title": "Waves of Summer",
+  "image": "/images/full_palicon/T_SakuraSaurus_Water_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "8",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Leaf",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "className": "elm5"
+    },
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    }
+  ],
+  "description": "Its scent drastically changes before and after pairing.\nIt exudes a pleasing aroma before finding a partner,\nwhich is called the |perfume of purity.|",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_SakuraSaurus.png",
+      "name": "Broncherry Meat",
+      "amount": "2 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_LettuceSeeds.png",
+      "name": "Lettuce Seeds",
+      "amount": "1 - 2",
+      "rate": "50%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "120"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "80"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "95"
+    },
+    {
+      "name": "Price",
+      "value": "3110"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "120"
+    },
+    {
+      "name": "Running Speed",
+      "value": "350"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "500"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "50"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Broncherry",
+        "image": "/images/palicon/T_SakuraSaurus_icon_normal.png"
+      },
+      "female": {
+        "name": "Fuack",
+        "image": "/images/palicon/T_BluePlatypus_icon_normal.png"
+      },
+      "result": {
+        "name": "Broncherry Aqua",
+        "image": "/images/palicon/T_SakuraSaurus_Water_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Broncherry Aqua",
+        "image": "/images/palicon/T_SakuraSaurus_Water_icon_normal.png"
+      },
+      "female": {
+        "name": "Broncherry Aqua",
+        "image": "/images/palicon/T_SakuraSaurus_Water_icon_normal.png"
+      },
+      "result": {
+        "name": "Broncherry Aqua",
+        "image": "/images/palicon/T_SakuraSaurus_Water_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Overaffectionate",
+    "description": "Can be ridden.\nWhile in team, SakuraSaurus_Water helps carry supplies,\nincreasing the player's max carrying capacity."
+  },
+  "activeSkills": [
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Bubble Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "1000 - 3500",
+      "description": "Fires numerous bubbles\nthat slowly pursue an enemy."
+    },
+    {
+      "name": "Muscle Slam",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "80",
+      "coolDown": "12",
+      "range": "0 - 400",
+      "description": "Broncherry's exclusive skill.\nTurns sideways before tackling enemies in front of it,\nsending them flying into the air."
+    },
+    {
+      "name": "Seed Mine",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "800 - 9999",
+      "description": "Launches a deadly seed.\nIf it hits an enemy, the seed explodes."
+    },
+    {
+      "name": "Spine Vine",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "95",
+      "coolDown": "25",
+      "range": "500 - 9999",
+      "description": "Generates spiny thorns that chase an enemy\nalong the ground, piercing them from below."
+    },
+    {
+      "name": "Aqua Burst",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of water\nand hurls it at an enemy."
+    },
+    {
+      "name": "Hydro Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Shoots pressurized water at extreme velocities,\nsweeping over a wide area in front of it."
+    }
+  ],
+  "uniqueName": "broncherry-aqua"
+}

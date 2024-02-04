@@ -1,1 +1,229 @@
-[{"data":1,"prerenderedAt":119},["Reactive",2],{"61woRmqaWR":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":23,"CraftSpeed":23,"EnemyReceiveDamageRate":24,"CaptureRateCorrect":24,"ExpRatio":24,"Price":25,"AIResponse":26,"AISightResponse":5,"SlowWalkSpeed":23,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":24,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":35,"HearingRate":24,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":24,"Predator":6,"Edible":6,"Stamina":23,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":38,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":12,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":42,"Drops":43,"ActiveSkills":52,"PassiveSkills":117,"Description":118},"Galeclaw","None",true,"EPalTribeID::Eagle","Eagle",47,"","EPalSizeType::M",2,"EPalElementType::Normal","EPalElementType::None","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,75,120,85,60,100,1,2010,"Warlike",200,600,700,400,"EPalBattleBGMType::Cute",300,4,25,90,50,1030,0,"Galeclaw Rider","While in team, can be summoned and used instead of a glider.\r\nAllows you to fire a gun while gliding with this Pal.",[],"Proud Courier",[44,48],{"max":24,"min":24,"rate":23,"name":45,"descr":46,"icon":47},"Galeclaw Poultry","\u003CcharacterName id=|Eagle|/> meat.\r\nFull of nutrition, its flavor packs a punch.","T_itemicon_Food_Meat_Eagle",{"max":24,"min":24,"rate":23,"name":49,"descr":50,"icon":51},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",[53,64,74,84,95,103,108],{"WazaType":54,"Element":13,"IgnoreRandomInherit":6,"Category":55,"Power":22,"IsLeanBack":18,"CameraShake":56,"MinRange":38,"MaxRange":57,"CoolTime":58,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":38,"EffectValueEx1":38,"EffectType2":60,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":61,"bIsWeaponDamage":18,"DisabledData":18,"Level":24,"WazaName":62,"WazaDesc":63},"EPalWazaID::Unique_Eagle_GlidingNail","EPalWazaCategory::Melee","EPalPlayerDamageCameraShakeCategory::Waza_M",1000,8,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Gale Claw","\u003CcharacterName id=|Eagle|/>'s exclusive skill.\r\nSoars through the air\r\nwith its talons outstretched forward.",{"WazaType":65,"Element":13,"IgnoreRandomInherit":18,"Category":66,"Power":34,"IsLeanBack":18,"CameraShake":67,"MinRange":68,"MaxRange":69,"CoolTime":12,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":38,"EffectValueEx1":38,"EffectType2":60,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":70,"bIsWeaponDamage":18,"DisabledData":18,"Level":71,"WazaName":72,"WazaDesc":73},"EPalWazaID::AirCanon","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,[],7,"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":75,"Element":76,"IgnoreRandomInherit":18,"Category":66,"Power":77,"IsLeanBack":18,"CameraShake":67,"MinRange":68,"MaxRange":78,"CoolTime":33,"ForceRagdollSize":59,"EffectType1":79,"EffectValue1":36,"EffectValueEx1":38,"EffectType2":60,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":80,"bIsWeaponDamage":18,"DisabledData":18,"Level":81,"WazaName":82,"WazaDesc":83},"EPalWazaID::MudShot","EPalElementType::Earth",40,3000,"EPalAdditionalEffectType::Muddy",[],15,"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":85,"Element":86,"IgnoreRandomInherit":18,"Category":66,"Power":87,"IsLeanBack":18,"CameraShake":67,"MinRange":68,"MaxRange":88,"CoolTime":12,"ForceRagdollSize":59,"EffectType1":89,"EffectValue1":90,"EffectValueEx1":38,"EffectType2":60,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":91,"bIsWeaponDamage":18,"DisabledData":18,"Level":92,"WazaName":93,"WazaDesc":94},"EPalWazaID::WindCutter","EPalElementType::Leaf",30,5000,"EPalAdditionalEffectType::IvyCling",35,[],22,"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":96,"Element":76,"IgnoreRandomInherit":18,"Category":66,"Power":97,"IsLeanBack":18,"CameraShake":56,"MinRange":23,"MaxRange":78,"CoolTime":98,"ForceRagdollSize":59,"EffectType1":79,"EffectValue1":99,"EffectValueEx1":38,"EffectType2":60,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":100,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":101,"WazaDesc":102},"EPalWazaID::SandTornado",80,18,65,[],"Sand Tornado","Generates two sand tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":104,"Element":86,"IgnoreRandomInherit":18,"Category":66,"Power":97,"IsLeanBack":18,"CameraShake":56,"MinRange":29,"MaxRange":78,"CoolTime":98,"ForceRagdollSize":59,"EffectType1":89,"EffectValue1":99,"EffectValueEx1":38,"EffectType2":60,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":105,"bIsWeaponDamage":18,"DisabledData":18,"Level":77,"WazaName":106,"WazaDesc":107},"EPalWazaID::GrassTornado",[],"Grass Tornado","Generates two tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":109,"Element":13,"IgnoreRandomInherit":18,"Category":66,"Power":110,"IsLeanBack":18,"CameraShake":111,"MinRange":68,"MaxRange":112,"CoolTime":113,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":38,"EffectValueEx1":38,"EffectType2":60,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":115,"WazaDesc":116},"EPalWazaID::HyperBeam",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",1800,55,[],"Pal Blast","Charges destructive energy before firing\r\na high-powered beam forward across a wide area.",[],"A Pal that can easily take flight even while grasping a human.\r\nIt is, however, prone to letting go when tired,\r\nwhich has led to the sudden demise of more than a few souls.",1706864116920]
+{
+  "name": "Galeclaw",
+  "title": "Proud Courier",
+  "image": "/images/full_palicon/T_Eagle_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "2",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Normal",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "className": "elm9"
+    }
+  ],
+  "description": "A Pal that can easily take flight even while grasping a human.\nIt is, however, prone to letting go when tired,\nwhich has led to the sudden demise of more than a few souls.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_Eagle.png",
+      "name": "Galeclaw Poultry",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "75"
+    },
+    {
+      "name": "Defense",
+      "value": "60"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "120"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "85"
+    },
+    {
+      "name": "Price",
+      "value": "2010"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "600"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Galeclaw Rider",
+    "description": "While in team, can be summoned and used instead of a glider.\nAllows you to fire a gun while gliding with this Pal."
+  },
+  "activeSkills": [
+    {
+      "name": "Gale Claw",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "60",
+      "coolDown": "8",
+      "range": "0 - 1000",
+      "description": "Eagle's exclusive skill.\nSoars through the air\nwith its talons outstretched forward."
+    },
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Sand Tornado",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 3000",
+      "description": "Generates two sand tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Grass Tornado",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Pal Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges destructive energy before firing\na high-powered beam forward across a wide area."
+    }
+  ],
+  "uniqueName": "galeclaw"
+}

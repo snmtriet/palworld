@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":115},["Reactive",2],{"iE2zfJMnO0":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":19,"Defense":21,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":12,"CaptureRateCorrect":12,"ExpRatio":12,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":24,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":29,"FullStomachDecreaseRate":12,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":12,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":33,"WorkSuitability_Watering":33,"WorkSuitability_Seeding":33,"WorkSuitability_GenerateElectricity":33,"WorkSuitability_Handcraft":33,"WorkSuitability_Collection":12,"WorkSuitability_Deforest":33,"WorkSuitability_Mining":33,"WorkSuitability_OilExtraction":33,"WorkSuitability_ProductMedicine":33,"WorkSuitability_Cool":33,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":33,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":37,"PartnerSkillDesc":38,"Combinations":39,"PrefixName":40,"Drops":41,"ActiveSkills":47,"PassiveSkills":113,"Description":114},"Killamari","None",true,"EPalTribeID::NegativeOctopus","NegativeOctopus",23,"","EPalSizeType::XS",1,"EPalElementType::Dark","EPalElementType::None","EPalGenusCategoryType::Other","EPalOrganizationType::None","EPalWeaponType::None",false,60,100,70,1200,"NotInterested",120,400,550,260,"EPalBattleBGMType::Cute",225,3,25,90,0,50,1290,2,"Fried Squid","While in team, can be summoned and used instead of a glider.\r\nCan float for long periods of time while gliding.",[],"Emotionless",[42],{"max":43,"min":36,"rate":20,"name":44,"descr":45,"icon":46},4,"Venom Gland","Material obtainable from poisonous Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Poison|/> and more.","T_itemicon_Material_Venom",[48,63,71,80,90,97,106],{"WazaType":49,"Element":50,"IgnoreRandomInherit":18,"Category":51,"Power":52,"IsLeanBack":18,"CameraShake":53,"MinRange":54,"MaxRange":55,"CoolTime":36,"ForceRagdollSize":56,"EffectType1":57,"EffectValue1":58,"EffectValueEx1":33,"EffectType2":59,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":60,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":61,"WazaDesc":62},"EPalWazaID::AquaJet","EPalElementType::Water","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Wetness",35,"EPalAdditionalEffectType::None",[],"Hydro Jet","Hurls a high speed ball of water\r\nat an enemy.",{"WazaType":64,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":52,"IsLeanBack":18,"CameraShake":53,"MinRange":54,"MaxRange":65,"CoolTime":36,"ForceRagdollSize":56,"EffectType1":66,"EffectValue1":20,"EffectValueEx1":33,"EffectType2":59,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":67,"bIsWeaponDamage":18,"DisabledData":18,"Level":68,"WazaName":69,"WazaDesc":70},"EPalWazaID::PoisonShot",3000,"EPalAdditionalEffectType::Poison",[],7,"Poison Blast","Hurls poison sludge\r\nat an enemy.",{"WazaType":72,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":73,"IsLeanBack":18,"CameraShake":53,"MinRange":54,"MaxRange":74,"CoolTime":43,"ForceRagdollSize":56,"EffectType1":75,"EffectValue1":58,"EffectValueEx1":33,"EffectType2":59,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":76,"bIsWeaponDamage":18,"DisabledData":18,"Level":77,"WazaName":78,"WazaDesc":79},"EPalWazaID::DarkBall",40,1000,"EPalAdditionalEffectType::Darkness",[],15,"Dark Ball","Unleashes a sphere of darkness \r\nthat slowly tracks down the enemy.",{"WazaType":81,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":82,"IsLeanBack":18,"CameraShake":83,"MinRange":33,"MaxRange":84,"CoolTime":85,"ForceRagdollSize":56,"EffectType1":75,"EffectValue1":34,"EffectValueEx1":33,"EffectType2":59,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::DarkWave",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",300,10,[],22,"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":91,"Element":50,"IgnoreRandomInherit":18,"Category":51,"Power":92,"IsLeanBack":18,"CameraShake":83,"MinRange":20,"MaxRange":74,"CoolTime":93,"ForceRagdollSize":56,"EffectType1":57,"EffectValue1":20,"EffectValueEx1":33,"EffectType2":59,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":94,"bIsWeaponDamage":18,"DisabledData":18,"Level":52,"WazaName":95,"WazaDesc":96},"EPalWazaID::AcidRain",80,18,[],"Acid Rain","Creates acidic clouds that\r\npour down acid rain on enemies.",{"WazaType":98,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":20,"IsLeanBack":18,"CameraShake":99,"MinRange":74,"MaxRange":100,"CoolTime":52,"ForceRagdollSize":101,"EffectType1":75,"EffectValue1":102,"EffectValueEx1":33,"EffectType2":59,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":73,"WazaName":104,"WazaDesc":105},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":107,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":108,"IsLeanBack":18,"CameraShake":99,"MinRange":54,"MaxRange":109,"CoolTime":82,"ForceRagdollSize":56,"EffectType1":75,"EffectValue1":20,"EffectValueEx1":33,"EffectType2":59,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":110,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":111,"WazaDesc":112},"EPalWazaID::DarkLaser",150,1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"It wraps itself around an enemy's head, sucking out their insides.\r\nPal mummies are occasionally found, but these are in fact\r\n\u003CcharacterName id=|NegativeOctopus|/> victims.",1706864125979]
+{
+  "name": "Killamari",
+  "title": "Emotionless",
+  "image": "/images/full_palicon/T_NegativeOctopus_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "It wraps itself around an enemy's head, sucking out their insides.\nPal mummies are occasionally found, but these are in fact\nNegativeOctopus victims.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Venom.png",
+      "name": "Venom Gland",
+      "amount": "2 - 4",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "60"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "60"
+    },
+    {
+      "name": "Price",
+      "value": "1200"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "400"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "60"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Fried Squid",
+    "description": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding."
+  },
+  "activeSkills": [
+    {
+      "name": "Hydro Jet",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a high speed ball of water\nat an enemy."
+    },
+    {
+      "name": "Poison Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 3000",
+      "description": "Hurls poison sludge\nat an enemy."
+    },
+    {
+      "name": "Dark Ball",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 1000",
+      "description": "Unleashes a sphere of darkness \nthat slowly tracks down the enemy."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Acid Rain",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 1000",
+      "description": "Creates acidic clouds that\npour down acid rain on enemies."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "killamari"
+}

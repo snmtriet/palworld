@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":111},["Reactive",2],{"yfjCFUGRl4":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":19,"Defense":21,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":23,"ExpRatio":12,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":12,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":35,"HearingRate":12,"NooseTrap":6,"Nocturnal":18,"BiologicalGrade":36,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":37,"CombiRank":38,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":12,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":12,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":42,"Drops":43,"ActiveSkills":48,"PassiveSkills":109,"Description":110},"Cremis","None",true,"EPalTribeID::WoolFox","WoolFox",18,"","EPalSizeType::XS",1,"EPalElementType::Normal","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,70,100,75,1.7,1.3,1420,"Escape_to_Battle",20,40,300,450,170,"EPalBattleBGMType::Cute",150,2,25,90,0,50,1455,"Fluffy Wool","While in team, increases attack power of \u003CuiCommon id=|COMMON_ELEMENT_NAME_Normal|/> Pals.\r\nSometimes drops \u003CitemName id=|Wool|/> when assigned to \u003CmapObjectName id=|MonsterFarm|/>.",[],"Darling Furball",[44],{"max":33,"min":12,"rate":20,"name":45,"descr":46,"icon":47},"Wool","Material sheared from sheep Pals.\r\nA necessity for creating bedding, \u003CitemName id=|Cloth|/> and more.","T_itemicon_Material_Wool",[49,60,70,80,88,94,102],{"WazaType":50,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":34,"IsLeanBack":18,"CameraShake":52,"MinRange":53,"MaxRange":54,"CoolTime":33,"ForceRagdollSize":55,"EffectType1":56,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":56,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":57,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":58,"WazaDesc":59},"EPalWazaID::AirCanon","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":61,"Element":62,"IgnoreRandomInherit":18,"Category":51,"Power":27,"IsLeanBack":18,"CameraShake":52,"MinRange":53,"MaxRange":63,"CoolTime":64,"ForceRagdollSize":55,"EffectType1":65,"EffectValue1":37,"EffectValueEx1":36,"EffectType2":56,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":66,"bIsWeaponDamage":18,"DisabledData":18,"Level":67,"WazaName":68,"WazaDesc":69},"EPalWazaID::MudShot","EPalElementType::Earth",3000,4,"EPalAdditionalEffectType::Muddy",[],7,"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":71,"Element":72,"IgnoreRandomInherit":18,"Category":51,"Power":73,"IsLeanBack":18,"CameraShake":52,"MinRange":53,"MaxRange":74,"CoolTime":33,"ForceRagdollSize":55,"EffectType1":75,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":56,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":76,"bIsWeaponDamage":18,"DisabledData":18,"Level":77,"WazaName":78,"WazaDesc":79},"EPalWazaID::SpreadPulse","EPalElementType::Electricity",30,5000,"EPalAdditionalEffectType::Electrical",[],15,"Spark Blast","The user releases a lightning ball\r\nthat expands outward in a forward, circular pattern.",{"WazaType":81,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":82,"IsLeanBack":18,"CameraShake":52,"MinRange":83,"MaxRange":63,"CoolTime":64,"ForceRagdollSize":55,"EffectType1":56,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":56,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":85,"WazaName":86,"WazaDesc":87},"EPalWazaID::PowerShot",35,600,[],22,"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":89,"Element":72,"IgnoreRandomInherit":18,"Category":51,"Power":27,"IsLeanBack":18,"CameraShake":52,"MinRange":36,"MaxRange":28,"CoolTime":64,"ForceRagdollSize":55,"EffectType1":75,"EffectValue1":90,"EffectValueEx1":36,"EffectType2":56,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":91,"bIsWeaponDamage":18,"DisabledData":18,"Level":73,"WazaName":92,"WazaDesc":93},"EPalWazaID::ElecWave",103,[],"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":95,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":19,"IsLeanBack":18,"CameraShake":96,"MinRange":97,"MaxRange":98,"CoolTime":77,"ForceRagdollSize":11,"EffectType1":56,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":56,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":99,"bIsWeaponDamage":18,"DisabledData":18,"Level":27,"WazaName":100,"WazaDesc":101},"EPalWazaID::PowerBall","EPalPlayerDamageCameraShakeCategory::Waza_M",1000,9999,[],"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":103,"Element":72,"IgnoreRandomInherit":18,"Category":51,"Power":32,"IsLeanBack":18,"CameraShake":104,"MinRange":53,"MaxRange":63,"CoolTime":105,"ForceRagdollSize":55,"EffectType1":75,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":56,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":37,"WazaName":107,"WazaDesc":108},"EPalWazaID::Thunderbolt","EPalPlayerDamageCameraShakeCategory::Waza_L",55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"Compared to \u003CcharacterName id=|SheepBall|/>, it has finer wool\r\nand a temperament more suited for domestication.\r\nHowever, it has historically always been kept as a pet.\r\nCuteness is considered a virtue.",1706864132219]
+{
+  "name": "Cremis",
+  "title": "Darling Furball",
+  "image": "/images/full_palicon/T_WoolFox_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Normal",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "className": "elm9"
+    }
+  ],
+  "description": "Compared to SheepBall, it has finer wool\nand a temperament more suited for domestication.\nHowever, it has historically always been kept as a pet.\nCuteness is considered a virtue.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Wool.png",
+      "name": "Wool",
+      "amount": "1 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "70"
+    },
+    {
+      "name": "Defense",
+      "value": "75"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "70"
+    },
+    {
+      "name": "Price",
+      "value": "1420"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "300"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "450"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "20"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Fluffy Wool",
+    "description": "While in team, increases attack power of COMMON_ELEMENT_NAME_Normal Pals.\nSometimes drops Wool when assigned to MonsterFarm."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Spark Blast",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "The user releases a lightning ball\nthat expands outward in a forward, circular pattern."
+    },
+    {
+      "name": "Power Shot",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Shockwave",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "cremis"
+}

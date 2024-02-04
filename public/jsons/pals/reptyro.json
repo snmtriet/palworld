@@ -1,1 +1,243 @@
-[{"data":1,"prerenderedAt":124},["Reactive",2],{"6vPKkOFmE0":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":23,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":35,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":6,"Edible":6,"Stamina":20,"MaleProbability":26,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":38,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":38,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":50,"Drops":51,"ActiveSkills":57,"PassiveSkills":122,"Description":123},"Reptyro","None",true,"EPalTribeID::VolcanicMonster","VolcanicMonster",88,"","EPalSizeType::L",6,"EPalElementType::Fire","EPalElementType::Earth","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,110,100,105,120,1,6940,"Warlike",50,80,390,550,235,"EPalBattleBGMType::Strong",350,5,25,90,320,3,0,"Ore-loving Beast","Can be ridden.\r\nImproves efficiency of mining ores while mounted.",[42],{"ParentTribeA":43,"ParentTribeB":44,"ChildCharacterID":47},{"name":4,"BPClass":8},{"name":45,"BPClass":46},"Foxcicle","IceFox",{"name":48,"BPClass":49},"Ice Reptyro","VolcanicMonster_Ice","Magma-born Juggernaut",[52],{"max":53,"min":33,"rate":20,"name":54,"descr":55,"icon":56},7,"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",[58,72,81,94,101,109,116],{"WazaType":59,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":61,"IsLeanBack":18,"CameraShake":62,"MinRange":63,"MaxRange":64,"CoolTime":65,"ForceRagdollSize":66,"EffectType1":67,"EffectValue1":26,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":69,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":70,"WazaDesc":71},"EPalWazaID::FireBlast","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,2,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":73,"Element":14,"IgnoreRandomInherit":18,"Category":60,"Power":74,"IsLeanBack":18,"CameraShake":62,"MinRange":63,"MaxRange":75,"CoolTime":76,"ForceRagdollSize":66,"EffectType1":77,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":53,"WazaName":79,"WazaDesc":80},"EPalWazaID::StoneShotgun",55,4000,10,"EPalAdditionalEffectType::Muddy",[],"Stone Blast","Fires a barrage of stones forward.",{"WazaType":82,"Element":14,"IgnoreRandomInherit":18,"Category":60,"Power":83,"IsLeanBack":18,"CameraShake":84,"MinRange":63,"MaxRange":85,"CoolTime":86,"ForceRagdollSize":87,"EffectType1":77,"EffectValue1":88,"EffectValueEx1":38,"EffectType2":89,"EffectValue2":90,"EffectValueEx2":38,"SpecialAttackRateInfos":91,"bIsWeaponDamage":18,"DisabledData":18,"Level":86,"WazaName":92,"WazaDesc":93},"EPalWazaID::ThrowRock",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",2500,15,"EPalSizeType::XS",35,"EPalAdditionalEffectType::Stun",20,[],"Stone Cannon","Digs up a boulder\r\nand hurls it at an enemy.",{"WazaType":95,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":83,"IsLeanBack":18,"CameraShake":84,"MinRange":63,"MaxRange":96,"CoolTime":86,"ForceRagdollSize":66,"EffectType1":67,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::Flamethrower",1500,[],22,"Ignis Breath","Shoots flames at an enemy,\r\ndealing continuous damage.",{"WazaType":102,"Element":13,"IgnoreRandomInherit":6,"Category":60,"Power":20,"IsLeanBack":18,"CameraShake":103,"MinRange":38,"MaxRange":104,"CoolTime":105,"ForceRagdollSize":66,"EffectType1":67,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":61,"WazaName":107,"WazaDesc":108},"EPalWazaID::Unique_VolcanicMonster_MagmaAttack","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,45,[],"Volcanic Burst","\u003CcharacterName id=|VolcanicMonster|/>'s exclusive skill.\r\nRaises its front legs before slamming them into the ground,\r\ncausing volcanic eruptions under its enemies.\r\nIt simultaneously bombards them with volcanic bombs from above.",{"WazaType":110,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":22,"IsLeanBack":18,"CameraShake":103,"MinRange":20,"MaxRange":111,"CoolTime":112,"ForceRagdollSize":66,"EffectType1":67,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":113,"bIsWeaponDamage":18,"DisabledData":18,"Level":112,"WazaName":114,"WazaDesc":115},"EPalWazaID::Inferno",1000,40,[],"Ignis Rage","Energizes the surrounding ground,\r\ncausing it to explode after a set amount of time.",{"WazaType":117,"Element":14,"IgnoreRandomInherit":18,"Category":60,"Power":118,"IsLeanBack":18,"CameraShake":103,"MinRange":20,"MaxRange":104,"CoolTime":74,"ForceRagdollSize":66,"EffectType1":77,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":119,"bIsWeaponDamage":18,"DisabledData":18,"Level":26,"WazaName":120,"WazaDesc":121},"EPalWazaID::RockLance",150,[],"Rock Lance","Generates a sharp rock spear\r\nunder an enemy.",[],"Magma-like blood runs throughout its body.\r\nIf a large amount of water is thrown on it, this water rapidly heats,\r\ncausing an immense vapor explosion.",1706864130652]
+{
+  "name": "Reptyro",
+  "title": "Magma-born Juggernaut",
+  "image": "/images/full_palicon/T_VolcanicMonster_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    },
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "Magma-like blood runs throughout its body.\nIf a large amount of water is thrown on it, this water rapidly heats,\ncausing an immense vapor explosion.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "5 - 7",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "110"
+    },
+    {
+      "name": "Defense",
+      "value": "120"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "6940"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "390"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "50"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Reptyro",
+        "image": "/images/palicon/T_VolcanicMonster_icon_normal.png"
+      },
+      "female": {
+        "name": "Foxcicle",
+        "image": "/images/palicon/T_IceFox_icon_normal.png"
+      },
+      "result": {
+        "name": "Ice Reptyro",
+        "image": "/images/palicon/T_VolcanicMonster_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Ore-loving Beast",
+    "description": "Can be ridden.\nImproves efficiency of mining ores while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Stone Cannon",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 2500",
+      "description": "Digs up a boulder\nand hurls it at an enemy."
+    },
+    {
+      "name": "Ignis Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Shoots flames at an enemy,\ndealing continuous damage."
+    },
+    {
+      "name": "Volcanic Burst",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "100",
+      "coolDown": "45",
+      "range": "0 - 9999",
+      "description": "VolcanicMonster's exclusive skill.\nRaises its front legs before slamming them into the ground,\ncausing volcanic eruptions under its enemies.\nIt simultaneously bombards them with volcanic bombs from above."
+    },
+    {
+      "name": "Ignis Rage",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "100 - 1000",
+      "description": "Energizes the surrounding ground,\ncausing it to explode after a set amount of time."
+    },
+    {
+      "name": "Rock Lance",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "100 - 9999",
+      "description": "Generates a sharp rock spear\nunder an enemy."
+    }
+  ],
+  "uniqueName": "reptyro"
+}

@@ -1,1 +1,229 @@
-[{"data":1,"prerenderedAt":123},["Reactive",2],{"2NZlh8B39j":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":23,"CraftSpeed":24,"EnemyReceiveDamageRate":25,"CaptureRateCorrect":25,"ExpRatio":25,"Price":26,"AIResponse":27,"AISightResponse":5,"SlowWalkSpeed":28,"WalkSpeed":29,"RunSpeed":30,"RideSprintSpeed":31,"TransportSpeed":32,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":33,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":34,"FullStomachDecreaseRate":25,"FoodAmount":35,"ViewingDistance":36,"ViewingAngle":19,"HearingRate":25,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":18,"Edible":6,"Stamina":24,"MaleProbability":20,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":39,"WorkSuitability_GenerateElectricity":39,"WorkSuitability_Handcraft":40,"WorkSuitability_Collection":39,"WorkSuitability_Deforest":39,"WorkSuitability_Mining":39,"WorkSuitability_OilExtraction":39,"WorkSuitability_ProductMedicine":39,"WorkSuitability_Cool":39,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":39,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":41,"PartnerSkillDesc":42,"Combinations":43,"PrefixName":44,"Drops":45,"ActiveSkills":54,"PassiveSkills":121,"Description":122},"Wixen","None",true,"EPalTribeID::FoxMage","FoxMage",76,"","EPalSizeType::M",6,"EPalElementType::Fire","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,90,50,110,80,120,100,1,1540,"Escape_to_Battle",70,145,440,620,292,"EPalBattleBGMType::Cute",350,5,25,1160,2,0,3,"Lord Fox","When fighting together, applies\r\n\u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> damage to the player's attacks.",[],"Fire Licked Furball",[46,50],{"max":38,"min":25,"rate":24,"name":47,"descr":48,"icon":49},"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",{"max":25,"min":25,"rate":25,"name":51,"descr":52,"icon":53},"High Grade Technical Manual","A book that contains secrets of amazing technology.\r\nUse it to obtain a few Technology Points.","T_itemicon_Consume_TechnologyBook_G1",[55,68,77,87,97,105,115],{"WazaType":56,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":58,"IsLeanBack":18,"CameraShake":59,"MinRange":60,"MaxRange":61,"CoolTime":38,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":20,"EffectValueEx1":39,"EffectType2":64,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":65,"bIsWeaponDamage":18,"DisabledData":18,"Level":25,"WazaName":66,"WazaDesc":67},"EPalWazaID::FireBlast","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":69,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":70,"IsLeanBack":18,"CameraShake":59,"MinRange":71,"MaxRange":72,"CoolTime":73,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":24,"EffectValueEx1":39,"EffectType2":64,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":74,"bIsWeaponDamage":18,"DisabledData":18,"Level":73,"WazaName":75,"WazaDesc":76},"EPalWazaID::FireSeed",45,1000,3000,7,[],"Spirit Fire","Shoots fireballs towards an enemy.\r\nThe fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",{"WazaType":78,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":79,"IsLeanBack":18,"CameraShake":80,"MinRange":60,"MaxRange":61,"CoolTime":81,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":82,"EffectValueEx1":39,"EffectType2":64,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":83,"bIsWeaponDamage":18,"DisabledData":18,"Level":84,"WazaName":85,"WazaDesc":86},"EPalWazaID::FlareArrow",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,103,[],15,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":88,"Element":89,"IgnoreRandomInherit":18,"Category":57,"Power":90,"IsLeanBack":18,"CameraShake":80,"MinRange":60,"MaxRange":61,"CoolTime":91,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":92,"EffectValueEx1":39,"EffectType2":64,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":93,"bIsWeaponDamage":18,"DisabledData":18,"Level":94,"WazaName":95,"WazaDesc":96},"EPalWazaID::GhostFlame","EPalElementType::Dark",75,16,102,[],22,"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":98,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":22,"IsLeanBack":18,"CameraShake":80,"MinRange":99,"MaxRange":72,"CoolTime":100,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":101,"EffectValueEx1":39,"EffectType2":64,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":102,"bIsWeaponDamage":18,"DisabledData":18,"Level":58,"WazaName":103,"WazaDesc":104},"EPalWazaID::FlareTornado",700,18,65,[],"Flare Storm","Generates two flaming tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":106,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":107,"IsLeanBack":18,"CameraShake":108,"MinRange":60,"MaxRange":109,"CoolTime":79,"ForceRagdollSize":110,"EffectType1":63,"EffectValue1":24,"EffectValueEx1":39,"EffectType2":64,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":112,"WazaName":113,"WazaDesc":114},"EPalWazaID::FireBall",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],40,"Fire Ball","Creates a giant ball of flame and hurls it at an enemy.\r\nThe ball explodes over a wide area upon impact.",{"WazaType":116,"Element":117,"IgnoreRandomInherit":18,"Category":57,"Power":107,"IsLeanBack":18,"CameraShake":108,"MinRange":60,"MaxRange":61,"CoolTime":79,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":70,"EffectValueEx1":39,"EffectType2":64,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":118,"bIsWeaponDamage":18,"DisabledData":18,"Level":20,"WazaName":119,"WazaDesc":120},"EPalWazaID::DragonMeteor","EPalElementType::Dragon",[],"Dragon Meteor","Calls down numerous small meteorites\r\nand launches them at an enemy.",[],"With the power of light, it produces arcane phenomena.\r\nIt prefers to eat food well-done and is particularly hostile towards \u003CcharacterName id=|CatMage|/>.",1706864119144]
+{
+  "name": "Wixen",
+  "title": "Fire Licked Furball",
+  "image": "/images/full_palicon/T_FoxMage_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    }
+  ],
+  "description": "With the power of light, it produces arcane phenomena.\nIt prefers to eat food well-done and is particularly hostile towards CatMage.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Consume_TechnologyBook_G1.png",
+      "name": "High Grade Technical Manual",
+      "amount": "1 - 1",
+      "rate": "1%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "50"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "110"
+    },
+    {
+      "name": "Price",
+      "value": "1540"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "120"
+    },
+    {
+      "name": "Running Speed",
+      "value": "440"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "620"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "70"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Lord Fox",
+    "description": "When fighting together, applies\nCOMMON_ELEMENT_NAME_Fire damage to the player's attacks."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Spirit Fire",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "45",
+      "coolDown": "7",
+      "range": "1000 - 3000",
+      "description": "Shoots fireballs towards an enemy.\nThe fireballs explode after a short distance,\ngenerating smaller fireballs that spread forward."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Flare Storm",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two flaming tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Fire Ball",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 9999",
+      "description": "Creates a giant ball of flame and hurls it at an enemy.\nThe ball explodes over a wide area upon impact."
+    },
+    {
+      "name": "Dragon Meteor",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 5000",
+      "description": "Calls down numerous small meteorites\nand launches them at an enemy."
+    }
+  ],
+  "uniqueName": "wixen"
+}

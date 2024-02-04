@@ -1,1 +1,159 @@
-[{"data":1,"prerenderedAt":48},["Reactive",2],{"hP8ckABDHH":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":20,"Defense":20,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":12,"CaptureRateCorrect":12,"ExpRatio":12,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":24,"WalkSpeed":21,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":29,"FullStomachDecreaseRate":12,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":12,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":21,"MaleProbability":24,"CombiRank":34,"WorkSuitability_EmitFlame":33,"WorkSuitability_Watering":33,"WorkSuitability_Seeding":33,"WorkSuitability_GenerateElectricity":33,"WorkSuitability_Handcraft":12,"WorkSuitability_Collection":12,"WorkSuitability_Deforest":33,"WorkSuitability_Mining":33,"WorkSuitability_OilExtraction":33,"WorkSuitability_ProductMedicine":33,"WorkSuitability_Cool":33,"WorkSuitability_Transport":30,"WorkSuitability_MonsterFarm":33,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":35,"PartnerSkillDesc":36,"Combinations":37,"PrefixName":35,"Drops":38,"ActiveSkills":45,"PassiveSkills":46,"Description":47},"Hangyu","None",true,"EPalTribeID::WindChimes","WindChimes",32,"","EPalSizeType::XS",1,"EPalElementType::Earth","EPalElementType::None","EPalGenusCategoryType::Other","EPalOrganizationType::None","EPalWeaponType::None",false,80,70,100,1020,"Escape_to_Battle",50,400,550,250,"EPalBattleBGMType::Cute",150,2,25,90,0,1420,null,"While in team, can be summoned and used instead of a glider.\r\nCarries the player up high while gliding.",[],[39],{"max":40,"min":41,"rate":21,"name":42,"descr":43,"icon":44},10,5,"Fiber","Fiber collected from trees.\r\nA material used when creating bows, etc.","T_itemicon_Material_Fiber",[],[],"Its gigantic arms can rip apart even iron.\r\nAs a particularly cruel form of execution, serious criminals\r\nwould be strung up in a public square, and a \u003CcharacterName id=|Windchimes|/>\r\nwould tear the skin right from their bones.",1706864131344]
+{
+  "name": "Hangyu",
+  "title": "",
+  "image": "/images/full_palicon/T_WindChimes_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "Its gigantic arms can rip apart even iron.\nAs a particularly cruel form of execution, serious criminals\nwould be strung up in a public square, and a Windchimes\nwould tear the skin right from their bones.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Fiber.png",
+      "name": "Fiber",
+      "amount": "5 - 10",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "80"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "70"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "70"
+    },
+    {
+      "name": "Price",
+      "value": "1020"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "400"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "50"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "",
+    "description": "While in team, can be summoned and used instead of a glider.\nCarries the player up high while gliding."
+  },
+  "activeSkills": [],
+  "uniqueName": "hangyu"
+}

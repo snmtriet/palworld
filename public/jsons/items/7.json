@@ -1,0 +1,2644 @@
+[
+  {
+    "name": "Bolognese Sauce",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_MeatSauce.png",
+    "description": "A pasta dish combined with meat sauce. Eating it makes it difficult for sanity to decrease and provides COMMON_STATUS_RANGE_ATTACK +10% for a while.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "2250"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "13"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "190"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Caprity Meat",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_BerryGoat.png",
+    "description": "BerryGoat meat.\r\nHealthy and full of nutrients.\r\nHints of berries scenting the meat stimulates the appetite.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "570"
+      },
+      {
+        "name": "Weight",
+        "value": "2.5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "57"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Rushoar Pork",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_Boar.png",
+    "description": "Boar meat.\r\nFull of the delicious flavors of wild game.\r\nJuicy and nutritious.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "430"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "43"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Chikipi Poultry",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_ChickenPal.png",
+    "description": "ChickenPal meat.\r\nLight and easy to eat,\r\nit's a local favorite for residents of Palpagos Island.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "36"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Mozzarina Meat",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_CowPal.png",
+    "description": "CowPal meat.\r\nThick, juicy and marbled.\r\nResidents of Palpagos Island cherish it above all other meats.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "570"
+      },
+      {
+        "name": "Weight",
+        "value": "2.5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "57"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Eikthyrdeer Venison",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_Deer.png",
+    "description": "Deer meat.\r\nLight and lean, but rich in flavor.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Galeclaw Poultry",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_Eagle.png",
+    "description": "Eagle meat.\r\nFull of nutrition, its flavor packs a punch.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "150"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "36"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Mammorest Meat",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_GrassMammoth.png",
+    "description": "GrassMammoth meat.\r\nWith massive size comes massive flavor.\r\nIts overwhelming portions are sure to satisfy any glutton.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "180"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Reindrix Venison",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_IceDeer.png",
+    "description": "IceDeer meat.\r\nStrange venison capable of remaining at low temperatures.\r\nTakes a very long time to spoil.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "640"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "64"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Raw Kelpsea",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_Kelpie.png",
+    "description": "Kelpie meat.\r\nTender and slightly sweet.\r\nFish meat tends to spoil quickly.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "36"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Raw Dumud",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_LazyCatfish.png",
+    "description": "LazyCatfish meat.\r\nFatty with a rich taste.\r\nHas a mouthwatering plump texture.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Broncherry Meat",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_SakuraSaurus.png",
+    "description": "SakuraSaurus meat.\r\nGiant meat full of massive stores of energy.\r\nStuffed to the brim with nutrients gathered through photosynthesis.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "180"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Lamball Mutton",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Meat_SheepBall.png",
+    "description": "SheepBall meat.\r\nRed meat with a unique flavor.\r\nDelicious, but takes some getting used to.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "37"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Medical Supplies",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Medicines.png",
+    "description": "Strange Medicines that are effective at treating COMMON_CONDITION_NAME_GastricUlcer and COMMON_CONDITION_NAME_Fracture.\r\nthey do not heal Health.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "1 Bone",
+        "image": "/images/items/T_itemicon_Material_Bone.png"
+      }
+    ]
+  },
+  {
+    "name": "Milk",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Milk.png",
+    "description": "Drink it as is, or use it in various meals.\r\nCan be milked from CowPal.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "50"
+      },
+      {
+        "name": "Weight",
+        "value": "1.5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "12"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Mind Control Meds",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_MindControlDrug.png",
+    "description": "MindControlDrug that are extremely effective in controlling dissidents.\r\nthey do not heal Health.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "5 Bone",
+        "image": "/images/items/T_itemicon_Material_Bone.png"
+      },
+      {
+        "name": "3 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Gold Coin",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Money.png",
+    "description": "Currency traded on Palpagos Island.\r\nCan be exchanged for items or Pals with merchants.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Mushroom",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Mushroom.png",
+    "description": "A mushroom that can be eaten raw.\r\nThey can be found anywhere on the island.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "50"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "13"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Mushroom Soup",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_MushroomSoup.png",
+    "description": "Cream soup made of Mushroom. When eaten, it raises the work speed and improves the stomach fullness for a certain time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "7"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "52"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Mushroom",
+        "image": "/images/items/T_itemicon_Food_Mushroom.png"
+      },
+      {
+        "name": "2 Milk",
+        "image": "/images/items/T_itemicon_Food_Milk.png"
+      }
+    ]
+  },
+  {
+    "name": "Mushroom Stew",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_MushroomStew.png",
+    "description": "A stew made with Mushroom. Consumption elevates work speed and offers COMMON_STATUS_RANGE_ATTACK +10% for a particular duration.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "11"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "212"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Musket",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Musket.png",
+    "description": "An old-fashioned, simple gun. Powerful in a single shot, but the reload time is lengthy.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "37600"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "200"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "1000"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "25 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Strange Juice",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Narcotic.png",
+    "description": "Juice that greatly improves mood when consumed.\r\nDrinking it significantly increases work speed for a period of time,\r\nbut significantly lowers SAN.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "40000"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "60"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Beautiful Flower",
+        "image": "/images/items/T_itemicon_Food_Poppy.png"
+      },
+      {
+        "name": "5 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "2 Bone",
+        "image": "/images/items/T_itemicon_Material_Bone.png"
+      },
+      {
+        "name": "2 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Night Vision Goggles",
+    "type": "Accessory",
+    "image": "/images/items/Tex_clothes_24.png",
+    "description": "Night Vision Goggles",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Omelet",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Omelet.png",
+    "description": "A dish where Egg is fried and ketchup is added. Eating it results in a temporary COMMON_STATUS_RANGE_ATTACK -5%, COMMON_STATUS_DEFENCE+15%.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "7"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "67"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Tomato",
+        "image": "/images/items/T_itemicon_Food_Tomato.png"
+      },
+      {
+        "name": "2 Egg",
+        "image": "/images/items/T_itemicon_Food_Egg.png"
+      }
+    ]
+  },
+  {
+    "name": "Suspicious Juice",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Opium.png",
+    "description": "Juice that improves mood when consumed.\r\nDrinking it greatly increases work speed for a period of time,\r\nbut lowers SAN.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "30"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Beautiful Flower",
+        "image": "/images/items/T_itemicon_Food_Poppy.png"
+      },
+      {
+        "name": "3 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "1 Bone",
+        "image": "/images/items/T_itemicon_Material_Bone.png"
+      },
+      {
+        "name": "1 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Ancient Civilization Parts",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png",
+    "description": "Debris excavated from ancient ruins.\r\nContains abundant information on lost technology.\r\nExtremely valuable, people from all walks of life are now seeking such crystals.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dark_01.png",
+    "description": "A PalEgg_Dark_01.\r\nSomething chaotic stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dark_01.png",
+    "description": "A PalEgg_Dark_02.\r\nSomething chaotic stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Dark Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dark_01.png",
+    "description": "A PalEgg_Dark_03.\r\nA vicious wail howls within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Dark Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dark_01.png",
+    "description": "A PalEgg_Dark_04.\r\nA vicious wail howls within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Dark Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dark_01.png",
+    "description": "A PalEgg_Dark_05.\r\nA shadowy spirit cries within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dragon Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dragon_01.png",
+    "description": "A PalEgg_Dragon_01.\r\nSomething mischievous stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dragon Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dragon_01.png",
+    "description": "A PalEgg_Dragon_02.\r\nSomething mischievous stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Dragon Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dragon_01.png",
+    "description": "An PalEgg_Dragon_03.\r\nA strange movement pulses within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Dragon Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dragon_01.png",
+    "description": "An PalEgg_Dragon_04.\r\nA strange movement pulses within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Dragon Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Dragon_01.png",
+    "description": "A PalEgg_Dragon_05.\r\nA solemn spirit echoes within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Rocky Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Earth_01.png",
+    "description": "An PalEgg_Earth_01.\r\nSomething calm stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Rocky Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Earth_01.png",
+    "description": "An PalEgg_Earth_02.\r\nSomething calm stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Rocky Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Earth_01.png",
+    "description": "An PalEgg_Earth_03.\r\nA dignified rumble drums within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Rocky Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Earth_01.png",
+    "description": "An PalEgg_Earth_04.\r\nA dignified rumble drums within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Rocky Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Earth_01.png",
+    "description": "An PalEgg_Earth_05.\r\nAn earthly spirit resounds within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Electricity_01.png",
+    "description": "An PalEgg_Electricity_01.\r\nSomething energetic moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Electricity_01.png",
+    "description": "An PalEgg_Electricity_02.\r\nSomething energetic moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Electric Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Electricity_01.png",
+    "description": "An PalEgg_Electricity_03.\r\nA pulsing energy stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Electric Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Electricity_01.png",
+    "description": "An PalEgg_Electricity_04.\r\nA pulsing energy stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Electric Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Electricity_01.png",
+    "description": "An PalEgg_Electricity_05.\r\nA raging spirit grows within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Scorching Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Fire_01.png",
+    "description": "A PalEgg_Fire_01.\r\nSomething hot moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Scorching Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Fire_01.png",
+    "description": "A PalEgg_Fire_02.\r\nSomething hot moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Scorching Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Fire_01.png",
+    "description": "A PalEgg_Fire_03.\r\nPassion burns from within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Scorching Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Fire_01.png",
+    "description": "A PalEgg_Fire_04.\r\nPassion burns from within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Scorching Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Fire_01.png",
+    "description": "A PalEgg_Fire_05.\r\nA blazing spirit burns within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Frozen Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Ice_01.png",
+    "description": "An PalEgg_Ice_01.\r\nSomething cold stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Frozen Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Ice_01.png",
+    "description": "An PalEgg_Ice_02.\r\nSomething cold stirs within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Frozen Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Ice_01.png",
+    "description": "An PalEgg_Ice_03.\r\nAn icy pulse pounds within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Frozen Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Ice_01.png",
+    "description": "An PalEgg_Ice_04.\r\nAn icy pulse pounds within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Frozen Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Ice_01.png",
+    "description": "An PalEgg_Ice_05.\r\nA frigid spirit stirs within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Verdant Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Leaf_01.png",
+    "description": "A PalEgg_Leaf_01.\r\nSomething lively moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Verdant Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Leaf_01.png",
+    "description": "A PalEgg_Leaf_02.\r\nSomething lively moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Verdant Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Leaf_01.png",
+    "description": "A PalEgg_Leaf_03.\r\nA strong life force dwells within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Verdant Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Leaf_01.png",
+    "description": "A PalEgg_Leaf_04.\r\nA strong life force dwells within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Verdant Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Leaf_01.png",
+    "description": "A PalEgg_Leaf_05.\r\nA verdant spirit grows within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Common Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg.png",
+    "description": "A PalEgg_Normal_01.\r\nSomething gentle moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Common Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg.png",
+    "description": "A PalEgg_Normal_02.\r\nSomething gentle moves within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Common Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg.png",
+    "description": "A PalEgg_Normal_03.\r\nA calm rhythm beats within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Common Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg.png",
+    "description": "A PalEgg_Normal_04.\r\nA calm rhythm beats within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Common Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg.png",
+    "description": "A PalEgg_Normal_05.\r\nA gentle spirit throbs within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Damp Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Water_01.png",
+    "description": "A PalEgg_Water_01.\r\nSomething swims within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Damp Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Water_01.png",
+    "description": "A PalEgg_Water_02.\r\nSomething swims within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Damp Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Water_01.png",
+    "description": "A PalEgg_Water_03.\r\nPurity swirls within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Damp Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Water_01.png",
+    "description": "A PalEgg_Water_04.\r\nPurity swirls within.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Damp Egg",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalEgg_Water_01.png",
+    "description": "A PalEgg_Water_05.\r\nA tranquil spirit sways within—as if a monster is about to be born.\r\nPlace in a HatchingPalEgg to incubate it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "50"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pal Fluids",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalFluid.png",
+    "description": "Body fluids taken from a Pal.\r\nUseful for its high viscosity.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Penking Plume",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_CaptainPenguin.png",
+    "description": "Plume dropped from a CaptainPenguin.\r\nUsed to make clothing.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Katress Hair",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_CatMage.png",
+    "description": "Hair dropped from a CatMage.\r\nUsed to make clothing.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tocotoco Feather",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_ColorfulBird.png",
+    "description": "Feathers dropped from a ColorfulBird.\r\nUsed to make clothing, as the beautifully vivid colors are quite popular.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Gumoss Leaf",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_PlantSlime.png",
+    "description": "Leaves dropped from a PlantSlime.\r\nUsed to make clothing.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Precious Dragon Stone",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_ToSell_01.png",
+    "description": "A gemstone-like ball collected from Pals.\r\nCan be sold to a merchant for a high price.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Precious Plume",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_ToSell_02.png",
+    "description": "Glittering feathers collected from Pals.\r\nCan be sold to a merchant for a high price.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "7500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Precious Entrails",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_ToSell_03.png",
+    "description": "A heart that never stops beating collected from Pals.\r\nCan be sold to a merchant for a high price.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "8500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Precious Claw",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_ToSell_04.png",
+    "description": "Extremely sharp claws collected from Pals.\r\nCan be sold to a merchant for a high price.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "6500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Precious Pelt",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalItem_ToSell_05.png",
+    "description": "Fluffy fur collected from Pals.\r\nCan be sold to a merchant for a high price.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "High Quality Pal Oil",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_PalOil.png",
+    "description": "High-quality oil that can be extracted from Pal.\r\nNecessary for making Polymer. ",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pal Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere.png",
+    "description": "An item that captures Pals when thrown.\r\nMass produced, it is only effective on low level Pals.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "120"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "3 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "99"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Giga Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere_Giga.png",
+    "description": "A sphere that captures Pals when thrown.\r\nAble to capture moderately powerful Pals.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1520"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "2 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "7 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "7 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Legendary Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere_Legend.png",
+    "description": "A sphere that captures Pals when thrown.\r\nIt has extremely powerful capturing capabilities,\r\nleaving almost no Pal able to escape.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "6"
+      },
+      {
+        "name": "Price",
+        "value": "45200"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "5 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "3 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "5 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Ultra Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere_Master.png",
+    "description": "A sphere that captures Pals when thrown.\r\nWith powerful abilities, not many Pals are able to escape it.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "9880"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "5 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "2 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "3 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Mega Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere_Mega.png",
+    "description": "An item that captures Pals when thrown.\r\nIts capabilities have been improved, allowing it to catch a wider range of Pals.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "920"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Radar Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere_Robbery.png",
+    "description": "A sphere that captures Pals when thrown.\r\nThough it has a low chance of success,\r\nit can forcibly capture another person’s Pal.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "5500"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Hyper Sphere",
+    "type": "Spheres",
+    "image": "/images/items/T_itemicon_PalSphere_Tera.png",
+    "description": "A sphere that captures Pals when thrown.\r\nAble to capture very powerful Pals.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "4240"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Small Pal Soul",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_PalUpgradeStone.png",
+    "description": "A spirit left behind by a small Pal.\r\nIt can draw out hidden abilities if offered to a BuildableGoddessStatue.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "9"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Medium Pal Soul",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_PalUpgradeStone2.png",
+    "description": "A spirit left behind by a Pal.\r\nIt can draw out hidden abilities if offered to a BuildableGoddessStatue.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "9"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "0.15"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Large Pal Soul",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_PalUpgradeStone3.png",
+    "description": "A spirit left behind by a large Pal.\r\nIt can draw out hidden abilities if offered to a BuildableGoddessStatue.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "9"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  }
+]

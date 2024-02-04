@@ -1,1 +1,229 @@
-[{"data":1,"prerenderedAt":120},["Reactive",2],{"zLx2Fpsxy9":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":12,"CaptureRateCorrect":12,"ExpRatio":12,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":20,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":29,"FullStomachDecreaseRate":12,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":12,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":33,"WorkSuitability_Watering":33,"WorkSuitability_Seeding":12,"WorkSuitability_GenerateElectricity":33,"WorkSuitability_Handcraft":12,"WorkSuitability_Collection":12,"WorkSuitability_Deforest":33,"WorkSuitability_Mining":33,"WorkSuitability_OilExtraction":33,"WorkSuitability_ProductMedicine":12,"WorkSuitability_Cool":33,"WorkSuitability_Transport":12,"WorkSuitability_MonsterFarm":33,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":36,"PartnerSkillDesc":37,"Combinations":38,"PrefixName":39,"Drops":40,"ActiveSkills":50,"PassiveSkills":118,"Description":119},"Flopie","None",true,"EPalTribeID::FlowerRabbit","FlowerRabbit",28,"","EPalSizeType::XS",1,"EPalElementType::Leaf","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,75,100,65,70,1220,"Escape_to_Battle",400,550,250,"EPalBattleBGMType::Cute",225,3,25,90,0,50,1280,"Helper Bunny","While in team, appears near the player.\r\nAutomatically picks up nearby items.",[],"Star of the Flower Beds",[41,46],{"max":12,"min":12,"rate":42,"name":43,"descr":44,"icon":45},20,"Low Grade Medical Supplies","\u003CitemName id=|Herbs|/> good for colds and sprains.\r\nThey don't heal HP when eaten, however.","T_itemicon_Food_Herbs",{"max":12,"min":12,"rate":20,"name":47,"descr":48,"icon":49},"Wheat Seeds","Seeds that produce \u003CitemName id=|Wheat|/>.\r\nNecessary for starting a farm.\r\nCan be purchased from a merchant.","T_itemicon_Material_WheatSeeds",[51,66,74,82,90,99,109],{"WazaType":52,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":54,"IsLeanBack":18,"CameraShake":55,"MinRange":56,"MaxRange":57,"CoolTime":58,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":61,"EffectValueEx1":33,"EffectType2":62,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":63,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":64,"WazaDesc":65},"EPalWazaID::WindCutter","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,2,"EPalSizeType::None","EPalAdditionalEffectType::IvyCling",35,"EPalAdditionalEffectType::None",[],"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":67,"Element":68,"IgnoreRandomInherit":18,"Category":53,"Power":31,"IsLeanBack":18,"CameraShake":55,"MinRange":56,"MaxRange":69,"CoolTime":58,"ForceRagdollSize":59,"EffectType1":62,"EffectValue1":33,"EffectValueEx1":33,"EffectType2":62,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":70,"bIsWeaponDamage":18,"DisabledData":18,"Level":71,"WazaName":72,"WazaDesc":73},"EPalWazaID::AirCanon","EPalElementType::Normal",4000,[],7,"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":75,"Element":76,"IgnoreRandomInherit":18,"Category":53,"Power":54,"IsLeanBack":18,"CameraShake":55,"MinRange":56,"MaxRange":57,"CoolTime":58,"ForceRagdollSize":59,"EffectType1":77,"EffectValue1":61,"EffectValueEx1":33,"EffectType2":62,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":79,"WazaName":80,"WazaDesc":81},"EPalWazaID::AquaJet","EPalElementType::Water","EPalAdditionalEffectType::Wetness",[],15,"Hydro Jet","Hurls a high speed ball of water\r\nat an enemy.",{"WazaType":83,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":34,"IsLeanBack":18,"CameraShake":55,"MinRange":33,"MaxRange":84,"CoolTime":85,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":20,"EffectValueEx1":33,"EffectType2":62,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::SeedMachinegun",300,9,[],22,"Seed Machine Gun","Fires a volley of hard seeds\r\nat enemies in front of it.",{"WazaType":91,"Element":76,"IgnoreRandomInherit":18,"Category":53,"Power":21,"IsLeanBack":18,"CameraShake":92,"MinRange":93,"MaxRange":94,"CoolTime":95,"ForceRagdollSize":59,"EffectType1":77,"EffectValue1":20,"EffectValueEx1":33,"EffectType2":62,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":96,"bIsWeaponDamage":18,"DisabledData":18,"Level":54,"WazaName":97,"WazaDesc":98},"EPalWazaID::BubbleShot","EPalPlayerDamageCameraShakeCategory::Waza_M",1000,3500,13,[],"Bubble Blast","Fires numerous bubbles\r\nthat slowly pursue an enemy.",{"WazaType":100,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":101,"IsLeanBack":18,"CameraShake":92,"MinRange":102,"MaxRange":103,"CoolTime":104,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":21,"EffectValueEx1":33,"EffectType2":62,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":105,"bIsWeaponDamage":18,"DisabledData":18,"Level":106,"WazaName":107,"WazaDesc":108},"EPalWazaID::GrassTornado",80,700,3000,18,[],40,"Grass Tornado","Generates two tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":110,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":111,"IsLeanBack":18,"CameraShake":112,"MinRange":56,"MaxRange":113,"CoolTime":114,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":20,"EffectValueEx1":33,"EffectType2":62,"EffectValue2":33,"EffectValueEx2":33,"SpecialAttackRateInfos":115,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":116,"WazaDesc":117},"EPalWazaID::SolarBeam",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",1800,55,[],"Solar Blast","Charges solar energy before\r\nblasting enemies with a powerful beam.",[],"It prefers places that have an abundance of vegetation,\r\nbut hay fever has apparently become a problem for\r\n\u003CcharacterName id=|FlowerRabbit|/> as of late.",1706864118876]
+{
+  "name": "Flopie",
+  "title": "Star of the Flower Beds",
+  "image": "/images/full_palicon/T_FlowerRabbit_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Leaf",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "className": "elm5"
+    }
+  ],
+  "description": "It prefers places that have an abundance of vegetation,\nbut hay fever has apparently become a problem for\nFlowerRabbit as of late.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Herbs.png",
+      "name": "Low Grade Medical Supplies",
+      "amount": "1 - 1",
+      "rate": "20%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_WheatSeeds.png",
+      "name": "Wheat Seeds",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "75"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "65"
+    },
+    {
+      "name": "Price",
+      "value": "1220"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "400"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Helper Bunny",
+    "description": "While in team, appears near the player.\nAutomatically picks up nearby items."
+  },
+  "activeSkills": [
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Hydro Jet",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a high speed ball of water\nat an enemy."
+    },
+    {
+      "name": "Seed Machine Gun",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "0 - 300",
+      "description": "Fires a volley of hard seeds\nat enemies in front of it."
+    },
+    {
+      "name": "Bubble Blast",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "1000 - 3500",
+      "description": "Fires numerous bubbles\nthat slowly pursue an enemy."
+    },
+    {
+      "name": "Grass Tornado",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Solar Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges solar energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "flopie"
+}

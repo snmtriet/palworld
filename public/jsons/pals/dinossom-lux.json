@@ -1,1 +1,257 @@
-[{"data":1,"prerenderedAt":126},["Reactive",2],{"YXhmQXN8Eg":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":20,"Defense":20,"Support":21,"CraftSpeed":22,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":23,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":20,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":18,"Edible":6,"Stamina":22,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":38,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":39,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":38,"WorkSuitability_Deforest":39,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":55,"Drops":56,"ActiveSkills":61,"PassiveSkills":124,"Description":125},"Dinossom Lux","None",true,"EPalTribeID::FlowerDinosaur_Electric","FlowerDinosaur_Electric",64,"B","EPalSizeType::L",7,"EPalElementType::Electricity","EPalElementType::Dragon","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,110,90,150,100,1,3380,"Friendly",70,120,550,700,335,"EPalBattleBGMType::Cute",400,6,25,5,50,810,0,2,"Thunder Dragon","Can be ridden.\r\nEnhances \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> attacks while mounted.",[43,51],{"ParentTribeA":44,"ParentTribeB":47,"ChildCharacterID":50},{"name":45,"BPClass":46},"Dinossom","FlowerDinosaur",{"name":48,"BPClass":49},"Rayhound","ThunderDog",{"name":4,"BPClass":8},{"ParentTribeA":52,"ParentTribeB":53,"ChildCharacterID":54},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Guardian of Lightning",[57],{"max":39,"min":23,"rate":36,"name":58,"descr":59,"icon":60},"Tomato Seeds","Seeds that produce \u003CitemName id=|Tomato|/>.\r\nNecessary for starting a farm.\r\nCan be purchased from a merchant.","T_itemicon_Material_TomatoSeeds",[62,76,86,98,105,111,117],{"WazaType":63,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":65,"IsLeanBack":18,"CameraShake":66,"MinRange":38,"MaxRange":67,"CoolTime":68,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":71,"EffectValueEx1":38,"EffectType2":72,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":73,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":74,"WazaDesc":75},"EPalWazaID::ElecWave","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",300,4,"EPalSizeType::None","EPalAdditionalEffectType::Electrical",103,"EPalAdditionalEffectType::None",[],"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":77,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":78,"IsLeanBack":18,"CameraShake":79,"MinRange":80,"MaxRange":81,"CoolTime":82,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":72,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":83,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":84,"WazaDesc":85},"EPalWazaID::ThunderFunnel",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",500,9999,13,[],"Plasma Tornado","Creates two balls of electric energy\r\nthat fire numerous bolts of lightning at enemies.",{"WazaType":87,"Element":88,"IgnoreRandomInherit":6,"Category":64,"Power":89,"IsLeanBack":18,"CameraShake":79,"MinRange":38,"MaxRange":90,"CoolTime":91,"ForceRagdollSize":92,"EffectType1":93,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":72,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":94,"bIsWeaponDamage":18,"DisabledData":18,"Level":95,"WazaName":96,"WazaDesc":97},"EPalWazaID::Unique_FlowerDinosaur_Whip","EPalElementType::Leaf",60,1500,8,"EPalSizeType::S","EPalAdditionalEffectType::IvyCling",[],15,"Botanical Smash","Dinossom's exclusive skill.\r\nUses large tail to smash the ground in front of it,\r\ndamaging enemies over a wide area.",{"WazaType":99,"Element":14,"IgnoreRandomInherit":18,"Category":64,"Power":26,"IsLeanBack":18,"CameraShake":79,"MinRange":80,"MaxRange":90,"CoolTime":95,"ForceRagdollSize":69,"EffectType1":100,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":72,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":101,"bIsWeaponDamage":18,"DisabledData":18,"Level":102,"WazaName":103,"WazaDesc":104},"EPalWazaID::DragonBreath","EPalAdditionalEffectType::Burn",[],22,"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":106,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":20,"IsLeanBack":18,"CameraShake":79,"MinRange":38,"MaxRange":81,"CoolTime":102,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":71,"EffectValueEx1":38,"EffectType2":72,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":108,"WazaName":109,"WazaDesc":110},"EPalWazaID::ThreeThunder",[],30,"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":112,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":27,"IsLeanBack":18,"CameraShake":113,"MinRange":38,"MaxRange":80,"CoolTime":65,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":72,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":65,"WazaName":115,"WazaDesc":116},"EPalWazaID::LightningStrike","EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Lightning Strike","Acts as a lightning rod, calling down thunderbolts\r\nthat electrocute the surrounding area.",{"WazaType":118,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":21,"IsLeanBack":18,"CameraShake":113,"MinRange":80,"MaxRange":119,"CoolTime":120,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":72,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":121,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":122,"WazaDesc":123},"EPalWazaID::Thunderbolt",3000,55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"Though struck by lightning, it lives on.\r\nThe phrase |struck by a \u003CcharacterName id=|FlowerDinosaur_Electric|/>'s bolt| has come to mean\r\nnarrowly escaping death.",1706864118340]
+{
+  "name": "Dinossom Lux",
+  "title": "Guardian of Lightning",
+  "image": "/images/full_palicon/T_FlowerDinosaur_Electric_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "7",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    },
+    {
+      "name": "Dragon",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "className": "elm3"
+    }
+  ],
+  "description": "Though struck by lightning, it lives on.\nThe phrase |struck by a FlowerDinosaur_Electric's bolt| has come to mean\nnarrowly escaping death.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_TomatoSeeds.png",
+      "name": "Tomato Seeds",
+      "amount": "1 - 2",
+      "rate": "50%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "110"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "90"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "90"
+    },
+    {
+      "name": "Price",
+      "value": "3380"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "150"
+    },
+    {
+      "name": "Running Speed",
+      "value": "550"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "70"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Dinossom",
+        "image": "/images/palicon/T_FlowerDinosaur_icon_normal.png"
+      },
+      "female": {
+        "name": "Rayhound",
+        "image": "/images/palicon/T_ThunderDog_icon_normal.png"
+      },
+      "result": {
+        "name": "Dinossom Lux",
+        "image": "/images/palicon/T_FlowerDinosaur_Electric_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Dinossom Lux",
+        "image": "/images/palicon/T_FlowerDinosaur_Electric_icon_normal.png"
+      },
+      "female": {
+        "name": "Dinossom Lux",
+        "image": "/images/palicon/T_FlowerDinosaur_Electric_icon_normal.png"
+      },
+      "result": {
+        "name": "Dinossom Lux",
+        "image": "/images/palicon/T_FlowerDinosaur_Electric_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Thunder Dragon",
+    "description": "Can be ridden.\nEnhances COMMON_ELEMENT_NAME_Electricity attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Shockwave",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Plasma Tornado",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "500 - 9999",
+      "description": "Creates two balls of electric energy\nthat fire numerous bolts of lightning at enemies."
+    },
+    {
+      "name": "Botanical Smash",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "60",
+      "coolDown": "8",
+      "range": "0 - 1500",
+      "description": "Dinossom's exclusive skill.\nUses large tail to smash the ground in front of it,\ndamaging enemies over a wide area."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Lightning Strike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "0 - 500",
+      "description": "Acts as a lightning rod, calling down thunderbolts\nthat electrocute the surrounding area."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "dinossom-lux"
+}

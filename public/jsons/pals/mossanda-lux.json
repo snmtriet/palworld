@@ -1,1 +1,264 @@
-[{"data":1,"prerenderedAt":130},["Reactive",2],{"ns85EVv5Vm":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":19,"Defense":19,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":20,"CaptureRateCorrect":20,"ExpRatio":20,"Price":21,"AIResponse":22,"AISightResponse":5,"SlowWalkSpeed":23,"WalkSpeed":19,"RunSpeed":24,"RideSprintSpeed":25,"TransportSpeed":26,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":27,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":28,"FullStomachDecreaseRate":20,"FoodAmount":29,"ViewingDistance":30,"ViewingAngle":31,"HearingRate":20,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":32,"Predator":18,"Edible":6,"Stamina":19,"MaleProbability":23,"CombiRank":33,"WorkSuitability_EmitFlame":34,"WorkSuitability_Watering":34,"WorkSuitability_Seeding":34,"WorkSuitability_GenerateElectricity":35,"WorkSuitability_Handcraft":35,"WorkSuitability_Collection":34,"WorkSuitability_Deforest":35,"WorkSuitability_Mining":34,"WorkSuitability_OilExtraction":34,"WorkSuitability_ProductMedicine":34,"WorkSuitability_Cool":34,"WorkSuitability_Transport":32,"WorkSuitability_MonsterFarm":34,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":36,"PartnerSkillDesc":37,"Combinations":38,"PrefixName":51,"Drops":52,"ActiveSkills":65,"PassiveSkills":128,"Description":129},"Mossanda Lux","None",true,"EPalTribeID::GrassPanda_Electric","GrassPanda_Electric",33,"B","EPalSizeType::L",7,"EPalElementType::Electricity","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,100,1,6610,"Warlike",50,500,700,275,"EPalBattleBGMType::Cool",350,5,25,90,3,390,0,2,"Grenadier Panda","Can be ridden.\r\nCan rapidly fire a grenade launcher while mounted.",[39,47],{"ParentTribeA":40,"ParentTribeB":43,"ChildCharacterID":46},{"name":41,"BPClass":42},"Mossanda","GrassPanda",{"name":44,"BPClass":45},"Grizzbolt","ElecPanda",{"name":4,"BPClass":8},{"ParentTribeA":48,"ParentTribeB":49,"ChildCharacterID":50},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Inheritor of the Storm",[53,57,61],{"max":32,"min":35,"rate":19,"name":54,"descr":55,"icon":56},"Mushroom","A mushroom that can be eaten raw.\r\nThey can be found anywhere on the island.","T_itemicon_Food_Mushroom",{"max":35,"min":20,"rate":19,"name":58,"descr":59,"icon":60},"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",{"max":32,"min":35,"rate":19,"name":62,"descr":63,"icon":64},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",[66,78,87,97,107,113,120],{"WazaType":67,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":69,"IsLeanBack":18,"CameraShake":70,"MinRange":24,"MaxRange":71,"CoolTime":35,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":19,"EffectValueEx1":34,"EffectType2":74,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":75,"bIsWeaponDamage":18,"DisabledData":18,"Level":20,"WazaName":76,"WazaDesc":77},"EPalWazaID::SpreadPulse","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",5000,"EPalSizeType::None","EPalAdditionalEffectType::Electrical","EPalAdditionalEffectType::None",[],"Spark Blast","The user releases a lightning ball\r\nthat expands outward in a forward, circular pattern.",{"WazaType":79,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":80,"IsLeanBack":18,"CameraShake":70,"MinRange":34,"MaxRange":81,"CoolTime":82,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":83,"EffectValueEx1":34,"EffectType2":74,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":85,"WazaDesc":86},"EPalWazaID::ElecWave",40,300,4,103,[],"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":88,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":89,"IsLeanBack":18,"CameraShake":90,"MinRange":24,"MaxRange":91,"CoolTime":92,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":19,"EffectValueEx1":34,"EffectType2":74,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":93,"bIsWeaponDamage":18,"DisabledData":18,"Level":94,"WazaName":95,"WazaDesc":96},"EPalWazaID::LineThunder",75,"EPalPlayerDamageCameraShakeCategory::Waza_M",2000,16,[],15,"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":98,"Element":13,"IgnoreRandomInherit":6,"Category":99,"Power":100,"IsLeanBack":18,"CameraShake":90,"MinRange":34,"MaxRange":25,"CoolTime":101,"ForceRagdollSize":102,"EffectType1":73,"EffectValue1":19,"EffectValueEx1":34,"EffectType2":74,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":104,"WazaName":105,"WazaDesc":106},"EPalWazaID::Unique_GrassPanda_Electric_ElectricPunch","EPalWazaCategory::Melee",85,14,"EPalSizeType::S",[],22,"Blast Punch","\u003CcharacterName id=|GrassPanda_Electric|/>'s exclusive skill.\r\nWinds up its fist before pummeling an enemy with a flurry of electrically charged punches.",{"WazaType":108,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":31,"IsLeanBack":18,"CameraShake":90,"MinRange":34,"MaxRange":109,"CoolTime":104,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":83,"EffectValueEx1":34,"EffectType2":74,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":110,"bIsWeaponDamage":18,"DisabledData":18,"Level":69,"WazaName":111,"WazaDesc":112},"EPalWazaID::ThreeThunder",9999,[],"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":114,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":115,"IsLeanBack":18,"CameraShake":116,"MinRange":34,"MaxRange":24,"CoolTime":80,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":19,"EffectValueEx1":34,"EffectType2":74,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":117,"bIsWeaponDamage":18,"DisabledData":18,"Level":80,"WazaName":118,"WazaDesc":119},"EPalWazaID::LightningStrike",120,"EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Lightning Strike","Acts as a lightning rod, calling down thunderbolts\r\nthat electrocute the surrounding area.",{"WazaType":121,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":122,"IsLeanBack":18,"CameraShake":116,"MinRange":24,"MaxRange":123,"CoolTime":124,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":19,"EffectValueEx1":34,"EffectType2":74,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":125,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":126,"WazaDesc":127},"EPalWazaID::Thunderbolt",150,3000,55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"A Pal whose power is truly shocking.\r\nBy altering the electrical currents in its body, this Pal's been able to overload its own strength.\r\nWhen it comes to sheer power, this Pal may be top of the list.",1706864120173]
+{
+  "name": "Mossanda Lux",
+  "title": "Inheritor of the Storm",
+  "image": "/images/full_palicon/T_GrassPanda_Electric_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "7",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "A Pal whose power is truly shocking.\nBy altering the electrical currents in its body, this Pal's been able to overload its own strength.\nWhen it comes to sheer power, this Pal may be top of the list.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Mushroom.png",
+      "name": "Mushroom",
+      "amount": "2 - 3",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "6610"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "500"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "50"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Mossanda",
+        "image": "/images/palicon/T_GrassPanda_icon_normal.png"
+      },
+      "female": {
+        "name": "Grizzbolt",
+        "image": "/images/palicon/T_ElecPanda_icon_normal.png"
+      },
+      "result": {
+        "name": "Mossanda Lux",
+        "image": "/images/palicon/T_GrassPanda_Electric_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Mossanda Lux",
+        "image": "/images/palicon/T_GrassPanda_Electric_icon_normal.png"
+      },
+      "female": {
+        "name": "Mossanda Lux",
+        "image": "/images/palicon/T_GrassPanda_Electric_icon_normal.png"
+      },
+      "result": {
+        "name": "Mossanda Lux",
+        "image": "/images/palicon/T_GrassPanda_Electric_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Grenadier Panda",
+    "description": "Can be ridden.\nCan rapidly fire a grenade launcher while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Spark Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "The user releases a lightning ball\nthat expands outward in a forward, circular pattern."
+    },
+    {
+      "name": "Shockwave",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Blast Punch",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "85",
+      "coolDown": "14",
+      "range": "0 - 700",
+      "description": "GrassPanda_Electric's exclusive skill.\nWinds up its fist before pummeling an enemy with a flurry of electrically charged punches."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Lightning Strike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "0 - 500",
+      "description": "Acts as a lightning rod, calling down thunderbolts\nthat electrocute the surrounding area."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "mossanda-lux"
+}

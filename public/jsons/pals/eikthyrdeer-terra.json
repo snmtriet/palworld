@@ -1,1 +1,264 @@
-[{"data":1,"prerenderedAt":142},["Reactive",2],{"C1fqsKbvWs":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":21,"Support":22,"CraftSpeed":22,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":21,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":18,"Edible":6,"Stamina":22,"MaleProbability":36,"CombiRank":28,"WorkSuitability_EmitFlame":35,"WorkSuitability_Watering":35,"WorkSuitability_Seeding":35,"WorkSuitability_GenerateElectricity":35,"WorkSuitability_Handcraft":35,"WorkSuitability_Collection":35,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":35,"WorkSuitability_ProductMedicine":35,"WorkSuitability_Cool":35,"WorkSuitability_Transport":35,"WorkSuitability_MonsterFarm":35,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":53,"Drops":54,"ActiveSkills":68,"PassiveSkills":140,"Description":141},"Eikthyrdeer Terra","None",true,"EPalTribeID::Deer_Ground","Deer_Ground",37,"B","EPalSizeType::L",6,"EPalElementType::Earth","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,95,70,80,100,1,2680,"Escape_to_Battle",120,700,900,390,"EPalBattleBGMType::Cute",350,5,25,90,0,50,2,"Guardian of the Golden Forest","Can be ridden.\r\nCan perform a double jump while mounted.\r\nIncreases efficiency of cutting trees.",[41,49],{"ParentTribeA":42,"ParentTribeB":45,"ChildCharacterID":48},{"name":43,"BPClass":44},"Eikthyrdeer","Deer",{"name":46,"BPClass":47},"Hangyu","WindChimes",{"name":4,"BPClass":8},{"ParentTribeA":50,"ParentTribeB":51,"ChildCharacterID":52},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Antlers of Gold",[55,59,64],{"max":37,"min":37,"rate":22,"name":56,"descr":57,"icon":58},"Eikthyrdeer Venison","\u003CcharacterName id=|Deer|/> meat.\r\nLight and lean, but rich in flavor.","T_itemicon_Food_Meat_Deer",{"max":60,"min":37,"rate":22,"name":61,"descr":62,"icon":63},3,"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":37,"min":37,"rate":22,"name":65,"descr":66,"icon":67},"Horn","\u003CitemName id=|Horn|/> collected from Pals.\r\nUsed to create medicines and more.","T_itemicon_Material_Horn",[69,83,96,107,117,125,133],{"WazaType":70,"Element":71,"IgnoreRandomInherit":18,"Category":72,"Power":73,"IsLeanBack":18,"CameraShake":74,"MinRange":75,"MaxRange":76,"CoolTime":77,"ForceRagdollSize":78,"EffectType1":79,"EffectValue1":35,"EffectValueEx1":35,"EffectType2":79,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":80,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":81,"WazaDesc":82},"EPalWazaID::PowerShot","EPalElementType::Normal","EPalWazaCategory::Shot",35,"EPalPlayerDamageCameraShakeCategory::Waza_S",600,3000,4,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":84,"Element":71,"IgnoreRandomInherit":6,"Category":85,"Power":36,"IsLeanBack":18,"CameraShake":86,"MinRange":87,"MaxRange":88,"CoolTime":32,"ForceRagdollSize":78,"EffectType1":79,"EffectValue1":35,"EffectValueEx1":35,"EffectType2":79,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":89,"bIsWeaponDamage":18,"DisabledData":18,"Level":93,"WazaName":94,"WazaDesc":95},"EPalWazaID::Unique_Deer_PushupHorn","EPalWazaCategory::Melee","EPalPlayerDamageCameraShakeCategory::Waza_M",550,2000,[90],{"Type":91,"Rate":92},"EPalSpecialAttackRateType::vsWood",1.1,7,"Antler Uppercut","Eikthyrdeer's exclusive skill.\r\nCharges at foes and uses antlers to launch them into the air.\r\nIf used while riding, the direction of the charge can be controlled.",{"WazaType":97,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":98,"IsLeanBack":18,"CameraShake":74,"MinRange":99,"MaxRange":100,"CoolTime":101,"ForceRagdollSize":78,"EffectType1":102,"EffectValue1":22,"EffectValueEx1":35,"EffectType2":79,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":104,"WazaName":105,"WazaDesc":106},"EPalWazaID::StoneShotgun",55,500,4000,10,"EPalAdditionalEffectType::Muddy",[],15,"Stone Blast","Fires a barrage of stones forward.",{"WazaType":108,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":20,"IsLeanBack":18,"CameraShake":86,"MinRange":99,"MaxRange":109,"CoolTime":104,"ForceRagdollSize":110,"EffectType1":102,"EffectValue1":73,"EffectValueEx1":35,"EffectType2":111,"EffectValue2":112,"EffectValueEx2":35,"SpecialAttackRateInfos":113,"bIsWeaponDamage":18,"DisabledData":18,"Level":114,"WazaName":115,"WazaDesc":116},"EPalWazaID::ThrowRock",2500,"EPalSizeType::XS","EPalAdditionalEffectType::Stun",20,[],22,"Stone Cannon","Digs up a boulder\r\nand hurls it at an enemy.",{"WazaType":118,"Element":71,"IgnoreRandomInherit":18,"Category":72,"Power":20,"IsLeanBack":18,"CameraShake":86,"MinRange":119,"MaxRange":120,"CoolTime":104,"ForceRagdollSize":110,"EffectType1":79,"EffectValue1":35,"EffectValueEx1":35,"EffectType2":79,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":121,"bIsWeaponDamage":18,"DisabledData":18,"Level":122,"WazaName":123,"WazaDesc":124},"EPalWazaID::PowerBall",1000,9999,[],30,"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":126,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":21,"IsLeanBack":18,"CameraShake":86,"MinRange":22,"MaxRange":76,"CoolTime":127,"ForceRagdollSize":78,"EffectType1":102,"EffectValue1":128,"EffectValueEx1":35,"EffectType2":79,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":129,"bIsWeaponDamage":18,"DisabledData":18,"Level":130,"WazaName":131,"WazaDesc":132},"EPalWazaID::SandTornado",18,65,[],40,"Sand Tornado","Generates two sand tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":134,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":135,"IsLeanBack":18,"CameraShake":136,"MinRange":22,"MaxRange":120,"CoolTime":98,"ForceRagdollSize":78,"EffectType1":102,"EffectValue1":22,"EffectValueEx1":35,"EffectType2":79,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":137,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":138,"WazaDesc":139},"EPalWazaID::RockLance",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Rock Lance","Generates a sharp rock spear\r\nunder an enemy.",[],"The individual with the hardest horns becomes the leader.\r\nOnce the horns are lost, so too is its leadership status.\r\nIt leaves the herd amidst farewell glances and quietly returns to the earth.",1706864116446]
+{
+  "name": "Eikthyrdeer Terra",
+  "title": "Antlers of Gold",
+  "image": "/images/full_palicon/T_Deer_Ground_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "The individual with the hardest horns becomes the leader.\nOnce the horns are lost, so too is its leadership status.\nIt leaves the herd amidst farewell glances and quietly returns to the earth.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_Deer.png",
+      "name": "Eikthyrdeer Venison",
+      "amount": "2 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "2 - 3",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Horn.png",
+      "name": "Horn",
+      "amount": "2 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "95"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "70"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "80"
+    },
+    {
+      "name": "Price",
+      "value": "2680"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "700"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "900"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "80"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Eikthyrdeer",
+        "image": "/images/palicon/T_Deer_icon_normal.png"
+      },
+      "female": {
+        "name": "Hangyu",
+        "image": "/images/palicon/T_WindChimes_icon_normal.png"
+      },
+      "result": {
+        "name": "Eikthyrdeer Terra",
+        "image": "/images/palicon/T_Deer_Ground_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Eikthyrdeer Terra",
+        "image": "/images/palicon/T_Deer_Ground_icon_normal.png"
+      },
+      "female": {
+        "name": "Eikthyrdeer Terra",
+        "image": "/images/palicon/T_Deer_Ground_icon_normal.png"
+      },
+      "result": {
+        "name": "Eikthyrdeer Terra",
+        "image": "/images/palicon/T_Deer_Ground_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Guardian of the Golden Forest",
+    "description": "Can be ridden.\nCan perform a double jump while mounted.\nIncreases efficiency of cutting trees."
+  },
+  "activeSkills": [
+    {
+      "name": "Power Shot",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Antler Uppercut",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "50",
+      "coolDown": "5",
+      "range": "550 - 2000",
+      "description": "Eikthyrdeer's exclusive skill.\nCharges at foes and uses antlers to launch them into the air.\nIf used while riding, the direction of the charge can be controlled."
+    },
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Stone Cannon",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 2500",
+      "description": "Digs up a boulder\nand hurls it at an enemy."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Sand Tornado",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 3000",
+      "description": "Generates two sand tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Rock Lance",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "100 - 9999",
+      "description": "Generates a sharp rock spear\nunder an enemy."
+    }
+  ],
+  "uniqueName": "eikthyrdeer-terra"
+}

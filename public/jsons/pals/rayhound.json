@@ -1,1 +1,252 @@
-[{"data":1,"prerenderedAt":130},["Reactive",2],{"Oca8f7iwAB":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":20,"Defense":21,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":22,"FoodAmount":12,"ViewingDistance":32,"ViewingAngle":19,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":6,"Edible":6,"Stamina":20,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":57,"Drops":58,"ActiveSkills":63,"PassiveSkills":128,"Description":129},"Rayhound","None",true,"EPalTribeID::ThunderDog","ThunderDog",60,"","EPalSizeType::M",5,"EPalElementType::Electricity","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,90,100,80,1,3880,"Warlike",110,210,700,1150,455,"EPalBattleBGMType::Cute",350,25,3,50,740,0,2,"Jumping Force","Can be ridden.\r\nCan double jump while mounted.",[41,49],{"ParentTribeA":42,"ParentTribeB":45,"ChildCharacterID":46},{"name":43,"BPClass":44},"Dinossom","FlowerDinosaur",{"name":4,"BPClass":8},{"name":47,"BPClass":48},"Dinossom Lux","FlowerDinosaur_Electric",{"ParentTribeA":50,"ParentTribeB":53,"ChildCharacterID":54},{"name":51,"BPClass":52},"Mossanda","GrassPanda",{"name":4,"BPClass":8},{"name":55,"BPClass":56},"Grizzbolt","ElecPanda","Electro-charged Zoomies",[59],{"max":37,"min":22,"rate":20,"name":60,"descr":61,"icon":62},"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",[64,79,88,96,105,113,121],{"WazaType":65,"Element":66,"IgnoreRandomInherit":18,"Category":67,"Power":68,"IsLeanBack":18,"CameraShake":69,"MinRange":70,"MaxRange":71,"CoolTime":72,"ForceRagdollSize":73,"EffectType1":74,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":75,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":76,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":77,"WazaDesc":78},"EPalWazaID::MudShot","EPalElementType::Earth","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,3000,4,"EPalSizeType::None","EPalAdditionalEffectType::Muddy","EPalAdditionalEffectType::None",[],"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":80,"Element":13,"IgnoreRandomInherit":18,"Category":67,"Power":68,"IsLeanBack":18,"CameraShake":69,"MinRange":36,"MaxRange":81,"CoolTime":72,"ForceRagdollSize":73,"EffectType1":82,"EffectValue1":83,"EffectValueEx1":36,"EffectType2":75,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":85,"WazaName":86,"WazaDesc":87},"EPalWazaID::ElecWave",300,"EPalAdditionalEffectType::Electrical",103,[],7,"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":89,"Element":13,"IgnoreRandomInherit":18,"Category":67,"Power":90,"IsLeanBack":18,"CameraShake":69,"MinRange":70,"MaxRange":91,"CoolTime":37,"ForceRagdollSize":73,"EffectType1":82,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":75,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":92,"bIsWeaponDamage":18,"DisabledData":18,"Level":93,"WazaName":94,"WazaDesc":95},"EPalWazaID::SpreadPulse",30,5000,[],15,"Spark Blast","The user releases a lightning ball\r\nthat expands outward in a forward, circular pattern.",{"WazaType":97,"Element":66,"IgnoreRandomInherit":18,"Category":67,"Power":98,"IsLeanBack":18,"CameraShake":69,"MinRange":70,"MaxRange":99,"CoolTime":100,"ForceRagdollSize":73,"EffectType1":74,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":75,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":101,"bIsWeaponDamage":18,"DisabledData":18,"Level":102,"WazaName":103,"WazaDesc":104},"EPalWazaID::StoneShotgun",55,4000,10,[],22,"Stone Blast","Fires a barrage of stones forward.",{"WazaType":106,"Element":13,"IgnoreRandomInherit":18,"Category":67,"Power":34,"IsLeanBack":18,"CameraShake":107,"MinRange":70,"MaxRange":108,"CoolTime":109,"ForceRagdollSize":73,"EffectType1":82,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":75,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":110,"bIsWeaponDamage":18,"DisabledData":18,"Level":90,"WazaName":111,"WazaDesc":112},"EPalWazaID::ThunderBall","EPalPlayerDamageCameraShakeCategory::Waza_M",2500,9,[],"Electric Ball","Fires an electric ball\r\nthat slowly pursues an enemy.",{"WazaType":114,"Element":13,"IgnoreRandomInherit":18,"Category":67,"Power":115,"IsLeanBack":18,"CameraShake":107,"MinRange":70,"MaxRange":116,"CoolTime":117,"ForceRagdollSize":73,"EffectType1":82,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":75,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":118,"bIsWeaponDamage":18,"DisabledData":18,"Level":68,"WazaName":119,"WazaDesc":120},"EPalWazaID::LineThunder",75,2000,16,[],"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":122,"Element":13,"IgnoreRandomInherit":18,"Category":67,"Power":123,"IsLeanBack":18,"CameraShake":124,"MinRange":70,"MaxRange":71,"CoolTime":98,"ForceRagdollSize":73,"EffectType1":82,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":75,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":125,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":126,"WazaDesc":127},"EPalWazaID::Thunderbolt",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"At full speed, it could be mistaken for a bolt of lightning.\r\nIf two \u003CcharacterName id=|ThunderDog|/>s collide, the sound is like that\r\nof a powerful thunderclap.",1706864129944]
+{
+  "name": "Rayhound",
+  "title": "Electro-charged Zoomies",
+  "image": "/images/full_palicon/T_ThunderDog_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "5",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "At full speed, it could be mistaken for a bolt of lightning.\nIf two ThunderDogs collide, the sound is like that\nof a powerful thunderclap.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "1 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "3880"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "700"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1150"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "110"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Dinossom",
+        "image": "/images/palicon/T_FlowerDinosaur_icon_normal.png"
+      },
+      "female": {
+        "name": "Rayhound",
+        "image": "/images/palicon/T_ThunderDog_icon_normal.png"
+      },
+      "result": {
+        "name": "Dinossom Lux",
+        "image": "/images/palicon/T_FlowerDinosaur_Electric_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Mossanda",
+        "image": "/images/palicon/T_GrassPanda_icon_normal.png"
+      },
+      "female": {
+        "name": "Rayhound",
+        "image": "/images/palicon/T_ThunderDog_icon_normal.png"
+      },
+      "result": {
+        "name": "Grizzbolt",
+        "image": "/images/palicon/T_ElecPanda_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Jumping Force",
+    "description": "Can be ridden.\nCan double jump while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Shockwave",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Spark Blast",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "The user releases a lightning ball\nthat expands outward in a forward, circular pattern."
+    },
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Electric Ball",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "500 - 2500",
+      "description": "Fires an electric ball\nthat slowly pursues an enemy."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "rayhound"
+}

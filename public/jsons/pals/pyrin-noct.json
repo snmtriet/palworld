@@ -1,1 +1,263 @@
-[{"data":1,"prerenderedAt":132},["Reactive",2],{"vrEFLXeWqz":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":22,"HearingRate":23,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":32,"Predator":18,"Edible":6,"Stamina":19,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":23,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":37,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":53,"Drops":54,"ActiveSkills":65,"PassiveSkills":130,"Description":131},"Pyrin Noct","None",true,"EPalTribeID::FireKirin_Dark","FireKirin_Dark",58,"B","EPalSizeType::L",7,"EPalElementType::Fire","EPalElementType::Dark","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,100,110,95,90,1,7270,"Warlike",150,850,1300,500,"EPalBattleBGMType::Cool",350,5,25,50,240,2,0,"Black Hare","Can be ridden.\r\nApplies \u003CuiCommon id=|COMMON_ELEMENT_NAME_Dark|/> damage\r\nto the player's attacks while mounted.",[41,49],{"ParentTribeA":42,"ParentTribeB":45,"ChildCharacterID":48},{"name":43,"BPClass":44},"Pyrin","FireKirin",{"name":46,"BPClass":47},"Katress","CatMage",{"name":4,"BPClass":8},{"ParentTribeA":50,"ParentTribeB":51,"ChildCharacterID":52},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Steed of Darkness",[55,60],{"max":32,"min":56,"rate":19,"name":57,"descr":58,"icon":59},4,"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",{"max":61,"min":36,"rate":19,"name":62,"descr":63,"icon":64},3,"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",[66,78,88,96,105,115,124],{"WazaType":67,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":69,"IsLeanBack":18,"CameraShake":70,"MinRange":29,"MaxRange":71,"CoolTime":36,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":34,"EffectValueEx1":37,"EffectType2":74,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":75,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":76,"WazaDesc":77},"EPalWazaID::FireBlast","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",5000,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":79,"Element":14,"IgnoreRandomInherit":18,"Category":68,"Power":80,"IsLeanBack":18,"CameraShake":81,"MinRange":37,"MaxRange":82,"CoolTime":83,"ForceRagdollSize":72,"EffectType1":84,"EffectValue1":34,"EffectValueEx1":37,"EffectType2":74,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":85,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":86,"WazaDesc":87},"EPalWazaID::DarkWave",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",300,10,"EPalAdditionalEffectType::Darkness",[],"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":89,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":90,"IsLeanBack":18,"CameraShake":81,"MinRange":29,"MaxRange":91,"CoolTime":92,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":19,"EffectValueEx1":37,"EffectType2":74,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":93,"bIsWeaponDamage":18,"DisabledData":18,"Level":92,"WazaName":94,"WazaDesc":95},"EPalWazaID::Flamethrower",70,1500,15,[],"Ignis Breath","Shoots flames at an enemy,\r\ndealing continuous damage.",{"WazaType":97,"Element":14,"IgnoreRandomInherit":18,"Category":68,"Power":98,"IsLeanBack":18,"CameraShake":81,"MinRange":29,"MaxRange":71,"CoolTime":99,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":100,"EffectValueEx1":37,"EffectType2":74,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":101,"bIsWeaponDamage":18,"DisabledData":18,"Level":102,"WazaName":103,"WazaDesc":104},"EPalWazaID::GhostFlame",75,16,102,[],22,"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":106,"Element":14,"IgnoreRandomInherit":6,"Category":107,"Power":108,"IsLeanBack":18,"CameraShake":81,"MinRange":37,"MaxRange":109,"CoolTime":110,"ForceRagdollSize":111,"EffectType1":84,"EffectValue1":34,"EffectValueEx1":37,"EffectType2":74,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":69,"WazaName":113,"WazaDesc":114},"EPalWazaID::Unique_FireKirin_Dark_DarkTossin","EPalWazaCategory::Melee",85,2500,14,"EPalSizeType::S",[],"Dark Charge","\u003CcharacterName id=|FireKirin_Dark|/>'s exclusive skill.\r\nCharges forward while clad in a veil of dark flames.\r\nFlames continue to burn in its trajectory.",{"WazaType":116,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":117,"IsLeanBack":18,"CameraShake":118,"MinRange":19,"MaxRange":119,"CoolTime":120,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":19,"EffectValueEx1":37,"EffectType2":74,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":121,"bIsWeaponDamage":18,"DisabledData":18,"Level":120,"WazaName":122,"WazaDesc":123},"EPalWazaID::Inferno",120,"EPalPlayerDamageCameraShakeCategory::Waza_L",1000,40,[],"Ignis Rage","Energizes the surrounding ground,\r\ncausing it to explode after a set amount of time.",{"WazaType":125,"Element":14,"IgnoreRandomInherit":18,"Category":68,"Power":26,"IsLeanBack":18,"CameraShake":118,"MinRange":29,"MaxRange":126,"CoolTime":80,"ForceRagdollSize":72,"EffectType1":84,"EffectValue1":19,"EffectValueEx1":37,"EffectType2":74,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":127,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":128,"WazaDesc":129},"EPalWazaID::DarkLaser",1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"It burns mysterious dark matter as energy\r\nand expels the remaining particles from its body.\r\nIf someone rides it, they should take care so as not to gallop down the path of darkness.",1706864117850]
+{
+  "name": "Pyrin Noct",
+  "title": "Steed of Darkness",
+  "image": "/images/full_palicon/T_FireKirin_Dark_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "7",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    },
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "It burns mysterious dark matter as energy\nand expels the remaining particles from its body.\nIf someone rides it, they should take care so as not to gallop down the path of darkness.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "4 - 5",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "110"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "95"
+    },
+    {
+      "name": "Price",
+      "value": "7270"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "850"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1300"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Pyrin",
+        "image": "/images/palicon/T_FireKirin_icon_normal.png"
+      },
+      "female": {
+        "name": "Katress",
+        "image": "/images/palicon/T_CatMage_icon_normal.png"
+      },
+      "result": {
+        "name": "Pyrin Noct",
+        "image": "/images/palicon/T_FireKirin_Dark_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Pyrin Noct",
+        "image": "/images/palicon/T_FireKirin_Dark_icon_normal.png"
+      },
+      "female": {
+        "name": "Pyrin Noct",
+        "image": "/images/palicon/T_FireKirin_Dark_icon_normal.png"
+      },
+      "result": {
+        "name": "Pyrin Noct",
+        "image": "/images/palicon/T_FireKirin_Dark_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Black Hare",
+    "description": "Can be ridden.\nApplies COMMON_ELEMENT_NAME_Dark damage\nto the player's attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Ignis Breath",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Shoots flames at an enemy,\ndealing continuous damage."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Dark Charge",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "85",
+      "coolDown": "14",
+      "range": "0 - 2500",
+      "description": "FireKirin_Dark's exclusive skill.\nCharges forward while clad in a veil of dark flames.\nFlames continue to burn in its trajectory."
+    },
+    {
+      "name": "Ignis Rage",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "100 - 1000",
+      "description": "Energizes the surrounding ground,\ncausing it to explode after a set amount of time."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "pyrin-noct"
+}

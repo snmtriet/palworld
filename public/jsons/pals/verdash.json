@@ -1,1 +1,229 @@
-[{"data":1,"prerenderedAt":124},["Reactive",2],{"qWd71ZGa9C":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":22,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":19,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":25,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":32,"WorkSuitability_Collection":32,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":41,"Drops":42,"ActiveSkills":51,"PassiveSkills":122,"Description":123},"Verdash","None",true,"EPalTribeID::GrassRabbitMan","GrassRabbitMan",77,"","EPalSizeType::M",8,"EPalElementType::Leaf","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,90,100,115,1,2200,"Warlike",50,195,500,700,275,"EPalBattleBGMType::Cute",225,3,25,5,990,0,2,"Grassland Speedster","When fighting together, increases player's movement speed and\r\napplies \u003CuiCommon id=|COMMON_ELEMENT_NAME_Leaf|/> damage to the player's attacks.",[],"Gale of the Forest",[43,47],{"max":37,"min":22,"rate":20,"name":44,"descr":45,"icon":46},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":22,"min":22,"rate":20,"name":48,"descr":49,"icon":50},"Bone","\u003CitemName id=|Bone|/> collected from Pals.\r\nUsed in the creation of high quality Paldium.","T_itemicon_Material_Bone",[52,65,80,87,96,105,114],{"WazaType":53,"Element":13,"IgnoreRandomInherit":18,"Category":54,"Power":55,"IsLeanBack":18,"CameraShake":56,"MinRange":27,"MaxRange":57,"CoolTime":37,"ForceRagdollSize":58,"EffectType1":59,"EffectValue1":60,"EffectValueEx1":36,"EffectType2":61,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":62,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":63,"WazaDesc":64},"EPalWazaID::WindCutter","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",5000,"EPalSizeType::None","EPalAdditionalEffectType::IvyCling",35,"EPalAdditionalEffectType::None",[],"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":66,"Element":67,"IgnoreRandomInherit":18,"Category":54,"Power":68,"IsLeanBack":18,"CameraShake":69,"MinRange":27,"MaxRange":70,"CoolTime":71,"ForceRagdollSize":72,"EffectType1":73,"EffectValue1":60,"EffectValueEx1":36,"EffectType2":74,"EffectValue2":75,"EffectValueEx2":36,"SpecialAttackRateInfos":76,"bIsWeaponDamage":18,"DisabledData":18,"Level":77,"WazaName":78,"WazaDesc":79},"EPalWazaID::ThrowRock","EPalElementType::Earth",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",2500,15,"EPalSizeType::XS","EPalAdditionalEffectType::Muddy","EPalAdditionalEffectType::Stun",20,[],7,"Stone Cannon","Digs up a boulder\r\nand hurls it at an enemy.",{"WazaType":81,"Element":13,"IgnoreRandomInherit":18,"Category":54,"Power":25,"IsLeanBack":18,"CameraShake":56,"MinRange":36,"MaxRange":82,"CoolTime":83,"ForceRagdollSize":58,"EffectType1":59,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":61,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":71,"WazaName":85,"WazaDesc":86},"EPalWazaID::SeedMachinegun",300,9,[],"Seed Machine Gun","Fires a volley of hard seeds\r\nat enemies in front of it.",{"WazaType":88,"Element":67,"IgnoreRandomInherit":18,"Category":54,"Power":89,"IsLeanBack":18,"CameraShake":56,"MinRange":27,"MaxRange":90,"CoolTime":91,"ForceRagdollSize":58,"EffectType1":73,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":61,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":92,"bIsWeaponDamage":18,"DisabledData":18,"Level":93,"WazaName":94,"WazaDesc":95},"EPalWazaID::StoneShotgun",55,4000,10,[],22,"Stone Blast","Fires a barrage of stones forward.",{"WazaType":97,"Element":13,"IgnoreRandomInherit":18,"Category":54,"Power":98,"IsLeanBack":18,"CameraShake":69,"MinRange":28,"MaxRange":99,"CoolTime":100,"ForceRagdollSize":58,"EffectType1":59,"EffectValue1":101,"EffectValueEx1":36,"EffectType2":61,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":102,"bIsWeaponDamage":18,"DisabledData":18,"Level":55,"WazaName":103,"WazaDesc":104},"EPalWazaID::GrassTornado",80,3000,18,65,[],"Grass Tornado","Generates two tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":106,"Element":13,"IgnoreRandomInherit":18,"Category":54,"Power":107,"IsLeanBack":18,"CameraShake":69,"MinRange":27,"MaxRange":108,"CoolTime":33,"ForceRagdollSize":109,"EffectType1":59,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":61,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":110,"bIsWeaponDamage":18,"DisabledData":18,"Level":111,"WazaName":112,"WazaDesc":113},"EPalWazaID::RootAttack",95,9999,"EPalSizeType::S",[],40,"Spine Vine","Generates spiny thorns that chase an enemy\r\nalong the ground, piercing them from below.",{"WazaType":115,"Element":13,"IgnoreRandomInherit":18,"Category":54,"Power":116,"IsLeanBack":18,"CameraShake":117,"MinRange":27,"MaxRange":118,"CoolTime":89,"ForceRagdollSize":58,"EffectType1":59,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":61,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":119,"bIsWeaponDamage":18,"DisabledData":18,"Level":25,"WazaName":120,"WazaDesc":121},"EPalWazaID::SolarBeam",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",1800,[],"Solar Blast","Charges solar energy before\r\nblasting enemies with a powerful beam.",[],"Land that \u003CcharacterName id=|GrassRabbitMan|/> has run across becomes extremely fertile,\r\nwith thick vegetation growing there soon after.\r\nIt will not run anywhere that herbicide has been used.",1706864120308]
+{
+  "name": "Verdash",
+  "title": "Gale of the Forest",
+  "image": "/images/full_palicon/T_GrassRabbitMan_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "8",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Leaf",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "className": "elm5"
+    }
+  ],
+  "description": "Land that GrassRabbitMan has run across becomes extremely fertile,\nwith thick vegetation growing there soon after.\nIt will not run anywhere that herbicide has been used.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Bone.png",
+      "name": "Bone",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "115"
+    },
+    {
+      "name": "Price",
+      "value": "2200"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "500"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "50"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Grassland Speedster",
+    "description": "When fighting together, increases player's movement speed and\napplies COMMON_ELEMENT_NAME_Leaf damage to the player's attacks."
+  },
+  "activeSkills": [
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Stone Cannon",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 2500",
+      "description": "Digs up a boulder\nand hurls it at an enemy."
+    },
+    {
+      "name": "Seed Machine Gun",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "0 - 300",
+      "description": "Fires a volley of hard seeds\nat enemies in front of it."
+    },
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Grass Tornado",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Spine Vine",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "95",
+      "coolDown": "25",
+      "range": "500 - 9999",
+      "description": "Generates spiny thorns that chase an enemy\nalong the ground, piercing them from below."
+    },
+    {
+      "name": "Solar Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges solar energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "verdash"
+}

@@ -1,12 +1,14 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import cx from "classnames";
 import Image from "next/image";
 import Link from "next/link";
 import { Navs, Languages } from "../../public/jsons";
+import { usePathname } from "next/navigation";
 
 const Header = () => {
+  const pathname = usePathname();
   const [openBurger, setOpenBurger] = useState(false);
   const [openLanguages, setOpenLanguages] = useState(false);
 
@@ -19,7 +21,9 @@ const Header = () => {
         <Link
           aria-current="page"
           href="/"
-          className="router-link-active router-link-exact-active"
+          className={cx(
+            pathname === "/" && "router-link-active router-link-exact-active"
+          )}
         >
           <div className="logo">Palworld.gg</div>
         </Link>
@@ -31,7 +35,15 @@ const Header = () => {
         <ul>
           {Navs.map((item) => (
             <li key={item.title}>
-              <Link href={item.href}>{item.title}</Link>
+              <Link
+                href={item.href}
+                className={cx(
+                  item.href === pathname &&
+                    "router-link-active router-link-exact-active"
+                )}
+              >
+                {item.title}
+              </Link>
             </li>
           ))}
         </ul>

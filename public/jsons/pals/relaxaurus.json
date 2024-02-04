@@ -1,1 +1,263 @@
-[{"data":1,"prerenderedAt":143},["Reactive",2],{"Puc6stzlx1":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":21,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":22,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":6,"Edible":6,"Stamina":20,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":38,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":22,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":40,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":41,"PartnerSkillDesc":42,"Combinations":43,"PrefixName":60,"Drops":61,"ActiveSkills":71,"PassiveSkills":133,"Description":142},"Relaxaurus","None",true,"EPalTribeID::LazyDragon","LazyDragon",85,"","EPalSizeType::XL",8,"EPalElementType::Dragon","EPalElementType::Water","EPalGenusCategoryType::Monster","EPalOrganizationType::None","EPalWeaponType::None",false,110,100,70,1,10240,"Warlike",40,60,650,800,150,"EPalBattleBGMType::Cute",475,7,25,90,5,50,280,0,2,"PAL_FullStomach_Up_1","Hungry Missile","Can be ridden.\r\nCan rapidly fire a missile launcher while mounted.",[44,52],{"ParentTribeA":45,"ParentTribeB":46,"ChildCharacterID":49},{"name":4,"BPClass":8},{"name":47,"BPClass":48},"Sparkit","ElecCat",{"name":50,"BPClass":51},"Relaxaurus Lux","LazyDragon_Electric",{"ParentTribeA":53,"ParentTribeB":56,"ChildCharacterID":57},{"name":54,"BPClass":55},"Grizzbolt","ElecPanda",{"name":4,"BPClass":8},{"name":58,"BPClass":59},"Orserk","ThunderDragonMan","Gluttonous Dragon",[62,67],{"max":63,"min":22,"rate":20,"name":64,"descr":65,"icon":66},4,"High Quality Pal Oil","High-quality oil that can be extracted from Pal.\r\nNecessary for making \u003CitemName id=|Polymer|/>. ","T_itemicon_Material_PalOil",{"max":22,"min":22,"rate":35,"name":68,"descr":69,"icon":70},"Ruby","A gemstone that glows red.\r\nCan be sold to a merchant for a high price.","T_itemicon_Material_Ruby",[72,86,93,103,113,119,127],{"WazaType":73,"Element":13,"IgnoreRandomInherit":18,"Category":74,"Power":75,"IsLeanBack":18,"CameraShake":76,"MinRange":77,"MaxRange":78,"CoolTime":39,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":81,"EffectValueEx1":38,"EffectType2":82,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":83,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":84,"WazaDesc":85},"EPalWazaID::DragonCanon","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::Burn",35,"EPalAdditionalEffectType::None",[],"Dragon Cannon","Hurls an energy ball imbued\r\nwith draconic energy at an enemy.",{"WazaType":87,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":25,"IsLeanBack":18,"CameraShake":76,"MinRange":77,"MaxRange":88,"CoolTime":63,"ForceRagdollSize":79,"EffectType1":89,"EffectValue1":36,"EffectValueEx1":38,"EffectType2":82,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":90,"bIsWeaponDamage":18,"DisabledData":18,"Level":32,"WazaName":91,"WazaDesc":92},"EPalWazaID::WaterGun",5000,"EPalAdditionalEffectType::Wetness",[],"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":94,"Element":13,"IgnoreRandomInherit":18,"Category":74,"Power":95,"IsLeanBack":18,"CameraShake":96,"MinRange":38,"MaxRange":97,"CoolTime":98,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":36,"EffectValueEx1":38,"EffectType2":82,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":99,"bIsWeaponDamage":18,"DisabledData":18,"Level":100,"WazaName":101,"WazaDesc":102},"EPalWazaID::DragonWave",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",200,10,[],15,"Dragon Burst","Quickly discharges draconic energy,\r\ndamaging those around it.",{"WazaType":104,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":105,"IsLeanBack":18,"CameraShake":96,"MinRange":106,"MaxRange":107,"CoolTime":108,"ForceRagdollSize":79,"EffectType1":89,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":82,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":109,"bIsWeaponDamage":18,"DisabledData":18,"Level":110,"WazaName":111,"WazaDesc":112},"EPalWazaID::BubbleShot",65,1000,3500,13,[],22,"Bubble Blast","Fires numerous bubbles\r\nthat slowly pursue an enemy.",{"WazaType":114,"Element":13,"IgnoreRandomInherit":18,"Category":74,"Power":21,"IsLeanBack":18,"CameraShake":96,"MinRange":77,"MaxRange":115,"CoolTime":100,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":82,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":116,"bIsWeaponDamage":18,"DisabledData":18,"Level":75,"WazaName":117,"WazaDesc":118},"EPalWazaID::DragonBreath",1500,[],"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":120,"Element":14,"IgnoreRandomInherit":18,"Category":74,"Power":20,"IsLeanBack":18,"CameraShake":121,"MinRange":106,"MaxRange":122,"CoolTime":75,"ForceRagdollSize":123,"EffectType1":89,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":82,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":124,"bIsWeaponDamage":18,"DisabledData":18,"Level":25,"WazaName":125,"WazaDesc":126},"EPalWazaID::WaterBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],"Aqua Burst","Creates a giant ball of water\r\nand hurls it at an enemy.",{"WazaType":128,"Element":13,"IgnoreRandomInherit":18,"Category":74,"Power":29,"IsLeanBack":18,"CameraShake":121,"MinRange":77,"MaxRange":88,"CoolTime":95,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":129,"EffectValueEx1":38,"EffectType2":82,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":130,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":131,"WazaDesc":132},"EPalWazaID::DragonMeteor",45,[],"Dragon Meteor","Calls down numerous small meteorites\r\nand launches them at an enemy.",[134],{"Rank":135,"OverrideDescMsgID":136,"EffectType1":137,"EffectValue1":98,"TargetType1":138,"EffectType2":139,"EffectValue2":38,"TargetType2":138,"EffectType3":139,"EffectValue3":38,"TargetType3":138,"InvokeActiveOtomo":18,"InvokeWorker":18,"InvokeRiding":18,"InvokeReserve":18,"InvokeInOtomo":18,"InvokeAlways":6,"AddPal":6,"AddRarePal":18,"AddShotWeapon":18,"AddMeleeWeapon":18,"AddArmor":18,"AddAccessory":18,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":140,"Name":141},-1,"PASSIVE_PAL_FullStomach_Up_1","EPalPassiveSkillEffectType::FullStomatch_Decrease","EPalPassiveSkillEffectTargetType::ToSelf","EPalPassiveSkillEffectType::no","Satiety drops \u003CNumRed_13>+10%\u003C/> faster.","Glutton","Contrary to its blasé appearance, it's quite ferocious.\r\nIt perceives everything in its sight as prey\r\nand will stop at nothing to devour it.",1706864123326]
+{
+  "name": "Relaxaurus",
+  "title": "Gluttonous Dragon",
+  "image": "/images/full_palicon/T_LazyDragon_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "8",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Dragon",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "className": "elm3"
+    },
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    }
+  ],
+  "description": "Contrary to its blasé appearance, it's quite ferocious.\nIt perceives everything in its sight as prey\nand will stop at nothing to devour it.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalOil.png",
+      "name": "High Quality Pal Oil",
+      "amount": "1 - 4",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Ruby.png",
+      "name": "Ruby",
+      "amount": "1 - 1",
+      "rate": "5%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "110"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "110"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "10240"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "650"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "800"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "40"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Relaxaurus",
+        "image": "/images/palicon/T_LazyDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Sparkit",
+        "image": "/images/palicon/T_ElecCat_icon_normal.png"
+      },
+      "result": {
+        "name": "Relaxaurus Lux",
+        "image": "/images/palicon/T_LazyDragon_Electric_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Grizzbolt",
+        "image": "/images/palicon/T_ElecPanda_icon_normal.png"
+      },
+      "female": {
+        "name": "Relaxaurus",
+        "image": "/images/palicon/T_LazyDragon_icon_normal.png"
+      },
+      "result": {
+        "name": "Orserk",
+        "image": "/images/palicon/T_ThunderDragonMan_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Hungry Missile",
+    "description": "Can be ridden.\nCan rapidly fire a missile launcher while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Dragon Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Hurls an energy ball imbued\nwith draconic energy at an enemy."
+    },
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Dragon Burst",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 200",
+      "description": "Quickly discharges draconic energy,\ndamaging those around it."
+    },
+    {
+      "name": "Bubble Blast",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "1000 - 3500",
+      "description": "Fires numerous bubbles\nthat slowly pursue an enemy."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Aqua Burst",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of water\nand hurls it at an enemy."
+    },
+    {
+      "name": "Dragon Meteor",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 5000",
+      "description": "Calls down numerous small meteorites\nand launches them at an enemy."
+    }
+  ],
+  "uniqueName": "relaxaurus"
+}

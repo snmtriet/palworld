@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":118},["Reactive",2],{"QiOABmPsYm":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":21,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":12,"Predator":6,"Edible":6,"Stamina":21,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":41,"Drops":42,"ActiveSkills":47,"PassiveSkills":116,"Description":117},"Loupmoon","None",true,"EPalTribeID::Werewolf","Werewolf",46,"","EPalSizeType::M",3,"EPalElementType::Dark","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,80,130,100,1,2400,"Warlike",150,600,800,375,"EPalBattleBGMType::Cool",350,5,25,90,50,950,0,2,"Claws Glistening in the Dark","When activated, attacks targeted enemy with a\r\npowerful \u003CactiveSkillName id=|Unique_Werewolf_Scratch|/>.",[],"Enraptured by Moonlight",[43],{"max":22,"min":22,"rate":21,"name":44,"descr":45,"icon":46},"Bone","\u003CitemName id=|Bone|/> collected from Pals.\r\nUsed in the creation of high quality Paldium.","T_itemicon_Material_Bone",[48,63,73,81,90,101,110],{"WazaType":49,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":51,"IsLeanBack":18,"CameraShake":52,"MinRange":53,"MaxRange":54,"CoolTime":55,"ForceRagdollSize":56,"EffectType1":57,"EffectValue1":58,"EffectValueEx1":36,"EffectType2":59,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":60,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":61,"WazaDesc":62},"EPalWazaID::DarkBall","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,1000,4,"EPalSizeType::None","EPalAdditionalEffectType::Darkness",35,"EPalAdditionalEffectType::None",[],"Dark Ball","Unleashes a sphere of darkness \r\nthat slowly tracks down the enemy.",{"WazaType":64,"Element":13,"IgnoreRandomInherit":6,"Category":65,"Power":66,"IsLeanBack":18,"CameraShake":67,"MinRange":68,"MaxRange":53,"CoolTime":69,"ForceRagdollSize":56,"EffectType1":57,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":59,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":70,"bIsWeaponDamage":18,"DisabledData":18,"Level":69,"WazaName":71,"WazaDesc":72},"EPalWazaID::Unique_Werewolf_Scratch","EPalWazaCategory::Melee",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",400,7,[],"Jumping Claw","\u003CcharacterName id=|WereWolf|/>'s exclusive skill.\r\nLeaps forward and attacks twice with vicious claws\r\nimbued with dark energy.",{"WazaType":74,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":66,"IsLeanBack":18,"CameraShake":67,"MinRange":36,"MaxRange":75,"CoolTime":76,"ForceRagdollSize":56,"EffectType1":57,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":59,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":77,"bIsWeaponDamage":18,"DisabledData":18,"Level":78,"WazaName":79,"WazaDesc":80},"EPalWazaID::DarkWave",300,10,[],15,"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":82,"Element":83,"IgnoreRandomInherit":18,"Category":50,"Power":66,"IsLeanBack":18,"CameraShake":67,"MinRange":53,"MaxRange":84,"CoolTime":76,"ForceRagdollSize":56,"EffectType1":85,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":59,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::IceBlade","EPalElementType::Ice",4000,"EPalAdditionalEffectType::Freeze",[],22,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":91,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":92,"IsLeanBack":18,"CameraShake":67,"MinRange":53,"MaxRange":93,"CoolTime":94,"ForceRagdollSize":56,"EffectType1":95,"EffectValue1":96,"EffectValueEx1":36,"EffectType2":59,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::GhostFlame",75,5000,16,"EPalAdditionalEffectType::Burn",102,[],30,"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":102,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":21,"IsLeanBack":18,"CameraShake":103,"MinRange":54,"MaxRange":104,"CoolTime":98,"ForceRagdollSize":105,"EffectType1":57,"EffectValue1":106,"EffectValueEx1":36,"EffectType2":59,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":51,"WazaName":108,"WazaDesc":109},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":111,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":25,"IsLeanBack":18,"CameraShake":103,"MinRange":53,"MaxRange":112,"CoolTime":66,"ForceRagdollSize":56,"EffectType1":57,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":59,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":113,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":114,"WazaDesc":115},"EPalWazaID::DarkLaser",1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"The horns on its head grow under the moonlight.\r\nIt doesn't hate the sun, but its horns\r\nitch when sunlight hits them.",1706864131235]
+{
+  "name": "Loupmoon",
+  "title": "Enraptured by Moonlight",
+  "image": "/images/full_palicon/T_Werewolf_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "3",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "The horns on its head grow under the moonlight.\nIt doesn't hate the sun, but its horns\nitch when sunlight hits them.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Bone.png",
+      "name": "Bone",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "80"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "130"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "2400"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "600"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "800"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Claws Glistening in the Dark",
+    "description": "When activated, attacks targeted enemy with a\npowerful Unique_Werewolf_Scratch."
+  },
+  "activeSkills": [
+    {
+      "name": "Dark Ball",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 1000",
+      "description": "Unleashes a sphere of darkness \nthat slowly tracks down the enemy."
+    },
+    {
+      "name": "Jumping Claw",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "7",
+      "range": "400 - 500",
+      "description": "WereWolf's exclusive skill.\nLeaps forward and attacks twice with vicious claws\nimbued with dark energy."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "loupmoon"
+}

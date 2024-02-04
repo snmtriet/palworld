@@ -1,1 +1,250 @@
-[{"data":1,"prerenderedAt":144},["Reactive",2],{"psE8z3znCF":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":4,"ZukanIndex":8,"ZukanIndexSuffix":9,"Size":10,"Rarity":11,"ElementType1":12,"ElementType2":13,"GenusCategory":14,"Organization":15,"weapon":16,"WeaponEquip":17,"HP":18,"MeleeAttack":19,"ShotAttack":19,"Defense":8,"Support":8,"CraftSpeed":8,"EnemyReceiveDamageRate":20,"CaptureRateCorrect":20,"ExpRatio":20,"Price":21,"AIResponse":22,"AISightResponse":5,"SlowWalkSpeed":23,"WalkSpeed":24,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":17,"IsTowerBoss":17,"BattleBGM":28,"IgnoreLeanBack":17,"IgnoreBlowAway":17,"MaxFullStomach":29,"FullStomachDecreaseRate":20,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":20,"NooseTrap":17,"Nocturnal":17,"BiologicalGrade":33,"Predator":6,"Edible":6,"Stamina":8,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":39,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":40,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":41,"PartnerSkillDesc":42,"Combinations":43,"PrefixName":52,"Drops":53,"ActiveSkills":66,"PassiveSkills":134,"Description":143},"Anubis","None",true,"EPalTribeID::Anubis",100,"","EPalSizeType::M",10,"EPalElementType::Earth","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,120,130,1,4960,"Warlike",80,160,800,1000,480,"EPalBattleBGMType::Cool",400,6,25,90,5,50,570,0,4,3,2,"ElementBoost_Earth_2_PAL","Guardian of the Desert","When fighting together, applies\r\n\u003CuiCommon id=|COMMON_ELEMENT_NAME_Earth|/> damage to the player's attacks.\r\nSometimes dodges attacks with a high speed sidestep while in battle.",[44],{"ParentTribeA":45,"ParentTribeB":48,"ChildCharacterID":49},{"name":46,"BPClass":47},"Vanwyrm","BirdDragon",{"name":4,"BPClass":4},{"name":50,"BPClass":51},"Faleris","Horus","Guardian of the Dark Sun",[54,58,62],{"max":33,"min":38,"rate":8,"name":55,"descr":56,"icon":57},"Bone","\u003CitemName id=|Bone|/> collected from Pals.\r\nUsed in the creation of high quality Paldium.","T_itemicon_Material_Bone",{"max":20,"min":20,"rate":8,"name":59,"descr":60,"icon":61},"Large Pal Soul","A spirit left behind by a large Pal.\r\nIt can draw out hidden abilities if offered to a \u003CmapObjectName id=|BuildableGoddessStatue|/>.","T_itemicon_PalUpgradeStone3",{"max":20,"min":20,"rate":33,"name":63,"descr":64,"icon":65},"Innovative Technical Manual","A book that contains secrets of cutting-edge technology.\r\nUse it to obtain Technology Points.","T_itemicon_Consume_TechnologyBook_G2",[67,80,92,100,109,119,128],{"WazaType":68,"Element":12,"IgnoreRandomInherit":17,"Category":69,"Power":70,"IsLeanBack":17,"CameraShake":71,"MinRange":72,"MaxRange":73,"CoolTime":11,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":8,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":77,"bIsWeaponDamage":17,"DisabledData":17,"Level":20,"WazaName":78,"WazaDesc":79},"EPalWazaID::StoneShotgun","EPalWazaCategory::Shot",55,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::Muddy","EPalAdditionalEffectType::None",[],"Stone Blast","Fires a barrage of stones forward.",{"WazaType":81,"Element":82,"IgnoreRandomInherit":17,"Category":69,"Power":83,"IsLeanBack":17,"CameraShake":84,"MinRange":26,"MaxRange":85,"CoolTime":86,"ForceRagdollSize":87,"EffectType1":76,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":88,"bIsWeaponDamage":17,"DisabledData":17,"Level":89,"WazaName":90,"WazaDesc":91},"EPalWazaID::PowerBall","EPalElementType::Normal",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",9999,15,"EPalSizeType::XS",[],7,"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":93,"Element":12,"IgnoreRandomInherit":17,"Category":69,"Power":23,"IsLeanBack":17,"CameraShake":84,"MinRange":8,"MaxRange":94,"CoolTime":95,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":96,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":97,"bIsWeaponDamage":17,"DisabledData":17,"Level":86,"WazaName":98,"WazaDesc":99},"EPalWazaID::SandTornado",3000,18,65,[],"Sand Tornado","Generates two sand tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":101,"Element":12,"IgnoreRandomInherit":6,"Category":102,"Power":8,"IsLeanBack":17,"CameraShake":84,"MinRange":36,"MaxRange":103,"CoolTime":104,"ForceRagdollSize":74,"EffectType1":76,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":105,"bIsWeaponDamage":17,"DisabledData":17,"Level":106,"WazaName":107,"WazaDesc":108},"EPalWazaID::Unique_Anubis_LowRoundKick","EPalWazaCategory::Melee",300,21,[],22,"Spinning Roundhouse","\u003CcharacterName id=|Anubis|/>'s special skill.\r\nPerforms a spin kick with its strong legs, cutting down enemies over a wide area.",{"WazaType":110,"Element":12,"IgnoreRandomInherit":6,"Category":102,"Power":18,"IsLeanBack":17,"CameraShake":84,"MinRange":111,"MaxRange":112,"CoolTime":113,"ForceRagdollSize":114,"EffectType1":76,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":115,"bIsWeaponDamage":17,"DisabledData":17,"Level":116,"WazaName":117,"WazaDesc":118},"EPalWazaID::Unique_Anubis_Tackle",1500,5000,28,"EPalSizeType::S",[],30,"Forceful Charge","\u003CcharacterName id=|Anubis|/>'s special skill.\r\nPursues its foe with a high speed dash\r\nwhile releasing energy and unleashes a powerful punch.",{"WazaType":120,"Element":12,"IgnoreRandomInherit":6,"Category":102,"Power":121,"IsLeanBack":17,"CameraShake":122,"MinRange":36,"MaxRange":112,"CoolTime":123,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":8,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":124,"bIsWeaponDamage":17,"DisabledData":17,"Level":125,"WazaName":126,"WazaDesc":127},"EPalWazaID::Unique_Anubis_GroundPunch",140,"EPalPlayerDamageCameraShakeCategory::Waza_L",35,[],40,"Ground Smash","\u003CcharacterName id=|Anubis|/>'s special skill.\r\nLeaps high into the air before diving to the ground with a punch.\r\nThe force of the impact deals damage over a wide area.",{"WazaType":129,"Element":12,"IgnoreRandomInherit":17,"Category":69,"Power":130,"IsLeanBack":17,"CameraShake":122,"MinRange":8,"MaxRange":85,"CoolTime":70,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":8,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":131,"bIsWeaponDamage":17,"DisabledData":17,"Level":34,"WazaName":132,"WazaDesc":133},"EPalWazaID::RockLance",150,[],"Rock Lance","Generates a sharp rock spear\r\nunder an enemy.",[135],{"Rank":38,"OverrideDescMsgID":136,"EffectType1":137,"EffectValue1":138,"TargetType1":139,"EffectType2":140,"EffectValue2":36,"TargetType2":139,"EffectType3":140,"EffectValue3":36,"TargetType3":139,"InvokeActiveOtomo":17,"InvokeWorker":17,"InvokeRiding":17,"InvokeReserve":17,"InvokeInOtomo":17,"InvokeAlways":6,"AddPal":17,"AddRarePal":17,"AddShotWeapon":17,"AddMeleeWeapon":17,"AddArmor":17,"AddAccessory":17,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":141,"Name":142},"PASSIVE_ElementBoost_Earth_1_PAL","EPalPassiveSkillEffectType::ElementBoost_Earth",20,"EPalPassiveSkillEffectTargetType::ToSelf","EPalPassiveSkillEffectType::no","{EffectValue1}% increase to Earth attack damage.","Earth Emperor","Once seen as a symbol of nobility, \r\nand an idol for those who shunned wealth and power.\r\nYet over time, this Pal became a token of death.",1706864112092]
+{
+  "name": "Anubis",
+  "title": "Guardian of the Dark Sun",
+  "image": "/images/full_palicon/T_Anubis_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "10",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "Once seen as a symbol of nobility, \nand an idol for those who shunned wealth and power.\nYet over time, this Pal became a token of death.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Bone.png",
+      "name": "Bone",
+      "amount": "3 - 5",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_PalUpgradeStone3.png",
+      "name": "Large Pal Soul",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Consume_TechnologyBook_G2.png",
+      "name": "Innovative Technical Manual",
+      "amount": "1 - 1",
+      "rate": "5%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "120"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "130"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "130"
+    },
+    {
+      "name": "Price",
+      "value": "4960"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "800"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1000"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "80"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Vanwyrm",
+        "image": "/images/palicon/T_BirdDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Anubis",
+        "image": "/images/palicon/T_Anubis_icon_normal.png"
+      },
+      "result": {
+        "name": "Faleris",
+        "image": "/images/palicon/T_Horus_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "4",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Guardian of the Desert",
+    "description": "When fighting together, applies\nCOMMON_ELEMENT_NAME_Earth damage to the player's attacks.\nSometimes dodges attacks with a high speed sidestep while in battle."
+  },
+  "activeSkills": [
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Sand Tornado",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 3000",
+      "description": "Generates two sand tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Spinning Roundhouse",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "100",
+      "coolDown": "21",
+      "range": "0 - 300",
+      "description": "Anubis's special skill.\nPerforms a spin kick with its strong legs, cutting down enemies over a wide area."
+    },
+    {
+      "name": "Forceful Charge",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "120",
+      "coolDown": "28",
+      "range": "1500 - 5000",
+      "description": "Anubis's special skill.\nPursues its foe with a high speed dash\nwhile releasing energy and unleashes a powerful punch."
+    },
+    {
+      "name": "Ground Smash",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "140",
+      "coolDown": "35",
+      "range": "0 - 5000",
+      "description": "Anubis's special skill.\nLeaps high into the air before diving to the ground with a punch.\nThe force of the impact deals damage over a wide area."
+    },
+    {
+      "name": "Rock Lance",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "100 - 9999",
+      "description": "Generates a sharp rock spear\nunder an enemy."
+    }
+  ],
+  "uniqueName": "anubis"
+}

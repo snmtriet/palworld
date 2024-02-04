@@ -1,1 +1,258 @@
-[{"data":1,"prerenderedAt":136},["Reactive",2],{"Bq37ko0P36":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":23,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":19,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":38,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":58,"Drops":59,"ActiveSkills":68,"PassiveSkills":134,"Description":135},"Foxcicle","None",true,"EPalTribeID::IceFox","IceFox",57,"","EPalSizeType::S",5,"EPalElementType::Ice","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,90,100,95,105,1,3730,"Warlike",65,130,600,750,315,"EPalBattleBGMType::Cute",225,3,25,50,760,0,2,"Aurora Guide","While in team, increases attack power of \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> Pals.",[42,50],{"ParentTribeA":43,"ParentTribeB":46,"ChildCharacterID":47},{"name":44,"BPClass":45},"Vanwyrm","BirdDragon",{"name":4,"BPClass":8},{"name":48,"BPClass":49},"Vanwyrm Cryst","BirdDragon_Ice",{"ParentTribeA":51,"ParentTribeB":54,"ChildCharacterID":55},{"name":52,"BPClass":53},"Reptyro","VolcanicMonster",{"name":4,"BPClass":8},{"name":56,"BPClass":57},"Ice Reptyro","VolcanicMonster_Ice","Claws of Ice",[60,64],{"max":23,"min":23,"rate":20,"name":61,"descr":62,"icon":63},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":33,"min":38,"rate":20,"name":65,"descr":66,"icon":67},"Ice Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> Pals.\r\nCan be used to make \u003CmapObjectName id=|Trap_MineFreeze|/> and more.","T_itemicon_Material_IceOrgan",[69,81,92,101,113,120,127],{"WazaType":70,"Element":71,"IgnoreRandomInherit":18,"Category":72,"Power":34,"IsLeanBack":18,"CameraShake":73,"MinRange":74,"MaxRange":75,"CoolTime":38,"ForceRagdollSize":76,"EffectType1":77,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":79,"WazaDesc":80},"EPalWazaID::AirCanon","EPalElementType::Normal","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":82,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":83,"IsLeanBack":18,"CameraShake":73,"MinRange":84,"MaxRange":85,"CoolTime":33,"ForceRagdollSize":76,"EffectType1":86,"EffectValue1":87,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":88,"bIsWeaponDamage":18,"DisabledData":18,"Level":89,"WazaName":90,"WazaDesc":91},"EPalWazaID::IceMissile",30,800,3000,"EPalAdditionalEffectType::Freeze",103,[],7,"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":93,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":94,"IsLeanBack":18,"CameraShake":95,"MinRange":74,"MaxRange":75,"CoolTime":96,"ForceRagdollSize":76,"EffectType1":86,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::IceBlade",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,[],15,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":102,"Element":103,"IgnoreRandomInherit":18,"Category":72,"Power":104,"IsLeanBack":18,"CameraShake":95,"MinRange":74,"MaxRange":105,"CoolTime":106,"ForceRagdollSize":76,"EffectType1":107,"EffectValue1":108,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":109,"bIsWeaponDamage":18,"DisabledData":18,"Level":110,"WazaName":111,"WazaDesc":112},"EPalWazaID::GhostFlame","EPalElementType::Dark",75,5000,16,"EPalAdditionalEffectType::Burn",102,[],22,"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":114,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":115,"IsLeanBack":18,"CameraShake":95,"MinRange":20,"MaxRange":116,"CoolTime":98,"ForceRagdollSize":76,"EffectType1":86,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":117,"bIsWeaponDamage":18,"DisabledData":18,"Level":83,"WazaName":118,"WazaDesc":119},"EPalWazaID::BlizzardLance",70,9999,[],"Iceberg","Summons a sharp ice lance\r\nunder an enemy.",{"WazaType":121,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":19,"IsLeanBack":18,"CameraShake":95,"MinRange":20,"MaxRange":122,"CoolTime":110,"ForceRagdollSize":76,"EffectType1":86,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":123,"bIsWeaponDamage":18,"DisabledData":18,"Level":124,"WazaName":125,"WazaDesc":126},"EPalWazaID::FrostBreath",1000,[],40,"Cryst Breath","Enshrouds an enemy in a frigid blast of air,\r\ndealing continuous damage.",{"WazaType":128,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":27,"IsLeanBack":18,"CameraShake":129,"MinRange":122,"MaxRange":116,"CoolTime":130,"ForceRagdollSize":76,"EffectType1":86,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":131,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":132,"WazaDesc":133},"EPalWazaID::IcicleThrow","EPalPlayerDamageCameraShakeCategory::Waza_L",45,[],"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",[],"On nights when the aurora is visible,\r\nit looks up towards the sky and begins to howl a beautiful song.\r\nThis does, however, leave it vulnerable to attacks from enemies.",1706864121692]
+{
+  "name": "Foxcicle",
+  "title": "Claws of Ice",
+  "image": "/images/full_palicon/T_IceFox_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "5",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Ice",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "className": "elm1"
+    }
+  ],
+  "description": "On nights when the aurora is visible,\nit looks up towards the sky and begins to howl a beautiful song.\nThis does, however, leave it vulnerable to attacks from enemies.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_IceOrgan.png",
+      "name": "Ice Organ",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "105"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "95"
+    },
+    {
+      "name": "Price",
+      "value": "3730"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "600"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "750"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "65"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Vanwyrm",
+        "image": "/images/palicon/T_BirdDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Foxcicle",
+        "image": "/images/palicon/T_IceFox_icon_normal.png"
+      },
+      "result": {
+        "name": "Vanwyrm Cryst",
+        "image": "/images/palicon/T_BirdDragon_Ice_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Reptyro",
+        "image": "/images/palicon/T_VolcanicMonster_icon_normal.png"
+      },
+      "female": {
+        "name": "Foxcicle",
+        "image": "/images/palicon/T_IceFox_icon_normal.png"
+      },
+      "result": {
+        "name": "Ice Reptyro",
+        "image": "/images/palicon/T_VolcanicMonster_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Aurora Guide",
+    "description": "While in team, increases attack power of COMMON_ELEMENT_NAME_Ice Pals."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Iceberg",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "100 - 9999",
+      "description": "Summons a sharp ice lance\nunder an enemy."
+    },
+    {
+      "name": "Cryst Breath",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "100 - 1000",
+      "description": "Enshrouds an enemy in a frigid blast of air,\ndealing continuous damage."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    }
+  ],
+  "uniqueName": "foxcicle"
+}

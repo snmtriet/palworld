@@ -1,1 +1,238 @@
-[{"data":1,"prerenderedAt":123},["Reactive",2],{"QWTWjiRXve":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":19,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":21,"CaptureRateCorrect":21,"ExpRatio":21,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":24,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":29,"FullStomachDecreaseRate":21,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":21,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":30,"Predator":18,"Edible":6,"Stamina":19,"MaleProbability":33,"CombiRank":34,"WorkSuitability_EmitFlame":35,"WorkSuitability_Watering":35,"WorkSuitability_Seeding":30,"WorkSuitability_GenerateElectricity":35,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":35,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":35,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":35,"WorkSuitability_Transport":21,"WorkSuitability_MonsterFarm":35,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":37,"PartnerSkillDesc":38,"Combinations":39,"PrefixName":48,"Drops":49,"ActiveSkills":54,"PassiveSkills":121,"Description":122},"Petallia","None",true,"EPalTribeID::FlowerDoll","FlowerDoll",87,"","EPalSizeType::M",8,"EPalElementType::Leaf","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,100,95,1,3590,"Escape_to_Battle",150,550,700,350,"EPalBattleBGMType::Cute",225,3,25,90,50,780,0,2,"Blessing of the Flower Spirit","When activated,\r\nuses medicinal flowers to restore the player's HP.",[40],{"ParentTribeA":41,"ParentTribeB":44,"ChildCharacterID":45},{"name":42,"BPClass":43},"Mossanda","GrassPanda",{"name":4,"BPClass":8},{"name":46,"BPClass":47},"Lyleen","LilyQueen","Lady of the Garden",[50],{"max":30,"min":36,"rate":19,"name":51,"descr":52,"icon":53},"Beautiful Flower","A plant that blooms colorful flowers.\r\nCan be used to make \u003CitemName id=|Opium|/> and \u003CitemName id=|Narcotic|/>.","T_itemicon_Food_Poppy",[55,69,79,87,98,106,113],{"WazaType":56,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":58,"IsLeanBack":18,"CameraShake":59,"MinRange":60,"MaxRange":61,"CoolTime":36,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":64,"EffectValueEx1":35,"EffectType2":65,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":66,"bIsWeaponDamage":18,"DisabledData":18,"Level":21,"WazaName":67,"WazaDesc":68},"EPalWazaID::WindCutter","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::IvyCling",35,"EPalAdditionalEffectType::None",[],"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":70,"Element":71,"IgnoreRandomInherit":18,"Category":57,"Power":72,"IsLeanBack":18,"CameraShake":59,"MinRange":60,"MaxRange":61,"CoolTime":73,"ForceRagdollSize":62,"EffectType1":74,"EffectValue1":33,"EffectValueEx1":35,"EffectType2":65,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":75,"bIsWeaponDamage":18,"DisabledData":18,"Level":76,"WazaName":77,"WazaDesc":78},"EPalWazaID::WaterGun","EPalElementType::Water",40,4,"EPalAdditionalEffectType::Wetness",[],7,"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":80,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":33,"IsLeanBack":18,"CameraShake":59,"MinRange":35,"MaxRange":81,"CoolTime":82,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":19,"EffectValueEx1":35,"EffectType2":65,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":83,"bIsWeaponDamage":18,"DisabledData":18,"Level":84,"WazaName":85,"WazaDesc":86},"EPalWazaID::SeedMachinegun",300,9,[],15,"Seed Machine Gun","Fires a volley of hard seeds\r\nat enemies in front of it.",{"WazaType":88,"Element":71,"IgnoreRandomInherit":18,"Category":57,"Power":89,"IsLeanBack":18,"CameraShake":90,"MinRange":91,"MaxRange":92,"CoolTime":93,"ForceRagdollSize":62,"EffectType1":74,"EffectValue1":19,"EffectValueEx1":35,"EffectType2":65,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":94,"bIsWeaponDamage":18,"DisabledData":18,"Level":95,"WazaName":96,"WazaDesc":97},"EPalWazaID::BubbleShot",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",1000,3500,13,[],22,"Bubble Blast","Fires numerous bubbles\r\nthat slowly pursue an enemy.",{"WazaType":99,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":100,"IsLeanBack":18,"CameraShake":90,"MinRange":26,"MaxRange":101,"CoolTime":102,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":89,"EffectValueEx1":35,"EffectType2":65,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":58,"WazaName":104,"WazaDesc":105},"EPalWazaID::GrassTornado",80,3000,18,[],"Grass Tornado","Generates two tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":107,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":20,"IsLeanBack":18,"CameraShake":90,"MinRange":60,"MaxRange":108,"CoolTime":31,"ForceRagdollSize":109,"EffectType1":63,"EffectValue1":19,"EffectValueEx1":35,"EffectType2":65,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":110,"bIsWeaponDamage":18,"DisabledData":18,"Level":72,"WazaName":111,"WazaDesc":112},"EPalWazaID::RootAttack",9999,"EPalSizeType::S",[],"Spine Vine","Generates spiny thorns that chase an enemy\r\nalong the ground, piercing them from below.",{"WazaType":114,"Element":13,"IgnoreRandomInherit":18,"Category":57,"Power":24,"IsLeanBack":18,"CameraShake":115,"MinRange":60,"MaxRange":116,"CoolTime":117,"ForceRagdollSize":62,"EffectType1":63,"EffectValue1":19,"EffectValueEx1":35,"EffectType2":65,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":118,"bIsWeaponDamage":18,"DisabledData":18,"Level":33,"WazaName":119,"WazaDesc":120},"EPalWazaID::SolarBeam","EPalPlayerDamageCameraShakeCategory::Waza_L",1800,55,[],"Solar Blast","Charges solar energy before\r\nblasting enemies with a powerful beam.",[],"A Pal that transforms into a massive plant when at the end of its life.\r\nOnce every ten years, a beautiful flower blooms\r\nand a new \u003CcharacterName id=|FlowerDoll|/> is born.",1706864118546]
+{
+  "name": "Petallia",
+  "title": "Lady of the Garden",
+  "image": "/images/full_palicon/T_FlowerDoll_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "8",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Leaf",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "className": "elm5"
+    }
+  ],
+  "description": "A Pal that transforms into a massive plant when at the end of its life.\nOnce every ten years, a beautiful flower blooms\nand a new FlowerDoll is born.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Poppy.png",
+      "name": "Beautiful Flower",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "95"
+    },
+    {
+      "name": "Price",
+      "value": "3590"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "550"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Mossanda",
+        "image": "/images/palicon/T_GrassPanda_icon_normal.png"
+      },
+      "female": {
+        "name": "Petallia",
+        "image": "/images/palicon/T_FlowerDoll_icon_normal.png"
+      },
+      "result": {
+        "name": "Lyleen",
+        "image": "/images/palicon/T_LilyQueen_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Blessing of the Flower Spirit",
+    "description": "When activated,\nuses medicinal flowers to restore the player's HP."
+  },
+  "activeSkills": [
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Seed Machine Gun",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "0 - 300",
+      "description": "Fires a volley of hard seeds\nat enemies in front of it."
+    },
+    {
+      "name": "Bubble Blast",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "1000 - 3500",
+      "description": "Fires numerous bubbles\nthat slowly pursue an enemy."
+    },
+    {
+      "name": "Grass Tornado",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Spine Vine",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "95",
+      "coolDown": "25",
+      "range": "500 - 9999",
+      "description": "Generates spiny thorns that chase an enemy\nalong the ground, piercing them from below."
+    },
+    {
+      "name": "Solar Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges solar energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "petallia"
+}

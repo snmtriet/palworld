@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":114},["Reactive",2],{"vvPlyXcd3Y":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":19,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":21,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":33,"WorkSuitability_Collection":22,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":22,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":37,"PartnerSkillDesc":38,"Combinations":39,"PrefixName":40,"Drops":41,"ActiveSkills":46,"PassiveSkills":112,"Description":113},"Lunaris","None",true,"EPalTribeID::Mutant","Mutant",63,"","EPalSizeType::M",6,"EPalElementType::Normal","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,90,80,100,1,1760,"NotInterested",130,500,650,315,"EPalBattleBGMType::Cool",150,2,25,3,50,1110,0,"Antigravity","While in team, \u003CcharacterName id=|Mutant|/> manipulates gravity,\r\nincreasing the player's max carrying capacity.",[],"Extraterrestrial",[42],{"max":33,"min":31,"rate":21,"name":43,"descr":44,"icon":45},"Paldium Fragment","Crystallized energy from the World Tree.\r\nCapable of creating supernatural items and structures.","T_itemicon_Material_Pal_crystal_S",[47,57,67,78,89,98,106],{"WazaType":48,"Element":13,"IgnoreRandomInherit":18,"Category":49,"Power":32,"IsLeanBack":18,"CameraShake":50,"MinRange":26,"MaxRange":51,"CoolTime":31,"ForceRagdollSize":52,"EffectType1":53,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":53,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":54,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":55,"WazaDesc":56},"EPalWazaID::AirCanon","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":58,"Element":13,"IgnoreRandomInherit":18,"Category":49,"Power":59,"IsLeanBack":18,"CameraShake":50,"MinRange":60,"MaxRange":61,"CoolTime":62,"ForceRagdollSize":52,"EffectType1":53,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":53,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":63,"bIsWeaponDamage":18,"DisabledData":18,"Level":64,"WazaName":65,"WazaDesc":66},"EPalWazaID::PowerShot",35,600,3000,4,[],7,"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":68,"Element":69,"IgnoreRandomInherit":18,"Category":49,"Power":70,"IsLeanBack":18,"CameraShake":71,"MinRange":26,"MaxRange":51,"CoolTime":72,"ForceRagdollSize":52,"EffectType1":73,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":53,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":74,"bIsWeaponDamage":18,"DisabledData":18,"Level":75,"WazaName":76,"WazaDesc":77},"EPalWazaID::IceBlade","EPalElementType::Ice",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,"EPalAdditionalEffectType::Freeze",[],15,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":79,"Element":80,"IgnoreRandomInherit":18,"Category":49,"Power":81,"IsLeanBack":18,"CameraShake":71,"MinRange":26,"MaxRange":82,"CoolTime":83,"ForceRagdollSize":52,"EffectType1":84,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":53,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":85,"bIsWeaponDamage":18,"DisabledData":18,"Level":86,"WazaName":87,"WazaDesc":88},"EPalWazaID::ThunderFunnel","EPalElementType::Electricity",65,9999,13,"EPalAdditionalEffectType::Electrical",[],22,"Plasma Tornado","Creates two balls of electric energy\r\nthat fire numerous bolts of lightning at enemies.",{"WazaType":90,"Element":13,"IgnoreRandomInherit":18,"Category":49,"Power":91,"IsLeanBack":18,"CameraShake":71,"MinRange":92,"MaxRange":82,"CoolTime":75,"ForceRagdollSize":93,"EffectType1":53,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":53,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":94,"bIsWeaponDamage":18,"DisabledData":18,"Level":95,"WazaName":96,"WazaDesc":97},"EPalWazaID::PowerBall",70,1000,"EPalSizeType::XS",[],30,"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":99,"Element":69,"IgnoreRandomInherit":18,"Category":49,"Power":25,"IsLeanBack":18,"CameraShake":100,"MinRange":92,"MaxRange":82,"CoolTime":101,"ForceRagdollSize":52,"EffectType1":73,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":53,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":102,"bIsWeaponDamage":18,"DisabledData":18,"Level":103,"WazaName":104,"WazaDesc":105},"EPalWazaID::IcicleThrow","EPalPlayerDamageCameraShakeCategory::Waza_L",45,[],40,"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",{"WazaType":107,"Element":13,"IgnoreRandomInherit":18,"Category":49,"Power":30,"IsLeanBack":18,"CameraShake":100,"MinRange":26,"MaxRange":108,"CoolTime":70,"ForceRagdollSize":52,"EffectType1":53,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":53,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":109,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":110,"WazaDesc":111},"EPalWazaID::HyperBeam",1800,[],"Pal Blast","Charges destructive energy before firing\r\na high-powered beam forward across a wide area.",[],"It can control those who carelessly stare into its eyes.\r\nThose seen with a \u003CcharacterName id=|Mutant|/> are in its mind,\r\nsimply under its control.",1706864125441]
+{
+  "name": "Lunaris",
+  "title": "Extraterrestrial",
+  "image": "/images/full_palicon/T_Mutant_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Normal",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "className": "elm9"
+    }
+  ],
+  "description": "It can control those who carelessly stare into its eyes.\nThose seen with a Mutant are in its mind,\nsimply under its control.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png",
+      "name": "Paldium Fragment",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "80"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "1760"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "500"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "650"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "80"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Antigravity",
+    "description": "While in team, Mutant manipulates gravity,\nincreasing the player's max carrying capacity."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Power Shot",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Plasma Tornado",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "500 - 9999",
+      "description": "Creates two balls of electric energy\nthat fire numerous bolts of lightning at enemies."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    },
+    {
+      "name": "Pal Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges destructive energy before firing\na high-powered beam forward across a wide area."
+    }
+  ],
+  "uniqueName": "lunaris"
+}

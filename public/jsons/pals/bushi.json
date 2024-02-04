@@ -1,1 +1,229 @@
-[{"data":1,"prerenderedAt":122},["Reactive",2],{"PXksg4UE3V":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":38,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":22,"WorkSuitability_Collection":22,"WorkSuitability_Deforest":39,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":43,"Drops":44,"ActiveSkills":53,"PassiveSkills":120,"Description":121},"Bushi","None",true,"EPalTribeID::Ronin","Ronin",72,"","EPalSizeType::M",7,"EPalElementType::Fire","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,80,100,125,1,4520,"Warlike",160,600,900,320,"EPalBattleBGMType::Cool",300,4,25,90,5,50,640,2,0,3,"Brandish Blade","When activated, attacks targeted enemy with a\r\npowerful \u003CactiveSkillName id=|Unique_Ronin_Iai|/>.",[],"Vagrant Warrior",[45,49],{"max":37,"min":22,"rate":20,"name":46,"descr":47,"icon":48},"Bone","\u003CitemName id=|Bone|/> collected from Pals.\r\nUsed in the creation of high quality Paldium.","T_itemicon_Material_Bone",{"max":39,"min":37,"rate":20,"name":50,"descr":51,"icon":52},"Ingot","A material required to create metal weapons and armor.\r\nRefined from \u003CitemName id=|CopperOre|/> using a furnace.","T_itemicon_Material_CopperIngot",[54,67,75,87,98,105,115],{"WazaType":55,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":57,"IsLeanBack":18,"CameraShake":58,"MinRange":59,"MaxRange":60,"CoolTime":37,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":35,"EffectValueEx1":38,"EffectType2":63,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":64,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":65,"WazaDesc":66},"EPalWazaID::FireBlast","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":68,"Element":69,"IgnoreRandomInherit":18,"Category":56,"Power":57,"IsLeanBack":18,"CameraShake":58,"MinRange":59,"MaxRange":60,"CoolTime":37,"ForceRagdollSize":61,"EffectType1":70,"EffectValue1":71,"EffectValueEx1":38,"EffectType2":63,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":72,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":73,"WazaDesc":74},"EPalWazaID::WindCutter","EPalElementType::Leaf","EPalAdditionalEffectType::IvyCling",35,[],"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":76,"Element":77,"IgnoreRandomInherit":18,"Category":56,"Power":78,"IsLeanBack":18,"CameraShake":79,"MinRange":59,"MaxRange":80,"CoolTime":81,"ForceRagdollSize":61,"EffectType1":82,"EffectValue1":35,"EffectValueEx1":38,"EffectType2":63,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":83,"bIsWeaponDamage":18,"DisabledData":18,"Level":84,"WazaName":85,"WazaDesc":86},"EPalWazaID::IceBlade","EPalElementType::Ice",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",4000,10,"EPalAdditionalEffectType::Freeze",[],15,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":88,"Element":13,"IgnoreRandomInherit":6,"Category":89,"Power":90,"IsLeanBack":18,"CameraShake":79,"MinRange":91,"MaxRange":92,"CoolTime":93,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":35,"EffectValueEx1":38,"EffectType2":63,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":94,"bIsWeaponDamage":18,"DisabledData":18,"Level":95,"WazaName":96,"WazaDesc":97},"EPalWazaID::Unique_Ronin_Iai","EPalWazaCategory::Melee",65,1000,9999,9,[],22,"Iaigiri","\u003CcharacterName id=|Ronin|/>'s exclusive skill.\r\nAfter Holding the sword, he appears in front of the enemy\r\nin an instant and unleashes a Ultra-fast sword draw attack.",{"WazaType":99,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":100,"IsLeanBack":18,"CameraShake":79,"MinRange":59,"MaxRange":101,"CoolTime":84,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":63,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":102,"bIsWeaponDamage":18,"DisabledData":18,"Level":57,"WazaName":103,"WazaDesc":104},"EPalWazaID::Flamethrower",70,1500,[],"Ignis Breath","Shoots flames at an enemy,\r\ndealing continuous damage.",{"WazaType":106,"Element":107,"IgnoreRandomInherit":18,"Category":56,"Power":108,"IsLeanBack":18,"CameraShake":109,"MinRange":38,"MaxRange":59,"CoolTime":110,"ForceRagdollSize":61,"EffectType1":111,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":63,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":110,"WazaName":113,"WazaDesc":114},"EPalWazaID::LightningStrike","EPalElementType::Electricity",120,"EPalPlayerDamageCameraShakeCategory::Waza_L",40,"EPalAdditionalEffectType::Electrical",[],"Lightning Strike","Acts as a lightning rod, calling down thunderbolts\r\nthat electrocute the surrounding area.",{"WazaType":116,"Element":13,"IgnoreRandomInherit":18,"Category":56,"Power":108,"IsLeanBack":18,"CameraShake":109,"MinRange":20,"MaxRange":91,"CoolTime":110,"ForceRagdollSize":61,"EffectType1":62,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":63,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":117,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":118,"WazaDesc":119},"EPalWazaID::Inferno",[],"Ignis Rage","Energizes the surrounding ground,\r\ncausing it to explode after a set amount of time.",[],"Its body becomes a blade upon death, to be taken up by the next generation.\r\nIf someone other than a \u003CcharacterName id=|Ronin|/> wields this blade, the soul within\r\ntorments them until they are driven mad.",1706864128032]
+{
+  "name": "Bushi",
+  "title": "Vagrant Warrior",
+  "image": "/images/full_palicon/T_Ronin_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "7",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    }
+  ],
+  "description": "Its body becomes a blade upon death, to be taken up by the next generation.\nIf someone other than a Ronin wields this blade, the soul within\ntorments them until they are driven mad.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Bone.png",
+      "name": "Bone",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_CopperIngot.png",
+      "name": "Ingot",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "80"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "125"
+    },
+    {
+      "name": "Price",
+      "value": "4520"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "600"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "900"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "80"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Brandish Blade",
+    "description": "When activated, attacks targeted enemy with a\npowerful Unique_Ronin_Iai."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Iaigiri",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "65",
+      "coolDown": "9",
+      "range": "1000 - 9999",
+      "description": "Ronin's exclusive skill.\nAfter Holding the sword, he appears in front of the enemy\nin an instant and unleashes a Ultra-fast sword draw attack."
+    },
+    {
+      "name": "Ignis Breath",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Shoots flames at an enemy,\ndealing continuous damage."
+    },
+    {
+      "name": "Lightning Strike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "0 - 500",
+      "description": "Acts as a lightning rod, calling down thunderbolts\nthat electrocute the surrounding area."
+    },
+    {
+      "name": "Ignis Rage",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "100 - 1000",
+      "description": "Energizes the surrounding ground,\ncausing it to explode after a set amount of time."
+    }
+  ],
+  "uniqueName": "bushi"
+}

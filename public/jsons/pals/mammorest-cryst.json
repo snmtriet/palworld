@@ -1,1 +1,264 @@
-[{"data":1,"prerenderedAt":133},["Reactive",2],{"jANZxcrkIf":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":9,"Support":22,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":9,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":38,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":54,"Drops":55,"ActiveSkills":69,"PassiveSkills":131,"Description":132},"Mammorest Cryst","None",true,"EPalTribeID::GrassMammoth_Ice","GrassMammoth_Ice",90,"B","EPalSizeType::XL",9,"EPalElementType::Ice","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,150,100,85,30,1,9580,"NotInterested",135,430,600,282,"EPalBattleBGMType::Cool",525,8,25,5,50,290,0,2,"Ice Crusher","Can be ridden.\r\nImproves efficiency of cutting trees and mining ores while mounted.",[42,50],{"ParentTribeA":43,"ParentTribeB":46,"ChildCharacterID":49},{"name":44,"BPClass":45},"Mammorest","GrassMammoth",{"name":47,"BPClass":48},"Wumpo","Yeti",{"name":4,"BPClass":8},{"ParentTribeA":51,"ParentTribeB":52,"ChildCharacterID":53},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Frozen King",[56,61,65],{"max":57,"min":34,"rate":20,"name":58,"descr":59,"icon":60},10,"High Quality Pal Oil","High-quality oil that can be extracted from Pal.\r\nNecessary for making \u003CitemName id=|Polymer|/>. ","T_itemicon_Material_PalOil",{"max":57,"min":34,"rate":20,"name":62,"descr":63,"icon":64},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":38,"min":38,"rate":20,"name":66,"descr":67,"icon":68},"Mammorest Meat","\u003CcharacterName id=|GrassMammoth|/> meat.\r\nWith massive size comes massive flavor.\r\nIts overwhelming portions are sure to satisfy any glutton.","T_itemicon_Food_Meat_GrassMammoth",[70,87,98,106,112,118,124],{"WazaType":71,"Element":72,"IgnoreRandomInherit":18,"Category":73,"Power":74,"IsLeanBack":18,"CameraShake":75,"MinRange":76,"MaxRange":77,"CoolTime":78,"ForceRagdollSize":79,"EffectType1":80,"EffectValue1":81,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":83,"EffectValueEx2":37,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":85,"WazaDesc":86},"EPalWazaID::ThrowRock","EPalElementType::Earth","EPalWazaCategory::Shot",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",500,2500,15,"EPalSizeType::XS","EPalAdditionalEffectType::Muddy",35,"EPalAdditionalEffectType::Stun",20,[],"Stone Cannon","Digs up a boulder\r\nand hurls it at an enemy.",{"WazaType":88,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":89,"IsLeanBack":18,"CameraShake":75,"MinRange":76,"MaxRange":90,"CoolTime":57,"ForceRagdollSize":91,"EffectType1":92,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":93,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":94,"bIsWeaponDamage":18,"DisabledData":18,"Level":95,"WazaName":96,"WazaDesc":97},"EPalWazaID::IceBlade",55,4000,"EPalSizeType::None","EPalAdditionalEffectType::Freeze","EPalAdditionalEffectType::None",[],7,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":99,"Element":100,"IgnoreRandomInherit":18,"Category":73,"Power":74,"IsLeanBack":18,"CameraShake":75,"MinRange":101,"MaxRange":102,"CoolTime":78,"ForceRagdollSize":79,"EffectType1":93,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":93,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":78,"WazaName":104,"WazaDesc":105},"EPalWazaID::PowerBall","EPalElementType::Normal",1000,9999,[],"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":107,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":74,"IsLeanBack":18,"CameraShake":75,"MinRange":20,"MaxRange":102,"CoolTime":78,"ForceRagdollSize":91,"EffectType1":92,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":93,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":108,"bIsWeaponDamage":18,"DisabledData":18,"Level":109,"WazaName":110,"WazaDesc":111},"EPalWazaID::BlizzardLance",[],22,"Iceberg","Summons a sharp ice lance\r\nunder an enemy.",{"WazaType":113,"Element":72,"IgnoreRandomInherit":6,"Category":73,"Power":20,"IsLeanBack":18,"CameraShake":114,"MinRange":37,"MaxRange":102,"CoolTime":22,"ForceRagdollSize":91,"EffectType1":93,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":93,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":115,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":116,"WazaDesc":117},"EPalWazaID::Unique_Grassmammoth_Earthquake","EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Earth Impact","Mammorest's exclusive skill.\r\nUses massive body to shake the earth,\r\ndealing damage over a wide area.",{"WazaType":119,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":9,"IsLeanBack":18,"CameraShake":75,"MinRange":20,"MaxRange":101,"CoolTime":109,"ForceRagdollSize":91,"EffectType1":92,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":93,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":120,"bIsWeaponDamage":18,"DisabledData":18,"Level":121,"WazaName":122,"WazaDesc":123},"EPalWazaID::FrostBreath",[],40,"Cryst Breath","Enshrouds an enemy in a frigid blast of air,\r\ndealing continuous damage.",{"WazaType":125,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":126,"IsLeanBack":18,"CameraShake":114,"MinRange":101,"MaxRange":102,"CoolTime":127,"ForceRagdollSize":91,"EffectType1":92,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":93,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":128,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":129,"WazaDesc":130},"EPalWazaID::IcicleThrow",130,45,[],"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",[],"The vegetation on its back varies from individual to individual.\r\nThere was a time when seeds of presumed extinct plants were found\r\nstill frozen on the back of a \u003CcharacterName id=|GrassMammoth_Ice|/>.",1706864119933]
+{
+  "name": "Mammorest Cryst",
+  "title": "Frozen King",
+  "image": "/images/full_palicon/T_GrassMammoth_Ice_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "9",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Ice",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "className": "elm1"
+    }
+  ],
+  "description": "The vegetation on its back varies from individual to individual.\nThere was a time when seeds of presumed extinct plants were found\nstill frozen on the back of a GrassMammoth_Ice.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalOil.png",
+      "name": "High Quality Pal Oil",
+      "amount": "5 - 10",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "5 - 10",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_GrassMammoth.png",
+      "name": "Mammorest Meat",
+      "amount": "2 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "150"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "85"
+    },
+    {
+      "name": "Price",
+      "value": "9580"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "30"
+    },
+    {
+      "name": "Running Speed",
+      "value": "430"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "600"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Mammorest",
+        "image": "/images/palicon/T_GrassMammoth_icon_normal.png"
+      },
+      "female": {
+        "name": "Wumpo",
+        "image": "/images/palicon/T_Yeti_icon_normal.png"
+      },
+      "result": {
+        "name": "Mammorest Cryst",
+        "image": "/images/palicon/T_GrassMammoth_Ice_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Mammorest Cryst",
+        "image": "/images/palicon/T_GrassMammoth_Ice_icon_normal.png"
+      },
+      "female": {
+        "name": "Mammorest Cryst",
+        "image": "/images/palicon/T_GrassMammoth_Ice_icon_normal.png"
+      },
+      "result": {
+        "name": "Mammorest Cryst",
+        "image": "/images/palicon/T_GrassMammoth_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Ice Crusher",
+    "description": "Can be ridden.\nImproves efficiency of cutting trees and mining ores while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Stone Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 2500",
+      "description": "Digs up a boulder\nand hurls it at an enemy."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Iceberg",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "100 - 9999",
+      "description": "Summons a sharp ice lance\nunder an enemy."
+    },
+    {
+      "name": "Earth Impact",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "0 - 9999",
+      "description": "Mammorest's exclusive skill.\nUses massive body to shake the earth,\ndealing damage over a wide area."
+    },
+    {
+      "name": "Cryst Breath",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "100 - 1000",
+      "description": "Enshrouds an enemy in a frigid blast of air,\ndealing continuous damage."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    }
+  ],
+  "uniqueName": "mammorest-cryst"
+}

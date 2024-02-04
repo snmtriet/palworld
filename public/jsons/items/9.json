@@ -1,0 +1,4112 @@
+[
+  {
+    "name": "Melpaca Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Alpaca.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "5 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      },
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Kitsun Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding AmaterasuWolf.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "25 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "15 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "en_text's Shotgun",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Shotgun.png",
+    "description": "A shotgun for BadCatgirl to hold.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Vanwyrm Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding BirdDragon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Vanwyrm Cryst Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding BirdDragon_Ice.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "24 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "12 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "18 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "36 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "24 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Necromus Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding BlackCentaur.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "200 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "300 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "85 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Dragostrophe's Shotgun",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Shotgun.png",
+    "description": "A shotgun for BlackFurDragon to hold.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Shadowbeak Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding BlackGriffon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "40 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "25 Venom Gland",
+        "image": "/images/items/T_itemicon_Material_Venom.png"
+      },
+      {
+        "name": "45 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Astegon Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding BlackMetalDragon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "50 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "55 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Azurobe Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding BlueDragon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "25 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "10 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      },
+      {
+        "name": "25 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Rushoar Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Boar.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Lifmunk's Submachine Gun",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_SMG.png",
+    "description": "Submachine gun made especially for Carbunclo.\r\nActivate its Partner Skill, and Lifmunk\r\nwill ride on your head and fire at enemies.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Tocotoco's Gloves",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Gloves for gently holding ColorfulBird.\r\nActivate its Partner Skill to hold ColorfulBird\r\nand use it to fire explosive eggs.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "15 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "15 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "en_text's Power Converter",
+    "type": "Essential",
+    "image": "/images/items/T_DarkMutant_icon_normal.png",
+    "description": "A tool for safely riding DarkMutant.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Eikthyrdeer Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Deer.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "15 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Eikthyrdeer Terra Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Deer_Ground.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "6 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "24 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "12 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "18 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Daedream's Necklace",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Choker.png",
+    "description": "Collar for DreamDemon.\r\nIf DreamDemon is in your team, it will stay by your side and attack enemies in tandem.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Digtoise's Headband",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Headband.png",
+    "description": "Headband for DrillGame.\r\nActivate its Partner Skill to make DrillGame spin at high speeds, allowing it to more efficiently smash through rock.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Galeclaw's Gloves",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Gloves for gently holding on to Eagle's legs.\r\nIf Eagle is in your team,\r\nit can be used as a glider.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Boltmane Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "A tool for safely riding ElecLion.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grizzbolt's Minigun",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Minigun.png",
+    "description": "Makes ElecPanda fire a minigun\r\nwhen ridden.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "10 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "75 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Elphidran Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FairyDragon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Water Elphidran Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FairyDragon_Water.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "24 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "24 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "18 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "24 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "en_text Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "A tool for safely riding FeatherOstrich.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fenglope Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FengyunDeeper.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Pyrin Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FireKirin.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "25 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "20 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "25 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Dark Pyrin Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FireKirin_Dark.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "36 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "24 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "18 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Arsox Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FlameBuffalo.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "25 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "15 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Dinossom Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FlowerDinosaur.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Dinossom Lux Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding FlowerDinosaur_Electric.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "18 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "36 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "12 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "24 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Flopie's Necklace",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Choker.png",
+    "description": "Collar for FlowerRabbit.\r\nIf FlowerRabbit is in your team, it will stay by your side and automatically gather nearby items.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "15 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Celaray's Gloves",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Gloves for gently holding on to FlyingManta's fins.\r\nIf FlyingManta is in your team,\r\nit can be used as a glider.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "3 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      },
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Direhowl's Saddled Harness",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Garm.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 ",
+        "image": "/images/items/null.png"
+      },
+      {
+        "name": "15 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Maraith Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding GhostBeast.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "25 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "en_text Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "A tool for safely riding GoldenHorse.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Mammorest Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding GrassMammoth.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "70 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "60 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Mammorest Cryst Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding GrassMammoth_Ice.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "84 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "12 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "120 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "72 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Mossanda's Grenade Launcher",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Grenadelauncher.png",
+    "description": "Makes GrassPanda fire a grenade launcher\r\nwhen ridden.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Mossanda Lux's Grenade Launcher",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Grenadelauncher.png",
+    "description": "Makes GrassPanda_Electric fire a grenade launcher\r\nwhen ridden.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "24 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "48 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "en_text Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "A tool for safely riding GuardianDog.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Helzephyr Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding HadesBird.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Nitewing Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding HawkBird.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Jolthog's Gloves",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Rubber gloves for handling Hedgehog.\r\nActivate its Partner Skill, and Hedgehog\r\nwill throw electric grenades.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "5 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Jolthog Cryst's Gloves",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Rubber gloves for handling Hedgehog_Ice.\r\nActivate its Partner Skill, and Hedgehog_Ice\r\nwill throw ice grenades.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "6 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "6 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "6 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Faleris Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Horus.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "25 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Reindrix Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding IceDeer.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "25 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "25 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Frostallion Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding IceHorse.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "200 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "50 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "75 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Frostallion Noct Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding IceHorse_Dark.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "120 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "240 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "60 Venom Gland",
+        "image": "/images/items/T_itemicon_Material_Venom.png"
+      },
+      {
+        "name": "90 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Jetragon's Missile Launcher",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_MultiMissile.png",
+    "description": "Makes JetDragon fire missiles\r\nwhen ridden.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "200 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "50 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "140 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Kingpaca Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding KingAlpaca.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Ice Kingpaca Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding KingAlpaca_Ice.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "24 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "24 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "18 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "36 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      },
+      {
+        "name": "24 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Blazamut Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding KingBahamut.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Univolt Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Kirin.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "15 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Foxparks's Harness",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Harness.png",
+    "description": "Harness for holding Kitsunebi.\r\nActivate its Partner Skill to hold Kitsunebi\r\nand attack using it as a flamethrower.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "5 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Relaxaurus's Missile Launcher",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_MultiMissile.png",
+    "description": "Makes LazyDragon fire a missile launcher\r\nwhen ridden.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "35 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "85 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Relaxaurus Lux's Missile Launcher",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_MultiMissile.png",
+    "description": "Makes LazyDragon_Electric fire a missile launcher\r\nwhen ridden.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "120 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "42 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "120 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "102 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Blazehowl Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Manticore.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "20 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Dark Kingferno Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Manticore_Dark.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "36 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "36 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "60 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "24 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "36 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Tanzee's Assault Rifle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_AssaultRifle.png",
+    "description": "Assault rifle made especially for Monkey.\r\nActivate its Partner Skill, and Monkey will enter gunner mode\r\nand begin shooting at nearby enemies.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "15 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Sweepa Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding MopKing.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "8 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Grintale Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding NaughtyCat.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Killamari's Gloves",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Gloves for gently holding on to NegativeOctopus's legs.\r\nIf NegativeOctopus is in your team,\r\nit can be used as a glider.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "5 Venom Gland",
+        "image": "/images/items/T_itemicon_Material_Venom.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Pengullet's Rocket Launcher",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Launcher.png",
+    "description": "Rocket launcher for launching Penguin.\r\nActivate its Partner Skill to fire Pengullet\r\nand damage enemies. After firing, Penguin will become incapacitated.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Dazzi's Necklace",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Choker.png",
+    "description": "Collar for RaijinDaughter.\r\nIf RaijinDaughter is in your team,\r\nit will stay by your side and attack enemies in tandem.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "15 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Ragnahawk Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding RedArmorBird.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "25 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "15 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "25 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Paladius Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding SaintCentaur.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "100 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "200 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "300 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "85 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Broncherry Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding SakuraSaurus.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Water Broncherry Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding SakuraSaurus_Water.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "24 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "36 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "18 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "24 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Surfent Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Serpent.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "5 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Aquadon Terra Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Serpent_Ground.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "6 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "6 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "12 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Quivern Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding SkyDragon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Suzaku Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Suzaku.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "25 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Water Suzaku Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Suzaku_Water.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "24 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "24 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      },
+      {
+        "name": "48 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Beakon Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding ThunderBird.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "25 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Rayhound Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding ThunderDog.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "40 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "15 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "25 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Jormuntide Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Umihebi.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "50 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      },
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Jormuntide Ignis Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Umihebi_Fire.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "36 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "60 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "60 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "24 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "48 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Reptyro Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding VolcanicMonster.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Ice Reptyro Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding VolcanicMonster_Ice.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "24 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "24 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "24 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "24 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Chillet Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding WeaselDragon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Hangyu's Gloves",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Gloves for gently holding on to WindChimes's arms.\r\nIf WindChimes is in your team, it can be used as a glider.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Hangyu Cryst's Glove",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Gloves.png",
+    "description": "Gloves for gently holding on to WindChimes_Ice's arms.\r\nIf WindChimes_Ice is in your team, it can be used as a glider.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "6 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "12 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "12 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "en_text Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "A tool for safely riding WingGolem.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "99"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Wumpo Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Yeti.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "50 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Wumpo Botan Saddle",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_SkillUnlock_Saddle.png",
+    "description": "Saddle for safely riding Yeti_Grass.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "0"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "36 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "24 Beautiful Flower",
+        "image": "/images/items/T_itemicon_Food_Poppy.png"
+      },
+      {
+        "name": "60 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "12 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "48 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Spear",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Spear_Tier_00.png",
+    "description": "Useful for close-range combat.\r\nIts length allows you to stand further away when attacking.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "480"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "200"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "35"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "18 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "6 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Spear",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Spear_Tier_00.png",
+    "description": "Useful for close-range combat.\r\nThe metal tip give it an increased attack power.\r\nIts length allows you to stand further away when attacking.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "8780"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "250"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "80"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "27 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "12 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Refined Metal Spear",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Spear_Tier_00.png",
+    "description": "Useful for close-range combat.\r\nThe high-quality metal tip give it an increased attack power.\r\nIts length allows you to stand further away when attacking.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "13880"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "310"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "36 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "18 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "10 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Lily's Spear",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Spear_ForestBoss.png",
+    "description": "The spear cherished by Lily.\r\nPunishes those who neglect their Pals.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "20000"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "500"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "450"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Elizabee's Staff",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Spear_QueenBee.png",
+    "description": "Spear made from QueenBee's staff, altered for human use.\r\nIt is imbued with QueenBee's indomitable spirit.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "20000"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "150"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Beegarde's Spear",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Spear_SoldierBee.png",
+    "description": "A spear made from the SoldierBee's spear, altered for human use.\r\nCan feel a sincere loyalty.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "20000"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "400"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "150"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Scatter Sphere Launcher",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_SphereLauncher.png",
+    "description": "A new type of launcher that fires a large number of spheres.\r\nIt can easily capture a herd of Pals.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "44000"
+      },
+      {
+        "name": "Weight",
+        "value": "30"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "15 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "50 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "30 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "10 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Single-shot Sphere Launcher",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_SphereLauncher_Once.png",
+    "description": "A launcher that fires spheres.\r\nIt can capture Pals that are a distance away.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "109200"
+      },
+      {
+        "name": "Weight",
+        "value": "30"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "100 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "50 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Memory Wiping Medicine",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_StatusPointResetSan.png",
+    "description": "A potion that allows the player to reset status points when consumed.\r\nIt has no effect if consumed by Pal.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "99 Beautiful Flower",
+        "image": "/images/items/T_itemicon_Food_Poppy.png"
+      },
+      {
+        "name": "50 Horn",
+        "image": "/images/items/T_itemicon_Material_Horn.png"
+      },
+      {
+        "name": "50 Bone",
+        "image": "/images/items/T_itemicon_Material_Bone.png"
+      },
+      {
+        "name": "50 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmor.png",
+    "description": "Armor made from StealIngot.\r\nHigh defense, but extremely heavy.\r\nEquipment for a hero, it exudes bravery.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "32300"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "5000"
+      },
+      {
+        "name": "HP",
+        "value": "750"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "220"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "4 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorCold.png",
+    "description": "Improved StealArmor.\r\nUseful for activities in cold regions.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "32300"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "5000"
+      },
+      {
+        "name": "HP",
+        "value": "750"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "250"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "6 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "16 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorCold.png",
+    "description": "Improved StealArmor.\r\nUseful for activities in cold regions.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "38760"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "6000"
+      },
+      {
+        "name": "HP",
+        "value": "975"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "325"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "60 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "12 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "32 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "9 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorCold.png",
+    "description": "Improved StealArmor.\r\nUseful for activities in cold regions.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "48450"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "7500"
+      },
+      {
+        "name": "HP",
+        "value": "1050"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "350"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "90 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "90 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "18 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "48 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "11 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  }
+]

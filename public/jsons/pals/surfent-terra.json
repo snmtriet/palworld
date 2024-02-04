@@ -1,1 +1,252 @@
-[{"data":1,"prerenderedAt":124},["Reactive",2],{"5awHvBWqAk":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":19,"Defense":21,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":21,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":28,"FullStomachDecreaseRate":22,"FoodAmount":12,"ViewingDistance":30,"ViewingAngle":19,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":31,"Predator":6,"Edible":6,"Stamina":21,"MaleProbability":32,"CombiRank":33,"WorkSuitability_EmitFlame":34,"WorkSuitability_Watering":34,"WorkSuitability_Seeding":34,"WorkSuitability_GenerateElectricity":34,"WorkSuitability_Handcraft":34,"WorkSuitability_Collection":22,"WorkSuitability_Deforest":34,"WorkSuitability_Mining":34,"WorkSuitability_OilExtraction":34,"WorkSuitability_ProductMedicine":34,"WorkSuitability_Cool":34,"WorkSuitability_Transport":34,"WorkSuitability_MonsterFarm":34,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":35,"PartnerSkillDesc":36,"Combinations":37,"PrefixName":50,"Drops":51,"ActiveSkills":57,"PassiveSkills":122,"Description":123},"Surfent Terra","None",true,"EPalTribeID::Serpent_Ground","Serpent_Ground",65,"B","EPalSizeType::M",5,"EPalElementType::Earth","EPalElementType::None","EPalGenusCategoryType::Fish","EPalOrganizationType::None","EPalWeaponType::None",false,90,70,100,1,5140,"Warlike",200,500,650,350,"EPalBattleBGMType::Cool",25,3,50,550,0,"Sand Swimmer","Can be ridden.",[38,46],{"ParentTribeA":39,"ParentTribeB":42,"ChildCharacterID":45},{"name":40,"BPClass":41},"Surfent","Serpent",{"name":43,"BPClass":44},"Dumud","LazyCatfish",{"name":4,"BPClass":8},{"ParentTribeA":47,"ParentTribeB":48,"ChildCharacterID":49},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"The Desert's Wrath",[52],{"max":53,"min":22,"rate":21,"name":54,"descr":55,"icon":56},2,"Pal Fluids","Body fluids taken from a Pal.\r\nUseful for its high viscosity.","T_itemicon_Material_PalFluid",[58,71,82,90,101,108,114],{"WazaType":59,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":61,"IsLeanBack":18,"CameraShake":62,"MinRange":26,"MaxRange":63,"CoolTime":64,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":32,"EffectValueEx1":34,"EffectType2":67,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":68,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":69,"WazaDesc":70},"EPalWazaID::MudShot","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",3000,4,"EPalSizeType::None","EPalAdditionalEffectType::Muddy","EPalAdditionalEffectType::None",[],"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":72,"Element":73,"IgnoreRandomInherit":18,"Category":60,"Power":74,"IsLeanBack":18,"CameraShake":62,"MinRange":26,"MaxRange":75,"CoolTime":53,"ForceRagdollSize":65,"EffectType1":76,"EffectValue1":77,"EffectValueEx1":34,"EffectType2":67,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":79,"WazaName":80,"WazaDesc":81},"EPalWazaID::DragonCanon","EPalElementType::Dragon",30,4000,"EPalAdditionalEffectType::Burn",35,[],7,"Dragon Cannon","Hurls an energy ball imbued\r\nwith draconic energy at an enemy.",{"WazaType":83,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":84,"IsLeanBack":18,"CameraShake":62,"MinRange":26,"MaxRange":75,"CoolTime":85,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":21,"EffectValueEx1":34,"EffectType2":67,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::StoneShotgun",55,10,[],15,"Stone Blast","Fires a barrage of stones forward.",{"WazaType":91,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":20,"IsLeanBack":18,"CameraShake":92,"MinRange":26,"MaxRange":93,"CoolTime":87,"ForceRagdollSize":94,"EffectType1":66,"EffectValue1":77,"EffectValueEx1":34,"EffectType2":95,"EffectValue2":96,"EffectValueEx2":34,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::ThrowRock","EPalPlayerDamageCameraShakeCategory::Waza_M",2500,"EPalSizeType::XS","EPalAdditionalEffectType::Stun",20,[],22,"Stone Cannon","Digs up a boulder\r\nand hurls it at an enemy.",{"WazaType":102,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":103,"IsLeanBack":18,"CameraShake":92,"MinRange":21,"MaxRange":63,"CoolTime":104,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":9,"EffectValueEx1":34,"EffectType2":67,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":105,"bIsWeaponDamage":18,"DisabledData":18,"Level":74,"WazaName":106,"WazaDesc":107},"EPalWazaID::SandTornado",80,18,[],"Sand Tornado","Generates two sand tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":109,"Element":73,"IgnoreRandomInherit":18,"Category":60,"Power":20,"IsLeanBack":18,"CameraShake":92,"MinRange":26,"MaxRange":110,"CoolTime":87,"ForceRagdollSize":65,"EffectType1":76,"EffectValue1":21,"EffectValueEx1":34,"EffectType2":67,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":61,"WazaName":112,"WazaDesc":113},"EPalWazaID::DragonBreath",1500,[],"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":115,"Element":13,"IgnoreRandomInherit":18,"Category":60,"Power":116,"IsLeanBack":18,"CameraShake":117,"MinRange":21,"MaxRange":118,"CoolTime":84,"ForceRagdollSize":65,"EffectType1":66,"EffectValue1":21,"EffectValueEx1":34,"EffectType2":67,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":119,"bIsWeaponDamage":18,"DisabledData":18,"Level":32,"WazaName":120,"WazaDesc":121},"EPalWazaID::RockLance",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",9999,[],"Rock Lance","Generates a sharp rock spear\r\nunder an enemy.",[],"Its aerodynamic form is well suited to life on the sand.\r\nPoachers often catch them and use them in place of surfboards.",1706864128549]
+{
+  "name": "Surfent Terra",
+  "title": "The Desert's Wrath",
+  "image": "/images/full_palicon/T_Serpent_Ground_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "5",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "Its aerodynamic form is well suited to life on the sand.\nPoachers often catch them and use them in place of surfboards.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalFluid.png",
+      "name": "Pal Fluids",
+      "amount": "1 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "70"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "90"
+    },
+    {
+      "name": "Price",
+      "value": "5140"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "500"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "650"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Surfent",
+        "image": "/images/palicon/T_Serpent_icon_normal.png"
+      },
+      "female": {
+        "name": "Dumud",
+        "image": "/images/palicon/T_LazyCatfish_icon_normal.png"
+      },
+      "result": {
+        "name": "Surfent Terra",
+        "image": "/images/palicon/T_Serpent_Ground_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Surfent Terra",
+        "image": "/images/palicon/T_Serpent_Ground_icon_normal.png"
+      },
+      "female": {
+        "name": "Surfent Terra",
+        "image": "/images/palicon/T_Serpent_Ground_icon_normal.png"
+      },
+      "result": {
+        "name": "Surfent Terra",
+        "image": "/images/palicon/T_Serpent_Ground_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Sand Swimmer",
+    "description": "Can be ridden."
+  },
+  "activeSkills": [
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Dragon Cannon",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Hurls an energy ball imbued\nwith draconic energy at an enemy."
+    },
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Stone Cannon",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 2500",
+      "description": "Digs up a boulder\nand hurls it at an enemy."
+    },
+    {
+      "name": "Sand Tornado",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 3000",
+      "description": "Generates two sand tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Rock Lance",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "100 - 9999",
+      "description": "Generates a sharp rock spear\nunder an enemy."
+    }
+  ],
+  "uniqueName": "surfent-terra"
+}

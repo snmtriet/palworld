@@ -1,1 +1,269 @@
-[{"data":1,"prerenderedAt":137},["Reactive",2],{"PSISA0zLd3":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":19,"HearingRate":22,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":33,"Predator":6,"Edible":6,"Stamina":34,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":22,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":37,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":39,"Drops":57,"ActiveSkills":73,"PassiveSkills":135,"Description":136},"Vanwyrm","None",true,"EPalTribeID::BirdDragon","BirdDragon",71,"","EPalSizeType::L",4,"EPalElementType::Fire","EPalElementType::Dark","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,90,100,115,1,4360,"Warlike",350,700,850,475,"EPalBattleBGMType::Cool",400,6,25,5,150,50,660,0,3,"Aerial Marauder","Can be ridden as an flying mount.\r\nIncreases damage player deals\r\nto enemy weak points while mounted.",[42,50],{"ParentTribeA":43,"ParentTribeB":44,"ChildCharacterID":47},{"name":4,"BPClass":8},{"name":45,"BPClass":46},"Foxcicle","IceFox",{"name":48,"BPClass":49},"Vanwyrm Cryst","BirdDragon_Ice",{"ParentTribeA":51,"ParentTribeB":52,"ChildCharacterID":54},{"name":4,"BPClass":8},{"name":53,"BPClass":53},"Anubis",{"name":55,"BPClass":56},"Faleris","Horus",[58,63,67],{"max":59,"min":22,"rate":20,"name":60,"descr":61,"icon":62},2,"Bone","\u003CitemName id=|Bone|/> collected from Pals.\r\nUsed in the creation of high quality Paldium.","T_itemicon_Material_Bone",{"max":59,"min":22,"rate":22,"name":64,"descr":65,"icon":66},"Ruby","A gemstone that glows red.\r\nCan be sold to a merchant for a high price.","T_itemicon_Material_Ruby",{"max":68,"min":69,"rate":69,"name":70,"descr":71,"icon":72},40,10,"Gold Coin","Currency traded on Palpagos Island.\r\nCan be exchanged for items or Pals with merchants.","T_itemicon_Material_Money",[74,86,95,104,113,123,129],{"WazaType":75,"Element":76,"IgnoreRandomInherit":18,"Category":77,"Power":32,"IsLeanBack":18,"CameraShake":78,"MinRange":79,"MaxRange":80,"CoolTime":59,"ForceRagdollSize":81,"EffectType1":82,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":83,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":84,"WazaDesc":85},"EPalWazaID::AirCanon","EPalElementType::Normal","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":87,"Element":13,"IgnoreRandomInherit":18,"Category":77,"Power":88,"IsLeanBack":18,"CameraShake":78,"MinRange":79,"MaxRange":89,"CoolTime":59,"ForceRagdollSize":81,"EffectType1":90,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":91,"bIsWeaponDamage":18,"DisabledData":18,"Level":92,"WazaName":93,"WazaDesc":94},"EPalWazaID::FireBlast",30,5000,"EPalAdditionalEffectType::Burn",[],7,"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":96,"Element":13,"IgnoreRandomInherit":18,"Category":77,"Power":97,"IsLeanBack":18,"CameraShake":78,"MinRange":98,"MaxRange":99,"CoolTime":92,"ForceRagdollSize":81,"EffectType1":90,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":100,"bIsWeaponDamage":18,"DisabledData":18,"Level":101,"WazaName":102,"WazaDesc":103},"EPalWazaID::FireSeed",45,1000,3000,[],15,"Spirit Fire","Shoots fireballs towards an enemy.\r\nThe fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",{"WazaType":105,"Element":13,"IgnoreRandomInherit":18,"Category":77,"Power":106,"IsLeanBack":18,"CameraShake":107,"MinRange":79,"MaxRange":108,"CoolTime":101,"ForceRagdollSize":81,"EffectType1":90,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":109,"bIsWeaponDamage":18,"DisabledData":18,"Level":110,"WazaName":111,"WazaDesc":112},"EPalWazaID::Flamethrower",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",1500,[],22,"Ignis Breath","Shoots flames at an enemy,\r\ndealing continuous damage.",{"WazaType":114,"Element":14,"IgnoreRandomInherit":18,"Category":77,"Power":20,"IsLeanBack":18,"CameraShake":115,"MinRange":98,"MaxRange":116,"CoolTime":88,"ForceRagdollSize":117,"EffectType1":118,"EffectValue1":119,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":120,"bIsWeaponDamage":18,"DisabledData":18,"Level":88,"WazaName":121,"WazaDesc":122},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S","EPalAdditionalEffectType::Darkness",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":124,"Element":13,"IgnoreRandomInherit":18,"Category":77,"Power":34,"IsLeanBack":18,"CameraShake":115,"MinRange":79,"MaxRange":116,"CoolTime":125,"ForceRagdollSize":117,"EffectType1":90,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":126,"bIsWeaponDamage":18,"DisabledData":18,"Level":68,"WazaName":127,"WazaDesc":128},"EPalWazaID::FireBall",55,[],"Fire Ball","Creates a giant ball of flame and hurls it at an enemy.\r\nThe ball explodes over a wide area upon impact.",{"WazaType":130,"Element":14,"IgnoreRandomInherit":18,"Category":77,"Power":34,"IsLeanBack":18,"CameraShake":115,"MinRange":79,"MaxRange":131,"CoolTime":125,"ForceRagdollSize":81,"EffectType1":118,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":82,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":132,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":133,"WazaDesc":134},"EPalWazaID::DarkLaser",1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"The melodies of a flute made from the exoskeleton of a \u003CcharacterName id=|BirdDragon|/>\r\nare said to cross whole mountain ranges.\r\nIn ages past, such flutes were used to signal an attack.",1706864112773]
+{
+  "name": "Vanwyrm",
+  "title": "Aerial Marauder",
+  "image": "/images/full_palicon/T_BirdDragon_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "4",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    },
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "The melodies of a flute made from the exoskeleton of a BirdDragon\nare said to cross whole mountain ranges.\nIn ages past, such flutes were used to signal an attack.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Bone.png",
+      "name": "Bone",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Ruby.png",
+      "name": "Ruby",
+      "amount": "1 - 2",
+      "rate": "1%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Money.png",
+      "name": "Gold Coin",
+      "amount": "10 - 40",
+      "rate": "10%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "115"
+    },
+    {
+      "name": "Price",
+      "value": "4360"
+    },
+    {
+      "name": "Stamina",
+      "value": "150"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "700"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "850"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Vanwyrm",
+        "image": "/images/palicon/T_BirdDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Foxcicle",
+        "image": "/images/palicon/T_IceFox_icon_normal.png"
+      },
+      "result": {
+        "name": "Vanwyrm Cryst",
+        "image": "/images/palicon/T_BirdDragon_Ice_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Vanwyrm",
+        "image": "/images/palicon/T_BirdDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Anubis",
+        "image": "/images/palicon/T_Anubis_icon_normal.png"
+      },
+      "result": {
+        "name": "Faleris",
+        "image": "/images/palicon/T_Horus_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Aerial Marauder",
+    "description": "Can be ridden as an flying mount.\nIncreases damage player deals\nto enemy weak points while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Spirit Fire",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "45",
+      "coolDown": "7",
+      "range": "1000 - 3000",
+      "description": "Shoots fireballs towards an enemy.\nThe fireballs explode after a short distance,\ngenerating smaller fireballs that spread forward."
+    },
+    {
+      "name": "Ignis Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Shoots flames at an enemy,\ndealing continuous damage."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Fire Ball",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 9999",
+      "description": "Creates a giant ball of flame and hurls it at an enemy.\nThe ball explodes over a wide area upon impact."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "vanwyrm"
+}

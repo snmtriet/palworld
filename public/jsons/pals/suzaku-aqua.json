@@ -1,1 +1,252 @@
-[{"data":1,"prerenderedAt":127},["Reactive",2],{"hTHfmheQqN":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":21,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":35,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":38,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":54,"Drops":55,"ActiveSkills":60,"PassiveSkills":125,"Description":126},"Suzaku Aqua","None",true,"EPalTribeID::Suzaku_Water","Suzaku_Water",102,"B","EPalSizeType::XL",9,"EPalElementType::Water","EPalElementType::None","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,125,100,105,1,10110,"Warlike",200,850,1100,450,"EPalBattleBGMType::Strong",525,8,25,90,5,350,50,30,0,3,"Wings of Water","Can be ridden as an flying mount.\r\nEnhances \u003CuiCommon id=|COMMON_ELEMENT_NAME_Water|/> attacks while mounted.",[43,50],{"ParentTribeA":44,"ParentTribeB":46,"ChildCharacterID":49},{"name":45,"BPClass":45},"Suzaku",{"name":47,"BPClass":48},"Jormuntide","Umihebi",{"name":4,"BPClass":8},{"ParentTribeA":51,"ParentTribeB":52,"ChildCharacterID":53},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Ruler of the Cobalt Dusk",[56],{"max":34,"min":34,"rate":20,"name":57,"descr":58,"icon":59},"Pal Fluids","Body fluids taken from a Pal.\r\nUseful for its high viscosity.","T_itemicon_Material_PalFluid",[61,75,86,94,102,110,117],{"WazaType":62,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":37,"IsLeanBack":18,"CameraShake":64,"MinRange":65,"MaxRange":66,"CoolTime":67,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":70,"EffectValueEx1":38,"EffectType2":71,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":72,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":73,"WazaDesc":74},"EPalWazaID::AquaJet","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,2,"EPalSizeType::None","EPalAdditionalEffectType::Wetness",35,"EPalAdditionalEffectType::None",[],"Hydro Jet","Hurls a high speed ball of water\r\nat an enemy.",{"WazaType":76,"Element":77,"IgnoreRandomInherit":18,"Category":63,"Power":37,"IsLeanBack":18,"CameraShake":64,"MinRange":78,"MaxRange":79,"CoolTime":39,"ForceRagdollSize":68,"EffectType1":80,"EffectValue1":81,"EffectValueEx1":38,"EffectType2":71,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":82,"bIsWeaponDamage":18,"DisabledData":18,"Level":83,"WazaName":84,"WazaDesc":85},"EPalWazaID::IceMissile","EPalElementType::Ice",800,3000,"EPalAdditionalEffectType::Freeze",103,[],7,"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":87,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":88,"IsLeanBack":18,"CameraShake":64,"MinRange":65,"MaxRange":66,"CoolTime":89,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":36,"EffectValueEx1":38,"EffectType2":71,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":90,"bIsWeaponDamage":18,"DisabledData":18,"Level":91,"WazaName":92,"WazaDesc":93},"EPalWazaID::WaterGun",40,4,[],15,"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":95,"Element":77,"IgnoreRandomInherit":18,"Category":63,"Power":33,"IsLeanBack":18,"CameraShake":96,"MinRange":20,"MaxRange":97,"CoolTime":98,"ForceRagdollSize":68,"EffectType1":80,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":71,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":99,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":100,"WazaDesc":101},"EPalWazaID::FrostBreath","EPalPlayerDamageCameraShakeCategory::Waza_M",1000,22,[],"Cryst Breath","Enshrouds an enemy in a frigid blast of air,\r\ndealing continuous damage.",{"WazaType":103,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":20,"IsLeanBack":18,"CameraShake":104,"MinRange":97,"MaxRange":105,"CoolTime":37,"ForceRagdollSize":106,"EffectType1":69,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":71,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":37,"WazaName":108,"WazaDesc":109},"EPalWazaID::WaterBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],"Aqua Burst","Creates a giant ball of water\r\nand hurls it at an enemy.",{"WazaType":111,"Element":77,"IgnoreRandomInherit":18,"Category":63,"Power":112,"IsLeanBack":18,"CameraShake":104,"MinRange":97,"MaxRange":105,"CoolTime":113,"ForceRagdollSize":68,"EffectType1":80,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":71,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":88,"WazaName":115,"WazaDesc":116},"EPalWazaID::IcicleThrow",130,45,[],"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",{"WazaType":118,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":119,"IsLeanBack":18,"CameraShake":104,"MinRange":65,"MaxRange":120,"CoolTime":121,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":20,"EffectValueEx1":38,"EffectType2":71,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":122,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":123,"WazaDesc":124},"EPalWazaID::HydroPump",150,1800,55,[],"Hydro Laser","Shoots pressurized water at extreme velocities,\r\nsweeping over a wide area in front of it.",[],"It was once believed to usher in the rainy season.\r\nIf there was a flood the previous year, people would relentlessly seek to cull its numbers,\r\nhoping to avert disaster in the coming year.",1706864129593]
+{
+  "name": "Suzaku Aqua",
+  "title": "Ruler of the Cobalt Dusk",
+  "image": "/images/full_palicon/T_Suzaku_Water_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "9",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    }
+  ],
+  "description": "It was once believed to usher in the rainy season.\nIf there was a flood the previous year, people would relentlessly seek to cull its numbers,\nhoping to avert disaster in the coming year.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalFluid.png",
+      "name": "Pal Fluids",
+      "amount": "5 - 5",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "125"
+    },
+    {
+      "name": "Defense",
+      "value": "105"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "10110"
+    },
+    {
+      "name": "Stamina",
+      "value": "350"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "850"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1100"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Suzaku",
+        "image": "/images/palicon/T_Suzaku_icon_normal.png"
+      },
+      "female": {
+        "name": "Jormuntide",
+        "image": "/images/palicon/T_Umihebi_icon_normal.png"
+      },
+      "result": {
+        "name": "Suzaku Aqua",
+        "image": "/images/palicon/T_Suzaku_Water_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Suzaku Aqua",
+        "image": "/images/palicon/T_Suzaku_Water_icon_normal.png"
+      },
+      "female": {
+        "name": "Suzaku Aqua",
+        "image": "/images/palicon/T_Suzaku_Water_icon_normal.png"
+      },
+      "result": {
+        "name": "Suzaku Aqua",
+        "image": "/images/palicon/T_Suzaku_Water_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Wings of Water",
+    "description": "Can be ridden as an flying mount.\nEnhances COMMON_ELEMENT_NAME_Water attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Hydro Jet",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a high speed ball of water\nat an enemy."
+    },
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Cryst Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "100 - 1000",
+      "description": "Enshrouds an enemy in a frigid blast of air,\ndealing continuous damage."
+    },
+    {
+      "name": "Aqua Burst",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of water\nand hurls it at an enemy."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    },
+    {
+      "name": "Hydro Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Shoots pressurized water at extreme velocities,\nsweeping over a wide area in front of it."
+    }
+  ],
+  "uniqueName": "suzaku-aqua"
+}

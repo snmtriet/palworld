@@ -1,1 +1,258 @@
-[{"data":1,"prerenderedAt":145},["Reactive",2],{"jOki2Q9Pz1":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":19,"Defense":21,"Support":22,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":21,"WalkSpeed":21,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":23,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":35,"MaleProbability":36,"CombiRank":21,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":38,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":39,"PassiveSkill2":40,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":41,"PartnerSkillDesc":42,"Combinations":43,"PrefixName":56,"Drops":57,"ActiveSkills":67,"PassiveSkills":130,"Description":144},"Frostallion","None",true,"EPalTribeID::IceHorse","IceHorse",110,"","EPalSizeType::L",20,"EPalElementType::Ice","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,140,100,120,70,1,8440,"Escape_to_Battle",1000,1500,440,"EPalBattleBGMType::Legend",475,7,25,90,5,300,50,0,4,"Legend","ElementBoost_Ice_2_PAL","Ice Steed","Can be ridden as an flying mount.\r\nChanges the player's attack type to \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/>\r\nand enhances \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> attacks while mounted.",[44,52],{"ParentTribeA":45,"ParentTribeB":46,"ChildCharacterID":49},{"name":4,"BPClass":8},{"name":47,"BPClass":48},"Helzephyr","HadesBird",{"name":50,"BPClass":51},"Frostallion Noct","IceHorse_Dark",{"ParentTribeA":53,"ParentTribeB":54,"ChildCharacterID":55},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Legendary Steed of Ice",[58,63],{"max":59,"min":59,"rate":20,"name":60,"descr":61,"icon":62},10,"Ice Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> Pals.\r\nCan be used to make \u003CmapObjectName id=|Trap_MineFreeze|/> and more.","T_itemicon_Material_IceOrgan",{"max":23,"min":23,"rate":20,"name":64,"descr":65,"icon":66},"Diamond","A rare gemstone that glows brilliantly.\r\nCan be sold to a merchant for a high price.","T_itemicon_Material_Diamond",[68,81,92,100,107,117,123],{"WazaType":69,"Element":70,"IgnoreRandomInherit":18,"Category":71,"Power":32,"IsLeanBack":18,"CameraShake":72,"MinRange":73,"MaxRange":74,"CoolTime":75,"ForceRagdollSize":76,"EffectType1":77,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":79,"WazaDesc":80},"EPalWazaID::AirCanon","EPalElementType::Normal","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,2,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":82,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":83,"IsLeanBack":18,"CameraShake":72,"MinRange":84,"MaxRange":85,"CoolTime":86,"ForceRagdollSize":76,"EffectType1":87,"EffectValue1":88,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":89,"bIsWeaponDamage":18,"DisabledData":18,"Level":31,"WazaName":90,"WazaDesc":91},"EPalWazaID::IceMissile",30,800,3000,3,"EPalAdditionalEffectType::Freeze",103,[],"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":93,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":94,"IsLeanBack":18,"CameraShake":95,"MinRange":73,"MaxRange":74,"CoolTime":59,"ForceRagdollSize":76,"EffectType1":87,"EffectValue1":36,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":96,"bIsWeaponDamage":18,"DisabledData":18,"Level":97,"WazaName":98,"WazaDesc":99},"EPalWazaID::IceBlade",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",[],15,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":101,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":22,"IsLeanBack":18,"CameraShake":95,"MinRange":20,"MaxRange":102,"CoolTime":97,"ForceRagdollSize":76,"EffectType1":87,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":104,"WazaName":105,"WazaDesc":106},"EPalWazaID::BlizzardLance",9999,[],22,"Iceberg","Summons a sharp ice lance\r\nunder an enemy.",{"WazaType":108,"Element":13,"IgnoreRandomInherit":6,"Category":109,"Power":9,"IsLeanBack":18,"CameraShake":110,"MinRange":37,"MaxRange":111,"CoolTime":112,"ForceRagdollSize":113,"EffectType1":87,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":83,"WazaName":115,"WazaDesc":116},"EPalWazaID::Unique_IceHorse_IceBladeAttack","EPalWazaCategory::Melee","EPalPlayerDamageCameraShakeCategory::Waza_L",2500,24,"EPalSizeType::S",[],"Crystal Wing","Frostallion's exclusive skill.\r\nDashes forward while creating frigid air around its wings,\r\nusing them to slash enemies.",{"WazaType":118,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":33,"IsLeanBack":18,"CameraShake":95,"MinRange":20,"MaxRange":26,"CoolTime":104,"ForceRagdollSize":76,"EffectType1":87,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":119,"bIsWeaponDamage":18,"DisabledData":18,"Level":120,"WazaName":121,"WazaDesc":122},"EPalWazaID::FrostBreath",[],40,"Cryst Breath","Enshrouds an enemy in a frigid blast of air,\r\ndealing continuous damage.",{"WazaType":124,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":125,"IsLeanBack":18,"CameraShake":110,"MinRange":26,"MaxRange":102,"CoolTime":126,"ForceRagdollSize":76,"EffectType1":87,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":77,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":127,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":128,"WazaDesc":129},"EPalWazaID::IcicleThrow",130,45,[],"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",[131,138],{"Rank":86,"OverrideDescMsgID":132,"EffectType1":133,"EffectValue1":12,"TargetType1":134,"EffectType2":135,"EffectValue2":12,"TargetType2":134,"EffectType3":136,"EffectValue3":97,"TargetType3":134,"InvokeActiveOtomo":18,"InvokeWorker":18,"InvokeRiding":18,"InvokeReserve":18,"InvokeInOtomo":18,"InvokeAlways":6,"AddPal":18,"AddRarePal":18,"AddShotWeapon":18,"AddMeleeWeapon":18,"AddArmor":18,"AddAccessory":18,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":137,"Name":39},"PASSIVE_Legend_DESC","EPalPassiveSkillEffectType::ShotAttack","EPalPassiveSkillEffectTargetType::ToSelf","EPalPassiveSkillEffectType::Defense","EPalPassiveSkillEffectType::MoveSpeed","Attack +{EffectValue1}%\r\nDefense +{EffectValue2}%\r\nMovement Speed increases {EffectValue3}%",{"Rank":86,"OverrideDescMsgID":139,"EffectType1":140,"EffectValue1":12,"TargetType1":134,"EffectType2":141,"EffectValue2":37,"TargetType2":134,"EffectType3":141,"EffectValue3":37,"TargetType3":134,"InvokeActiveOtomo":18,"InvokeWorker":18,"InvokeRiding":18,"InvokeReserve":18,"InvokeInOtomo":18,"InvokeAlways":6,"AddPal":18,"AddRarePal":18,"AddShotWeapon":18,"AddMeleeWeapon":18,"AddArmor":18,"AddAccessory":18,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":142,"Name":143},"PASSIVE_ElementBoost_Ice_1_PAL","EPalPassiveSkillEffectType::ElementBoost_Ice","EPalPassiveSkillEffectType::no","{EffectValue1}% increase to Ice attack damage.","Ice Emperor","Guardian deity of Palpagos Island, known as the Winter Caller.\r\nIn the past, when a calamity struck the land, it soared into the sky\r\nand sealed away the threat by casting the island into an eternal winter.",1706864121775]
+{
+  "name": "Frostallion",
+  "title": "Legendary Steed of Ice",
+  "image": "/images/full_palicon/T_IceHorse_icon_normal.png",
+  "rarity": {
+    "name": "Legendary",
+    "level": "20",
+    "class": "legendary"
+  },
+  "elements": [
+    {
+      "name": "Ice",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "className": "elm1"
+    }
+  ],
+  "description": "Guardian deity of Palpagos Island, known as the Winter Caller.\nIn the past, when a calamity struck the land, it soared into the sky\nand sealed away the threat by casting the island into an eternal winter.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_IceOrgan.png",
+      "name": "Ice Organ",
+      "amount": "10 - 10",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Diamond.png",
+      "name": "Diamond",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "140"
+    },
+    {
+      "name": "Defense",
+      "value": "120"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "140"
+    },
+    {
+      "name": "Price",
+      "value": "8440"
+    },
+    {
+      "name": "Stamina",
+      "value": "300"
+    },
+    {
+      "name": "Support",
+      "value": "70"
+    },
+    {
+      "name": "Running Speed",
+      "value": "1000"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1500"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "120"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Frostallion",
+        "image": "/images/palicon/T_IceHorse_icon_normal.png"
+      },
+      "female": {
+        "name": "Helzephyr",
+        "image": "/images/palicon/T_HadesBird_icon_normal.png"
+      },
+      "result": {
+        "name": "Frostallion Noct",
+        "image": "/images/palicon/T_IceHorse_Dark_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Frostallion",
+        "image": "/images/palicon/T_IceHorse_icon_normal.png"
+      },
+      "female": {
+        "name": "Frostallion",
+        "image": "/images/palicon/T_IceHorse_icon_normal.png"
+      },
+      "result": {
+        "name": "Frostallion",
+        "image": "/images/palicon/T_IceHorse_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": true,
+      "level": "4",
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Ice Steed",
+    "description": "Can be ridden as an flying mount.\nChanges the player's attack type to COMMON_ELEMENT_NAME_Ice\nand enhances COMMON_ELEMENT_NAME_Ice attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Iceberg",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "100 - 9999",
+      "description": "Summons a sharp ice lance\nunder an enemy."
+    },
+    {
+      "name": "Crystal Wing",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "110",
+      "coolDown": "24",
+      "range": "0 - 2500",
+      "description": "Frostallion's exclusive skill.\nDashes forward while creating frigid air around its wings,\nusing them to slash enemies."
+    },
+    {
+      "name": "Cryst Breath",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "100 - 1000",
+      "description": "Enshrouds an enemy in a frigid blast of air,\ndealing continuous damage."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    }
+  ],
+  "uniqueName": "frostallion"
+}

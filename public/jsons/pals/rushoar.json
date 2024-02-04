@@ -1,1 +1,235 @@
-[{"data":1,"prerenderedAt":122},["Reactive",2],{"pkYcrNpSJ4":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":21,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":12,"ExpRatio":12,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":21,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":12,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":12,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":12,"Predator":6,"Edible":6,"Stamina":20,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":12,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":37,"PartnerSkillDesc":38,"Combinations":39,"PrefixName":40,"Drops":41,"ActiveSkills":55,"PassiveSkills":120,"Description":121},"Rushoar","None",true,"EPalTribeID::Boar","Boar",20,"","EPalSizeType::S",1,"EPalElementType::Earth","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,80,100,70,1.1,1680,"Warlike",150,450,700,300,"EPalBattleBGMType::Cute",225,3,25,90,50,1130,0,"Hard Head","Can be ridden.\r\nIncreases efficiency of destroying boulders while mounted.",[],"Woodland Ruffian",[42,47,51],{"max":43,"min":12,"rate":20,"name":44,"descr":45,"icon":46},2,"Rushoar Pork","\u003CcharacterName id=|Boar|/> meat.\r\nFull of the delicious flavors of wild game.\r\nJuicy and nutritious.","T_itemicon_Food_Meat_Boar",{"max":12,"min":12,"rate":20,"name":48,"descr":49,"icon":50},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":12,"min":12,"rate":20,"name":52,"descr":53,"icon":54},"Bone","\u003CitemName id=|Bone|/> collected from Pals.\r\nUsed in the creation of high quality Paldium.","T_itemicon_Material_Bone",[56,69,83,91,99,108,114],{"WazaType":57,"Element":58,"IgnoreRandomInherit":6,"Category":59,"Power":60,"IsLeanBack":18,"CameraShake":61,"MinRange":28,"MaxRange":62,"CoolTime":43,"ForceRagdollSize":11,"EffectType1":63,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":63,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":64,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":67,"WazaDesc":68},"EPalWazaID::Unique_Boar_Tackle","EPalElementType::Normal","EPalWazaCategory::Melee",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",2500,"EPalAdditionalEffectType::None",[65],{"Type":66,"Rate":31},"EPalSpecialAttackRateType::vsStone","Reckless Charge","\u003CcharacterName id=|Boar|/>'s special skill.\r\nTakes aim at a foe and rushes at them with a mad charge.",{"WazaType":70,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":72,"IsLeanBack":18,"CameraShake":73,"MinRange":74,"MaxRange":75,"CoolTime":76,"ForceRagdollSize":77,"EffectType1":78,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":63,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":79,"bIsWeaponDamage":18,"DisabledData":18,"Level":80,"WazaName":81,"WazaDesc":82},"EPalWazaID::MudShot","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,3000,4,"EPalSizeType::None","EPalAdditionalEffectType::Muddy",[],7,"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":84,"Element":58,"IgnoreRandomInherit":18,"Category":71,"Power":85,"IsLeanBack":18,"CameraShake":73,"MinRange":86,"MaxRange":75,"CoolTime":76,"ForceRagdollSize":77,"EffectType1":63,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":63,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":87,"bIsWeaponDamage":18,"DisabledData":18,"Level":88,"WazaName":89,"WazaDesc":90},"EPalWazaID::PowerShot",35,600,[],15,"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":92,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":60,"IsLeanBack":18,"CameraShake":73,"MinRange":74,"MaxRange":93,"CoolTime":94,"ForceRagdollSize":77,"EffectType1":78,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":63,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":95,"bIsWeaponDamage":18,"DisabledData":18,"Level":96,"WazaName":97,"WazaDesc":98},"EPalWazaID::StoneShotgun",4000,10,[],22,"Stone Blast","Fires a barrage of stones forward.",{"WazaType":100,"Element":58,"IgnoreRandomInherit":18,"Category":71,"Power":21,"IsLeanBack":18,"CameraShake":61,"MinRange":101,"MaxRange":102,"CoolTime":88,"ForceRagdollSize":103,"EffectType1":63,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":63,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":104,"bIsWeaponDamage":18,"DisabledData":18,"Level":105,"WazaName":106,"WazaDesc":107},"EPalWazaID::PowerBall",1000,9999,"EPalSizeType::XS",[],30,"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":109,"Element":13,"IgnoreRandomInherit":18,"Category":71,"Power":25,"IsLeanBack":18,"CameraShake":110,"MinRange":20,"MaxRange":102,"CoolTime":60,"ForceRagdollSize":77,"EffectType1":78,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":63,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":72,"WazaName":112,"WazaDesc":113},"EPalWazaID::RockLance","EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Rock Lance","Generates a sharp rock spear\r\nunder an enemy.",{"WazaType":115,"Element":58,"IgnoreRandomInherit":18,"Category":71,"Power":25,"IsLeanBack":18,"CameraShake":110,"MinRange":74,"MaxRange":116,"CoolTime":60,"ForceRagdollSize":77,"EffectType1":63,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":63,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":117,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":118,"WazaDesc":119},"EPalWazaID::HyperBeam",1800,[],"Pal Blast","Charges destructive energy before firing\r\na high-powered beam forward across a wide area.",[],"Being an extremely aggressive Pal, it often picks fights before gauging its opponents' strength.\r\nThough small, its powerful charge can even send boulders flying.",1706864113857]
+{
+  "name": "Rushoar",
+  "title": "Woodland Ruffian",
+  "image": "/images/full_palicon/T_Boar_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "Being an extremely aggressive Pal, it often picks fights before gauging its opponents' strength.\nThough small, its powerful charge can even send boulders flying.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_Boar.png",
+      "name": "Rushoar Pork",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Bone.png",
+      "name": "Bone",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "80"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "70"
+    },
+    {
+      "name": "Price",
+      "value": "1680"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "450"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "70"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Hard Head",
+    "description": "Can be ridden.\nIncreases efficiency of destroying boulders while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Reckless Charge",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "55",
+      "coolDown": "2",
+      "range": "300 - 2500",
+      "description": "Boar's special skill.\nTakes aim at a foe and rushes at them with a mad charge."
+    },
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Power Shot",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Rock Lance",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "100 - 9999",
+      "description": "Generates a sharp rock spear\nunder an enemy."
+    },
+    {
+      "name": "Pal Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges destructive energy before firing\na high-powered beam forward across a wide area."
+    }
+  ],
+  "uniqueName": "rushoar"
+}

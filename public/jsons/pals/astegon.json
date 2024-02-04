@@ -1,1 +1,249 @@
-[{"data":1,"prerenderedAt":135},["Reactive",2],{"jMJYTqKvSh":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":20,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":21,"CaptureRateCorrect":21,"ExpRatio":21,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":24,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":25,"FullStomachDecreaseRate":21,"FoodAmount":12,"ViewingDistance":29,"ViewingAngle":30,"HearingRate":21,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":31,"Predator":18,"Edible":6,"Stamina":32,"MaleProbability":33,"CombiRank":24,"WorkSuitability_EmitFlame":34,"WorkSuitability_Watering":34,"WorkSuitability_Seeding":34,"WorkSuitability_GenerateElectricity":34,"WorkSuitability_Handcraft":21,"WorkSuitability_Collection":34,"WorkSuitability_Deforest":34,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":34,"WorkSuitability_Cool":34,"WorkSuitability_Transport":34,"WorkSuitability_MonsterFarm":34,"PassiveSkill1":37,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":49,"Drops":50,"ActiveSkills":60,"PassiveSkills":127,"Description":134},"Astegon","None",true,"EPalTribeID::BlackMetalDragon","BlackMetalDragon",98,"","EPalSizeType::XL",9,"EPalElementType::Dragon","EPalElementType::Dark","EPalGenusCategoryType::Monster","EPalOrganizationType::None","EPalWeaponType::None",false,100,125,1,8200,"Warlike",150,600,800,375,"EPalBattleBGMType::Strong",25,90,5,300,50,0,4,3,"Deffence_up1","Black Anklyosaur","Can be ridden as an flying mount.\r\nIncreases damage dealt to ore while mounted.",[41],{"ParentTribeA":42,"ParentTribeB":45,"ChildCharacterID":46},{"name":43,"BPClass":44},"Kitsun","AmaterasuWolf",{"name":4,"BPClass":8},{"name":47,"BPClass":48},"Shadowbeak","BlackGriffon","Ravager of Stars",[51,56],{"max":52,"min":21,"rate":19,"name":53,"descr":54,"icon":55},2,"Pal Metal Ingot","Material required to create weapons and armor using Pal Metal.\r\nMade stronger by creating an alloy from metal and Paldium.","T_itemicon_Material_StealIngot",{"max":31,"min":36,"rate":19,"name":57,"descr":58,"icon":59},"Pure Quartz","\u003CitemName id=|Quartz|/> often found in snowy fields and similar places.\r\nRequired to create \u003CitemName id=|MachineParts2|/>.","T_itemicon_Material_Quartz",[61,75,86,95,107,114,121],{"WazaType":62,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":64,"IsLeanBack":18,"CameraShake":65,"MinRange":66,"MaxRange":67,"CoolTime":52,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":70,"EffectValueEx1":34,"EffectType2":71,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":72,"bIsWeaponDamage":18,"DisabledData":18,"Level":21,"WazaName":73,"WazaDesc":74},"EPalWazaID::DragonCanon","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::Burn",35,"EPalAdditionalEffectType::None",[],"Dragon Cannon","Hurls an energy ball imbued\r\nwith draconic energy at an enemy.",{"WazaType":76,"Element":14,"IgnoreRandomInherit":18,"Category":63,"Power":77,"IsLeanBack":18,"CameraShake":78,"MinRange":66,"MaxRange":79,"CoolTime":80,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":81,"EffectValueEx1":34,"EffectType2":71,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":82,"bIsWeaponDamage":18,"DisabledData":18,"Level":83,"WazaName":84,"WazaDesc":85},"EPalWazaID::GhostFlame",75,"EPalPlayerDamageCameraShakeCategory::Waza_M",5000,16,102,[],7,"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":87,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":88,"IsLeanBack":18,"CameraShake":78,"MinRange":34,"MaxRange":89,"CoolTime":90,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":33,"EffectValueEx1":34,"EffectType2":71,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":91,"bIsWeaponDamage":18,"DisabledData":18,"Level":92,"WazaName":93,"WazaDesc":94},"EPalWazaID::DragonWave",55,200,10,[],15,"Dragon Burst","Quickly discharges draconic energy,\r\ndamaging those around it.",{"WazaType":96,"Element":14,"IgnoreRandomInherit":18,"Category":63,"Power":19,"IsLeanBack":18,"CameraShake":97,"MinRange":98,"MaxRange":99,"CoolTime":64,"ForceRagdollSize":100,"EffectType1":101,"EffectValue1":102,"EffectValueEx1":34,"EffectType2":71,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":104,"WazaName":105,"WazaDesc":106},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",1000,9999,"EPalSizeType::S","EPalAdditionalEffectType::Darkness",65,[],22,"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":108,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":109,"IsLeanBack":18,"CameraShake":78,"MinRange":66,"MaxRange":110,"CoolTime":92,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":19,"EffectValueEx1":34,"EffectType2":71,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":64,"WazaName":112,"WazaDesc":113},"EPalWazaID::DragonBreath",70,1500,[],"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":115,"Element":14,"IgnoreRandomInherit":18,"Category":63,"Power":24,"IsLeanBack":18,"CameraShake":97,"MinRange":66,"MaxRange":116,"CoolTime":88,"ForceRagdollSize":68,"EffectType1":101,"EffectValue1":19,"EffectValueEx1":34,"EffectType2":71,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":117,"bIsWeaponDamage":18,"DisabledData":18,"Level":118,"WazaName":119,"WazaDesc":120},"EPalWazaID::DarkLaser",1800,[],40,"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",{"WazaType":122,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":24,"IsLeanBack":18,"CameraShake":97,"MinRange":66,"MaxRange":79,"CoolTime":88,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":123,"EffectValueEx1":34,"EffectType2":71,"EffectValue2":34,"EffectValueEx2":34,"SpecialAttackRateInfos":124,"bIsWeaponDamage":18,"DisabledData":18,"Level":33,"WazaName":125,"WazaDesc":126},"EPalWazaID::DragonMeteor",45,[],"Dragon Meteor","Calls down numerous small meteorites\r\nand launches them at an enemy.",[128],{"Rank":21,"OverrideDescMsgID":5,"EffectType1":129,"EffectValue1":90,"TargetType1":130,"EffectType2":131,"EffectValue2":34,"TargetType2":130,"EffectType3":131,"EffectValue3":34,"TargetType3":130,"InvokeActiveOtomo":18,"InvokeWorker":18,"InvokeRiding":18,"InvokeReserve":18,"InvokeInOtomo":18,"InvokeAlways":6,"AddPal":6,"AddRarePal":18,"AddShotWeapon":18,"AddMeleeWeapon":18,"AddArmor":18,"AddAccessory":18,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":132,"Name":133},"EPalPassiveSkillEffectType::Defense","EPalPassiveSkillEffectTargetType::ToSelf","EPalPassiveSkillEffectType::no",null,"Hard Skin","A savage beast born of the abyss.\r\nThou shall not stand before the beast.\r\nThou shall not heed the beast.",1706864113777]
+{
+  "name": "Astegon",
+  "title": "Ravager of Stars",
+  "image": "/images/full_palicon/T_BlackMetalDragon_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "9",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Dragon",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "className": "elm3"
+    },
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "A savage beast born of the abyss.\nThou shall not stand before the beast.\nThou shall not heed the beast.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_StealIngot.png",
+      "name": "Pal Metal Ingot",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Quartz.png",
+      "name": "Pure Quartz",
+      "amount": "3 - 5",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "125"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "125"
+    },
+    {
+      "name": "Price",
+      "value": "8200"
+    },
+    {
+      "name": "Stamina",
+      "value": "300"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "600"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "800"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Kitsun",
+        "image": "/images/palicon/T_AmaterasuWolf_icon_normal.png"
+      },
+      "female": {
+        "name": "Astegon",
+        "image": "/images/palicon/T_BlackMetalDragon_icon_normal.png"
+      },
+      "result": {
+        "name": "Shadowbeak",
+        "image": "/images/palicon/T_BlackGriffon_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "4",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Black Anklyosaur",
+    "description": "Can be ridden as an flying mount.\nIncreases damage dealt to ore while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Dragon Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Hurls an energy ball imbued\nwith draconic energy at an enemy."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Dragon Burst",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 200",
+      "description": "Quickly discharges draconic energy,\ndamaging those around it."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    },
+    {
+      "name": "Dragon Meteor",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 5000",
+      "description": "Calls down numerous small meteorites\nand launches them at an enemy."
+    }
+  ],
+  "uniqueName": "astegon"
+}

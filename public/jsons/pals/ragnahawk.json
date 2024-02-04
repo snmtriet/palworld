@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":119},["Reactive",2],{"VJHwlkbdcV":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":12,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":6,"Edible":6,"Stamina":35,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":39,"WorkSuitability_GenerateElectricity":39,"WorkSuitability_Handcraft":39,"WorkSuitability_Collection":39,"WorkSuitability_Deforest":39,"WorkSuitability_Mining":39,"WorkSuitability_OilExtraction":39,"WorkSuitability_ProductMedicine":39,"WorkSuitability_Cool":39,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":39,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":43,"Drops":44,"ActiveSkills":49,"PassiveSkills":117,"Description":118},"Ragnahawk","None",true,"EPalTribeID::RedArmorBird","RedArmorBird",74,"","EPalSizeType::L",7,"EPalElementType::Fire","EPalElementType::None","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,95,100,105,120,1,6720,"Warlike",200,800,1300,375,"EPalBattleBGMType::Strong",475,25,90,5,150,50,380,3,0,"Flame Wing","Can be ridden as an flying mount.\r\nApplies \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> damage to the player's attacks while mounted.",[],"Wings of Inferno",[45],{"max":12,"min":34,"rate":20,"name":46,"descr":47,"icon":48},"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",[50,63,72,83,94,101,109],{"WazaType":51,"Element":52,"IgnoreRandomInherit":18,"Category":53,"Power":32,"IsLeanBack":18,"CameraShake":54,"MinRange":55,"MaxRange":56,"CoolTime":57,"ForceRagdollSize":58,"EffectType1":59,"EffectValue1":39,"EffectValueEx1":39,"EffectType2":59,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":60,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":61,"WazaDesc":62},"EPalWazaID::AirCanon","EPalElementType::Normal","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,2,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":64,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":65,"IsLeanBack":18,"CameraShake":54,"MinRange":66,"MaxRange":67,"CoolTime":12,"ForceRagdollSize":58,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":39,"EffectType2":59,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":69,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":70,"WazaDesc":71},"EPalWazaID::FireSeed",45,1000,3000,"EPalAdditionalEffectType::Burn",[],"Spirit Fire","Shoots fireballs towards an enemy.\r\nThe fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",{"WazaType":73,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":74,"IsLeanBack":18,"CameraShake":75,"MinRange":55,"MaxRange":76,"CoolTime":77,"ForceRagdollSize":58,"EffectType1":68,"EffectValue1":78,"EffectValueEx1":39,"EffectType2":59,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":79,"bIsWeaponDamage":18,"DisabledData":18,"Level":80,"WazaName":81,"WazaDesc":82},"EPalWazaID::FlareArrow",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",5000,10,103,[],15,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":84,"Element":85,"IgnoreRandomInherit":18,"Category":53,"Power":86,"IsLeanBack":18,"CameraShake":75,"MinRange":20,"MaxRange":67,"CoolTime":87,"ForceRagdollSize":58,"EffectType1":88,"EffectValue1":89,"EffectValueEx1":39,"EffectType2":59,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":90,"bIsWeaponDamage":18,"DisabledData":18,"Level":91,"WazaName":92,"WazaDesc":93},"EPalWazaID::SandTornado","EPalElementType::Earth",80,18,"EPalAdditionalEffectType::Muddy",65,[],22,"Sand Tornado","Generates two sand tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":95,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":86,"IsLeanBack":18,"CameraShake":75,"MinRange":96,"MaxRange":67,"CoolTime":87,"ForceRagdollSize":58,"EffectType1":68,"EffectValue1":89,"EffectValueEx1":39,"EffectType2":59,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::FlareTornado",700,[],30,"Flare Storm","Generates two flaming tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":102,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":103,"IsLeanBack":18,"CameraShake":75,"MinRange":55,"MaxRange":104,"CoolTime":80,"ForceRagdollSize":58,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":39,"EffectType2":59,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":105,"bIsWeaponDamage":18,"DisabledData":18,"Level":106,"WazaName":107,"WazaDesc":108},"EPalWazaID::Flamethrower",70,1500,[],40,"Ignis Breath","Shoots flames at an enemy,\r\ndealing continuous damage.",{"WazaType":110,"Element":13,"IgnoreRandomInherit":18,"Category":53,"Power":35,"IsLeanBack":18,"CameraShake":111,"MinRange":55,"MaxRange":112,"CoolTime":74,"ForceRagdollSize":113,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":39,"EffectType2":59,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":115,"WazaDesc":116},"EPalWazaID::FireBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],"Fire Ball","Creates a giant ball of flame and hurls it at an enemy.\r\nThe ball explodes over a wide area upon impact.",[],"Some think it is a related species to \u003CcharacterName id=|ThunderBird|/>, but there is in fact no connection.\r\nIt mainly eats rocks, and after many long years its\r\nbeak and head have hardened to accommodate this diet.",1706864127665]
+{
+  "name": "Ragnahawk",
+  "title": "Wings of Inferno",
+  "image": "/images/full_palicon/T_RedArmorBird_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "7",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    }
+  ],
+  "description": "Some think it is a related species to ThunderBird, but there is in fact no connection.\nIt mainly eats rocks, and after many long years its\nbeak and head have hardened to accommodate this diet.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "5 - 7",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "95"
+    },
+    {
+      "name": "Defense",
+      "value": "120"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "6720"
+    },
+    {
+      "name": "Stamina",
+      "value": "150"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "800"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1300"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Flame Wing",
+    "description": "Can be ridden as an flying mount.\nApplies COMMON_ELEMENT_NAME_Fire damage to the player's attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Spirit Fire",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "45",
+      "coolDown": "7",
+      "range": "1000 - 3000",
+      "description": "Shoots fireballs towards an enemy.\nThe fireballs explode after a short distance,\ngenerating smaller fireballs that spread forward."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Sand Tornado",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 3000",
+      "description": "Generates two sand tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Flare Storm",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two flaming tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Ignis Breath",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Shoots flames at an enemy,\ndealing continuous damage."
+    },
+    {
+      "name": "Fire Ball",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 9999",
+      "description": "Creates a giant ball of flame and hurls it at an enemy.\nThe ball explodes over a wide area upon impact."
+    }
+  ],
+  "uniqueName": "ragnahawk"
+}

@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":112},["Reactive",2],{"E4sq9mSm8D":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":19,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":21,"CaptureRateCorrect":12,"ExpRatio":12,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":24,"WalkSpeed":24,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":20,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":27,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":28,"FullStomachDecreaseRate":12,"FoodAmount":29,"ViewingDistance":30,"ViewingAngle":31,"HearingRate":12,"NooseTrap":6,"Nocturnal":6,"BiologicalGrade":32,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":33,"CombiRank":34,"WorkSuitability_EmitFlame":32,"WorkSuitability_Watering":32,"WorkSuitability_Seeding":32,"WorkSuitability_GenerateElectricity":32,"WorkSuitability_Handcraft":12,"WorkSuitability_Collection":32,"WorkSuitability_Deforest":32,"WorkSuitability_Mining":12,"WorkSuitability_OilExtraction":32,"WorkSuitability_ProductMedicine":32,"WorkSuitability_Cool":32,"WorkSuitability_Transport":12,"WorkSuitability_MonsterFarm":32,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":35,"PartnerSkillDesc":36,"Combinations":37,"PrefixName":38,"Drops":39,"ActiveSkills":45,"PassiveSkills":110,"Description":111},"Depresso","None",true,"EPalTribeID::NegativeKoala","NegativeKoala",17,"","EPalSizeType::XS",1,"EPalElementType::Dark","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,70,100,1.2,1050,"Warlike",10,300,400,"EPalBattleBGMType::Cute",150,2,25,90,0,50,1380,"Caffeine Inoculation","When activated, \u003CcharacterName id=|NegativeKoala|/>\r\ndrinks a massive amount of energy drinks,\r\ncausing its movement speed to increase.",[],"Several Sleepless Nights Later",[40],{"max":41,"min":29,"rate":20,"name":42,"descr":43,"icon":44},3,"Venom Gland","Material obtainable from poisonous Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Poison|/> and more.","T_itemicon_Material_Venom",[46,59,69,78,88,95,104],{"WazaType":47,"Element":13,"IgnoreRandomInherit":18,"Category":48,"Power":49,"IsLeanBack":18,"CameraShake":50,"MinRange":51,"MaxRange":52,"CoolTime":29,"ForceRagdollSize":53,"EffectType1":54,"EffectValue1":20,"EffectValueEx1":32,"EffectType2":55,"EffectValue2":32,"EffectValueEx2":32,"SpecialAttackRateInfos":56,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":57,"WazaDesc":58},"EPalWazaID::PoisonShot","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,3000,"EPalSizeType::None","EPalAdditionalEffectType::Poison","EPalAdditionalEffectType::None",[],"Poison Blast","Hurls poison sludge\r\nat an enemy.",{"WazaType":60,"Element":61,"IgnoreRandomInherit":18,"Category":48,"Power":62,"IsLeanBack":18,"CameraShake":50,"MinRange":51,"MaxRange":52,"CoolTime":63,"ForceRagdollSize":53,"EffectType1":64,"EffectValue1":33,"EffectValueEx1":32,"EffectType2":55,"EffectValue2":32,"EffectValueEx2":32,"SpecialAttackRateInfos":65,"bIsWeaponDamage":18,"DisabledData":18,"Level":66,"WazaName":67,"WazaDesc":68},"EPalWazaID::MudShot","EPalElementType::Earth",40,4,"EPalAdditionalEffectType::Muddy",[],7,"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":70,"Element":13,"IgnoreRandomInherit":18,"Category":48,"Power":62,"IsLeanBack":18,"CameraShake":50,"MinRange":51,"MaxRange":71,"CoolTime":63,"ForceRagdollSize":53,"EffectType1":72,"EffectValue1":73,"EffectValueEx1":32,"EffectType2":55,"EffectValue2":32,"EffectValueEx2":32,"SpecialAttackRateInfos":74,"bIsWeaponDamage":18,"DisabledData":18,"Level":75,"WazaName":76,"WazaDesc":77},"EPalWazaID::DarkBall",1000,"EPalAdditionalEffectType::Darkness",35,[],15,"Dark Ball","Unleashes a sphere of darkness \r\nthat slowly tracks down the enemy.",{"WazaType":79,"Element":80,"IgnoreRandomInherit":18,"Category":48,"Power":49,"IsLeanBack":18,"CameraShake":50,"MinRange":81,"MaxRange":52,"CoolTime":41,"ForceRagdollSize":53,"EffectType1":82,"EffectValue1":83,"EffectValueEx1":32,"EffectType2":55,"EffectValue2":32,"EffectValueEx2":32,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":85,"WazaName":86,"WazaDesc":87},"EPalWazaID::IceMissile","EPalElementType::Ice",800,"EPalAdditionalEffectType::Freeze",103,[],22,"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":89,"Element":13,"IgnoreRandomInherit":18,"Category":48,"Power":90,"IsLeanBack":18,"CameraShake":91,"MinRange":32,"MaxRange":25,"CoolTime":24,"ForceRagdollSize":53,"EffectType1":72,"EffectValue1":33,"EffectValueEx1":32,"EffectType2":55,"EffectValue2":32,"EffectValueEx2":32,"SpecialAttackRateInfos":92,"bIsWeaponDamage":18,"DisabledData":18,"Level":49,"WazaName":93,"WazaDesc":94},"EPalWazaID::DarkWave",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",[],"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":96,"Element":13,"IgnoreRandomInherit":18,"Category":48,"Power":20,"IsLeanBack":18,"CameraShake":97,"MinRange":71,"MaxRange":98,"CoolTime":49,"ForceRagdollSize":99,"EffectType1":72,"EffectValue1":100,"EffectValueEx1":32,"EffectType2":55,"EffectValue2":32,"EffectValueEx2":32,"SpecialAttackRateInfos":101,"bIsWeaponDamage":18,"DisabledData":18,"Level":62,"WazaName":102,"WazaDesc":103},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":105,"Element":13,"IgnoreRandomInherit":18,"Category":48,"Power":28,"IsLeanBack":18,"CameraShake":97,"MinRange":51,"MaxRange":106,"CoolTime":90,"ForceRagdollSize":53,"EffectType1":72,"EffectValue1":20,"EffectValueEx1":32,"EffectType2":55,"EffectValue2":32,"EffectValueEx2":32,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":33,"WazaName":108,"WazaDesc":109},"EPalWazaID::DarkLaser",1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"It has few friends because of the perpetually grouchy look on its face,\r\nbut it is in fact kindhearted.\r\nSome have seen it feeding \u003CcharacterName id=|CuteFox|/>who have strayed from their pack.",1706864125837]
+{
+  "name": "Depresso",
+  "title": "Several Sleepless Nights Later",
+  "image": "/images/full_palicon/T_NegativeKoala_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "It has few friends because of the perpetually grouchy look on its face,\nbut it is in fact kindhearted.\nSome have seen it feeding CuteFoxwho have strayed from their pack.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Venom.png",
+      "name": "Venom Gland",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "70"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "70"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "70"
+    },
+    {
+      "name": "Price",
+      "value": "1050"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "300"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "400"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "10"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Caffeine Inoculation",
+    "description": "When activated, NegativeKoala\ndrinks a massive amount of energy drinks,\ncausing its movement speed to increase."
+  },
+  "activeSkills": [
+    {
+      "name": "Poison Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 3000",
+      "description": "Hurls poison sludge\nat an enemy."
+    },
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Dark Ball",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 1000",
+      "description": "Unleashes a sphere of darkness \nthat slowly tracks down the enemy."
+    },
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "depresso"
+}

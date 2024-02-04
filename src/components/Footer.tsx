@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="top">
         <ul>
           <li>
-            <a href="mailto:contact@palworld.gg">Contact us</a>
+            <a href="mailto:bindsu63@gmail.com">Contact us</a>
           </li>
           <li>
             <a href="/privacy-policy">Privacy Policy</a>

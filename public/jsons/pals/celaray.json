@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":116},["Reactive",2],{"SW4lCUKysg":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":23,"ExpRatio":24,"Price":25,"AIResponse":26,"AISightResponse":5,"SlowWalkSpeed":27,"WalkSpeed":28,"RunSpeed":29,"RideSprintSpeed":30,"TransportSpeed":31,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":32,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":33,"FullStomachDecreaseRate":24,"FoodAmount":12,"ViewingDistance":9,"ViewingAngle":34,"HearingRate":24,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":35,"WorkSuitability_Watering":24,"WorkSuitability_Seeding":35,"WorkSuitability_GenerateElectricity":35,"WorkSuitability_Handcraft":35,"WorkSuitability_Collection":35,"WorkSuitability_Deforest":35,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":35,"WorkSuitability_ProductMedicine":35,"WorkSuitability_Cool":35,"WorkSuitability_Transport":24,"WorkSuitability_MonsterFarm":35,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":41,"Drops":42,"ActiveSkills":48,"PassiveSkills":114,"Description":115},"Celaray","None",true,"EPalTribeID::FlyingManta","FlyingManta",25,"","EPalSizeType::M",3,"EPalElementType::Water","EPalElementType::None","EPalGenusCategoryType::Other","EPalOrganizationType::None","EPalWeaponType::None",false,80,100,70,1.2,1.1,1,2860,"Escape_to_Battle",30,150,550,700,350,"EPalBattleBGMType::Cute",225,90,0,50,870,"Zephyr Glider","While in team, can be summoned and used instead of a glider.\r\nAllows you to move quickly for long periods of time while gliding with this Pal.",[],"Soaring Skyfish",[43],{"max":44,"min":24,"rate":20,"name":45,"descr":46,"icon":47},2,"Pal Fluids","Body fluids taken from a Pal.\r\nUseful for its high viscosity.","T_itemicon_Material_PalFluid",[49,62,70,79,90,99,107],{"WazaType":50,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":27,"IsLeanBack":18,"CameraShake":52,"MinRange":53,"MaxRange":54,"CoolTime":44,"ForceRagdollSize":55,"EffectType1":56,"EffectValue1":57,"EffectValueEx1":35,"EffectType2":58,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":59,"bIsWeaponDamage":18,"DisabledData":18,"Level":24,"WazaName":60,"WazaDesc":61},"EPalWazaID::AquaJet","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Wetness",35,"EPalAdditionalEffectType::None",[],"Hydro Jet","Hurls a high speed ball of water\r\nat an enemy.",{"WazaType":63,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":64,"IsLeanBack":18,"CameraShake":52,"MinRange":53,"MaxRange":54,"CoolTime":65,"ForceRagdollSize":55,"EffectType1":56,"EffectValue1":36,"EffectValueEx1":35,"EffectType2":58,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":66,"bIsWeaponDamage":18,"DisabledData":18,"Level":67,"WazaName":68,"WazaDesc":69},"EPalWazaID::WaterGun",40,4,[],7,"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":71,"Element":72,"IgnoreRandomInherit":18,"Category":51,"Power":57,"IsLeanBack":18,"CameraShake":52,"MinRange":73,"MaxRange":74,"CoolTime":65,"ForceRagdollSize":55,"EffectType1":58,"EffectValue1":35,"EffectValueEx1":35,"EffectType2":58,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":75,"bIsWeaponDamage":18,"DisabledData":18,"Level":76,"WazaName":77,"WazaDesc":78},"EPalWazaID::PowerShot","EPalElementType::Normal",600,3000,[],15,"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":80,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":81,"IsLeanBack":18,"CameraShake":82,"MinRange":83,"MaxRange":84,"CoolTime":85,"ForceRagdollSize":55,"EffectType1":56,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":58,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::BubbleShot",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",1000,3500,13,[],22,"Bubble Blast","Fires numerous bubbles\r\nthat slowly pursue an enemy.",{"WazaType":91,"Element":92,"IgnoreRandomInherit":18,"Category":51,"Power":36,"IsLeanBack":18,"CameraShake":52,"MinRange":35,"MaxRange":93,"CoolTime":94,"ForceRagdollSize":55,"EffectType1":95,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":58,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":96,"bIsWeaponDamage":18,"DisabledData":18,"Level":27,"WazaName":97,"WazaDesc":98},"EPalWazaID::SeedMachinegun","EPalElementType::Leaf",300,9,"EPalAdditionalEffectType::IvyCling",[],"Seed Machine Gun","Fires a volley of hard seeds\r\nat enemies in front of it.",{"WazaType":100,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":20,"IsLeanBack":18,"CameraShake":101,"MinRange":83,"MaxRange":102,"CoolTime":27,"ForceRagdollSize":103,"EffectType1":56,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":58,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":104,"bIsWeaponDamage":18,"DisabledData":18,"Level":64,"WazaName":105,"WazaDesc":106},"EPalWazaID::WaterBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],"Aqua Burst","Creates a giant ball of water\r\nand hurls it at an enemy.",{"WazaType":108,"Element":13,"IgnoreRandomInherit":18,"Category":51,"Power":28,"IsLeanBack":18,"CameraShake":101,"MinRange":53,"MaxRange":109,"CoolTime":110,"ForceRagdollSize":55,"EffectType1":56,"EffectValue1":20,"EffectValueEx1":35,"EffectType2":58,"EffectValue2":35,"EffectValueEx2":35,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":112,"WazaDesc":113},"EPalWazaID::HydroPump",1800,55,[],"Hydro Laser","Shoots pressurized water at extreme velocities,\r\nsweeping over a wide area in front of it.",[],"Riding the wind, this Pal travels where it pleases.\r\nShould it find a partner along the way,\r\nthe encounter will mark its journey's end.",1706864119192]
+{
+  "name": "Celaray",
+  "title": "Soaring Skyfish",
+  "image": "/images/full_palicon/T_FlyingManta_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "3",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    }
+  ],
+  "description": "Riding the wind, this Pal travels where it pleases.\nShould it find a partner along the way,\nthe encounter will mark its journey's end.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalFluid.png",
+      "name": "Pal Fluids",
+      "amount": "1 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "80"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "70"
+    },
+    {
+      "name": "Price",
+      "value": "2860"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "550"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "30"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Zephyr Glider",
+    "description": "While in team, can be summoned and used instead of a glider.\nAllows you to move quickly for long periods of time while gliding with this Pal."
+  },
+  "activeSkills": [
+    {
+      "name": "Hydro Jet",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a high speed ball of water\nat an enemy."
+    },
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Power Shot",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Bubble Blast",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "1000 - 3500",
+      "description": "Fires numerous bubbles\nthat slowly pursue an enemy."
+    },
+    {
+      "name": "Seed Machine Gun",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "0 - 300",
+      "description": "Fires a volley of hard seeds\nat enemies in front of it."
+    },
+    {
+      "name": "Aqua Burst",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of water\nand hurls it at an enemy."
+    },
+    {
+      "name": "Hydro Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Shoots pressurized water at extreme velocities,\nsweeping over a wide area in front of it."
+    }
+  ],
+  "uniqueName": "celaray"
+}

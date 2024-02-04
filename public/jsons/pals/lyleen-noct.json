@@ -1,1 +1,264 @@
-[{"data":1,"prerenderedAt":135},["Reactive",2],{"6Hi22HgYeH":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":19,"Defense":21,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":20,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":39,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":37,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":55,"Drops":56,"ActiveSkills":69,"PassiveSkills":133,"Description":134},"Lyleen Noct","None",true,"EPalTribeID::LilyQueen_Dark","LilyQueen_Dark",104,"B","EPalSizeType::L",10,"EPalElementType::Dark","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,110,100,115,1,7610,"NotInterested",60,450,550,275,"EPalBattleBGMType::Strong",400,6,25,90,5,30,210,0,3,2,"Goddess of the Tranquil Light","When activated, the queen's soothing graces\r\ngreatly restore the player's HP.",[43,51],{"ParentTribeA":44,"ParentTribeB":47,"ChildCharacterID":50},{"name":45,"BPClass":46},"Lyleen","LilyQueen",{"name":48,"BPClass":49},"Menasting","DarkScorpion",{"name":4,"BPClass":8},{"ParentTribeA":52,"ParentTribeB":53,"ChildCharacterID":54},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Empress of the Abyss",[57,61,65],{"max":38,"min":38,"rate":20,"name":58,"descr":59,"icon":60},"Low Grade Medical Supplies","\u003CitemName id=|Herbs|/> good for colds and sprains.\r\nThey don't heal HP when eaten, however.","T_itemicon_Food_Herbs",{"max":38,"min":39,"rate":20,"name":62,"descr":63,"icon":64},"Beautiful Flower","A plant that blooms colorful flowers.\r\nCan be used to make \u003CitemName id=|Opium|/> and \u003CitemName id=|Narcotic|/>.","T_itemicon_Food_Poppy",{"max":22,"min":22,"rate":12,"name":66,"descr":67,"icon":68},"Innovative Technical Manual","A book that contains secrets of cutting-edge technology.\r\nUse it to obtain Technology Points.","T_itemicon_Consume_TechnologyBook_G2",[70,85,97,104,110,119,126],{"WazaType":71,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":73,"IsLeanBack":18,"CameraShake":74,"MinRange":75,"MaxRange":76,"CoolTime":77,"ForceRagdollSize":78,"EffectType1":79,"EffectValue1":80,"EffectValueEx1":37,"EffectType2":81,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":82,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":83,"WazaDesc":84},"EPalWazaID::DarkBall","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,1000,4,"EPalSizeType::None","EPalAdditionalEffectType::Darkness",35,"EPalAdditionalEffectType::None",[],"Dark Ball","Unleashes a sphere of darkness \r\nthat slowly tracks down the enemy.",{"WazaType":86,"Element":87,"IgnoreRandomInherit":18,"Category":72,"Power":88,"IsLeanBack":18,"CameraShake":89,"MinRange":75,"MaxRange":90,"CoolTime":12,"ForceRagdollSize":78,"EffectType1":91,"EffectValue1":92,"EffectValueEx1":37,"EffectType2":81,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":93,"bIsWeaponDamage":18,"DisabledData":18,"Level":94,"WazaName":95,"WazaDesc":96},"EPalWazaID::IceBlade","EPalElementType::Ice",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",4000,"EPalAdditionalEffectType::Freeze",50,[],7,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":98,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":88,"IsLeanBack":18,"CameraShake":89,"MinRange":37,"MaxRange":99,"CoolTime":12,"ForceRagdollSize":78,"EffectType1":79,"EffectValue1":92,"EffectValueEx1":37,"EffectType2":81,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":100,"bIsWeaponDamage":18,"DisabledData":18,"Level":101,"WazaName":102,"WazaDesc":103},"EPalWazaID::DarkWave",300,[],15,"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":105,"Element":87,"IgnoreRandomInherit":18,"Category":72,"Power":33,"IsLeanBack":18,"CameraShake":89,"MinRange":20,"MaxRange":76,"CoolTime":106,"ForceRagdollSize":78,"EffectType1":91,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":81,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":106,"WazaName":108,"WazaDesc":109},"EPalWazaID::FrostBreath",22,[],"Cryst Breath","Enshrouds an enemy in a frigid blast of air,\r\ndealing continuous damage.",{"WazaType":111,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":20,"IsLeanBack":18,"CameraShake":112,"MinRange":76,"MaxRange":113,"CoolTime":35,"ForceRagdollSize":114,"EffectType1":79,"EffectValue1":115,"EffectValueEx1":37,"EffectType2":81,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":116,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":117,"WazaDesc":118},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":120,"Element":87,"IgnoreRandomInherit":18,"Category":72,"Power":121,"IsLeanBack":18,"CameraShake":112,"MinRange":76,"MaxRange":113,"CoolTime":122,"ForceRagdollSize":78,"EffectType1":91,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":81,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":123,"bIsWeaponDamage":18,"DisabledData":18,"Level":73,"WazaName":124,"WazaDesc":125},"EPalWazaID::IcicleThrow",130,45,[],"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",{"WazaType":127,"Element":13,"IgnoreRandomInherit":18,"Category":72,"Power":128,"IsLeanBack":18,"CameraShake":112,"MinRange":75,"MaxRange":129,"CoolTime":88,"ForceRagdollSize":78,"EffectType1":79,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":81,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":130,"bIsWeaponDamage":18,"DisabledData":18,"Level":92,"WazaName":131,"WazaDesc":132},"EPalWazaID::DarkLaser",150,1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"An elegant Pal full of grace.\r\nIt admonishes any who are disrespectful with a painful slap.\r\nSome Pals actively seek out this punishment.",1706864124541]
+{
+  "name": "Lyleen Noct",
+  "title": "Empress of the Abyss",
+  "image": "/images/full_palicon/T_LilyQueen_Dark_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "10",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "An elegant Pal full of grace.\nIt admonishes any who are disrespectful with a painful slap.\nSome Pals actively seek out this punishment.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Herbs.png",
+      "name": "Low Grade Medical Supplies",
+      "amount": "3 - 3",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Food_Poppy.png",
+      "name": "Beautiful Flower",
+      "amount": "2 - 3",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Consume_TechnologyBook_G2.png",
+      "name": "Innovative Technical Manual",
+      "amount": "1 - 1",
+      "rate": "10%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "110"
+    },
+    {
+      "name": "Defense",
+      "value": "115"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "110"
+    },
+    {
+      "name": "Price",
+      "value": "7610"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "450"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "60"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Lyleen",
+        "image": "/images/palicon/T_LilyQueen_icon_normal.png"
+      },
+      "female": {
+        "name": "Menasting",
+        "image": "/images/palicon/T_DarkScorpion_icon_normal.png"
+      },
+      "result": {
+        "name": "Lyleen Noct",
+        "image": "/images/palicon/T_LilyQueen_Dark_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Lyleen Noct",
+        "image": "/images/palicon/T_LilyQueen_Dark_icon_normal.png"
+      },
+      "female": {
+        "name": "Lyleen Noct",
+        "image": "/images/palicon/T_LilyQueen_Dark_icon_normal.png"
+      },
+      "result": {
+        "name": "Lyleen Noct",
+        "image": "/images/palicon/T_LilyQueen_Dark_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Goddess of the Tranquil Light",
+    "description": "When activated, the queen's soothing graces\ngreatly restore the player's HP."
+  },
+  "activeSkills": [
+    {
+      "name": "Dark Ball",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 1000",
+      "description": "Unleashes a sphere of darkness \nthat slowly tracks down the enemy."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Cryst Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "100 - 1000",
+      "description": "Enshrouds an enemy in a frigid blast of air,\ndealing continuous damage."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "lyleen-noct"
+}

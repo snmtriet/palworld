@@ -1,1 +1,244 @@
-[{"data":1,"prerenderedAt":131},["Reactive",2],{"92cOWmhrW3":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":21,"Support":21,"CraftSpeed":19,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":19,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":31,"Predator":18,"Edible":6,"Stamina":19,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":49,"Drops":50,"ActiveSkills":60,"PassiveSkills":129,"Description":130},"Felbat","None",true,"EPalTribeID::CatVampire","CatVampire",94,"","EPalSizeType::M",6,"EPalElementType::Dark","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,100,105,110,1,2100,"Warlike",60,550,700,325,"EPalBattleBGMType::Cute",350,5,25,90,50,1010,0,3,"Life Steal","While fighting together, grants the player and \u003CcharacterName id=|CatVampire|/> the life steal effect\r\nwhich absorbs some of the received damage and restores \u003CuiCommon id=|COMMON_STATUS_HP|/>.",[41],{"ParentTribeA":42,"ParentTribeB":45,"ChildCharacterID":46},{"name":43,"BPClass":44},"Blazehowl","Manticore",{"name":4,"BPClass":8},{"name":47,"BPClass":48},"Blazehowl Noct","Manticore_Dark","Gloom-shrouded Bloodsucker",[51,56],{"max":52,"min":22,"rate":19,"name":53,"descr":54,"icon":55},2,"Cloth","\u003CitemName id=|Cloth|/> woven from \u003CitemName id=|Wool|/>.\r\nRequired to create armor.","T_itemicon_Material_Cloth",{"max":22,"min":22,"rate":37,"name":57,"descr":58,"icon":59},"Small Pal Soul","A spirit left behind by a small Pal.\r\nIt can draw out hidden abilities if offered to a \u003CmapObjectName id=|BuildableGoddessStatue|/>.","T_itemicon_PalUpgradeStone",[61,74,85,95,106,115,122],{"WazaType":62,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":64,"IsLeanBack":18,"CameraShake":65,"MinRange":66,"MaxRange":67,"CoolTime":52,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":70,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":71,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":72,"WazaDesc":73},"EPalWazaID::PoisonShot","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,3000,"EPalSizeType::None","EPalAdditionalEffectType::Poison","EPalAdditionalEffectType::None",[],"Poison Blast","Hurls poison sludge\r\nat an enemy.",{"WazaType":75,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":76,"IsLeanBack":18,"CameraShake":65,"MinRange":66,"MaxRange":77,"CoolTime":78,"ForceRagdollSize":68,"EffectType1":79,"EffectValue1":80,"EffectValueEx1":36,"EffectType2":70,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":81,"bIsWeaponDamage":18,"DisabledData":18,"Level":82,"WazaName":83,"WazaDesc":84},"EPalWazaID::DarkBall",40,1000,4,"EPalAdditionalEffectType::Darkness",35,[],7,"Dark Ball","Unleashes a sphere of darkness \r\nthat slowly tracks down the enemy.",{"WazaType":86,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":87,"IsLeanBack":18,"CameraShake":88,"MinRange":36,"MaxRange":89,"CoolTime":90,"ForceRagdollSize":68,"EffectType1":79,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":70,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":91,"bIsWeaponDamage":18,"DisabledData":18,"Level":92,"WazaName":93,"WazaDesc":94},"EPalWazaID::DarkWave",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",300,10,[],15,"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":96,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":97,"IsLeanBack":18,"CameraShake":88,"MinRange":66,"MaxRange":98,"CoolTime":99,"ForceRagdollSize":68,"EffectType1":100,"EffectValue1":101,"EffectValueEx1":36,"EffectType2":70,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":102,"bIsWeaponDamage":18,"DisabledData":18,"Level":103,"WazaName":104,"WazaDesc":105},"EPalWazaID::GhostFlame",75,5000,16,"EPalAdditionalEffectType::Burn",102,[],22,"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":107,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":19,"IsLeanBack":18,"CameraShake":108,"MinRange":77,"MaxRange":109,"CoolTime":64,"ForceRagdollSize":110,"EffectType1":79,"EffectValue1":111,"EffectValueEx1":36,"EffectType2":70,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":64,"WazaName":113,"WazaDesc":114},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":116,"Element":117,"IgnoreRandomInherit":18,"Category":63,"Power":118,"IsLeanBack":18,"CameraShake":108,"MinRange":19,"MaxRange":77,"CoolTime":76,"ForceRagdollSize":68,"EffectType1":100,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":70,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":119,"bIsWeaponDamage":18,"DisabledData":18,"Level":76,"WazaName":120,"WazaDesc":121},"EPalWazaID::Inferno","EPalElementType::Fire",120,[],"Ignis Rage","Energizes the surrounding ground,\r\ncausing it to explode after a set amount of time.",{"WazaType":123,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":124,"IsLeanBack":18,"CameraShake":108,"MinRange":66,"MaxRange":125,"CoolTime":87,"ForceRagdollSize":68,"EffectType1":79,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":70,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":126,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":127,"WazaDesc":128},"EPalWazaID::DarkLaser",150,1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"Attacking from the shadows,\r\nthis Pal traps its prey within its cloak-like wings.\r\nIt's probably best not to know what happens within them,\r\nor why the inside of its wings are stained red.",1706864114684]
+{
+  "name": "Felbat",
+  "title": "Gloom-shrouded Bloodsucker",
+  "image": "/images/full_palicon/T_CatVampire_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "Attacking from the shadows,\nthis Pal traps its prey within its cloak-like wings.\nIt's probably best not to know what happens within them,\nor why the inside of its wings are stained red.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Cloth.png",
+      "name": "Cloth",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_PalUpgradeStone.png",
+      "name": "Small Pal Soul",
+      "amount": "1 - 1",
+      "rate": "3%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "110"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "2100"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "110"
+    },
+    {
+      "name": "Running Speed",
+      "value": "550"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "60"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Blazehowl",
+        "image": "/images/palicon/T_Manticore_icon_normal.png"
+      },
+      "female": {
+        "name": "Felbat",
+        "image": "/images/palicon/T_CatVampire_icon_normal.png"
+      },
+      "result": {
+        "name": "Blazehowl Noct",
+        "image": "/images/palicon/T_Manticore_Dark_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Life Steal",
+    "description": "While fighting together, grants the player and CatVampire the life steal effect\nwhich absorbs some of the received damage and restores COMMON_STATUS_HP."
+  },
+  "activeSkills": [
+    {
+      "name": "Poison Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 3000",
+      "description": "Hurls poison sludge\nat an enemy."
+    },
+    {
+      "name": "Dark Ball",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 1000",
+      "description": "Unleashes a sphere of darkness \nthat slowly tracks down the enemy."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Ignis Rage",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "100 - 1000",
+      "description": "Energizes the surrounding ground,\ncausing it to explode after a set amount of time."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "felbat"
+}

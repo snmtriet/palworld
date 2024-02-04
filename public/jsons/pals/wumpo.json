@@ -1,1 +1,244 @@
-[{"data":1,"prerenderedAt":127},["Reactive",2],{"TyBINmVv4z":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":20,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":20,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":6,"Edible":6,"Stamina":20,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":39,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":38,"WorkSuitability_Transport":40,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":41,"PartnerSkillDesc":42,"Combinations":43,"PrefixName":41,"Drops":52,"ActiveSkills":62,"PassiveSkills":125,"Description":126},"Wumpo","None",true,"EPalTribeID::Yeti","Yeti",91,"","EPalSizeType::L",7,"EPalElementType::Ice","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,140,100,80,1,5900,"Warlike",70,365,550,150,"EPalBattleBGMType::Cute",525,8,25,90,5,50,460,0,2,3,4,"Guardian of the Snowy Mountain","Can be ridden.\r\nWhile in team, \u003CcharacterName id=|Yeti|/> helps carry supplies,\r\nincreasing the player's max carrying capacity.",[44],{"ParentTribeA":45,"ParentTribeB":48,"ChildCharacterID":49},{"name":46,"BPClass":47},"Mammorest","GrassMammoth",{"name":4,"BPClass":8},{"name":50,"BPClass":51},"Mammorest Cryst","GrassMammoth_Ice",[53,57],{"max":39,"min":38,"rate":20,"name":54,"descr":55,"icon":56},"Ice Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> Pals.\r\nCan be used to make \u003CmapObjectName id=|Trap_MineFreeze|/> and more.","T_itemicon_Material_IceOrgan",{"max":22,"min":22,"rate":58,"name":59,"descr":60,"icon":61},20,"Beautiful Flower","A plant that blooms colorful flowers.\r\nCan be used to make \u003CitemName id=|Opium|/> and \u003CitemName id=|Narcotic|/>.","T_itemicon_Food_Poppy",[63,77,87,97,104,110,119],{"WazaType":64,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":66,"IsLeanBack":18,"CameraShake":67,"MinRange":68,"MaxRange":69,"CoolTime":39,"ForceRagdollSize":70,"EffectType1":71,"EffectValue1":72,"EffectValueEx1":37,"EffectType2":73,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":74,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":75,"WazaDesc":76},"EPalWazaID::IceMissile","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",800,3000,"EPalSizeType::None","EPalAdditionalEffectType::Freeze",103,"EPalAdditionalEffectType::None",[],"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":78,"Element":79,"IgnoreRandomInherit":18,"Category":65,"Power":66,"IsLeanBack":18,"CameraShake":67,"MinRange":80,"MaxRange":81,"CoolTime":38,"ForceRagdollSize":70,"EffectType1":82,"EffectValue1":83,"EffectValueEx1":37,"EffectType2":73,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":85,"WazaDesc":86},"EPalWazaID::WindCutter","EPalElementType::Leaf",500,5000,"EPalAdditionalEffectType::IvyCling",35,[],"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":88,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":89,"IsLeanBack":18,"CameraShake":90,"MinRange":80,"MaxRange":91,"CoolTime":92,"ForceRagdollSize":70,"EffectType1":71,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":73,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":93,"bIsWeaponDamage":18,"DisabledData":18,"Level":94,"WazaName":95,"WazaDesc":96},"EPalWazaID::IceBlade",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",4000,10,[],15,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":98,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":25,"IsLeanBack":18,"CameraShake":90,"MinRange":20,"MaxRange":99,"CoolTime":94,"ForceRagdollSize":70,"EffectType1":71,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":73,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":100,"bIsWeaponDamage":18,"DisabledData":18,"Level":101,"WazaName":102,"WazaDesc":103},"EPalWazaID::BlizzardLance",9999,[],22,"Iceberg","Summons a sharp ice lance\r\nunder an enemy.",{"WazaType":105,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":33,"IsLeanBack":18,"CameraShake":90,"MinRange":20,"MaxRange":106,"CoolTime":101,"ForceRagdollSize":70,"EffectType1":71,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":73,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":66,"WazaName":108,"WazaDesc":109},"EPalWazaID::FrostBreath",1000,[],"Cryst Breath","Enshrouds an enemy in a frigid blast of air,\r\ndealing continuous damage.",{"WazaType":111,"Element":13,"IgnoreRandomInherit":18,"Category":65,"Power":112,"IsLeanBack":18,"CameraShake":113,"MinRange":106,"MaxRange":99,"CoolTime":114,"ForceRagdollSize":70,"EffectType1":71,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":73,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":115,"bIsWeaponDamage":18,"DisabledData":18,"Level":116,"WazaName":117,"WazaDesc":118},"EPalWazaID::IcicleThrow",130,"EPalPlayerDamageCameraShakeCategory::Waza_L",45,[],40,"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",{"WazaType":120,"Element":79,"IgnoreRandomInherit":18,"Category":65,"Power":28,"IsLeanBack":18,"CameraShake":113,"MinRange":80,"MaxRange":121,"CoolTime":89,"ForceRagdollSize":70,"EffectType1":82,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":73,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":122,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":123,"WazaDesc":124},"EPalWazaID::SolarBeam",1800,[],"Solar Blast","Charges solar energy before\r\nblasting enemies with a powerful beam.",[],"Researchers once tried to shave off its hair to reveal its true form.\r\nIn the end, only hair was left, as if that was all there was to begin with.",1706864132100]
+{
+  "name": "Wumpo",
+  "title": "Guardian of the Snowy Mountain",
+  "image": "/images/full_palicon/T_Yeti_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "7",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Ice",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "className": "elm1"
+    }
+  ],
+  "description": "Researchers once tried to shave off its hair to reveal its true form.\nIn the end, only hair was left, as if that was all there was to begin with.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_IceOrgan.png",
+      "name": "Ice Organ",
+      "amount": "2 - 3",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Food_Poppy.png",
+      "name": "Beautiful Flower",
+      "amount": "1 - 1",
+      "rate": "20%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "140"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "80"
+    },
+    {
+      "name": "Price",
+      "value": "5900"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "365"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "70"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Mammorest",
+        "image": "/images/palicon/T_GrassMammoth_icon_normal.png"
+      },
+      "female": {
+        "name": "Wumpo",
+        "image": "/images/palicon/T_Yeti_icon_normal.png"
+      },
+      "result": {
+        "name": "Mammorest Cryst",
+        "image": "/images/palicon/T_GrassMammoth_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "4",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Guardian of the Snowy Mountain",
+    "description": "Can be ridden.\nWhile in team, Yeti helps carry supplies,\nincreasing the player's max carrying capacity."
+  },
+  "activeSkills": [
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Iceberg",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "100 - 9999",
+      "description": "Summons a sharp ice lance\nunder an enemy."
+    },
+    {
+      "name": "Cryst Breath",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "100 - 1000",
+      "description": "Enshrouds an enemy in a frigid blast of air,\ndealing continuous damage."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    },
+    {
+      "name": "Solar Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges solar energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "wumpo"
+}

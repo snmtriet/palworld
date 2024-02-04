@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":118},["Reactive",2],{"ozuVettv2e":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":6,"Edible":6,"Stamina":36,"MaleProbability":37,"CombiRank":38,"WorkSuitability_EmitFlame":39,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":39,"WorkSuitability_GenerateElectricity":40,"WorkSuitability_Handcraft":39,"WorkSuitability_Collection":23,"WorkSuitability_Deforest":39,"WorkSuitability_Mining":39,"WorkSuitability_OilExtraction":39,"WorkSuitability_ProductMedicine":39,"WorkSuitability_Cool":39,"WorkSuitability_Transport":41,"WorkSuitability_MonsterFarm":39,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":42,"PartnerSkillDesc":43,"Combinations":44,"PrefixName":45,"Drops":46,"ActiveSkills":51,"PassiveSkills":116,"Description":117},"Beakon","None",true,"EPalTribeID::ThunderBird","ThunderBird",73,"","EPalSizeType::L",6,"EPalElementType::Electricity","EPalElementType::None","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,105,100,115,80,1,7490,"Warlike",200,750,1200,375,"EPalBattleBGMType::Cool",475,7,25,90,5,160,50,220,0,2,3,"Thunderous","Can be ridden as an flying mount.\r\nApplies \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> damage to the player's attacks while mounted.",[],"Wings of Thunder",[47],{"max":40,"min":23,"rate":20,"name":48,"descr":49,"icon":50},"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",[52,64,72,82,92,98,108],{"WazaType":53,"Element":54,"IgnoreRandomInherit":18,"Category":55,"Power":33,"IsLeanBack":18,"CameraShake":56,"MinRange":57,"MaxRange":58,"CoolTime":40,"ForceRagdollSize":59,"EffectType1":60,"EffectValue1":39,"EffectValueEx1":39,"EffectType2":60,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":61,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":62,"WazaDesc":63},"EPalWazaID::AirCanon","EPalElementType::Normal","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":65,"Element":13,"IgnoreRandomInherit":18,"Category":55,"Power":66,"IsLeanBack":18,"CameraShake":56,"MinRange":57,"MaxRange":67,"CoolTime":40,"ForceRagdollSize":59,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":39,"EffectType2":60,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":69,"bIsWeaponDamage":18,"DisabledData":18,"Level":32,"WazaName":70,"WazaDesc":71},"EPalWazaID::SpreadPulse",30,5000,"EPalAdditionalEffectType::Electrical",[],"Spark Blast","The user releases a lightning ball\r\nthat expands outward in a forward, circular pattern.",{"WazaType":73,"Element":13,"IgnoreRandomInherit":18,"Category":55,"Power":74,"IsLeanBack":18,"CameraShake":56,"MinRange":39,"MaxRange":75,"CoolTime":76,"ForceRagdollSize":59,"EffectType1":68,"EffectValue1":77,"EffectValueEx1":39,"EffectType2":60,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":79,"WazaName":80,"WazaDesc":81},"EPalWazaID::ElecWave",40,300,4,103,[],15,"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":83,"Element":13,"IgnoreRandomInherit":18,"Category":55,"Power":84,"IsLeanBack":18,"CameraShake":85,"MinRange":57,"MaxRange":86,"CoolTime":87,"ForceRagdollSize":59,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":39,"EffectType2":60,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":88,"bIsWeaponDamage":18,"DisabledData":18,"Level":89,"WazaName":90,"WazaDesc":91},"EPalWazaID::LineThunder",75,"EPalPlayerDamageCameraShakeCategory::Waza_M",2000,16,[],22,"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":93,"Element":13,"IgnoreRandomInherit":18,"Category":55,"Power":34,"IsLeanBack":18,"CameraShake":85,"MinRange":39,"MaxRange":94,"CoolTime":89,"ForceRagdollSize":59,"EffectType1":68,"EffectValue1":77,"EffectValueEx1":39,"EffectType2":60,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":95,"bIsWeaponDamage":18,"DisabledData":18,"Level":66,"WazaName":96,"WazaDesc":97},"EPalWazaID::ThreeThunder",9999,[],"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":99,"Element":100,"IgnoreRandomInherit":18,"Category":55,"Power":22,"IsLeanBack":18,"CameraShake":85,"MinRange":20,"MaxRange":101,"CoolTime":102,"ForceRagdollSize":59,"EffectType1":103,"EffectValue1":104,"EffectValueEx1":39,"EffectType2":60,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":105,"bIsWeaponDamage":18,"DisabledData":18,"Level":74,"WazaName":106,"WazaDesc":107},"EPalWazaID::SandTornado","EPalElementType::Earth",3000,18,"EPalAdditionalEffectType::Muddy",65,[],"Sand Tornado","Generates two sand tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":109,"Element":13,"IgnoreRandomInherit":18,"Category":55,"Power":110,"IsLeanBack":18,"CameraShake":111,"MinRange":57,"MaxRange":101,"CoolTime":112,"ForceRagdollSize":59,"EffectType1":68,"EffectValue1":20,"EffectValueEx1":39,"EffectType2":60,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":113,"bIsWeaponDamage":18,"DisabledData":18,"Level":37,"WazaName":114,"WazaDesc":115},"EPalWazaID::Thunderbolt",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"Some think it is a related species to \u003CcharacterName id=|RedArmorBird|/>, but there is in fact no connection.\r\nUsing its sharp beak, it descends on its prey in a quick motion\r\nthat resembles a bolt of lightning.",1706864130355]
+{
+  "name": "Beakon",
+  "title": "Wings of Thunder",
+  "image": "/images/full_palicon/T_ThunderBird_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "Some think it is a related species to RedArmorBird, but there is in fact no connection.\nUsing its sharp beak, it descends on its prey in a quick motion\nthat resembles a bolt of lightning.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "1 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "105"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "115"
+    },
+    {
+      "name": "Price",
+      "value": "7490"
+    },
+    {
+      "name": "Stamina",
+      "value": "160"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "750"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1200"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Thunderous",
+    "description": "Can be ridden as an flying mount.\nApplies COMMON_ELEMENT_NAME_Electricity damage to the player's attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Spark Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "The user releases a lightning ball\nthat expands outward in a forward, circular pattern."
+    },
+    {
+      "name": "Shockwave",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Sand Tornado",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 3000",
+      "description": "Generates two sand tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "beakon"
+}

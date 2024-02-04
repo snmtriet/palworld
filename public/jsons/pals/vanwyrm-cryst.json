@@ -1,1 +1,269 @@
-[{"data":1,"prerenderedAt":135},["Reactive",2],{"SmScFeIQJx":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":19,"HearingRate":23,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":12,"Predator":6,"Edible":6,"Stamina":34,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":38,"WorkSuitability_Transport":39,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":55,"Drops":56,"ActiveSkills":69,"PassiveSkills":133,"Description":134},"Vanwyrm Cryst","None",true,"EPalTribeID::BirdDragon_Ice","BirdDragon_Ice",71,"B","EPalSizeType::L",5,"EPalElementType::Ice","EPalElementType::Dark","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,90,100,120,95,1,4610,"Warlike",350,700,850,475,"EPalBattleBGMType::Cool",400,6,25,150,50,620,0,2,3,"Aerial Marauder","Can be ridden as an flying mount.\r\nIncreases damage player deals\r\nto enemy weak points while mounted.",[43,51],{"ParentTribeA":44,"ParentTribeB":47,"ChildCharacterID":50},{"name":45,"BPClass":46},"Vanwyrm","BirdDragon",{"name":48,"BPClass":49},"Foxcicle","IceFox",{"name":4,"BPClass":8},{"ParentTribeA":52,"ParentTribeB":53,"ChildCharacterID":54},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Marauder of Frozen Skies",[57,61,65],{"max":38,"min":23,"rate":20,"name":58,"descr":59,"icon":60},"Bone","\u003CitemName id=|Bone|/> collected from Pals.\r\nUsed in the creation of high quality Paldium.","T_itemicon_Material_Bone",{"max":39,"min":38,"rate":20,"name":62,"descr":63,"icon":64},"Ice Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> Pals.\r\nCan be used to make \u003CmapObjectName id=|Trap_MineFreeze|/> and more.","T_itemicon_Material_IceOrgan",{"max":23,"min":23,"rate":38,"name":66,"descr":67,"icon":68},"Sapphire","A gemstone that glows blue.\r\nCan be sold to a merchant for a high price.","T_itemicon_Material_Sapphire",[70,82,93,102,109,119,127],{"WazaType":71,"Element":72,"IgnoreRandomInherit":18,"Category":73,"Power":33,"IsLeanBack":18,"CameraShake":74,"MinRange":75,"MaxRange":76,"CoolTime":38,"ForceRagdollSize":77,"EffectType1":78,"EffectValue1":37,"EffectValueEx1":37,"EffectType2":78,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":79,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":80,"WazaDesc":81},"EPalWazaID::AirCanon","EPalElementType::Normal","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":83,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":84,"IsLeanBack":18,"CameraShake":74,"MinRange":85,"MaxRange":86,"CoolTime":39,"ForceRagdollSize":77,"EffectType1":87,"EffectValue1":88,"EffectValueEx1":37,"EffectType2":78,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":89,"bIsWeaponDamage":18,"DisabledData":18,"Level":90,"WazaName":91,"WazaDesc":92},"EPalWazaID::IceMissile",30,800,3000,"EPalAdditionalEffectType::Freeze",103,[],7,"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":94,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":95,"IsLeanBack":18,"CameraShake":96,"MinRange":75,"MaxRange":76,"CoolTime":97,"ForceRagdollSize":77,"EffectType1":87,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":78,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":98,"bIsWeaponDamage":18,"DisabledData":18,"Level":99,"WazaName":100,"WazaDesc":101},"EPalWazaID::IceBlade",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,[],15,"Icicle Cutter","Creates a crescent blade of ice\r\nand hurls it forward.",{"WazaType":103,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":19,"IsLeanBack":18,"CameraShake":96,"MinRange":20,"MaxRange":104,"CoolTime":105,"ForceRagdollSize":77,"EffectType1":87,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":78,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":105,"WazaName":107,"WazaDesc":108},"EPalWazaID::FrostBreath",1000,22,[],"Cryst Breath","Enshrouds an enemy in a frigid blast of air,\r\ndealing continuous damage.",{"WazaType":110,"Element":14,"IgnoreRandomInherit":18,"Category":73,"Power":20,"IsLeanBack":18,"CameraShake":111,"MinRange":104,"MaxRange":112,"CoolTime":84,"ForceRagdollSize":113,"EffectType1":114,"EffectValue1":115,"EffectValueEx1":37,"EffectType2":78,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":116,"bIsWeaponDamage":18,"DisabledData":18,"Level":84,"WazaName":117,"WazaDesc":118},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S","EPalAdditionalEffectType::Darkness",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":120,"Element":13,"IgnoreRandomInherit":18,"Category":73,"Power":121,"IsLeanBack":18,"CameraShake":111,"MinRange":104,"MaxRange":112,"CoolTime":122,"ForceRagdollSize":77,"EffectType1":87,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":78,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":123,"bIsWeaponDamage":18,"DisabledData":18,"Level":124,"WazaName":125,"WazaDesc":126},"EPalWazaID::IcicleThrow",130,45,[],40,"Blizzard Spike","Creates a giant lump of ice and hurls it at an enemy.\r\nIt deals damage to those in the surrounding area upon impact.",{"WazaType":128,"Element":14,"IgnoreRandomInherit":18,"Category":73,"Power":34,"IsLeanBack":18,"CameraShake":111,"MinRange":75,"MaxRange":129,"CoolTime":95,"ForceRagdollSize":77,"EffectType1":114,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":78,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":130,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":131,"WazaDesc":132},"EPalWazaID::DarkLaser",1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"The melodies of a flute made from the exoskeleton of a \u003CcharacterName id=|BirdDragon_Ice|/> are said to\r\ncross whole mountain ranges.\r\nIn ages past, such flutes were used to signal victory in battle.",1706864112862]
+{
+  "name": "Vanwyrm Cryst",
+  "title": "Marauder of Frozen Skies",
+  "image": "/images/full_palicon/T_BirdDragon_Ice_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "5",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Ice",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "className": "elm1"
+    },
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "The melodies of a flute made from the exoskeleton of a BirdDragon_Ice are said to\ncross whole mountain ranges.\nIn ages past, such flutes were used to signal victory in battle.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Bone.png",
+      "name": "Bone",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_IceOrgan.png",
+      "name": "Ice Organ",
+      "amount": "2 - 3",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Sapphire.png",
+      "name": "Sapphire",
+      "amount": "1 - 1",
+      "rate": "2%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "95"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "120"
+    },
+    {
+      "name": "Price",
+      "value": "4610"
+    },
+    {
+      "name": "Stamina",
+      "value": "150"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "700"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "850"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Vanwyrm",
+        "image": "/images/palicon/T_BirdDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Foxcicle",
+        "image": "/images/palicon/T_IceFox_icon_normal.png"
+      },
+      "result": {
+        "name": "Vanwyrm Cryst",
+        "image": "/images/palicon/T_BirdDragon_Ice_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Vanwyrm Cryst",
+        "image": "/images/palicon/T_BirdDragon_Ice_icon_normal.png"
+      },
+      "female": {
+        "name": "Vanwyrm Cryst",
+        "image": "/images/palicon/T_BirdDragon_Ice_icon_normal.png"
+      },
+      "result": {
+        "name": "Vanwyrm Cryst",
+        "image": "/images/palicon/T_BirdDragon_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Aerial Marauder",
+    "description": "Can be ridden as an flying mount.\nIncreases damage player deals\nto enemy weak points while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Icicle Cutter",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Creates a crescent blade of ice\nand hurls it forward."
+    },
+    {
+      "name": "Cryst Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "100 - 1000",
+      "description": "Enshrouds an enemy in a frigid blast of air,\ndealing continuous damage."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Blizzard Spike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "130",
+      "coolDown": "45",
+      "range": "1000 - 9999",
+      "description": "Creates a giant lump of ice and hurls it at an enemy.\nIt deals damage to those in the surrounding area upon impact."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "vanwyrm-cryst"
+}

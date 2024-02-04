@@ -1,1 +1,180 @@
-[{"data":1,"prerenderedAt":60},["Reactive",2],{"XFYB1YjgjP":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":21,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":28,"FullStomachDecreaseRate":22,"FoodAmount":12,"ViewingDistance":30,"ViewingAngle":31,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":32,"Predator":18,"Edible":6,"Stamina":19,"MaleProbability":33,"CombiRank":34,"WorkSuitability_EmitFlame":32,"WorkSuitability_Watering":22,"WorkSuitability_Seeding":32,"WorkSuitability_GenerateElectricity":32,"WorkSuitability_Handcraft":32,"WorkSuitability_Collection":32,"WorkSuitability_Deforest":32,"WorkSuitability_Mining":35,"WorkSuitability_OilExtraction":22,"WorkSuitability_ProductMedicine":32,"WorkSuitability_Cool":32,"WorkSuitability_Transport":22,"WorkSuitability_MonsterFarm":32,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":36,"PartnerSkillDesc":37,"Combinations":38,"PrefixName":47,"Drops":48,"ActiveSkills":57,"PassiveSkills":58,"Description":59},"Dumud","None",true,"EPalTribeID::LazyCatfish","LazyCatfish",43,"","EPalSizeType::M",4,"EPalElementType::Earth","EPalElementType::None","EPalGenusCategoryType::Fish","EPalOrganizationType::None","EPalWeaponType::None",false,100,70,95,1,4690,"NotInterested",150,450,600,300,"EPalBattleBGMType::Cute",25,90,0,50,895,2,"Soil Improver","While in team, increases attack power of \u003CuiCommon id=|COMMON_ELEMENT_NAME_Earth|/> Pals.",[39],{"ParentTribeA":40,"ParentTribeB":43,"ChildCharacterID":44},{"name":41,"BPClass":42},"Surfent","Serpent",{"name":4,"BPClass":8},{"name":45,"BPClass":46},"Surfent Terra","Serpent_Ground","Perpetual Procrastinator",[49,53],{"max":35,"min":35,"rate":19,"name":50,"descr":51,"icon":52},"Raw Dumud","\u003CcharacterName id=|LazyCatfish|/> meat.\r\nFatty with a rich taste.\r\nHas a mouthwatering plump texture.","T_itemicon_Food_Meat_LazyCatfish",{"max":22,"min":22,"rate":19,"name":54,"descr":55,"icon":56},"High Quality Pal Oil","High-quality oil that can be extracted from Pal.\r\nNecessary for making \u003CitemName id=|Polymer|/>. ","T_itemicon_Material_PalOil",[],[],"When too relaxed, its reaction time drastically declines.\r\nEven if it were sliced from head to tail,\r\nit probably wouldn't even realize that it should be dead until the next morning.",1706864123864]
+{
+  "name": "Dumud",
+  "title": "Perpetual Procrastinator",
+  "image": "/images/full_palicon/T_LazyCatfish_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "4",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "When too relaxed, its reaction time drastically declines.\nEven if it were sliced from head to tail,\nit probably wouldn't even realize that it should be dead until the next morning.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_LazyCatfish.png",
+      "name": "Raw Dumud",
+      "amount": "2 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_PalOil.png",
+      "name": "High Quality Pal Oil",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "95"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "70"
+    },
+    {
+      "name": "Price",
+      "value": "4690"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "450"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "600"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Surfent",
+        "image": "/images/palicon/T_Serpent_icon_normal.png"
+      },
+      "female": {
+        "name": "Dumud",
+        "image": "/images/palicon/T_LazyCatfish_icon_normal.png"
+      },
+      "result": {
+        "name": "Surfent Terra",
+        "image": "/images/palicon/T_Serpent_Ground_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Soil Improver",
+    "description": "While in team, increases attack power of COMMON_ELEMENT_NAME_Earth Pals."
+  },
+  "activeSkills": [],
+  "uniqueName": "dumud"
+}

@@ -1,1 +1,252 @@
-[{"data":1,"prerenderedAt":126},["Reactive",2],{"K0Ii8PSoir":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":9,"Defense":20,"Support":21,"CraftSpeed":19,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":22,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":21,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":35,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":39,"WorkSuitability_GenerateElectricity":39,"WorkSuitability_Handcraft":39,"WorkSuitability_Collection":39,"WorkSuitability_Deforest":39,"WorkSuitability_Mining":39,"WorkSuitability_OilExtraction":39,"WorkSuitability_ProductMedicine":39,"WorkSuitability_Cool":39,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":39,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":40,"PartnerSkillDesc":41,"Combinations":42,"PrefixName":54,"Drops":55,"ActiveSkills":61,"PassiveSkills":124,"Description":125},"Faleris","None",true,"EPalTribeID::Horus","Horus",105,"","EPalSizeType::L",9,"EPalElementType::Fire","EPalElementType::None","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,100,110,90,1,6720,"Warlike",150,200,1000,1400,500,"EPalBattleBGMType::Strong",525,8,25,5,230,50,370,3,0,"Scorching Predator","Can be ridden as an flying mount.\r\nWhile fighting together, \u003CuiCommon id=|COMMON_ELEMENT_NAME_Ice|/> Pals drop more items when defeated.",[43,50],{"ParentTribeA":44,"ParentTribeB":47,"ChildCharacterID":49},{"name":45,"BPClass":46},"Vanwyrm","BirdDragon",{"name":48,"BPClass":48},"Anubis",{"name":4,"BPClass":8},{"ParentTribeA":51,"ParentTribeB":52,"ChildCharacterID":53},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"Sentinel of Dawn",[56],{"max":57,"min":22,"rate":19,"name":58,"descr":59,"icon":60},4,"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",[62,75,85,93,101,110,117],{"WazaType":63,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":65,"IsLeanBack":18,"CameraShake":66,"MinRange":29,"MaxRange":67,"CoolTime":68,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":36,"EffectValueEx1":39,"EffectType2":71,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":72,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":73,"WazaDesc":74},"EPalWazaID::FireBlast","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",5000,2,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":76,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":77,"IsLeanBack":18,"CameraShake":78,"MinRange":29,"MaxRange":67,"CoolTime":79,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":80,"EffectValueEx1":39,"EffectType2":71,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":81,"bIsWeaponDamage":18,"DisabledData":18,"Level":82,"WazaName":83,"WazaDesc":84},"EPalWazaID::FlareArrow",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,103,[],7,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":86,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":87,"IsLeanBack":18,"CameraShake":66,"MinRange":27,"MaxRange":88,"CoolTime":82,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":39,"EffectType2":71,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":89,"bIsWeaponDamage":18,"DisabledData":18,"Level":90,"WazaName":91,"WazaDesc":92},"EPalWazaID::FireSeed",45,3000,[],15,"Spirit Fire","Shoots fireballs towards an enemy.\r\nThe fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",{"WazaType":94,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":95,"IsLeanBack":18,"CameraShake":78,"MinRange":29,"MaxRange":96,"CoolTime":90,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":39,"EffectType2":71,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":98,"WazaName":99,"WazaDesc":100},"EPalWazaID::Flamethrower",70,1500,[],22,"Ignis Breath","Shoots flames at an enemy,\r\ndealing continuous damage.",{"WazaType":102,"Element":13,"IgnoreRandomInherit":6,"Category":103,"Power":104,"IsLeanBack":18,"CameraShake":105,"MinRange":29,"MaxRange":88,"CoolTime":106,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":39,"EffectType2":71,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":65,"WazaName":108,"WazaDesc":109},"EPalWazaID::Unique_Horus_FlareBird","EPalWazaCategory::Melee",135,"EPalPlayerDamageCameraShakeCategory::Waza_L",28,[],"Phoenix Flare","\u003CcharacterName id=|Horus|/>'s special skill.\r\nCovers its body in a tornado of flames before charging forward.",{"WazaType":111,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":112,"IsLeanBack":18,"CameraShake":105,"MinRange":19,"MaxRange":27,"CoolTime":113,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":39,"EffectType2":71,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":113,"WazaName":115,"WazaDesc":116},"EPalWazaID::Inferno",120,40,[],"Ignis Rage","Energizes the surrounding ground,\r\ncausing it to explode after a set amount of time.",{"WazaType":118,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":25,"IsLeanBack":18,"CameraShake":105,"MinRange":29,"MaxRange":119,"CoolTime":77,"ForceRagdollSize":120,"EffectType1":70,"EffectValue1":19,"EffectValueEx1":39,"EffectType2":71,"EffectValue2":39,"EffectValueEx2":39,"SpecialAttackRateInfos":121,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":122,"WazaDesc":123},"EPalWazaID::FireBall",9999,"EPalSizeType::S",[],"Fire Ball","Creates a giant ball of flame and hurls it at an enemy.\r\nThe ball explodes over a wide area upon impact.",[],"When it finds its prey it unleashes a whirlwind of flames, burning the entire area to ash.\r\n\u003CcharacterName id=|Horus|/> breath is known for its pleasing scent.",1706864121306]
+{
+  "name": "Faleris",
+  "title": "Sentinel of Dawn",
+  "image": "/images/full_palicon/T_Horus_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "9",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    }
+  ],
+  "description": "When it finds its prey it unleashes a whirlwind of flames, burning the entire area to ash.\nHorus breath is known for its pleasing scent.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "1 - 4",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "110"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "6720"
+    },
+    {
+      "name": "Stamina",
+      "value": "230"
+    },
+    {
+      "name": "Support",
+      "value": "90"
+    },
+    {
+      "name": "Running Speed",
+      "value": "1000"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1400"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "150"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Vanwyrm",
+        "image": "/images/palicon/T_BirdDragon_icon_normal.png"
+      },
+      "female": {
+        "name": "Anubis",
+        "image": "/images/palicon/T_Anubis_icon_normal.png"
+      },
+      "result": {
+        "name": "Faleris",
+        "image": "/images/palicon/T_Horus_icon_normal.png"
+      }
+    },
+    {
+      "male": {
+        "name": "Faleris",
+        "image": "/images/palicon/T_Horus_icon_normal.png"
+      },
+      "female": {
+        "name": "Faleris",
+        "image": "/images/palicon/T_Horus_icon_normal.png"
+      },
+      "result": {
+        "name": "Faleris",
+        "image": "/images/palicon/T_Horus_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Scorching Predator",
+    "description": "Can be ridden as an flying mount.\nWhile fighting together, COMMON_ELEMENT_NAME_Ice Pals drop more items when defeated."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Spirit Fire",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "45",
+      "coolDown": "7",
+      "range": "1000 - 3000",
+      "description": "Shoots fireballs towards an enemy.\nThe fireballs explode after a short distance,\ngenerating smaller fireballs that spread forward."
+    },
+    {
+      "name": "Ignis Breath",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Shoots flames at an enemy,\ndealing continuous damage."
+    },
+    {
+      "name": "Phoenix Flare",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "135",
+      "coolDown": "28",
+      "range": "500 - 3000",
+      "description": "Horus's special skill.\nCovers its body in a tornado of flames before charging forward."
+    },
+    {
+      "name": "Ignis Rage",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "100 - 1000",
+      "description": "Energizes the surrounding ground,\ncausing it to explode after a set amount of time."
+    },
+    {
+      "name": "Fire Ball",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 9999",
+      "description": "Creates a giant ball of flame and hurls it at an enemy.\nThe ball explodes over a wide area upon impact."
+    }
+  ],
+  "uniqueName": "faleris"
+}

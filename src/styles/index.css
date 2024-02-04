@@ -624,11 +624,6 @@ a {
     flex-wrap: wrap;
   }
 }
-
-.content.home {
-  height: 40vh;
-}
-
 .content.home .container {
   background-color: #0d2638;
   border-radius: 5px;
@@ -654,28 +649,34 @@ a {
 .content.home .container .links {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 3rem;
   justify-content: center;
-  margin: auto;
-  max-width: 700px;
+  margin-top: 2.5rem;
   width: 100%;
 }
 
 .content.home .container .links a {
-  background-color: #11929b;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px solid #24b8c2;
   border-radius: 5px;
   color: #fff;
-  display: inline-block;
+  display: flex;
+  font-size: 20px;
+  font-weight: 700;
+  height: 226px;
+  justify-content: center;
   padding: 10px;
-  width: 190px;
+  width: 300px;
 }
 
 .content.home .container .links a:hover {
-  background-color: #0ea8b3;
+  background-color: #24b8c2;
   transition: 0.3s;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 750px) {
   .content.home {
     height: auto;
   }
@@ -686,6 +687,11 @@ a {
 
   .content.home .container .links {
     width: auto;
+  }
+
+  .content.home .container .links a {
+    height: 176px;
+    width: 250px;
   }
 }
 
@@ -3114,4 +3120,23 @@ svg.leaflet-image-layer.leaflet-interactive path {
   padding: 7px 12px 6px;
   overflow-y: auto;
   box-sizing: border-box;
+}
+
+.loading-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+}
+
+.animate-spin {
+  width: 30px;
+  height: 30px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(1turn);
+  }
 }

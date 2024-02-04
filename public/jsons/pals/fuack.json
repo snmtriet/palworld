@@ -1,1 +1,244 @@
-[{"data":1,"prerenderedAt":130},["Reactive",2],{"rb0vXAl0ot":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":20,"Defense":19,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":23,"ExpRatio":12,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":12,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":35,"HearingRate":12,"NooseTrap":6,"Nocturnal":18,"BiologicalGrade":36,"Predator":18,"Edible":6,"Stamina":21,"MaleProbability":37,"CombiRank":38,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":12,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":12,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":12,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":50,"Drops":51,"ActiveSkills":60,"PassiveSkills":128,"Description":129},"Fuack","None",true,"EPalTribeID::Blueplatypus","BluePlatypus",6,"","EPalSizeType::XS",1,"EPalElementType::Water","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,60,80,100,1.3,1.1,1120,"Escape_to_Battle",70,105,300,400,202,"EPalBattleBGMType::Cute",150,2,25,90,0,50,1330,"Surfing Slam","When activated, \u003CcharacterName id=|BluePlatypus|/>\r\nbody surfs towards an enemy and slams into them.",[42],{"ParentTribeA":43,"ParentTribeB":46,"ChildCharacterID":47},{"name":44,"BPClass":45},"Broncherry","SakuraSaurus",{"name":4,"BPClass":8},{"name":48,"BPClass":49},"Broncherry Aqua","SakuraSaurus_Water","Rowdy Wave Ripper",[52,56],{"max":12,"min":12,"rate":21,"name":53,"descr":54,"icon":55},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":12,"min":12,"rate":21,"name":57,"descr":58,"icon":59},"Pal Fluids","Body fluids taken from a Pal.\r\nUseful for its high viscosity.","T_itemicon_Material_PalFluid",[61,75,85,92,103,113,121],{"WazaType":62,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":64,"IsLeanBack":18,"CameraShake":65,"MinRange":66,"MaxRange":67,"CoolTime":68,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":37,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":72,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":73,"WazaDesc":74},"EPalWazaID::WaterGun","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,4,"EPalSizeType::None","EPalAdditionalEffectType::Wetness","EPalAdditionalEffectType::None",[],"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":76,"Element":77,"IgnoreRandomInherit":18,"Category":63,"Power":78,"IsLeanBack":18,"CameraShake":65,"MinRange":79,"MaxRange":80,"CoolTime":68,"ForceRagdollSize":69,"EffectType1":71,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":81,"bIsWeaponDamage":18,"DisabledData":18,"Level":82,"WazaName":83,"WazaDesc":84},"EPalWazaID::PowerShot","EPalElementType::Normal",35,600,3000,[],7,"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":86,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":87,"IsLeanBack":18,"CameraShake":65,"MinRange":66,"MaxRange":67,"CoolTime":33,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":78,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":88,"bIsWeaponDamage":18,"DisabledData":18,"Level":89,"WazaName":90,"WazaDesc":91},"EPalWazaID::AquaJet",30,[],15,"Hydro Jet","Hurls a high speed ball of water\r\nat an enemy.",{"WazaType":93,"Element":94,"IgnoreRandomInherit":18,"Category":63,"Power":87,"IsLeanBack":18,"CameraShake":65,"MinRange":95,"MaxRange":80,"CoolTime":96,"ForceRagdollSize":69,"EffectType1":97,"EffectValue1":98,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":99,"bIsWeaponDamage":18,"DisabledData":18,"Level":100,"WazaName":101,"WazaDesc":102},"EPalWazaID::IceMissile","EPalElementType::Ice",800,3,"EPalAdditionalEffectType::Freeze",103,[],22,"Ice Missile","Creates ice lances in the air\r\nthat fly towards enemies.",{"WazaType":104,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":105,"IsLeanBack":18,"CameraShake":106,"MinRange":107,"MaxRange":108,"CoolTime":109,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":110,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":111,"WazaDesc":112},"EPalWazaID::BubbleShot",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",1000,3500,13,[],"Bubble Blast","Fires numerous bubbles\r\nthat slowly pursue an enemy.",{"WazaType":114,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":21,"IsLeanBack":18,"CameraShake":115,"MinRange":107,"MaxRange":116,"CoolTime":87,"ForceRagdollSize":117,"EffectType1":70,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":118,"bIsWeaponDamage":18,"DisabledData":18,"Level":64,"WazaName":119,"WazaDesc":120},"EPalWazaID::WaterBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],"Aqua Burst","Creates a giant ball of water\r\nand hurls it at an enemy.",{"WazaType":122,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":32,"IsLeanBack":18,"CameraShake":115,"MinRange":66,"MaxRange":123,"CoolTime":124,"ForceRagdollSize":69,"EffectType1":70,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":71,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":125,"bIsWeaponDamage":18,"DisabledData":18,"Level":37,"WazaName":126,"WazaDesc":127},"EPalWazaID::HydroPump",1800,55,[],"Hydro Laser","Shoots pressurized water at extreme velocities,\r\nsweeping over a wide area in front of it.",[],"Using its own body water, this Pal can create waves anywhere.\r\nIt body surfs when in a hurry, but the resulting speed often ends in a fatal collision.",1706864113651]
+{
+  "name": "Fuack",
+  "title": "Rowdy Wave Ripper",
+  "image": "/images/full_palicon/T_BluePlatypus_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    }
+  ],
+  "description": "Using its own body water, this Pal can create waves anywhere.\nIt body surfs when in a hurry, but the resulting speed often ends in a fatal collision.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_PalFluid.png",
+      "name": "Pal Fluids",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "60"
+    },
+    {
+      "name": "Defense",
+      "value": "60"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "80"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "80"
+    },
+    {
+      "name": "Price",
+      "value": "1120"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "300"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "400"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "70"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Broncherry",
+        "image": "/images/palicon/T_SakuraSaurus_icon_normal.png"
+      },
+      "female": {
+        "name": "Fuack",
+        "image": "/images/palicon/T_BluePlatypus_icon_normal.png"
+      },
+      "result": {
+        "name": "Broncherry Aqua",
+        "image": "/images/palicon/T_SakuraSaurus_Water_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Surfing Slam",
+    "description": "When activated, BluePlatypus\nbody surfs towards an enemy and slams into them."
+  },
+  "activeSkills": [
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Power Shot",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Hydro Jet",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a high speed ball of water\nat an enemy."
+    },
+    {
+      "name": "Ice Missile",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_08.png",
+      "power": "30",
+      "coolDown": "3",
+      "range": "800 - 3000",
+      "description": "Creates ice lances in the air\nthat fly towards enemies."
+    },
+    {
+      "name": "Bubble Blast",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "1000 - 3500",
+      "description": "Fires numerous bubbles\nthat slowly pursue an enemy."
+    },
+    {
+      "name": "Aqua Burst",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of water\nand hurls it at an enemy."
+    },
+    {
+      "name": "Hydro Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Shoots pressurized water at extreme velocities,\nsweeping over a wide area in front of it."
+    }
+  ],
+  "uniqueName": "fuack"
+}

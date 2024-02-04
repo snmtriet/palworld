@@ -1,1 +1,249 @@
-[{"data":1,"prerenderedAt":128},["Reactive",2],{"mF2zjBNBn5":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":19,"Defense":20,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":21,"CaptureRateCorrect":21,"ExpRatio":21,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":24,"RunSpeed":25,"RideSprintSpeed":26,"TransportSpeed":27,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":29,"FullStomachDecreaseRate":21,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":21,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":33,"Predator":6,"Edible":6,"Stamina":19,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":50,"Drops":51,"ActiveSkills":61,"PassiveSkills":126,"Description":127},"Menasting","None",true,"EPalTribeID::DarkScorpion","DarkScorpion",99,"","EPalSizeType::L",9,"EPalElementType::Dark","EPalElementType::Earth","EPalGenusCategoryType::Other","EPalOrganizationType::None","EPalWeaponType::None",false,100,130,1,7050,"Warlike",200,1000,1200,600,"EPalBattleBGMType::Strong",475,7,25,90,5,50,260,0,2,3,"Steel Scorpion","When fighting together, increases the player's defense\r\nand \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals drop more items when defeated.",[42],{"ParentTribeA":43,"ParentTribeB":46,"ChildCharacterID":47},{"name":44,"BPClass":45},"Lyleen","LilyQueen",{"name":4,"BPClass":8},{"name":48,"BPClass":49},"Lyleen Noct","LilyQueen_Dark","Unstoppable Stinger",[52,57],{"max":53,"min":53,"rate":19,"name":54,"descr":55,"icon":56},10,"Coal","\u003CitemName id=|Coal|/> often found in caves and other places.\r\nRequired to create high quality metal.","T_itemicon_Material_Coal",{"max":53,"min":33,"rate":19,"name":58,"descr":59,"icon":60},"Venom Gland","Material obtainable from poisonous Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Poison|/> and more.","T_itemicon_Material_Venom",[62,76,83,93,105,114,120],{"WazaType":63,"Element":14,"IgnoreRandomInherit":18,"Category":64,"Power":65,"IsLeanBack":18,"CameraShake":66,"MinRange":67,"MaxRange":68,"CoolTime":69,"ForceRagdollSize":70,"EffectType1":71,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":72,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":73,"bIsWeaponDamage":18,"DisabledData":18,"Level":21,"WazaName":74,"WazaDesc":75},"EPalWazaID::MudShot","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,3000,4,"EPalSizeType::None","EPalAdditionalEffectType::Muddy","EPalAdditionalEffectType::None",[],"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":77,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":78,"IsLeanBack":18,"CameraShake":66,"MinRange":67,"MaxRange":68,"CoolTime":37,"ForceRagdollSize":70,"EffectType1":79,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":72,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":80,"bIsWeaponDamage":18,"DisabledData":18,"Level":30,"WazaName":81,"WazaDesc":82},"EPalWazaID::PoisonShot",30,"EPalAdditionalEffectType::Poison",[],"Poison Blast","Hurls poison sludge\r\nat an enemy.",{"WazaType":84,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":85,"IsLeanBack":18,"CameraShake":86,"MinRange":36,"MaxRange":87,"CoolTime":53,"ForceRagdollSize":70,"EffectType1":88,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":72,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":89,"bIsWeaponDamage":18,"DisabledData":18,"Level":90,"WazaName":91,"WazaDesc":92},"EPalWazaID::DarkWave",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",300,"EPalAdditionalEffectType::Darkness",[],15,"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":94,"Element":14,"IgnoreRandomInherit":18,"Category":64,"Power":95,"IsLeanBack":18,"CameraShake":86,"MinRange":67,"MaxRange":96,"CoolTime":90,"ForceRagdollSize":97,"EffectType1":71,"EffectValue1":98,"EffectValueEx1":36,"EffectType2":99,"EffectValue2":100,"EffectValueEx2":36,"SpecialAttackRateInfos":101,"bIsWeaponDamage":18,"DisabledData":18,"Level":102,"WazaName":103,"WazaDesc":104},"EPalWazaID::ThrowRock",70,2500,"EPalSizeType::XS",35,"EPalAdditionalEffectType::Stun",20,[],22,"Stone Cannon","Digs up a boulder\r\nand hurls it at an enemy.",{"WazaType":106,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":19,"IsLeanBack":18,"CameraShake":107,"MinRange":25,"MaxRange":108,"CoolTime":78,"ForceRagdollSize":109,"EffectType1":88,"EffectValue1":110,"EffectValueEx1":36,"EffectType2":72,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":78,"WazaName":112,"WazaDesc":113},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":115,"Element":14,"IgnoreRandomInherit":18,"Category":64,"Power":116,"IsLeanBack":18,"CameraShake":107,"MinRange":19,"MaxRange":108,"CoolTime":85,"ForceRagdollSize":70,"EffectType1":71,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":72,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":117,"bIsWeaponDamage":18,"DisabledData":18,"Level":65,"WazaName":118,"WazaDesc":119},"EPalWazaID::RockLance",150,[],"Rock Lance","Generates a sharp rock spear\r\nunder an enemy.",{"WazaType":121,"Element":13,"IgnoreRandomInherit":18,"Category":64,"Power":116,"IsLeanBack":18,"CameraShake":107,"MinRange":67,"MaxRange":122,"CoolTime":85,"ForceRagdollSize":70,"EffectType1":88,"EffectValue1":19,"EffectValueEx1":36,"EffectType2":72,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":123,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":124,"WazaDesc":125},"EPalWazaID::DarkLaser",1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"Being made of pure energy, its insides are completely hollow.\r\nThis Pal crams still-living prey into its hollow body, where it absorbs them.\r\nHellish screams of pain can often be heard coming from inside this Pal.",1706864116004]
+{
+  "name": "Menasting",
+  "title": "Unstoppable Stinger",
+  "image": "/images/full_palicon/T_DarkScorpion_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "9",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    },
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    }
+  ],
+  "description": "Being made of pure energy, its insides are completely hollow.\nThis Pal crams still-living prey into its hollow body, where it absorbs them.\nHellish screams of pain can often be heard coming from inside this Pal.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Coal.png",
+      "name": "Coal",
+      "amount": "10 - 10",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Venom.png",
+      "name": "Venom Gland",
+      "amount": "5 - 10",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "130"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "7050"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "1000"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1200"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Lyleen",
+        "image": "/images/palicon/T_LilyQueen_icon_normal.png"
+      },
+      "female": {
+        "name": "Menasting",
+        "image": "/images/palicon/T_DarkScorpion_icon_normal.png"
+      },
+      "result": {
+        "name": "Lyleen Noct",
+        "image": "/images/palicon/T_LilyQueen_Dark_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Steel Scorpion",
+    "description": "When fighting together, increases the player's defense\nand COMMON_ELEMENT_NAME_Electricity Pals drop more items when defeated."
+  },
+  "activeSkills": [
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Poison Blast",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 3000",
+      "description": "Hurls poison sludge\nat an enemy."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Stone Cannon",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 2500",
+      "description": "Digs up a boulder\nand hurls it at an enemy."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Rock Lance",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "100 - 9999",
+      "description": "Generates a sharp rock spear\nunder an enemy."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "menasting"
+}

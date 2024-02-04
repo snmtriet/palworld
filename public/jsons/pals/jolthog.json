@@ -1,1 +1,238 @@
-[{"data":1,"prerenderedAt":120},["Reactive",2],{"ba2f6Jrvpt":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":19,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":23,"ExpRatio":12,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":12,"FoodAmount":33,"ViewingDistance":34,"ViewingAngle":35,"HearingRate":12,"NooseTrap":6,"Nocturnal":18,"BiologicalGrade":36,"Predator":18,"Edible":6,"Stamina":21,"MaleProbability":37,"CombiRank":38,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":12,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":50,"Drops":51,"ActiveSkills":56,"PassiveSkills":118,"Description":119},"Jolthog","None",true,"EPalTribeID::Hedgehog","Hedgehog",12,"","EPalSizeType::XS",1,"EPalElementType::Electricity","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,70,75,100,1.3,1.2,1060,"Escape_to_Battle",30,60,400,550,215,"EPalBattleBGMType::Cute",150,2,25,90,0,50,1370,"Jolt Bomb","When activated, equips \u003CcharacterName id=|Hedgehog|/> to the player's hand.\r\nWhen thrown at an enemy, causes an electrical explosion upon impact.",[42],{"ParentTribeA":43,"ParentTribeB":44,"ChildCharacterID":47},{"name":4,"BPClass":8},{"name":45,"BPClass":46},"Pengullet","Penguin",{"name":48,"BPClass":49},"Jolthog Cryst","Hedgehog_Ice","Don't Touch!",[52],{"max":12,"min":12,"rate":21,"name":53,"descr":54,"icon":55},"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",[57,71,81,91,99,104,111],{"WazaType":58,"Element":13,"IgnoreRandomInherit":18,"Category":59,"Power":60,"IsLeanBack":18,"CameraShake":61,"MinRange":36,"MaxRange":62,"CoolTime":63,"ForceRagdollSize":64,"EffectType1":65,"EffectValue1":66,"EffectValueEx1":36,"EffectType2":67,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":68,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":69,"WazaDesc":70},"EPalWazaID::ElecWave","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",300,4,"EPalSizeType::None","EPalAdditionalEffectType::Electrical",103,"EPalAdditionalEffectType::None",[],"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":72,"Element":73,"IgnoreRandomInherit":18,"Category":59,"Power":74,"IsLeanBack":18,"CameraShake":61,"MinRange":75,"MaxRange":76,"CoolTime":63,"ForceRagdollSize":64,"EffectType1":67,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":67,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":77,"bIsWeaponDamage":18,"DisabledData":18,"Level":78,"WazaName":79,"WazaDesc":80},"EPalWazaID::PowerShot","EPalElementType::Normal",35,600,3000,[],7,"Power Shot","Charges energy\r\ninto a focused blast.",{"WazaType":82,"Element":13,"IgnoreRandomInherit":18,"Category":59,"Power":37,"IsLeanBack":18,"CameraShake":83,"MinRange":84,"MaxRange":85,"CoolTime":86,"ForceRagdollSize":64,"EffectType1":65,"EffectValue1":37,"EffectValueEx1":36,"EffectType2":67,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":87,"bIsWeaponDamage":18,"DisabledData":18,"Level":88,"WazaName":89,"WazaDesc":90},"EPalWazaID::ThunderBall","EPalPlayerDamageCameraShakeCategory::Waza_M",500,2500,9,[],15,"Electric Ball","Fires an electric ball\r\nthat slowly pursues an enemy.",{"WazaType":92,"Element":73,"IgnoreRandomInherit":18,"Category":59,"Power":19,"IsLeanBack":18,"CameraShake":83,"MinRange":93,"MaxRange":94,"CoolTime":88,"ForceRagdollSize":11,"EffectType1":67,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":67,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":95,"bIsWeaponDamage":18,"DisabledData":18,"Level":96,"WazaName":97,"WazaDesc":98},"EPalWazaID::PowerBall",1000,9999,[],22,"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":100,"Element":13,"IgnoreRandomInherit":18,"Category":59,"Power":35,"IsLeanBack":18,"CameraShake":83,"MinRange":36,"MaxRange":94,"CoolTime":96,"ForceRagdollSize":64,"EffectType1":65,"EffectValue1":66,"EffectValueEx1":36,"EffectType2":67,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":101,"bIsWeaponDamage":18,"DisabledData":18,"Level":26,"WazaName":102,"WazaDesc":103},"EPalWazaID::ThreeThunder",[],"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":105,"Element":13,"IgnoreRandomInherit":18,"Category":59,"Power":20,"IsLeanBack":18,"CameraShake":83,"MinRange":84,"MaxRange":106,"CoolTime":107,"ForceRagdollSize":64,"EffectType1":65,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":67,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":108,"bIsWeaponDamage":18,"DisabledData":18,"Level":60,"WazaName":109,"WazaDesc":110},"EPalWazaID::LineThunder",2000,16,[],"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":112,"Element":13,"IgnoreRandomInherit":18,"Category":59,"Power":32,"IsLeanBack":18,"CameraShake":113,"MinRange":84,"MaxRange":76,"CoolTime":114,"ForceRagdollSize":64,"EffectType1":65,"EffectValue1":21,"EffectValueEx1":36,"EffectType2":67,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":115,"bIsWeaponDamage":18,"DisabledData":18,"Level":37,"WazaName":116,"WazaDesc":117},"EPalWazaID::Thunderbolt","EPalPlayerDamageCameraShakeCategory::Waza_L",55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"Releases the electricity stored in its body when under attack,\r\nproducing a shock that can be over 10 million volts.\r\nIf thrown, it can even be more lethal than any conventional heavy weaponry.",1706864120671]
+{
+  "name": "Jolthog",
+  "title": "Don't Touch!",
+  "image": "/images/full_palicon/T_Hedgehog_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "Releases the electricity stored in its body when under attack,\nproducing a shock that can be over 10 million volts.\nIf thrown, it can even be more lethal than any conventional heavy weaponry.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "70"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "70"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "75"
+    },
+    {
+      "name": "Price",
+      "value": "1060"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "400"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "550"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "30"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Jolthog",
+        "image": "/images/palicon/T_Hedgehog_icon_normal.png"
+      },
+      "female": {
+        "name": "Pengullet",
+        "image": "/images/palicon/T_Penguin_icon_normal.png"
+      },
+      "result": {
+        "name": "Jolthog Cryst",
+        "image": "/images/palicon/T_Hedgehog_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Jolt Bomb",
+    "description": "When activated, equips Hedgehog to the player's hand.\nWhen thrown at an enemy, causes an electrical explosion upon impact."
+  },
+  "activeSkills": [
+    {
+      "name": "Shockwave",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Power Shot",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "35",
+      "coolDown": "4",
+      "range": "600 - 3000",
+      "description": "Charges energy\ninto a focused blast."
+    },
+    {
+      "name": "Electric Ball",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "500 - 2500",
+      "description": "Fires an electric ball\nthat slowly pursues an enemy."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "jolthog"
+}

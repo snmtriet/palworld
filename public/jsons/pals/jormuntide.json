@@ -1,1 +1,243 @@
-[{"data":1,"prerenderedAt":132},["Reactive",2],{"vXwJmLShcg":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":22,"CraftSpeed":22,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":22,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":35,"Predator":6,"Edible":6,"Stamina":22,"MaleProbability":36,"CombiRank":37,"WorkSuitability_EmitFlame":38,"WorkSuitability_Watering":39,"WorkSuitability_Seeding":38,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":38,"WorkSuitability_Deforest":38,"WorkSuitability_Mining":38,"WorkSuitability_OilExtraction":38,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":38,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":38,"PassiveSkill1":40,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":41,"PartnerSkillDesc":42,"Combinations":43,"PrefixName":51,"Drops":52,"ActiveSkills":58,"PassiveSkills":121,"Description":131},"Jormuntide","None",true,"EPalTribeID::Umihebi","Umihebi",101,"","EPalSizeType::XL",8,"EPalElementType::Dragon","EPalElementType::Water","EPalGenusCategoryType::Fish","EPalOrganizationType::None","EPalWeaponType::None",false,130,150,120,100,1,9320,"Warlike",175,525,700,350,"EPalBattleBGMType::Strong",475,7,25,90,5,50,310,0,4,"ElementBoost_Aqua_2_PAL","Stormbringer Sea Dragon","Can be ridden to travel on water.\r\nWhile mounted, prevents stamina depletion while moving over water.",[44],{"ParentTribeA":45,"ParentTribeB":47,"ChildCharacterID":48},{"name":46,"BPClass":46},"Suzaku",{"name":4,"BPClass":8},{"name":49,"BPClass":50},"Suzaku Aqua","Suzaku_Water","Emperor of the Sea",[53],{"max":39,"min":54,"rate":22,"name":55,"descr":56,"icon":57},2,"Pal Fluids","Body fluids taken from a Pal.\r\nUseful for its high viscosity.","T_itemicon_Material_PalFluid",[59,72,81,90,100,108,115],{"WazaType":60,"Element":14,"IgnoreRandomInherit":18,"Category":61,"Power":62,"IsLeanBack":18,"CameraShake":63,"MinRange":64,"MaxRange":65,"CoolTime":39,"ForceRagdollSize":66,"EffectType1":67,"EffectValue1":36,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":69,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":70,"WazaDesc":71},"EPalWazaID::WaterGun","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Wetness","EPalAdditionalEffectType::None",[],"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":73,"Element":13,"IgnoreRandomInherit":18,"Category":61,"Power":74,"IsLeanBack":18,"CameraShake":63,"MinRange":64,"MaxRange":75,"CoolTime":54,"ForceRagdollSize":66,"EffectType1":76,"EffectValue1":77,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":32,"WazaName":79,"WazaDesc":80},"EPalWazaID::DragonCanon",30,4000,"EPalAdditionalEffectType::Burn",35,[],"Dragon Cannon","Hurls an energy ball imbued\r\nwith draconic energy at an enemy.",{"WazaType":82,"Element":13,"IgnoreRandomInherit":18,"Category":61,"Power":83,"IsLeanBack":18,"CameraShake":84,"MinRange":64,"MaxRange":85,"CoolTime":86,"ForceRagdollSize":66,"EffectType1":76,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":87,"bIsWeaponDamage":18,"DisabledData":18,"Level":86,"WazaName":88,"WazaDesc":89},"EPalWazaID::DragonBreath",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",1500,15,[],"Draconic Breath","Exhales breath imbued with draconic energy,\r\ndealing continuous damage to those in front of it.",{"WazaType":91,"Element":14,"IgnoreRandomInherit":18,"Category":61,"Power":22,"IsLeanBack":18,"CameraShake":92,"MinRange":93,"MaxRange":94,"CoolTime":74,"ForceRagdollSize":95,"EffectType1":67,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":96,"bIsWeaponDamage":18,"DisabledData":18,"Level":97,"WazaName":98,"WazaDesc":99},"EPalWazaID::WaterBall","EPalPlayerDamageCameraShakeCategory::Waza_L",1000,9999,"EPalSizeType::S",[],22,"Aqua Burst","Creates a giant ball of water\r\nand hurls it at an enemy.",{"WazaType":101,"Element":102,"IgnoreRandomInherit":18,"Category":61,"Power":34,"IsLeanBack":18,"CameraShake":84,"MinRange":38,"MaxRange":94,"CoolTime":97,"ForceRagdollSize":66,"EffectType1":103,"EffectValue1":104,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":105,"bIsWeaponDamage":18,"DisabledData":18,"Level":74,"WazaName":106,"WazaDesc":107},"EPalWazaID::ThreeThunder","EPalElementType::Electricity","EPalAdditionalEffectType::Electrical",103,[],"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":109,"Element":14,"IgnoreRandomInherit":18,"Category":61,"Power":20,"IsLeanBack":18,"CameraShake":92,"MinRange":64,"MaxRange":110,"CoolTime":111,"ForceRagdollSize":66,"EffectType1":67,"EffectValue1":22,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":62,"WazaName":113,"WazaDesc":114},"EPalWazaID::HydroPump",1800,55,[],"Hydro Laser","Shoots pressurized water at extreme velocities,\r\nsweeping over a wide area in front of it.",{"WazaType":116,"Element":13,"IgnoreRandomInherit":18,"Category":61,"Power":20,"IsLeanBack":18,"CameraShake":92,"MinRange":64,"MaxRange":65,"CoolTime":111,"ForceRagdollSize":66,"EffectType1":76,"EffectValue1":117,"EffectValueEx1":38,"EffectType2":68,"EffectValue2":38,"EffectValueEx2":38,"SpecialAttackRateInfos":118,"bIsWeaponDamage":18,"DisabledData":18,"Level":36,"WazaName":119,"WazaDesc":120},"EPalWazaID::DragonMeteor",45,[],"Dragon Meteor","Calls down numerous small meteorites\r\nand launches them at an enemy.",[122],{"Rank":123,"OverrideDescMsgID":124,"EffectType1":125,"EffectValue1":126,"TargetType1":127,"EffectType2":128,"EffectValue2":38,"TargetType2":127,"EffectType3":128,"EffectValue3":38,"TargetType3":127,"InvokeActiveOtomo":18,"InvokeWorker":18,"InvokeRiding":18,"InvokeReserve":18,"InvokeInOtomo":18,"InvokeAlways":6,"AddPal":18,"AddRarePal":18,"AddShotWeapon":18,"AddMeleeWeapon":18,"AddArmor":18,"AddAccessory":18,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":129,"Name":130},3,"PASSIVE_ElementBoost_Aqua_1_PAL","EPalPassiveSkillEffectType::ElementBoost_Water",20,"EPalPassiveSkillEffectTargetType::ToSelf","EPalPassiveSkillEffectType::no","{EffectValue1}% increase to Water attack damage.","Lord of the Sea","Legend says that the \u003CcharacterName id=|Umihebi|/> was once a wise man,\r\nwho after being wrongly convicted and cast into a whirlpool,\r\nreturned as this Pal to destroy those who wronged him.",1706864130150]
+{
+  "name": "Jormuntide",
+  "title": "Emperor of the Sea",
+  "image": "/images/full_palicon/T_Umihebi_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "8",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Dragon",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "className": "elm3"
+    },
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    }
+  ],
+  "description": "Legend says that the Umihebi was once a wise man,\nwho after being wrongly convicted and cast into a whirlpool,\nreturned as this Pal to destroy those who wronged him.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalFluid.png",
+      "name": "Pal Fluids",
+      "amount": "2 - 4",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "130"
+    },
+    {
+      "name": "Defense",
+      "value": "100"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "150"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "120"
+    },
+    {
+      "name": "Price",
+      "value": "9320"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "525"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "700"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Suzaku",
+        "image": "/images/palicon/T_Suzaku_icon_normal.png"
+      },
+      "female": {
+        "name": "Jormuntide",
+        "image": "/images/palicon/T_Umihebi_icon_normal.png"
+      },
+      "result": {
+        "name": "Suzaku Aqua",
+        "image": "/images/palicon/T_Suzaku_Water_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "4",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Stormbringer Sea Dragon",
+    "description": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water."
+  },
+  "activeSkills": [
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Dragon Cannon",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Hurls an energy ball imbued\nwith draconic energy at an enemy."
+    },
+    {
+      "name": "Draconic Breath",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 1500",
+      "description": "Exhales breath imbued with draconic energy,\ndealing continuous damage to those in front of it."
+    },
+    {
+      "name": "Aqua Burst",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of water\nand hurls it at an enemy."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Hydro Laser",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Shoots pressurized water at extreme velocities,\nsweeping over a wide area in front of it."
+    },
+    {
+      "name": "Dragon Meteor",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 5000",
+      "description": "Calls down numerous small meteorites\nand launches them at an enemy."
+    }
+  ],
+  "uniqueName": "jormuntide"
+}

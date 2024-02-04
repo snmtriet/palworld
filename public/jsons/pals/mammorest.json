@@ -1,1 +1,250 @@
-[{"data":1,"prerenderedAt":132},["Reactive",2],{"M6VII8lc82":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":9,"Support":22,"CraftSpeed":20,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":20,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":23,"FoodAmount":12,"ViewingDistance":32,"ViewingAngle":9,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":49,"Drops":50,"ActiveSkills":64,"PassiveSkills":130,"Description":131},"Mammorest","None",true,"EPalTribeID::GrassMammoth","GrassMammoth",90,"","EPalSizeType::XL",8,"EPalElementType::Leaf","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,150,100,85,30,1,9450,"NotInterested",135,430,600,282,"EPalBattleBGMType::Cool",525,25,5,50,300,0,2,"Gaia Crusher","Can be ridden.\r\nImproves efficiency of cutting trees and mining ores while mounted.",[41],{"ParentTribeA":42,"ParentTribeB":43,"ChildCharacterID":46},{"name":4,"BPClass":8},{"name":44,"BPClass":45},"Wumpo","Yeti",{"name":47,"BPClass":48},"Mammorest Cryst","GrassMammoth_Ice","King of the Forest",[51,56,60],{"max":52,"min":33,"rate":20,"name":53,"descr":54,"icon":55},10,"High Quality Pal Oil","High-quality oil that can be extracted from Pal.\r\nNecessary for making \u003CitemName id=|Polymer|/>. ","T_itemicon_Material_PalOil",{"max":52,"min":33,"rate":20,"name":57,"descr":58,"icon":59},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":37,"min":37,"rate":20,"name":61,"descr":62,"icon":63},"Mammorest Meat","\u003CcharacterName id=|GrassMammoth|/> meat.\r\nWith massive size comes massive flavor.\r\nIts overwhelming portions are sure to satisfy any glutton.","T_itemicon_Food_Meat_GrassMammoth",[65,80,88,100,110,116,123],{"WazaType":66,"Element":67,"IgnoreRandomInherit":18,"Category":68,"Power":69,"IsLeanBack":18,"CameraShake":70,"MinRange":71,"MaxRange":72,"CoolTime":73,"ForceRagdollSize":74,"EffectType1":75,"EffectValue1":34,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":77,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":78,"WazaDesc":79},"EPalWazaID::MudShot","EPalElementType::Earth","EPalWazaCategory::Shot",40,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,3000,4,"EPalSizeType::None","EPalAdditionalEffectType::Muddy","EPalAdditionalEffectType::None",[],"Sand Blast","Hurls sticky mud\r\nat an enemy.",{"WazaType":81,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":34,"IsLeanBack":18,"CameraShake":70,"MinRange":36,"MaxRange":35,"CoolTime":82,"ForceRagdollSize":74,"EffectType1":83,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":85,"WazaName":86,"WazaDesc":87},"EPalWazaID::SeedMachinegun",9,"EPalAdditionalEffectType::IvyCling",[],7,"Seed Machine Gun","Fires a volley of hard seeds\r\nat enemies in front of it.",{"WazaType":89,"Element":90,"IgnoreRandomInherit":18,"Category":68,"Power":91,"IsLeanBack":18,"CameraShake":92,"MinRange":93,"MaxRange":94,"CoolTime":95,"ForceRagdollSize":96,"EffectType1":76,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":95,"WazaName":98,"WazaDesc":99},"EPalWazaID::PowerBall","EPalElementType::Normal",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",1000,9999,15,"EPalSizeType::XS",[],"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":101,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":102,"IsLeanBack":18,"CameraShake":92,"MinRange":103,"MaxRange":72,"CoolTime":104,"ForceRagdollSize":74,"EffectType1":83,"EffectValue1":105,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":107,"WazaName":108,"WazaDesc":109},"EPalWazaID::GrassTornado",80,700,18,65,[],22,"Grass Tornado","Generates two tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":111,"Element":67,"IgnoreRandomInherit":6,"Category":68,"Power":20,"IsLeanBack":18,"CameraShake":112,"MinRange":36,"MaxRange":94,"CoolTime":22,"ForceRagdollSize":74,"EffectType1":76,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":113,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":114,"WazaDesc":115},"EPalWazaID::Unique_Grassmammoth_Earthquake","EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Earth Impact","Mammorest's exclusive skill.\r\nUses massive body to shake the earth,\r\ndealing damage over a wide area.",{"WazaType":117,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":118,"IsLeanBack":18,"CameraShake":92,"MinRange":71,"MaxRange":94,"CoolTime":32,"ForceRagdollSize":119,"EffectType1":83,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":120,"bIsWeaponDamage":18,"DisabledData":18,"Level":69,"WazaName":121,"WazaDesc":122},"EPalWazaID::RootAttack",95,"EPalSizeType::S",[],"Spine Vine","Generates spiny thorns that chase an enemy\r\nalong the ground, piercing them from below.",{"WazaType":124,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":19,"IsLeanBack":18,"CameraShake":112,"MinRange":71,"MaxRange":125,"CoolTime":126,"ForceRagdollSize":74,"EffectType1":83,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":76,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":127,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":128,"WazaDesc":129},"EPalWazaID::SolarBeam",1800,55,[],"Solar Blast","Charges solar energy before\r\nblasting enemies with a powerful beam.",[],"The vegetation on its back varies between individuals.\r\nThere is a long history of appreciating this veritable garden of a Pal,\r\nand there are even \u003CcharacterName id=|GrassMammoth|/> pruning specialists.",1706864119963]
+{
+  "name": "Mammorest",
+  "title": "King of the Forest",
+  "image": "/images/full_palicon/T_GrassMammoth_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "8",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Leaf",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "className": "elm5"
+    }
+  ],
+  "description": "The vegetation on its back varies between individuals.\nThere is a long history of appreciating this veritable garden of a Pal,\nand there are even GrassMammoth pruning specialists.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_PalOil.png",
+      "name": "High Quality Pal Oil",
+      "amount": "5 - 10",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "5 - 10",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_GrassMammoth.png",
+      "name": "Mammorest Meat",
+      "amount": "2 - 2",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "150"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "85"
+    },
+    {
+      "name": "Price",
+      "value": "9450"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "30"
+    },
+    {
+      "name": "Running Speed",
+      "value": "430"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "600"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "100"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Mammorest",
+        "image": "/images/palicon/T_GrassMammoth_icon_normal.png"
+      },
+      "female": {
+        "name": "Wumpo",
+        "image": "/images/palicon/T_Yeti_icon_normal.png"
+      },
+      "result": {
+        "name": "Mammorest Cryst",
+        "image": "/images/palicon/T_GrassMammoth_Ice_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Gaia Crusher",
+    "description": "Can be ridden.\nImproves efficiency of cutting trees and mining ores while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Sand Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 3000",
+      "description": "Hurls sticky mud\nat an enemy."
+    },
+    {
+      "name": "Seed Machine Gun",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "0 - 300",
+      "description": "Fires a volley of hard seeds\nat enemies in front of it."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Grass Tornado",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Earth Impact",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "0 - 9999",
+      "description": "Mammorest's exclusive skill.\nUses massive body to shake the earth,\ndealing damage over a wide area."
+    },
+    {
+      "name": "Spine Vine",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "95",
+      "coolDown": "25",
+      "range": "500 - 9999",
+      "description": "Generates spiny thorns that chase an enemy\nalong the ground, piercing them from below."
+    },
+    {
+      "name": "Solar Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges solar energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "mammorest"
+}

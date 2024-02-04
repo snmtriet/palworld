@@ -1,1 +1,249 @@
-[{"data":1,"prerenderedAt":125},["Reactive",2],{"d2w742HVt1":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":22,"Support":21,"CraftSpeed":21,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":23,"ExpRatio":23,"Price":24,"AIResponse":25,"AISightResponse":5,"SlowWalkSpeed":26,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":23,"FoodAmount":12,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":23,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":12,"Predator":6,"Edible":6,"Stamina":21,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":23,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":23,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":37,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":50,"Drops":51,"ActiveSkills":60,"PassiveSkills":123,"Description":124},"Incineram","None",true,"EPalTribeID::Baphomet","Baphomet",40,"","EPalSizeType::M",4,"EPalElementType::Fire","EPalElementType::Dark","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,95,150,100,85,1,4780,"Warlike",80,160,700,960,320,"EPalBattleBGMType::Strong",300,25,90,50,590,0,2,"Flameclaw Hunter","When activated, attacks targeted enemy with a\r\npowerful \u003CactiveSkillName id=|Unique_Baphomet_SwallowKite|/>.",[42],{"ParentTribeA":43,"ParentTribeB":44,"ChildCharacterID":47},{"name":4,"BPClass":8},{"name":45,"BPClass":46},"Maraith","GhostBeast",{"name":48,"BPClass":49},"Incineram Noct","Baphomet_Dark","Hyena of the Wild",[52,56],{"max":23,"min":23,"rate":21,"name":53,"descr":54,"icon":55},"Horn","\u003CitemName id=|Horn|/> collected from Pals.\r\nUsed to create medicines and more.","T_itemicon_Material_Horn",{"max":23,"min":23,"rate":21,"name":57,"descr":58,"icon":59},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",[61,74,83,93,103,109,117],{"WazaType":62,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":64,"IsLeanBack":18,"CameraShake":65,"MinRange":66,"MaxRange":67,"CoolTime":38,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":70,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":71,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":72,"WazaDesc":73},"EPalWazaID::FireBlast","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":75,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":76,"IsLeanBack":18,"CameraShake":65,"MinRange":77,"MaxRange":78,"CoolTime":79,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":21,"EffectValueEx1":37,"EffectType2":70,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":80,"bIsWeaponDamage":18,"DisabledData":18,"Level":79,"WazaName":81,"WazaDesc":82},"EPalWazaID::FireSeed",45,1000,3000,7,[],"Spirit Fire","Shoots fireballs towards an enemy.\r\nThe fireballs explode after a short distance,\r\ngenerating smaller fireballs that spread forward.",{"WazaType":84,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":85,"IsLeanBack":18,"CameraShake":86,"MinRange":66,"MaxRange":67,"CoolTime":87,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":88,"EffectValueEx1":37,"EffectType2":70,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":89,"bIsWeaponDamage":18,"DisabledData":18,"Level":90,"WazaName":91,"WazaDesc":92},"EPalWazaID::FlareArrow",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,103,[],15,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":94,"Element":13,"IgnoreRandomInherit":6,"Category":95,"Power":96,"IsLeanBack":18,"CameraShake":86,"MinRange":97,"MaxRange":98,"CoolTime":87,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":21,"EffectValueEx1":37,"EffectType2":70,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":99,"bIsWeaponDamage":18,"DisabledData":18,"Level":100,"WazaName":101,"WazaDesc":102},"EPalWazaID::Unique_Baphomet_SwallowKite","EPalWazaCategory::Melee",70,1100,1200,[],22,"Hellfire Claw","\u003CcharacterName id=|Baphomet|/>'s exclusive skill.\r\nDraws near enemies using its left claw to slash them into the air\r\nbefore cutting them down with its right claw.",{"WazaType":104,"Element":14,"IgnoreRandomInherit":18,"Category":63,"Power":85,"IsLeanBack":18,"CameraShake":86,"MinRange":37,"MaxRange":32,"CoolTime":87,"ForceRagdollSize":68,"EffectType1":105,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":70,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":64,"WazaName":107,"WazaDesc":108},"EPalWazaID::DarkWave","EPalAdditionalEffectType::Darkness",[],"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":110,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":20,"IsLeanBack":18,"CameraShake":111,"MinRange":66,"MaxRange":112,"CoolTime":85,"ForceRagdollSize":113,"EffectType1":69,"EffectValue1":21,"EffectValueEx1":37,"EffectType2":70,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":9,"WazaName":115,"WazaDesc":116},"EPalWazaID::FireBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",[],"Fire Ball","Creates a giant ball of flame and hurls it at an enemy.\r\nThe ball explodes over a wide area upon impact.",{"WazaType":118,"Element":13,"IgnoreRandomInherit":18,"Category":63,"Power":119,"IsLeanBack":18,"CameraShake":111,"MinRange":21,"MaxRange":77,"CoolTime":9,"ForceRagdollSize":68,"EffectType1":69,"EffectValue1":21,"EffectValueEx1":37,"EffectType2":70,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":120,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":121,"WazaDesc":122},"EPalWazaID::Inferno",120,[],"Ignis Rage","Energizes the surrounding ground,\r\ncausing it to explode after a set amount of time.",[],"In the dark of night, this Pal snatches prey to bring back to its territory.\r\nWhat happens to those poor souls afterwards isn't too hard to imagine.",1706864112111]
+{
+  "name": "Incineram",
+  "title": "Hyena of the Wild",
+  "image": "/images/full_palicon/T_Baphomet_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "4",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Fire",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "className": "elm8"
+    },
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "In the dark of night, this Pal snatches prey to bring back to its territory.\nWhat happens to those poor souls afterwards isn't too hard to imagine.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Horn.png",
+      "name": "Horn",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "95"
+    },
+    {
+      "name": "Defense",
+      "value": "85"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "150"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "4780"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "700"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "960"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "80"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Incineram",
+        "image": "/images/palicon/T_Baphomet_icon_normal.png"
+      },
+      "female": {
+        "name": "Maraith",
+        "image": "/images/palicon/T_GhostBeast_icon_normal.png"
+      },
+      "result": {
+        "name": "Incineram Noct",
+        "image": "/images/palicon/T_Baphomet_Dark_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Flameclaw Hunter",
+    "description": "When activated, attacks targeted enemy with a\npowerful Unique_Baphomet_SwallowKite."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Spirit Fire",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "45",
+      "coolDown": "7",
+      "range": "1000 - 3000",
+      "description": "Shoots fireballs towards an enemy.\nThe fireballs explode after a short distance,\ngenerating smaller fireballs that spread forward."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Hellfire Claw",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "70",
+      "coolDown": "10",
+      "range": "1100 - 1200",
+      "description": "Baphomet's exclusive skill.\nDraws near enemies using its left claw to slash them into the air\nbefore cutting them down with its right claw."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Fire Ball",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 9999",
+      "description": "Creates a giant ball of flame and hurls it at an enemy.\nThe ball explodes over a wide area upon impact."
+    },
+    {
+      "name": "Ignis Rage",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "100 - 1000",
+      "description": "Energizes the surrounding ground,\ncausing it to explode after a set amount of time."
+    }
+  ],
+  "uniqueName": "incineram"
+}

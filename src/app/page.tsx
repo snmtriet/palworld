@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Image from "next/image";
 import Link from "next/link";
 
@@ -15,27 +16,52 @@ export default function Home() {
             Dungeons, Weapons &amp; Items, and Building information.
           </p>
           <div className="links">
-            <Link href="/map" className="link">
-              Interactive Map
+            <Link
+              href="/breeding-calculator"
+              className="link"
+              style={{ backgroundImage: 'url("/images/breed.png")' }}
+            >
+              <span>Breeding Calculator</span>
             </Link>
-            <Link href="/pals" className="link">
-              Pals
+            <Link
+              href="/map"
+              className="link"
+              style={{ backgroundImage: 'url("/images/map.png")' }}
+            >
+              <span>Map</span>
             </Link>
-            <Link href="/items" className="link">
-              Items
+            <Link
+              href="/pals"
+              className="link"
+              style={{ backgroundImage: 'url("/images/image-pals.png")' }}
+            >
+              <span>Pals</span>
             </Link>
-            <Link href="/breeding-calculator" className="link">
-              Breeding Calculator
+            <Link
+              href="/tier-list"
+              className="link"
+              style={{ backgroundImage: 'url("/images/tier-lists.png")' }}
+            >
+              <span>Tier List</span>
             </Link>
-            <Link href="/structures" className="link">
-              Structures
+            <Link
+              href="/items"
+              className="link"
+              style={{ backgroundImage: 'url("/images/items-img.png")' }}
+            >
+              <span>Items</span>
             </Link>
-            <Link href="/tier-list" className="link">
-              Tier List
+            <Link
+              href="/structures"
+              className="link"
+              style={{ backgroundImage: 'url("/images/image-structures.png")' }}
+            >
+              <span>Structures</span>
             </Link>
           </div>
         </div>
       </section>
+
       <section className="about">
         <h2>About Palworld</h2>
         <div className="text">
@@ -76,13 +102,7 @@ export default function Home() {
               </p>
             </div>
             <div className="gif">
-              <Image
-                src="/images/explore.gif"
-                alt="Explore Palworld"
-                loading="lazy"
-                width={616}
-                height={252}
-              />
+              <img src="/images/explore.gif" alt="Explore Palworld" />
             </div>
           </div>
           <div className="pres">
@@ -102,13 +122,7 @@ export default function Home() {
               </p>
             </div>
             <div className="gif">
-              <Image
-                src="/images/capture.gif"
-                alt="capture pals in Palworld"
-                loading="lazy"
-                width={616}
-                height={252}
-              />
+              <img src="/images/capture.gif" alt="capture pals in Palworld" />
             </div>
           </div>
           <div className="pres">
@@ -123,12 +137,9 @@ export default function Home() {
               </p>
             </div>
             <div className="gif">
-              <Image
+              <img
                 src="/images/multiplayer.gif"
                 alt="play with friend in Palworld"
-                loading="lazy"
-                width={616}
-                height={252}
               />
             </div>
           </div>

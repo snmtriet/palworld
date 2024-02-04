@@ -1,1 +1,223 @@
-[{"data":1,"prerenderedAt":117},["Reactive",2],{"gyMIH1ltkM":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":21,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":12,"Predator":6,"Edible":6,"Stamina":19,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":36,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":36,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":36,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":36,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":38,"PartnerSkillDesc":39,"Combinations":40,"PrefixName":41,"Drops":42,"ActiveSkills":47,"PassiveSkills":115,"Description":116},"Nitewing","None",true,"EPalTribeID::HawkBird","HawkBird",38,"","EPalSizeType::L",3,"EPalElementType::Normal","EPalElementType::None","EPalGenusCategoryType::Bird","EPalOrganizationType::None","EPalWeaponType::None",false,100,95,80,1,6300,"NotInterested",150,600,750,450,"EPalBattleBGMType::Cute",475,7,25,90,50,420,0,2,"Travel Companion","Can be ridden as an flying mount.",[],"Wings of the Firmament",[43],{"max":12,"min":22,"rate":19,"name":44,"descr":45,"icon":46},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",[48,59,70,81,91,100,107],{"WazaType":49,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":32,"IsLeanBack":18,"CameraShake":51,"MinRange":52,"MaxRange":53,"CoolTime":37,"ForceRagdollSize":54,"EffectType1":55,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":55,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":56,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":57,"WazaDesc":58},"EPalWazaID::AirCanon","EPalWazaCategory::Shot","EPalPlayerDamageCameraShakeCategory::Waza_S",500,4000,"EPalSizeType::None","EPalAdditionalEffectType::None",[],"Air Cannon","Quickly fires a burst of highly pressurized air.",{"WazaType":60,"Element":13,"IgnoreRandomInherit":6,"Category":61,"Power":62,"IsLeanBack":18,"CameraShake":63,"MinRange":36,"MaxRange":64,"CoolTime":65,"ForceRagdollSize":66,"EffectType1":55,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":55,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":67,"bIsWeaponDamage":18,"DisabledData":18,"Level":31,"WazaName":68,"WazaDesc":69},"EPalWazaID::Unique_HawkBird_Storm","EPalWazaCategory::Melee",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",2500,13,"EPalSizeType::S",[],"Tornado Attack","\u003CcharacterName id=|HawkBird|/>'s exclusive skill.\r\nGenerates a tornado before soaring towards its target.",{"WazaType":71,"Element":72,"IgnoreRandomInherit":18,"Category":50,"Power":73,"IsLeanBack":18,"CameraShake":51,"MinRange":52,"MaxRange":74,"CoolTime":37,"ForceRagdollSize":54,"EffectType1":75,"EffectValue1":76,"EffectValueEx1":36,"EffectType2":55,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":77,"bIsWeaponDamage":18,"DisabledData":18,"Level":78,"WazaName":79,"WazaDesc":80},"EPalWazaID::WindCutter","EPalElementType::Leaf",30,5000,"EPalAdditionalEffectType::IvyCling",35,[],15,"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":82,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":83,"IsLeanBack":18,"CameraShake":63,"MinRange":84,"MaxRange":85,"CoolTime":78,"ForceRagdollSize":86,"EffectType1":55,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":55,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":87,"bIsWeaponDamage":18,"DisabledData":18,"Level":88,"WazaName":89,"WazaDesc":90},"EPalWazaID::PowerBall",70,1000,9999,"EPalSizeType::XS",[],22,"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":92,"Element":93,"IgnoreRandomInherit":18,"Category":50,"Power":21,"IsLeanBack":18,"CameraShake":63,"MinRange":19,"MaxRange":94,"CoolTime":95,"ForceRagdollSize":54,"EffectType1":96,"EffectValue1":62,"EffectValueEx1":36,"EffectType2":55,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":97,"bIsWeaponDamage":18,"DisabledData":18,"Level":73,"WazaName":98,"WazaDesc":99},"EPalWazaID::SandTornado","EPalElementType::Earth",3000,18,"EPalAdditionalEffectType::Muddy",[],"Sand Tornado","Generates two sand tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":101,"Element":72,"IgnoreRandomInherit":18,"Category":50,"Power":21,"IsLeanBack":18,"CameraShake":63,"MinRange":102,"MaxRange":94,"CoolTime":95,"ForceRagdollSize":54,"EffectType1":75,"EffectValue1":62,"EffectValueEx1":36,"EffectType2":55,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":104,"WazaName":105,"WazaDesc":106},"EPalWazaID::GrassTornado",700,[],40,"Grass Tornado","Generates two tornadoes on either side\r\nbefore launching them at an enemy.",{"WazaType":108,"Element":13,"IgnoreRandomInherit":18,"Category":50,"Power":25,"IsLeanBack":18,"CameraShake":109,"MinRange":52,"MaxRange":110,"CoolTime":111,"ForceRagdollSize":54,"EffectType1":55,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":55,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":112,"bIsWeaponDamage":18,"DisabledData":18,"Level":34,"WazaName":113,"WazaDesc":114},"EPalWazaID::HyperBeam","EPalPlayerDamageCameraShakeCategory::Waza_L",1800,55,[],"Pal Blast","Charges destructive energy before firing\r\na high-powered beam forward across a wide area.",[],"It carries newborn Pals to its nest and raises them\r\nas a surrogate parent.\r\nOnce the baby Pal has fattened up, it hunts them.",1706864120989]
+{
+  "name": "Nitewing",
+  "title": "Wings of the Firmament",
+  "image": "/images/full_palicon/T_HawkBird_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "3",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Normal",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "className": "elm9"
+    }
+  ],
+  "description": "It carries newborn Pals to its nest and raises them\nas a surrogate parent.\nOnce the baby Pal has fattened up, it hunts them.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "80"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "95"
+    },
+    {
+      "name": "Price",
+      "value": "6300"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "600"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "750"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "150"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Travel Companion",
+    "description": "Can be ridden as an flying mount."
+  },
+  "activeSkills": [
+    {
+      "name": "Air Cannon",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "25",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Quickly fires a burst of highly pressurized air."
+    },
+    {
+      "name": "Tornado Attack",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "0 - 2500",
+      "description": "HawkBird's exclusive skill.\nGenerates a tornado before soaring towards its target."
+    },
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Sand Tornado",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "100 - 3000",
+      "description": "Generates two sand tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Grass Tornado",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "80",
+      "coolDown": "18",
+      "range": "700 - 3000",
+      "description": "Generates two tornadoes on either side\nbefore launching them at an enemy."
+    },
+    {
+      "name": "Pal Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges destructive energy before firing\na high-powered beam forward across a wide area."
+    }
+  ],
+  "uniqueName": "nitewing"
+}

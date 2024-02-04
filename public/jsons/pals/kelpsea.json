@@ -1,1 +1,229 @@
-[{"data":1,"prerenderedAt":112},["Reactive",2],{"Xd8wYVpY51":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":19,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":12,"CaptureRateCorrect":12,"ExpRatio":12,"Price":21,"AIResponse":22,"AISightResponse":5,"SlowWalkSpeed":23,"WalkSpeed":20,"RunSpeed":24,"RideSprintSpeed":25,"TransportSpeed":26,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":27,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":20,"FullStomachDecreaseRate":12,"FoodAmount":12,"ViewingDistance":28,"ViewingAngle":29,"HearingRate":12,"NooseTrap":6,"Nocturnal":18,"BiologicalGrade":30,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":23,"CombiRank":21,"WorkSuitability_EmitFlame":30,"WorkSuitability_Watering":12,"WorkSuitability_Seeding":30,"WorkSuitability_GenerateElectricity":30,"WorkSuitability_Handcraft":30,"WorkSuitability_Collection":30,"WorkSuitability_Deforest":30,"WorkSuitability_Mining":30,"WorkSuitability_OilExtraction":30,"WorkSuitability_ProductMedicine":30,"WorkSuitability_Cool":30,"WorkSuitability_Transport":30,"WorkSuitability_MonsterFarm":30,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":31,"PartnerSkillDesc":32,"Combinations":33,"PrefixName":34,"Drops":35,"ActiveSkills":44,"PassiveSkills":110,"Description":111},"Kelpsea","None",true,"EPalTribeID::Kelpie","Kelpie",81,"","EPalSizeType::XS",1,"EPalElementType::Water","EPalElementType::None","EPalGenusCategoryType::Dragon","EPalOrganizationType::None","EPalWeaponType::None",false,70,100,1260,"NotInterested",50,700,900,400,"EPalBattleBGMType::Cute",25,90,0,"Aqua Spout","While in team, increases attack power of \u003CuiCommon id=|COMMON_ELEMENT_NAME_Water|/> Pals.",[],"Child of the Deep",[36,40],{"max":12,"min":12,"rate":20,"name":37,"descr":38,"icon":39},"Raw Kelpsea","\u003CcharacterName id=|Kelpie|/> meat.\r\nTender and slightly sweet.\r\nFish meat tends to spoil quickly.","T_itemicon_Food_Meat_Kelpie",{"max":12,"min":12,"rate":20,"name":41,"descr":42,"icon":43},"Pal Fluids","Body fluids taken from a Pal.\r\nUseful for its high viscosity.","T_itemicon_Material_PalFluid",[45,60,69,77,88,95,102],{"WazaType":46,"Element":13,"IgnoreRandomInherit":18,"Category":47,"Power":48,"IsLeanBack":18,"CameraShake":49,"MinRange":50,"MaxRange":51,"CoolTime":52,"ForceRagdollSize":53,"EffectType1":54,"EffectValue1":55,"EffectValueEx1":30,"EffectType2":56,"EffectValue2":30,"EffectValueEx2":30,"SpecialAttackRateInfos":57,"bIsWeaponDamage":18,"DisabledData":18,"Level":12,"WazaName":58,"WazaDesc":59},"EPalWazaID::AquaJet","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,2,"EPalSizeType::None","EPalAdditionalEffectType::Wetness",35,"EPalAdditionalEffectType::None",[],"Hydro Jet","Hurls a high speed ball of water\r\nat an enemy.",{"WazaType":61,"Element":62,"IgnoreRandomInherit":18,"Category":47,"Power":48,"IsLeanBack":18,"CameraShake":49,"MinRange":50,"MaxRange":63,"CoolTime":52,"ForceRagdollSize":53,"EffectType1":64,"EffectValue1":55,"EffectValueEx1":30,"EffectType2":56,"EffectValue2":30,"EffectValueEx2":30,"SpecialAttackRateInfos":65,"bIsWeaponDamage":18,"DisabledData":18,"Level":66,"WazaName":67,"WazaDesc":68},"EPalWazaID::DragonCanon","EPalElementType::Dragon",4000,"EPalAdditionalEffectType::Burn",[],7,"Dragon Cannon","Hurls an energy ball imbued\r\nwith draconic energy at an enemy.",{"WazaType":70,"Element":13,"IgnoreRandomInherit":18,"Category":47,"Power":71,"IsLeanBack":18,"CameraShake":49,"MinRange":50,"MaxRange":51,"CoolTime":72,"ForceRagdollSize":53,"EffectType1":54,"EffectValue1":23,"EffectValueEx1":30,"EffectType2":56,"EffectValue2":30,"EffectValueEx2":30,"SpecialAttackRateInfos":73,"bIsWeaponDamage":18,"DisabledData":18,"Level":74,"WazaName":75,"WazaDesc":76},"EPalWazaID::WaterGun",40,4,[],15,"Aqua Gun","Hurls a ball of water\r\nstraight at an enemy.",{"WazaType":78,"Element":13,"IgnoreRandomInherit":18,"Category":47,"Power":79,"IsLeanBack":18,"CameraShake":80,"MinRange":81,"MaxRange":82,"CoolTime":83,"ForceRagdollSize":53,"EffectType1":54,"EffectValue1":20,"EffectValueEx1":30,"EffectType2":56,"EffectValue2":30,"EffectValueEx2":30,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":85,"WazaName":86,"WazaDesc":87},"EPalWazaID::BubbleShot",65,"EPalPlayerDamageCameraShakeCategory::Waza_M",1000,3500,13,[],22,"Bubble Blast","Fires numerous bubbles\r\nthat slowly pursue an enemy.",{"WazaType":89,"Element":90,"IgnoreRandomInherit":18,"Category":47,"Power":19,"IsLeanBack":18,"CameraShake":80,"MinRange":81,"MaxRange":91,"CoolTime":74,"ForceRagdollSize":11,"EffectType1":56,"EffectValue1":30,"EffectValueEx1":30,"EffectType2":56,"EffectValue2":30,"EffectValueEx2":30,"SpecialAttackRateInfos":92,"bIsWeaponDamage":18,"DisabledData":18,"Level":48,"WazaName":93,"WazaDesc":94},"EPalWazaID::PowerBall","EPalElementType::Normal",9999,[],"Power Bomb","Charges a massive amount of energy\r\nbefore firing a large destructive ball.",{"WazaType":96,"Element":13,"IgnoreRandomInherit":18,"Category":47,"Power":20,"IsLeanBack":18,"CameraShake":97,"MinRange":81,"MaxRange":91,"CoolTime":48,"ForceRagdollSize":98,"EffectType1":54,"EffectValue1":20,"EffectValueEx1":30,"EffectType2":56,"EffectValue2":30,"EffectValueEx2":30,"SpecialAttackRateInfos":99,"bIsWeaponDamage":18,"DisabledData":18,"Level":71,"WazaName":100,"WazaDesc":101},"EPalWazaID::WaterBall","EPalPlayerDamageCameraShakeCategory::Waza_L","EPalSizeType::S",[],"Aqua Burst","Creates a giant ball of water\r\nand hurls it at an enemy.",{"WazaType":103,"Element":13,"IgnoreRandomInherit":18,"Category":47,"Power":104,"IsLeanBack":18,"CameraShake":97,"MinRange":50,"MaxRange":105,"CoolTime":106,"ForceRagdollSize":53,"EffectType1":54,"EffectValue1":20,"EffectValueEx1":30,"EffectType2":56,"EffectValue2":30,"EffectValueEx2":30,"SpecialAttackRateInfos":107,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":108,"WazaDesc":109},"EPalWazaID::HydroPump",150,1800,55,[],"Hydro Laser","Shoots pressurized water at extreme velocities,\r\nsweeping over a wide area in front of it.",[],"Its personality changes depending on the quality of the water it was born into.\r\n\u003CcharacterName id=|Kelpie|/> born into polluted waters are generally ill-tempered\r\nand quickly become delinquents.",1706864122273]
+{
+  "name": "Kelpsea",
+  "title": "Child of the Deep",
+  "image": "/images/full_palicon/T_Kelpie_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "1",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Water",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "className": "elm7"
+    }
+  ],
+  "description": "Its personality changes depending on the quality of the water it was born into.\nKelpie born into polluted waters are generally ill-tempered\nand quickly become delinquents.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Meat_Kelpie.png",
+      "name": "Raw Kelpsea",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_PalFluid.png",
+      "name": "Pal Fluids",
+      "amount": "1 - 1",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "70"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "70"
+    },
+    {
+      "name": "Price",
+      "value": "1260"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "700"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "900"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "50"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Aqua Spout",
+    "description": "While in team, increases attack power of COMMON_ELEMENT_NAME_Water Pals."
+  },
+  "activeSkills": [
+    {
+      "name": "Hydro Jet",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a high speed ball of water\nat an enemy."
+    },
+    {
+      "name": "Dragon Cannon",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_06.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 4000",
+      "description": "Hurls an energy ball imbued\nwith draconic energy at an enemy."
+    },
+    {
+      "name": "Aqua Gun",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of water\nstraight at an enemy."
+    },
+    {
+      "name": "Bubble Blast",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "65",
+      "coolDown": "13",
+      "range": "1000 - 3500",
+      "description": "Fires numerous bubbles\nthat slowly pursue an enemy."
+    },
+    {
+      "name": "Power Bomb",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_00.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "1000 - 9999",
+      "description": "Charges a massive amount of energy\nbefore firing a large destructive ball."
+    },
+    {
+      "name": "Aqua Burst",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of water\nand hurls it at an enemy."
+    },
+    {
+      "name": "Hydro Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_02.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Shoots pressurized water at extreme velocities,\nsweeping over a wide area in front of it."
+    }
+  ],
+  "uniqueName": "kelpsea"
+}

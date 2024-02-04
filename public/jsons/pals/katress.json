@@ -1,1 +1,250 @@
-[{"data":1,"prerenderedAt":132},["Reactive",2],{"qDarWZRDYV":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":26,"RunSpeed":27,"RideSprintSpeed":28,"TransportSpeed":29,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":30,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":31,"FullStomachDecreaseRate":22,"FoodAmount":32,"ViewingDistance":33,"ViewingAngle":19,"HearingRate":22,"NooseTrap":18,"Nocturnal":6,"BiologicalGrade":34,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":37,"WorkSuitability_Handcraft":38,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":38,"WorkSuitability_Cool":37,"WorkSuitability_Transport":38,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":50,"Drops":51,"ActiveSkills":64,"PassiveSkills":130,"Description":131},"Katress","None",true,"EPalTribeID::CatMage","CatMage",75,"","EPalSizeType::M",6,"EPalElementType::Dark","EPalElementType::None","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,90,100,105,1,4120,"Warlike",70,145,440,620,292,"EPalBattleBGMType::Cute",350,5,25,3,50,700,0,2,"Grimoire Collector","While fighting together, \u003CuiCommon id=|COMMON_ELEMENT_NAME_Normal|/> Pals drop more items when defeated.",[42],{"ParentTribeA":43,"ParentTribeB":46,"ChildCharacterID":47},{"name":44,"BPClass":45},"Pyrin","FireKirin",{"name":4,"BPClass":8},{"name":48,"BPClass":49},"Pyrin Noct","FireKirin_Dark","Phantasmal Feline",[52,56,60],{"max":38,"min":22,"rate":20,"name":53,"descr":54,"icon":55},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":22,"min":22,"rate":35,"name":57,"descr":58,"icon":59},"Katress Hair","Hair dropped from a \u003CcharacterName id=|CatMage|/>.\r\nUsed to make clothing.","T_itemicon_Material_PalItem_CatMage",{"max":22,"min":22,"rate":22,"name":61,"descr":62,"icon":63},"High Grade Technical Manual","A book that contains secrets of amazing technology.\r\nUse it to obtain a few Technology Points.","T_itemicon_Consume_TechnologyBook_G1",[65,79,90,100,107,114,123],{"WazaType":66,"Element":67,"IgnoreRandomInherit":18,"Category":68,"Power":69,"IsLeanBack":18,"CameraShake":70,"MinRange":71,"MaxRange":72,"CoolTime":38,"ForceRagdollSize":73,"EffectType1":74,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":75,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":76,"bIsWeaponDamage":18,"DisabledData":18,"Level":22,"WazaName":77,"WazaDesc":78},"EPalWazaID::FireBlast","EPalElementType::Fire","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Burn","EPalAdditionalEffectType::None",[],"Ignis Blast","Hurls a ball of fire\r\nstraight at an enemy.",{"WazaType":80,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":81,"IsLeanBack":18,"CameraShake":70,"MinRange":71,"MaxRange":82,"CoolTime":83,"ForceRagdollSize":73,"EffectType1":84,"EffectValue1":85,"EffectValueEx1":37,"EffectType2":75,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":86,"bIsWeaponDamage":18,"DisabledData":18,"Level":87,"WazaName":88,"WazaDesc":89},"EPalWazaID::DarkBall",40,1000,4,"EPalAdditionalEffectType::Darkness",35,[],7,"Dark Ball","Unleashes a sphere of darkness \r\nthat slowly tracks down the enemy.",{"WazaType":91,"Element":67,"IgnoreRandomInherit":18,"Category":68,"Power":92,"IsLeanBack":18,"CameraShake":93,"MinRange":71,"MaxRange":72,"CoolTime":94,"ForceRagdollSize":73,"EffectType1":74,"EffectValue1":95,"EffectValueEx1":37,"EffectType2":75,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":96,"bIsWeaponDamage":18,"DisabledData":18,"Level":97,"WazaName":98,"WazaDesc":99},"EPalWazaID::FlareArrow",55,"EPalPlayerDamageCameraShakeCategory::Waza_M",10,103,[],15,"Flare Arrow","Fires three flaming arrows in succession\r\nthat home in on an enemy.",{"WazaType":101,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":92,"IsLeanBack":18,"CameraShake":93,"MinRange":37,"MaxRange":102,"CoolTime":94,"ForceRagdollSize":73,"EffectType1":84,"EffectValue1":35,"EffectValueEx1":37,"EffectType2":75,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":103,"bIsWeaponDamage":18,"DisabledData":18,"Level":104,"WazaName":105,"WazaDesc":106},"EPalWazaID::DarkWave",300,[],22,"Shadow Burst","Quickly discharges dark energy,\r\ndamaging those around it.",{"WazaType":108,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":9,"IsLeanBack":18,"CameraShake":93,"MinRange":71,"MaxRange":72,"CoolTime":109,"ForceRagdollSize":73,"EffectType1":74,"EffectValue1":110,"EffectValueEx1":37,"EffectType2":75,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":111,"bIsWeaponDamage":18,"DisabledData":18,"Level":69,"WazaName":112,"WazaDesc":113},"EPalWazaID::GhostFlame",16,102,[],"Spirit Flame","Fires three balls of malice\r\nthat relentlessly pursue an enemy.",{"WazaType":115,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":20,"IsLeanBack":18,"CameraShake":116,"MinRange":82,"MaxRange":117,"CoolTime":69,"ForceRagdollSize":118,"EffectType1":84,"EffectValue1":119,"EffectValueEx1":37,"EffectType2":75,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":120,"bIsWeaponDamage":18,"DisabledData":18,"Level":81,"WazaName":121,"WazaDesc":122},"EPalWazaID::ShadowBall","EPalPlayerDamageCameraShakeCategory::Waza_L",9999,"EPalSizeType::S",65,[],"Nightmare Ball","Creates a giant ball of darkness\r\nand hurls it at an enemy.",{"WazaType":124,"Element":13,"IgnoreRandomInherit":18,"Category":68,"Power":125,"IsLeanBack":18,"CameraShake":116,"MinRange":71,"MaxRange":126,"CoolTime":92,"ForceRagdollSize":73,"EffectType1":84,"EffectValue1":20,"EffectValueEx1":37,"EffectType2":75,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":127,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":128,"WazaDesc":129},"EPalWazaID::DarkLaser",150,1800,[],"Dark Laser","Charges dark energy before\r\nblasting enemies with a powerful beam.",[],"With the power of shadows, it produces arcane phenomena.\r\nIt prefers to eat food raw and is particularly hostile towards \u003CcharacterName id=|FoxMage|/>.",1706864114364]
+{
+  "name": "Katress",
+  "title": "Phantasmal Feline",
+  "image": "/images/full_palicon/T_CatMage_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "6",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Dark",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "className": "elm2"
+    }
+  ],
+  "description": "With the power of shadows, it produces arcane phenomena.\nIt prefers to eat food raw and is particularly hostile towards FoxMage.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "1 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_PalItem_CatMage.png",
+      "name": "Katress Hair",
+      "amount": "1 - 1",
+      "rate": "50%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Consume_TechnologyBook_G1.png",
+      "name": "High Grade Technical Manual",
+      "amount": "1 - 1",
+      "rate": "1%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "90"
+    },
+    {
+      "name": "Defense",
+      "value": "90"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "4120"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "440"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "620"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "70"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Pyrin",
+        "image": "/images/palicon/T_FireKirin_icon_normal.png"
+      },
+      "female": {
+        "name": "Katress",
+        "image": "/images/palicon/T_CatMage_icon_normal.png"
+      },
+      "result": {
+        "name": "Pyrin Noct",
+        "image": "/images/palicon/T_FireKirin_Dark_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Grimoire Collector",
+    "description": "While fighting together, COMMON_ELEMENT_NAME_Normal Pals drop more items when defeated."
+  },
+  "activeSkills": [
+    {
+      "name": "Ignis Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Hurls a ball of fire\nstraight at an enemy."
+    },
+    {
+      "name": "Dark Ball",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "500 - 1000",
+      "description": "Unleashes a sphere of darkness \nthat slowly tracks down the enemy."
+    },
+    {
+      "name": "Flare Arrow",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_01.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 5000",
+      "description": "Fires three flaming arrows in succession\nthat home in on an enemy."
+    },
+    {
+      "name": "Shadow Burst",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "0 - 300",
+      "description": "Quickly discharges dark energy,\ndamaging those around it."
+    },
+    {
+      "name": "Spirit Flame",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 5000",
+      "description": "Fires three balls of malice\nthat relentlessly pursue an enemy."
+    },
+    {
+      "name": "Nightmare Ball",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "100",
+      "coolDown": "30",
+      "range": "1000 - 9999",
+      "description": "Creates a giant ball of darkness\nand hurls it at an enemy."
+    },
+    {
+      "name": "Dark Laser",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_05.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges dark energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "katress"
+}

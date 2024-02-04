@@ -1,1 +1,235 @@
-[{"data":1,"prerenderedAt":119},["Reactive",2],{"53zhSMn0hl":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":21,"Defense":21,"Support":22,"CraftSpeed":22,"EnemyReceiveDamageRate":23,"CaptureRateCorrect":24,"ExpRatio":23,"Price":25,"AIResponse":26,"AISightResponse":5,"SlowWalkSpeed":19,"WalkSpeed":27,"RunSpeed":28,"RideSprintSpeed":29,"TransportSpeed":30,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":31,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":32,"FullStomachDecreaseRate":23,"FoodAmount":12,"ViewingDistance":33,"ViewingAngle":34,"HearingRate":23,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":12,"Predator":18,"Edible":6,"Stamina":22,"MaleProbability":35,"CombiRank":36,"WorkSuitability_EmitFlame":37,"WorkSuitability_Watering":37,"WorkSuitability_Seeding":37,"WorkSuitability_GenerateElectricity":38,"WorkSuitability_Handcraft":37,"WorkSuitability_Collection":37,"WorkSuitability_Deforest":23,"WorkSuitability_Mining":37,"WorkSuitability_OilExtraction":37,"WorkSuitability_ProductMedicine":37,"WorkSuitability_Cool":37,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":37,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":39,"Drops":42,"ActiveSkills":55,"PassiveSkills":117,"Description":118},"Univolt","None",true,"EPalTribeID::Kirin","Kirin",56,"","EPalSizeType::M",5,"EPalElementType::Electricity","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,80,110,105,100,1,0.9,4280,"NotInterested",130,720,1100,425,"EPalBattleBGMType::Cool",350,25,90,50,680,0,2,"Swift Deity","Can be ridden.\r\nApplies \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> damage\r\nto the player's attacks while mounted.",[],[43,47,51],{"max":38,"min":38,"rate":22,"name":44,"descr":45,"icon":46},"Leather","\u003CitemName id=|Leather|/> taken from a Pal, it serves as a defensive material.\r\nIt can be obtained from certain Pals.","T_itemicon_Material_Leather",{"max":23,"min":23,"rate":22,"name":48,"descr":49,"icon":50},"Electric Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Electricity|/> Pals.\r\nIt stores electricity, but requires caution when used.","T_itemicon_Material_ElectricOrgan",{"max":23,"min":23,"rate":35,"name":52,"descr":53,"icon":54},"Horn","\u003CitemName id=|Horn|/> collected from Pals.\r\nUsed to create medicines and more.","T_itemicon_Material_Horn",[56,69,79,87,96,102,109],{"WazaType":57,"Element":13,"IgnoreRandomInherit":18,"Category":58,"Power":59,"IsLeanBack":18,"CameraShake":60,"MinRange":61,"MaxRange":62,"CoolTime":38,"ForceRagdollSize":63,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":65,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":66,"bIsWeaponDamage":18,"DisabledData":18,"Level":23,"WazaName":67,"WazaDesc":68},"EPalWazaID::SpreadPulse","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",500,5000,"EPalSizeType::None","EPalAdditionalEffectType::Electrical","EPalAdditionalEffectType::None",[],"Spark Blast","The user releases a lightning ball\r\nthat expands outward in a forward, circular pattern.",{"WazaType":70,"Element":13,"IgnoreRandomInherit":18,"Category":58,"Power":71,"IsLeanBack":18,"CameraShake":60,"MinRange":37,"MaxRange":72,"CoolTime":73,"ForceRagdollSize":63,"EffectType1":64,"EffectValue1":74,"EffectValueEx1":37,"EffectType2":65,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":75,"bIsWeaponDamage":18,"DisabledData":18,"Level":76,"WazaName":77,"WazaDesc":78},"EPalWazaID::ElecWave",40,300,4,103,[],7,"Shockwave","Quickly discharges electricity,\r\nshocking those around it.",{"WazaType":80,"Element":13,"IgnoreRandomInherit":18,"Category":58,"Power":81,"IsLeanBack":18,"CameraShake":82,"MinRange":37,"MaxRange":62,"CoolTime":83,"ForceRagdollSize":63,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":65,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":84,"bIsWeaponDamage":18,"DisabledData":18,"Level":83,"WazaName":85,"WazaDesc":86},"EPalWazaID::LockonLaser",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",15,[],"Lock-on Laser","Takes aim at an enemy before\r\nfiring a super high speed laser.",{"WazaType":88,"Element":13,"IgnoreRandomInherit":18,"Category":58,"Power":89,"IsLeanBack":18,"CameraShake":82,"MinRange":61,"MaxRange":90,"CoolTime":91,"ForceRagdollSize":63,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":65,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":92,"bIsWeaponDamage":18,"DisabledData":18,"Level":93,"WazaName":94,"WazaDesc":95},"EPalWazaID::LineThunder",75,2000,16,[],22,"Lightning Streak","Generates a lightning bolt\r\nthat moves forward in a line.",{"WazaType":97,"Element":13,"IgnoreRandomInherit":18,"Category":58,"Power":34,"IsLeanBack":18,"CameraShake":82,"MinRange":37,"MaxRange":98,"CoolTime":93,"ForceRagdollSize":63,"EffectType1":64,"EffectValue1":74,"EffectValueEx1":37,"EffectType2":65,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":99,"bIsWeaponDamage":18,"DisabledData":18,"Level":59,"WazaName":100,"WazaDesc":101},"EPalWazaID::ThreeThunder",9999,[],"Tri-Lightning","Generates lightning that strikes\r\nan enemy three times from above.",{"WazaType":103,"Element":13,"IgnoreRandomInherit":18,"Category":58,"Power":104,"IsLeanBack":18,"CameraShake":105,"MinRange":37,"MaxRange":61,"CoolTime":71,"ForceRagdollSize":63,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":65,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":106,"bIsWeaponDamage":18,"DisabledData":18,"Level":71,"WazaName":107,"WazaDesc":108},"EPalWazaID::LightningStrike",120,"EPalPlayerDamageCameraShakeCategory::Waza_L",[],"Lightning Strike","Acts as a lightning rod, calling down thunderbolts\r\nthat electrocute the surrounding area.",{"WazaType":110,"Element":13,"IgnoreRandomInherit":18,"Category":58,"Power":111,"IsLeanBack":18,"CameraShake":105,"MinRange":61,"MaxRange":112,"CoolTime":113,"ForceRagdollSize":63,"EffectType1":64,"EffectValue1":22,"EffectValueEx1":37,"EffectType2":65,"EffectValue2":37,"EffectValueEx2":37,"SpecialAttackRateInfos":114,"bIsWeaponDamage":18,"DisabledData":18,"Level":35,"WazaName":115,"WazaDesc":116},"EPalWazaID::Thunderbolt",150,3000,55,[],"Lightning Bolt","Charges electric energy before\r\nblasting enemies with a powerful shock.",[],"It used to be considered an emissary of the Thunder God, and thus was not hunted by people.\r\nHowever, after witnesses observed one die from a lightning strike,\r\nits reverence faded, and it quite literally fell into the role of a workhorse.",1706864122570]
+{
+  "name": "Univolt",
+  "title": "Swift Deity",
+  "image": "/images/full_palicon/T_Kirin_icon_normal.png",
+  "rarity": {
+    "name": "Rare",
+    "level": "5",
+    "class": "rare"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "It used to be considered an emissary of the Thunder God, and thus was not hunted by people.\nHowever, after witnesses observed one die from a lightning strike,\nits reverence faded, and it quite literally fell into the role of a workhorse.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_Leather.png",
+      "name": "Leather",
+      "amount": "2 - 2",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_ElectricOrgan.png",
+      "name": "Electric Organ",
+      "amount": "1 - 1",
+      "rate": "100%"
+    },
+    {
+      "image": "/images/items/T_itemicon_Material_Horn.png",
+      "name": "Horn",
+      "amount": "1 - 1",
+      "rate": "50%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "80"
+    },
+    {
+      "name": "Defense",
+      "value": "105"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "110"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "105"
+    },
+    {
+      "name": "Price",
+      "value": "4280"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "720"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1100"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "80"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Swift Deity",
+    "description": "Can be ridden.\nApplies COMMON_ELEMENT_NAME_Electricity damage\nto the player's attacks while mounted."
+  },
+  "activeSkills": [
+    {
+      "name": "Spark Blast",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "The user releases a lightning ball\nthat expands outward in a forward, circular pattern."
+    },
+    {
+      "name": "Shockwave",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "40",
+      "coolDown": "4",
+      "range": "0 - 300",
+      "description": "Quickly discharges electricity,\nshocking those around it."
+    },
+    {
+      "name": "Lock-on Laser",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "0 - 5000",
+      "description": "Takes aim at an enemy before\nfiring a super high speed laser."
+    },
+    {
+      "name": "Lightning Streak",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "75",
+      "coolDown": "16",
+      "range": "500 - 2000",
+      "description": "Generates a lightning bolt\nthat moves forward in a line."
+    },
+    {
+      "name": "Tri-Lightning",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "90",
+      "coolDown": "22",
+      "range": "0 - 9999",
+      "description": "Generates lightning that strikes\nan enemy three times from above."
+    },
+    {
+      "name": "Lightning Strike",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "120",
+      "coolDown": "40",
+      "range": "0 - 500",
+      "description": "Acts as a lightning rod, calling down thunderbolts\nthat electrocute the surrounding area."
+    },
+    {
+      "name": "Lightning Bolt",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 3000",
+      "description": "Charges electric energy before\nblasting enemies with a powerful shock."
+    }
+  ],
+  "uniqueName": "univolt"
+}

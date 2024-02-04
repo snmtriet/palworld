@@ -1,1 +1,174 @@
-[{"data":1,"prerenderedAt":53},["Reactive",2],{"CdNjS6yIlW":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":19,"ShotAttack":20,"Defense":21,"Support":19,"CraftSpeed":19,"EnemyReceiveDamageRate":22,"CaptureRateCorrect":22,"ExpRatio":22,"Price":23,"AIResponse":24,"AISightResponse":5,"SlowWalkSpeed":25,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":28,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":29,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":30,"FullStomachDecreaseRate":22,"FoodAmount":31,"ViewingDistance":32,"ViewingAngle":33,"HearingRate":22,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":12,"Predator":18,"Edible":6,"Stamina":19,"MaleProbability":34,"CombiRank":12,"WorkSuitability_EmitFlame":35,"WorkSuitability_Watering":12,"WorkSuitability_Seeding":12,"WorkSuitability_GenerateElectricity":12,"WorkSuitability_Handcraft":12,"WorkSuitability_Collection":12,"WorkSuitability_Deforest":12,"WorkSuitability_Mining":12,"WorkSuitability_OilExtraction":12,"WorkSuitability_ProductMedicine":12,"WorkSuitability_Cool":12,"WorkSuitability_Transport":12,"WorkSuitability_MonsterFarm":12,"PassiveSkill1":5,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":36,"PartnerSkillDesc":37,"Combinations":38,"PrefixName":43,"Drops":44,"ActiveSkills":50,"PassiveSkills":51,"Description":52},"Boltmane","None",true,"EPalTribeID::ElecLion","ElecLion",-1,"","EPalSizeType::M",0,"EPalElementType::Electricity","EPalElementType::None","EPalGenusCategoryType::FourLegged","EPalOrganizationType::None","EPalWeaponType::None",false,100,110,70,1,4200,"Warlike",85,800,1000,442,"EPalBattleBGMType::Cool",350,5,25,90,50,2,"Ride","This Pal is under investigation.",[39],{"ParentTribeA":40,"ParentTribeB":41,"ChildCharacterID":42},{"name":4,"BPClass":8},{"name":4,"BPClass":8},{"name":4,"BPClass":8},"en_Text",[45],{"max":46,"min":35,"rate":19,"name":47,"descr":48,"icon":49},3,"Flame Organ","Material obtainable from \u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> Pals.\r\nCan be used to make \u003CitemName id=|Arrow_Fire|/> and more.","T_itemicon_Material_FireOrgan",[],[],"The more it moves, the more it heats up and the hair tips increasingly glow brighter.\r\nAt its peak, it becomes so dazzling that you risk blindness if you stare at it directly.",1706864116857]
+{
+  "name": "Boltmane",
+  "title": "en_Text",
+  "image": "/images/full_palicon/T_ElecLion_icon_normal.png",
+  "rarity": {
+    "name": "Common",
+    "level": "0",
+    "class": "common"
+  },
+  "elements": [
+    {
+      "name": "Electricity",
+      "image": "/images/icons/T_Icon_element_s_03.png",
+      "className": "elm6"
+    }
+  ],
+  "description": "The more it moves, the more it heats up and the hair tips increasingly glow brighter.\nAt its peak, it becomes so dazzling that you risk blindness if you stare at it directly.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Material_FireOrgan.png",
+      "name": "Flame Organ",
+      "amount": "2 - 3",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "100"
+    },
+    {
+      "name": "Defense",
+      "value": "70"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "110"
+    },
+    {
+      "name": "Price",
+      "value": "4200"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "800"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "1000"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "85"
+    }
+  ],
+  "uniqueCombinations": [
+    {
+      "male": {
+        "name": "Boltmane",
+        "image": "/images/palicon/T_ElecLion_icon_normal.png"
+      },
+      "female": {
+        "name": "Boltmane",
+        "image": "/images/palicon/T_ElecLion_icon_normal.png"
+      },
+      "result": {
+        "name": "Boltmane",
+        "image": "/images/palicon/T_ElecLion_icon_normal.png"
+      }
+    }
+  ],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": true,
+      "level": "2",
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Ride",
+    "description": "This Pal is under investigation."
+  },
+  "activeSkills": [],
+  "uniqueName": "boltmane"
+}

@@ -1,0 +1,2653 @@
+[
+  {
+    "name": "Paldium Clump",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Pal_crystal_L.png",
+    "description": "Crystals of PAL crystal",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Paldium Fragment",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png",
+    "description": "Crystallized energy from the World Tree.\r\nCapable of creating supernatural items and structures.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "20"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Bread",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Pan.png",
+    "description": "Pan made from baked Flour.\r\nA tasty staple food.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "200"
+      },
+      {
+        "name": "Weight",
+        "value": "0.3"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "4"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "27"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Flour",
+        "image": "/images/items/T_itemicon_Material_Flour.png"
+      }
+    ]
+  },
+  {
+    "name": "Pancake",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Pancake.png",
+    "description": "A dish baked by mixing Flour and Milk. It progressively decreases the rate at which one's sanity decreases when eaten.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "300"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "42"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Flour",
+        "image": "/images/items/T_itemicon_Material_Flour.png"
+      },
+      {
+        "name": "1 Milk",
+        "image": "/images/items/T_itemicon_Food_Milk.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Pickaxe",
+    "type": "Weapon",
+    "image": "/images/items/null.png",
+    "description": "A pickaxe used for mining.\r\nMade from stone, the efficiency is questionable.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "200"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "20"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Pickaxe",
+    "type": "Weapon",
+    "image": "/images/items/null.png",
+    "description": "A pickaxe used for mining.\r\nMade from metal, the durability and efficiency have improved.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "2800"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "250"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "30"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Refined Metal Pickaxe",
+    "type": "Weapon",
+    "image": "/images/items/null.png",
+    "description": "A pickaxe used for mining.\r\nIts durability and sharpness have increased even more.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "60"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "40 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Pizza",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Pizza.png",
+    "description": "A dish made by piling Berries, Tomato and cheese on Pan. Eating it improves COMMON_STATUS_DEFENCE by +15% temporarily.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "2900"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "23"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "184"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Flour",
+        "image": "/images/items/T_itemicon_Material_Flour.png"
+      },
+      {
+        "name": "2 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      },
+      {
+        "name": "2 Tomato",
+        "image": "/images/items/T_itemicon_Food_Tomato.png"
+      },
+      {
+        "name": "2 Milk",
+        "image": "/images/items/T_itemicon_Food_Milk.png"
+      }
+    ]
+  },
+  {
+    "name": "Plastic",
+    "type": "Material",
+    "image": "/images/items/Tex_TradingIcons_102.png",
+    "description": "Plastic",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "200"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Polymer",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Polymer.png",
+    "description": "Made from refined oil.\r\nRequired for producing various advanced items such as rifles.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1200"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      }
+    ]
+  },
+  {
+    "name": "Beautiful Flower",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Poppy.png",
+    "description": "A plant that blooms colorful flowers.\r\nCan be used to make Opium and Narcotic.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "240"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Potage",
+    "type": "Food",
+    "image": "/images/items/null.png",
+    "description": "Potage",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "50"
+      },
+      {
+        "name": "Weight",
+        "value": "0.3"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "90"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "PotatoSeedPotatoes",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Consume_Seed_Tmp.png",
+    "description": "PotatoSeedPotatoes",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "0.05"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pump-action Shotgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_PumpActionShotgun.png",
+    "description": "A high capacity, powerful shotgun.\r\nIt has outstanding close range DPS.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "153600"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      },
+      {
+        "name": "Magazine",
+        "value": "8"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "220"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "40 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Pump-action Shotgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_PumpActionShotgun.png",
+    "description": "A high capacity, powerful shotgun.\r\nIt has outstanding close range DPS.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "153600"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "250"
+      },
+      {
+        "name": "Magazine",
+        "value": "9"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "275"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "40 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "80 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pump-action Shotgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_PumpActionShotgun.png",
+    "description": "A high capacity, powerful shotgun.\r\nIt has outstanding close range DPS.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "153600"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "Magazine",
+        "value": "10"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "308"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "90 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "60 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "120 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "10 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pump-action Shotgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_PumpActionShotgun.png",
+    "description": "A high capacity, powerful shotgun.\r\nIt has outstanding close range DPS.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "153600"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "350"
+      },
+      {
+        "name": "Magazine",
+        "value": "11"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "352"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "135 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "90 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "180 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "20 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pump-action Shotgun",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_PumpActionShotgun.png",
+    "description": "A high capacity, powerful shotgun.\r\nIt has outstanding close range DPS.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "153600"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "400"
+      },
+      {
+        "name": "Magazine",
+        "value": "12"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "385"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "202 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "135 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "270 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "30 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pure Quartz",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Quartz.png",
+    "description": "Quartz often found in snowy fields and similar places.\r\nRequired to create MachineParts2.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Lifmunk Effigy",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Relic.png",
+    "description": "A mysterious Pal statue that can be found all around Palpagos Island.\r\nPlayers can enhance their abilities by making offerings to certain statues.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "9"
+      },
+      {
+        "name": "Price",
+        "value": "0"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Repair Kit",
+    "type": "Consumable",
+    "image": "/images/items/Tex_tools_10.png",
+    "description": "Tools for repairing structures.\r\nUse it on destroyed structures to repair them.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "200"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "FloatValue1",
+        "value": "20"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Rifle Ammo",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_RifleBullet.png",
+    "description": "Bullets used in rifles and similar firearms.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "220"
+      },
+      {
+        "name": "Weight",
+        "value": "0.025"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "2 Gunpowder",
+        "image": "/images/items/T_itemicon_Material_Gunpowder2.png"
+      }
+    ]
+  },
+  {
+    "name": "Coarse Ammo",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_RoughBullet.png",
+    "description": "Ammo for Musket, MakeshiftHandgun, and other similar weapons.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "120"
+      },
+      {
+        "name": "Weight",
+        "value": "0.025"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Gunpowder",
+        "image": "/images/items/T_itemicon_Material_Gunpowder2.png"
+      }
+    ]
+  },
+  {
+    "name": "Ruby",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Ruby.png",
+    "description": "A gemstone that glows red.\r\nCan be sold to a merchant for a high price.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Salad",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Salad.png",
+    "description": "A Salad made by mixing Lettuce and Tomato. When consumed, it temporarily grants COMMON_STATUS_RANGE_ATTACK +15%, COMMON_STATUS_DEFENCE -5%.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1200"
+      },
+      {
+        "name": "Weight",
+        "value": "0.3"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "11"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "84"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Lettuce",
+        "image": "/images/items/T_itemicon_Food_Lettuce.png"
+      },
+      {
+        "name": "2 Tomato",
+        "image": "/images/items/T_itemicon_Food_Tomato.png"
+      }
+    ]
+  },
+  {
+    "name": "Sandwich",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Sandwich.png",
+    "description": "Sandwich",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "100"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Sapphire",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Sapphire.png",
+    "description": "A gemstone that glows blue.\r\nCan be sold to a merchant for a high price.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "7500"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Seafood Soup",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_SeafoodSoup.png",
+    "description": "Seafood Soup",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "100"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Common Shield",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Shield_01.png",
+    "description": "A curious shield that was made using Paldium technology.\r\nIt repairs itself automatically when not taking damage after some time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "1000"
+      },
+      {
+        "name": "Shield",
+        "value": "100"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 ",
+        "image": "/images/items/null.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Mega Shield",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Shield_02.png",
+    "description": "A curious shield that was made using Paldium technology.\r\nIt repairs itself automatically when not taking damage after some time.\r\nAs a mass produced model, defenses have been enhanced.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "31200"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "1500"
+      },
+      {
+        "name": "Shield",
+        "value": "260"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Giga Shield",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Shield_03.png",
+    "description": "A curious shield that was made using Paldium technology.\r\nIt repairs itself automatically when not taking damage after some time.\r\nModifications have increased its effectiveness even further.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "62000"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "2250"
+      },
+      {
+        "name": "Shield",
+        "value": "540"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      },
+      {
+        "name": "50 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Hyper Shield",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_Shield_04.png",
+    "description": "A curious shield that was made using Paldium technology.\r\nIt repairs itself automatically when not taking damage after some time.\r\nRepeated testing has created a near perfect product.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "104000"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "3500"
+      },
+      {
+        "name": "Shield",
+        "value": "1045"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      },
+      {
+        "name": "100 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Shotgun Shells",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_ShotgunBullet.png",
+    "description": "Bullets used in shotguns and similar firearms.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "220"
+      },
+      {
+        "name": "Weight",
+        "value": "0.025"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "3 Gunpowder",
+        "image": "/images/items/T_itemicon_Material_Gunpowder2.png"
+      }
+    ]
+  },
+  {
+    "name": "Silicon",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Silicon.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "80"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Single-shot Rifle",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_SingleShotRifle.png",
+    "description": "A single-shot rifle.\r\nWhat it lacks in capacity, it makes up for with sheer power.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "37600"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "1000"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "1100"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "5 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      }
+    ]
+  },
+  {
+    "name": "Water Skill Fruit: Acid Rain",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Water.png",
+    "description": "Use on a Pal to teach it\r\nAcidRain.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Skill Fruit: Air Cannon",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Neutral.png",
+    "description": "Use on a Pal to teach it\r\nAirCanon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Water Skill Fruit: Hydro Jet",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Water.png",
+    "description": "Use on a Pal to teach it\r\nAquaJet.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ice Skill Fruit: Iceberg",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Frost.png",
+    "description": "Use on a Pal to teach it\r\nBlizzardLance.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Water Skill Fruit: Bubble Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Water.png",
+    "description": "Use on a Pal to teach it\r\nBubbleShot.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Skill Fruit: Dark Laser",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dark.png",
+    "description": "Use on a Pal to teach it\r\nDarkLaser.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Skill Fruit: Shadow Burst",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dark.png",
+    "description": "Use on a Pal to teach it\r\nDarkWave.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dragon Skill Fruit: Draconic Breath",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dragon.png",
+    "description": "Use on a Pal to teach it\r\nDragonBreath.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dragon Skill Fruit: Dragon Cannon",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dragon.png",
+    "description": "Use on a Pal to teach it\r\nDragonCanon.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dragon Skill Fruit: Dragon Meteor",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dragon.png",
+    "description": "Use on a Pal to teach it\r\nDragonMeteor.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dragon Skill Fruit: Dragon Burst",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dragon.png",
+    "description": "Use on a Pal to teach it\r\nDragonWave.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Shockwave",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nElecWave.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fire Skill Fruit: Fire Ball",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Flame.png",
+    "description": "Use on a Pal to teach it\r\nFireBall.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fire Skill Fruit: Ignis Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Flame.png",
+    "description": "Use on a Pal to teach it\r\nFireBlast.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fire Skill Fruit: Spirit Fire",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Flame.png",
+    "description": "Use on a Pal to teach it\r\nFireSeed.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fire Skill Fruit: Ignis Breath",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Flame.png",
+    "description": "Use on a Pal to teach it\r\nFlamethrower.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fire Skill Fruit: Flare Arrow",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Flame.png",
+    "description": "Use on a Pal to teach it\r\nFlareArrow.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fire Skill Fruit: Flare Storm",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Flame.png",
+    "description": "Use on a Pal to teach it\r\nFlareTornado.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ice Skill Fruit: Cryst Breath",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Frost.png",
+    "description": "Use on a Pal to teach it\r\nFrostBreath.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Skill Fruit: Spirit Flame",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dark.png",
+    "description": "Use on a Pal to teach it\r\nGhostFlame.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grass Skill Fruit: Grass Tornado",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Grass.png",
+    "description": "Use on a Pal to teach it\r\nGrassTornado.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Water Skill Fruit: Hydro Laser",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Water.png",
+    "description": "Use on a Pal to teach it\r\nHydroPump.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Skill Fruit: Pal Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Neutral.png",
+    "description": "Use on a Pal to teach it\r\nHyperBeam.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ice Skill Fruit: Icicle Cutter",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Frost.png",
+    "description": "Use on a Pal to teach it\r\nIceBlade.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ice Skill Fruit: Ice Missile",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Frost.png",
+    "description": "Use on a Pal to teach it\r\nIceMissile.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ice Skill Fruit: Blizzard Spike",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Frost.png",
+    "description": "Use on a Pal to teach it\r\nIcicleThrow.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Fire Skill Fruit: Ignis Rage",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Flame.png",
+    "description": "Use on a Pal to teach it\r\nInferno.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Lightning Strike",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nLightningStrike.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Lightning Streak",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nLineThunder.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Lock-on Laser",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nLockonLaser.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Earth Skill Fruit: Sand Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Earth.png",
+    "description": "Use on a Pal to teach it\r\nMudShot.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Skill Fruit: Poison Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dark.png",
+    "description": "Use on a Pal to teach it\r\nPoisonShot.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Skill Fruit: Power Bomb",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Neutral.png",
+    "description": "Use on a Pal to teach it\r\nPowerBall.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Skill Fruit: Power Shot",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Neutral.png",
+    "description": "Use on a Pal to teach it\r\nPowerShot.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Skill Fruit: Psycho Gravity",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dark.png",
+    "description": "Use on a Pal to teach it\r\nPsychokinesis.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Earth Skill Fruit: Rock Lance",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Earth.png",
+    "description": "Use on a Pal to teach it\r\nRockLance.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grass Skill Fruit: Spine Vine",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Grass.png",
+    "description": "Use on a Pal to teach it\r\nRootAttack.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Earth Skill Fruit: Sand Tornado",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Earth.png",
+    "description": "Use on a Pal to teach it\r\nSandTornado.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grass Skill Fruit: Seed Machine Gun",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Grass.png",
+    "description": "Use on a Pal to teach it\r\nSeedMachinegun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grass Skill Fruit: Seed Mine",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Grass.png",
+    "description": "Use on a Pal to teach it\r\nSeedMine.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Skill Fruit: Implode",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Neutral.png",
+    "description": "Use on a Pal to teach it\r\nSelfDestruct.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dark Skill Fruit: Nightmare Ball",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Dark.png",
+    "description": "Use on a Pal to teach it\r\nShadowBall.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grass Skill Fruit: Solar Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Grass.png",
+    "description": "Use on a Pal to teach it\r\nSolarBeam.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Spark Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nSpreadPulse.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Earth Skill Fruit: Stone Blast",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Earth.png",
+    "description": "Use on a Pal to teach it\r\nStoneShotgun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Tri-Lightning",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nThreeThunder.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "3500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Earth Skill Fruit: Stone Cannon",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Earth.png",
+    "description": "Use on a Pal to teach it\r\nThrowRock.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Electric Ball",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nThunderBall.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Plasma Tornado",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nThunderFunnel.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Electric Skill Fruit: Lightning Bolt",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Electric.png",
+    "description": "Use on a Pal to teach it\r\nThunderbolt.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Water Skill Fruit: Aqua Burst",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Water.png",
+    "description": "Use on a Pal to teach it\r\nWaterBall.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Water Skill Fruit: Aqua Gun",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Water.png",
+    "description": "Use on a Pal to teach it\r\nWaterGun.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Grass Skill Fruit: Wind Cutter",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_SkillCard_Grass.png",
+    "description": "Use on a Pal to teach it\r\nWindCutter.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  }
+]

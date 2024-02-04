@@ -1,0 +1,2477 @@
+[
+  {
+    "name": "Crossbow Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for BowGun\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Crossbow Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for BowGun\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Crossbow Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for BowGun\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Crossbow Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for BowGun\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tundra Outfit Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorCold_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tundra Outfit Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorCold_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tundra Outfit Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorCold_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tundra Outfit Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorCold_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tropical Outfit Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorHeat_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tropical Outfit Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorHeat_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tropical Outfit Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorHeat_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tropical Outfit Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_ClothArmorHeat_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cloth Outfit Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for ClothArmor\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cloth Outfit Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for ClothArmor\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cloth Outfit Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for ClothArmor\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cloth Outfit Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for ClothArmor\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Metal Armor Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorCold_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Metal Armor Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorCold_3\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Metal Armor Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorCold_4\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Metal Armor Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorCold_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Metal Armor Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorHeat_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Metal Armor Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorHeat_3\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Metal Armor Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorHeat_4\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Metal Armor Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_CopperArmorHeat_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Armor Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for CopperArmor\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Armor Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for CopperArmor\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Armor Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for CopperArmor\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Armor Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for CopperArmor\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Helm Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for CopperHelmet_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Helm Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for CopperHelmet_3\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Helm Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for CopperHelmet_4\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Metal Helm Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for CopperHelmet_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Pelt Armor Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorCold_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Pelt Armor Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorCold_3\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Pelt Armor Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorCold_4\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cold Resistant Pelt Armor Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorCold_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Pelt Armor Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorHeat_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Pelt Armor Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorHeat_3\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Pelt Armor Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorHeat_4\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Pelt Armor Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Blueprint_FurArmorHeat_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pelt Armor Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for FurArmor\r\n(RARITY_UNCOMMON).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pelt Armor Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for FurArmor\r\n(RARITY_RARE).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pelt Armor Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for FurArmor\r\n(RARITY_EPIC).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pelt Armor Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for FurArmor\r\n(RARITY_LEGENDARY).\r\nCan be crafted at Factory_Hard_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Feathered Hair Band Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for FurHelmet_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Feathered Hair Band Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for FurHelmet_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Feathered Hair Band Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for FurHelmet_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Feathered Hair Band Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for FurHelmet_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Handgun Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for HandGun_Default\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WeaponFactory_Dirty_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Handgun Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for HandGun_Default\r\n(RARITY_RARE).\r\nCan be crafted at WeaponFactory_Dirty_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Handgun Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for HandGun_Default\r\n(RARITY_EPIC).\r\nCan be crafted at WeaponFactory_Dirty_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Handgun Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for HandGun_Default\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WeaponFactory_Dirty_01.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Monarch's Crown Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head001_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Monarch's Crown Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head001_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Monarch's Crown Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head001_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Monarch's Crown Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head001_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Blueprint of the King's Crown 5",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When possessed, the recipe for |Head001_5\r\n(RARITY_LEGENDARY)| is unlocked. It can be crafted at the |WorkBench|.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Golden Crown Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head002_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Golden Crown Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head002_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Golden Crown Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head002_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Golden Crown Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head002_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Long-eared Headband Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head003_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Long-eared Headband Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head003_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Long-eared Headband Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head003_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Long-eared Headband Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head003_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "5 Blueprints of Long-eared Headband",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Possessing it will unlock the recipe for 'Head003_5\r\n(RARITY_LEGENDARY)'. It can be crafted at the 'WorkBench'.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Witch Hat Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head004_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Witch Hat Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head004_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Witch Hat Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head004_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Witch Hat Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head004_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Design of Witch Hat No. 5",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When possessed, it unlocks the recipe for |Head004_5\r\n(RARITY_LEGENDARY)|. It can be crafted at the |WorkBench|.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Soft Hat Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head005_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Soft Hat Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head005_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Soft Hat Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head005_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Soft Hat Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head005_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Blueprint of Soft Hat 5",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Owning it will unlock the recipe for |Head005_5\r\n(RARITY_LEGENDARY)|. \r\nYou can craft it at the |WorkBench|.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Helmet Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head006_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Helmet Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head006_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Helmet Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head006_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Helmet Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head006_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Blueprint of Helmet 5",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in possession, the recipe for |Head006_5\r\n(RARITY_LEGENDARY)| is unlocked.\r\nIt can be crafted at the |WorkBench|.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Silk Hat Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head007_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Silk Hat Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head007_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Silk Hat Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head007_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Silk Hat Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head007_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "5 Schematic Diagrams of the Silk Hat",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When owned, the recipe for |Head007_5\r\n(RARITY_LEGENDARY)| becomes available. It can be crafted at the |WorkBench|.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tricorne Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head008_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tricorne Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head008_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tricorne Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head008_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tricorne Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head008_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Blueprint of the Tricorn Hat 5",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When possessed, the recipe for |Head008_5\r\n(RARITY_LEGENDARY)| becomes available.\r\nIt can be crafted at the |WorkBench|.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Exploration Cap Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head009_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Exploration Cap Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head009_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Exploration Cap Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head009_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Exploration Cap Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head009_5\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Blueprint of Exploration Hat 5",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When owned, the recipe for |Head009_5 (RARITY_LEGENDARY)| is unlocked. It can be crafted at the |WorkBench|.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Graduate Cap Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head010_2\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Graduate Cap Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head010_3\r\n(RARITY_RARE).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Graduate Cap Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "When in inventory, unlocks recipe for Head010_4\r\n(RARITY_EPIC).\r\nCan be crafted at WorkBench.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1300"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  }
+]

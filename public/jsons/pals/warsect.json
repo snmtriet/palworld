@@ -1,1 +1,228 @@
-[{"data":1,"prerenderedAt":126},["Reactive",2],{"6sbRGsNmMn":3},{"OverrideNameTextID":4,"NamePrefixID":5,"OverridePartnerSkillTextID":5,"IsPal":6,"Tribe":7,"BPClass":8,"ZukanIndex":9,"ZukanIndexSuffix":10,"Size":11,"Rarity":12,"ElementType1":13,"ElementType2":14,"GenusCategory":15,"Organization":16,"weapon":17,"WeaponEquip":18,"HP":19,"MeleeAttack":20,"ShotAttack":20,"Defense":19,"Support":20,"CraftSpeed":20,"EnemyReceiveDamageRate":21,"CaptureRateCorrect":21,"ExpRatio":21,"Price":22,"AIResponse":23,"AISightResponse":5,"SlowWalkSpeed":24,"WalkSpeed":25,"RunSpeed":26,"RideSprintSpeed":27,"TransportSpeed":25,"IsBoss":18,"IsTowerBoss":18,"BattleBGM":28,"IgnoreLeanBack":18,"IgnoreBlowAway":18,"MaxFullStomach":29,"FullStomachDecreaseRate":21,"FoodAmount":30,"ViewingDistance":31,"ViewingAngle":32,"HearingRate":21,"NooseTrap":18,"Nocturnal":18,"BiologicalGrade":33,"Predator":18,"Edible":6,"Stamina":20,"MaleProbability":34,"CombiRank":35,"WorkSuitability_EmitFlame":36,"WorkSuitability_Watering":36,"WorkSuitability_Seeding":21,"WorkSuitability_GenerateElectricity":36,"WorkSuitability_Handcraft":21,"WorkSuitability_Collection":36,"WorkSuitability_Deforest":37,"WorkSuitability_Mining":36,"WorkSuitability_OilExtraction":36,"WorkSuitability_ProductMedicine":36,"WorkSuitability_Cool":36,"WorkSuitability_Transport":37,"WorkSuitability_MonsterFarm":36,"PassiveSkill1":38,"PassiveSkill2":5,"PassiveSkill3":5,"PassiveSkill4":5,"PartnerSkillName":39,"PartnerSkillDesc":40,"Combinations":41,"PrefixName":42,"Drops":43,"ActiveSkills":49,"PassiveSkills":118,"Description":125},"Warsect ","None",true,"EPalTribeID::HerculesBeetle","HerculesBeetle",92,"","EPalSizeType::L",8,"EPalElementType::Earth","EPalElementType::Leaf","EPalGenusCategoryType::Humanoid","EPalOrganizationType::None","EPalWeaponType::None",false,120,100,1,6830,"Warlike",55,110,500,600,"EPalBattleBGMType::Cool",400,6,25,90,5,85,340,0,3,"Deffence_up1","Hard Armor","When fighting together, increases player's defense and applies\r\n\u003CuiCommon id=|COMMON_ELEMENT_NAME_Fire|/> damage to the player's attacks.",[],"Unyielding Colossus",[44],{"max":45,"min":37,"rate":20,"name":46,"descr":47,"icon":48},4,"Honey","Honey harvested from \u003CcharacterName id=|SoldierBee|/>.\r\nIt's sweet and tasty.","T_itemicon_Food_Honey",[50,64,73,82,94,103,112],{"WazaType":51,"Element":14,"IgnoreRandomInherit":18,"Category":52,"Power":53,"IsLeanBack":18,"CameraShake":54,"MinRange":26,"MaxRange":55,"CoolTime":56,"ForceRagdollSize":57,"EffectType1":58,"EffectValue1":59,"EffectValueEx1":36,"EffectType2":60,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":61,"bIsWeaponDamage":18,"DisabledData":18,"Level":21,"WazaName":62,"WazaDesc":63},"EPalWazaID::WindCutter","EPalWazaCategory::Shot",30,"EPalPlayerDamageCameraShakeCategory::Waza_S",5000,2,"EPalSizeType::None","EPalAdditionalEffectType::IvyCling",35,"EPalAdditionalEffectType::None",[],"Wind Cutter","Fires a high speed blade of wind\r\nthat flies straight at an enemy.",{"WazaType":65,"Element":14,"IgnoreRandomInherit":18,"Category":52,"Power":66,"IsLeanBack":18,"CameraShake":54,"MinRange":36,"MaxRange":67,"CoolTime":68,"ForceRagdollSize":57,"EffectType1":58,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":60,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":69,"bIsWeaponDamage":18,"DisabledData":18,"Level":70,"WazaName":71,"WazaDesc":72},"EPalWazaID::SeedMachinegun",50,300,9,[],7,"Seed Machine Gun","Fires a volley of hard seeds\r\nat enemies in front of it.",{"WazaType":74,"Element":13,"IgnoreRandomInherit":18,"Category":52,"Power":24,"IsLeanBack":18,"CameraShake":54,"MinRange":26,"MaxRange":75,"CoolTime":76,"ForceRagdollSize":57,"EffectType1":77,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":60,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":78,"bIsWeaponDamage":18,"DisabledData":18,"Level":79,"WazaName":80,"WazaDesc":81},"EPalWazaID::StoneShotgun",4000,10,"EPalAdditionalEffectType::Muddy",[],15,"Stone Blast","Fires a barrage of stones forward.",{"WazaType":83,"Element":13,"IgnoreRandomInherit":18,"Category":52,"Power":84,"IsLeanBack":18,"CameraShake":85,"MinRange":26,"MaxRange":86,"CoolTime":79,"ForceRagdollSize":87,"EffectType1":77,"EffectValue1":59,"EffectValueEx1":36,"EffectType2":88,"EffectValue2":89,"EffectValueEx2":36,"SpecialAttackRateInfos":90,"bIsWeaponDamage":18,"DisabledData":18,"Level":91,"WazaName":92,"WazaDesc":93},"EPalWazaID::ThrowRock",70,"EPalPlayerDamageCameraShakeCategory::Waza_M",2500,"EPalSizeType::XS","EPalAdditionalEffectType::Stun",20,[],22,"Stone Cannon","Digs up a boulder\r\nand hurls it at an enemy.",{"WazaType":95,"Element":13,"IgnoreRandomInherit":6,"Category":96,"Power":97,"IsLeanBack":18,"CameraShake":85,"MinRange":36,"MaxRange":86,"CoolTime":98,"ForceRagdollSize":99,"EffectType1":60,"EffectValue1":36,"EffectValueEx1":36,"EffectType2":60,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":100,"bIsWeaponDamage":18,"DisabledData":18,"Level":53,"WazaName":101,"WazaDesc":102},"EPalWazaID::Unique_HerculesBeetle_BeetleTackle","EPalWazaCategory::Melee",75,11,"EPalSizeType::S",[],"Giga Horn","\u003CcharacterName id=|HerculesBeetle|/>'s exclusive skill.\r\nSkewers enemies with its four sturdy horns.",{"WazaType":104,"Element":13,"IgnoreRandomInherit":18,"Category":52,"Power":105,"IsLeanBack":18,"CameraShake":106,"MinRange":20,"MaxRange":107,"CoolTime":24,"ForceRagdollSize":57,"EffectType1":77,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":60,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":108,"bIsWeaponDamage":18,"DisabledData":18,"Level":109,"WazaName":110,"WazaDesc":111},"EPalWazaID::RockLance",150,"EPalPlayerDamageCameraShakeCategory::Waza_L",9999,[],40,"Rock Lance","Generates a sharp rock spear\r\nunder an enemy.",{"WazaType":113,"Element":14,"IgnoreRandomInherit":18,"Category":52,"Power":105,"IsLeanBack":18,"CameraShake":106,"MinRange":26,"MaxRange":114,"CoolTime":24,"ForceRagdollSize":57,"EffectType1":58,"EffectValue1":20,"EffectValueEx1":36,"EffectType2":60,"EffectValue2":36,"EffectValueEx2":36,"SpecialAttackRateInfos":115,"bIsWeaponDamage":18,"DisabledData":18,"Level":66,"WazaName":116,"WazaDesc":117},"EPalWazaID::SolarBeam",1800,[],"Solar Blast","Charges solar energy before\r\nblasting enemies with a powerful beam.",[119],{"Rank":21,"OverrideDescMsgID":5,"EffectType1":120,"EffectValue1":76,"TargetType1":121,"EffectType2":122,"EffectValue2":36,"TargetType2":121,"EffectType3":122,"EffectValue3":36,"TargetType3":121,"InvokeActiveOtomo":18,"InvokeWorker":18,"InvokeRiding":18,"InvokeReserve":18,"InvokeInOtomo":18,"InvokeAlways":6,"AddPal":6,"AddRarePal":18,"AddShotWeapon":18,"AddMeleeWeapon":18,"AddArmor":18,"AddAccessory":18,"OverrideNameTextID":5,"OverrideSummaryTextId":5,"Description":123,"Name":124},"EPalPassiveSkillEffectType::Defense","EPalPassiveSkillEffectTargetType::ToSelf","EPalPassiveSkillEffectType::no",null,"Hard Skin","The ultra-hard armor surrounding its body is\r\nextremely strong and heat resistant.\r\nEven a napalm blast would hardly leave a scratch.",1706864121125]
+{
+  "name": "Warsect ",
+  "title": "Unyielding Colossus",
+  "image": "/images/full_palicon/T_HerculesBeetle_icon_normal.png",
+  "rarity": {
+    "name": "Epic",
+    "level": "8",
+    "class": "epic"
+  },
+  "elements": [
+    {
+      "name": "Earth",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "className": "elm4"
+    },
+    {
+      "name": "Leaf",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "className": "elm5"
+    }
+  ],
+  "description": "The ultra-hard armor surrounding its body is\nextremely strong and heat resistant.\nEven a napalm blast would hardly leave a scratch.",
+  "drops": [
+    {
+      "image": "/images/items/T_itemicon_Food_Honey.png",
+      "name": "Honey",
+      "amount": "3 - 4",
+      "rate": "100%"
+    }
+  ],
+  "stats": [
+    {
+      "name": "HP",
+      "value": "120"
+    },
+    {
+      "name": "Defense",
+      "value": "120"
+    },
+    {
+      "name": "Crafting Speed",
+      "value": "100"
+    },
+    {
+      "name": "Melee Attack",
+      "value": "100"
+    },
+    {
+      "name": "Shot Attack",
+      "value": "100"
+    },
+    {
+      "name": "Price",
+      "value": "6830"
+    },
+    {
+      "name": "Stamina",
+      "value": "100"
+    },
+    {
+      "name": "Support",
+      "value": "100"
+    },
+    {
+      "name": "Running Speed",
+      "value": "500"
+    },
+    {
+      "name": "Ride Sprint Speed",
+      "value": "600"
+    },
+    {
+      "name": "Slow Walk Speed",
+      "value": "55"
+    }
+  ],
+  "uniqueCombinations": [],
+  "workSuitability": [
+    {
+      "name": "Gathering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_05.png"
+    },
+    {
+      "name": "Cooling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_10.png"
+    },
+    {
+      "name": "Deforesting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_06.png"
+    },
+    {
+      "name": "Kindling",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_00.png"
+    },
+    {
+      "name": "Generating Electricity",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_03.png"
+    },
+    {
+      "name": "Handiwork",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_04.png"
+    },
+    {
+      "name": "Mining",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_07.png"
+    },
+    {
+      "name": "Farming",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_12.png"
+    },
+    {
+      "name": "Oil Extracting",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_09.png"
+    },
+    {
+      "name": "Medicine Production",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_08.png"
+    },
+    {
+      "name": "Planting",
+      "isActive": true,
+      "level": "1",
+      "image": "/images/icons/T_icon_palwork_02.png"
+    },
+    {
+      "name": "Transporting",
+      "isActive": true,
+      "level": "3",
+      "image": "/images/icons/T_icon_palwork_11.png"
+    },
+    {
+      "name": "Watering",
+      "isActive": false,
+      "level": null,
+      "image": "/images/icons/T_icon_palwork_01.png"
+    }
+  ],
+  "partnerSkill": {
+    "name": "Hard Armor",
+    "description": "When fighting together, increases player's defense and applies\nCOMMON_ELEMENT_NAME_Fire damage to the player's attacks."
+  },
+  "activeSkills": [
+    {
+      "name": "Wind Cutter",
+      "level": "- Lv 1",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "30",
+      "coolDown": "2",
+      "range": "500 - 5000",
+      "description": "Fires a high speed blade of wind\nthat flies straight at an enemy."
+    },
+    {
+      "name": "Seed Machine Gun",
+      "level": "- Lv 7",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "50",
+      "coolDown": "9",
+      "range": "0 - 300",
+      "description": "Fires a volley of hard seeds\nat enemies in front of it."
+    },
+    {
+      "name": "Stone Blast",
+      "level": "- Lv 15",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "55",
+      "coolDown": "10",
+      "range": "500 - 4000",
+      "description": "Fires a barrage of stones forward."
+    },
+    {
+      "name": "Stone Cannon",
+      "level": "- Lv 22",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "70",
+      "coolDown": "15",
+      "range": "500 - 2500",
+      "description": "Digs up a boulder\nand hurls it at an enemy."
+    },
+    {
+      "name": "Giga Horn",
+      "level": "- Lv 30",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "75",
+      "coolDown": "11",
+      "range": "0 - 2500",
+      "description": "HerculesBeetle's exclusive skill.\nSkewers enemies with its four sturdy horns."
+    },
+    {
+      "name": "Rock Lance",
+      "level": "- Lv 40",
+      "image": "/images/icons/T_Icon_element_s_07.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "100 - 9999",
+      "description": "Generates a sharp rock spear\nunder an enemy."
+    },
+    {
+      "name": "Solar Blast",
+      "level": "- Lv 50",
+      "image": "/images/icons/T_Icon_element_s_04.png",
+      "power": "150",
+      "coolDown": "55",
+      "range": "500 - 1800",
+      "description": "Charges solar energy before\nblasting enemies with a powerful beam."
+    }
+  ],
+  "uniqueName": "warsect"
+}

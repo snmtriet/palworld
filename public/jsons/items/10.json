@@ -1,0 +1,1842 @@
+[
+  {
+    "name": "Cold Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorCold.png",
+    "description": "Improved StealArmor.\r\nUseful for activities in cold regions.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "58140"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "9000"
+      },
+      {
+        "name": "HP",
+        "value": "1125"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "375"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "135 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "135 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "27 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "72 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "13 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Cold Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorCold.png",
+    "description": "Improved StealArmor.\r\nUseful for activities in cold regions.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "71060"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "11000"
+      },
+      {
+        "name": "HP",
+        "value": "1200"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "400"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "202 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "202 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "40 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "108 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "19 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorHeat.png",
+    "description": "Improved StealArmor.\r\nProudly boasts a high heat resistance.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "32300"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "5000"
+      },
+      {
+        "name": "HP",
+        "value": "750"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "250"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "30 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "6 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "16 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorHeat.png",
+    "description": "Improved StealArmor.\r\nProudly boasts a high heat resistance.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "38760"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "6000"
+      },
+      {
+        "name": "HP",
+        "value": "975"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "325"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "60 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "12 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "32 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "9 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorHeat.png",
+    "description": "Improved StealArmor.\r\nProudly boasts a high heat resistance.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "48450"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "7500"
+      },
+      {
+        "name": "HP",
+        "value": "1050"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "350"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "90 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "90 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "18 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "48 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "11 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorHeat.png",
+    "description": "Improved StealArmor.\r\nProudly boasts a high heat resistance.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "58140"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "9000"
+      },
+      {
+        "name": "HP",
+        "value": "1125"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "375"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "135 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "135 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "27 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "72 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "13 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heat Resistant Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmorHeat.png",
+    "description": "Improved StealArmor.\r\nProudly boasts a high heat resistance.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "71060"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "11000"
+      },
+      {
+        "name": "HP",
+        "value": "1200"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "400"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "202 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "202 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "40 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "108 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "19 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmor.png",
+    "description": "Armor made from StealIngot.\r\nHigh defense, but extremely heavy.\r\nEquipment for a hero, it exudes bravery.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "41990"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "7000"
+      },
+      {
+        "name": "HP",
+        "value": "975"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "286"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "40 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "40 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "8 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "8 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmor.png",
+    "description": "Armor made from StealIngot.\r\nHigh defense, but extremely heavy.\r\nEquipment for a hero, it exudes bravery.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "48450"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "9000"
+      },
+      {
+        "name": "HP",
+        "value": "1050"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "308"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "60 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "12 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "10 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmor.png",
+    "description": "Armor made from StealIngot.\r\nHigh defense, but extremely heavy.\r\nEquipment for a hero, it exudes bravery.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "54910"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "11000"
+      },
+      {
+        "name": "HP",
+        "value": "1125"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "330"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "90 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "90 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "18 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "12 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Armor",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealArmor.png",
+    "description": "Armor made from StealIngot.\r\nHigh defense, but extremely heavy.\r\nEquipment for a hero, it exudes bravery.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "61370"
+      },
+      {
+        "name": "Weight",
+        "value": "40"
+      },
+      {
+        "name": "Durability",
+        "value": "13000"
+      },
+      {
+        "name": "HP",
+        "value": "1200"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "352"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "135 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "135 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "27 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "18 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Helm",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealHelmet.png",
+    "description": "A helm made from StealIngot.\r\nEnvied for its immaculate quality, it is proof of a chosen warrior.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "16180"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "5000"
+      },
+      {
+        "name": "HP",
+        "value": "350"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "150"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Helm",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealHelmet.png",
+    "description": "A helm made from StealIngot.\r\nEnvied for its immaculate quality, it is proof of a chosen warrior.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "21034"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "6500"
+      },
+      {
+        "name": "HP",
+        "value": "455"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "195"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "40 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "40 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "9 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Helm",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealHelmet.png",
+    "description": "A helm made from StealIngot.\r\nEnvied for its immaculate quality, it is proof of a chosen warrior.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "24270"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "7500"
+      },
+      {
+        "name": "HP",
+        "value": "490"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "210"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "60 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "11 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Helm",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealHelmet.png",
+    "description": "A helm made from StealIngot.\r\nEnvied for its immaculate quality, it is proof of a chosen warrior.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "27506"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "8500"
+      },
+      {
+        "name": "HP",
+        "value": "525"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "225"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "90 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "90 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "13 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Helm",
+    "type": "Armor",
+    "image": "/images/items/T_itemicon_Armor_StealHelmet.png",
+    "description": "A helm made from StealIngot.\r\nEnvied for its immaculate quality, it is proof of a chosen warrior.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "30742"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "9500"
+      },
+      {
+        "name": "HP",
+        "value": "560"
+      },
+      {
+        "name": "Physical Defense",
+        "value": "240"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "135 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "135 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "19 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Metal Ingot",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_StealIngot.png",
+    "description": "Material required to create weapons and armor using Pal Metal.\r\nMade stronger by creating an alloy from metal and Paldium.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "4 Ore",
+        "image": "/images/items/T_itemicon_Material_CopperOre.png"
+      },
+      {
+        "name": "2 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Stew",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Stew.png",
+    "description": "Stew",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "100"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Reindrix Stew",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_StewedIceDeer.png",
+    "description": "Stewed vegetables and venison reared in a frigid environment.\r\nThe meat's soft texture melts away to reveal a delicate sweetness.\r\nEat to stay full slightly longer for a period of time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1320"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "17"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "132"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Reindrix Venison",
+        "image": "/images/items/T_itemicon_Food_Meat_IceDeer.png"
+      },
+      {
+        "name": "2 Tomato",
+        "image": "/images/items/T_itemicon_Food_Tomato.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Stone.png",
+    "description": "Material for structures and items.\r\nCan be obtained by mining rocks.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Sulfur",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Sulfur.png",
+    "description": "Sulfur that can be found in volcanoes and such.\r\nNecessary for making Gunpowder2.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "70"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Cotton Candy",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Sweet.png",
+    "description": "Cotton candy collected from SweetsSheep.\r\nIts sweetness fluffily melts away in your mouth.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "250"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "5"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Sword",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Sword.png",
+    "description": "Sword for close-range combat.\r\nThe blade is extremely sharp!",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "10440"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "500"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "525"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "High Grade Technical Manual",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_TechnologyBook_G1.png",
+    "description": "A book that contains secrets of amazing technology.\r\nUse it to obtain a few Technology Points.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      },
+      {
+        "name": "FloatValue1",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Innovative Technical Manual",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_TechnologyBook_G2.png",
+    "description": "A book that contains secrets of cutting-edge technology.\r\nUse it to obtain Technology Points.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      },
+      {
+        "name": "FloatValue1",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Future Technical Manual",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_TechnologyBook_G3.png",
+    "description": "A book that contains secrets of technology beyond current day comprehension.\r\nUse it to obtain lots of Technology Points.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      },
+      {
+        "name": "FloatValue1",
+        "value": "3"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tomato",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Tomato.png",
+    "description": "A fresh ingredient that brightens any dish.\r\nFilled with lycopene, they’re also very healthy.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "150"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "15"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Tomato Seeds",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_TomatoSeeds.png",
+    "description": "Seeds that produce Tomato.\r\nNecessary for starting a farm.\r\nCan be purchased from a merchant.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "200"
+      },
+      {
+        "name": "Weight",
+        "value": "0.05"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Tomato",
+        "image": "/images/items/T_itemicon_Food_Tomato.png"
+      }
+    ]
+  },
+  {
+    "name": "Hand-held Torch",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Torch.png",
+    "description": "Hold a Torch in hand to brighten the area around you.\r\nCan also be used for close range combat in a pinch.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "80"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "100"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "10"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Copper Key",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_TreasureBoxKey01.png",
+    "description": "A key that can unlock locked treasure chests.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Silver Key",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_TreasureBoxKey02.png",
+    "description": "A key that can unlock locked treasure chests.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Gold Key",
+    "type": "Consumable",
+    "image": "/images/items/T_itemicon_Consume_TreasureBoxKey03.png",
+    "description": "A key that can unlock locked treasure chests.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0.1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Huge Dung Pile",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Unko_S.png",
+    "description": "It has an intimidating presence.\r\nWhether it's the scent or the shape, this is the mark of a heavyweight.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Dung",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Unko_S.png",
+    "description": "Animal dung.\r\nAn essential part of any ecosystem, and can even be used as fertilizer.\r\nIt smells awful, to say the least.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Venom Gland",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Venom.png",
+    "description": "Material obtainable from poisonous Pals.\r\nCan be used to make Arrow_Poison and more.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Old Bow",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_WeakerBow.png",
+    "description": "A bow capable of long range attacks.\r\nHastily put together, it isn't very powerful.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "360"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "65"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "15 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Old Bow",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_WeakerBow.png",
+    "description": "A bow capable of long range attacks.\r\nHastily put together, it isn't very powerful.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "360"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "200"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "130"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "60 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "1 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Old Bow",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_WeakerBow.png",
+    "description": "A bow capable of long range attacks.\r\nHastily put together, it isn't very powerful.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "360"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "250"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "169"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "90 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "15 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "45 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "2 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Old Bow",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_WeakerBow.png",
+    "description": "A bow capable of long range attacks.\r\nHastily put together, it isn't very powerful.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "360"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "208"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "135 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "22 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "67 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "4 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Old Bow",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_WeakerBow.png",
+    "description": "A bow capable of long range attacks.\r\nHastily put together, it isn't very powerful.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "360"
+      },
+      {
+        "name": "Weight",
+        "value": "6"
+      },
+      {
+        "name": "Durability",
+        "value": "350"
+      },
+      {
+        "name": "Magazine",
+        "value": "1"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "247"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "202 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "33 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "100 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Wheat",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Wheat.png",
+    "description": "An ingredient that forms the base of various dishes.\r\nWheat is a common crop in many parts of the world.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "6"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Wheat Seeds",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_WheatSeeds.png",
+    "description": "Seeds that produce Wheat.\r\nNecessary for starting a farm.\r\nCan be purchased from a merchant.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "0.05"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Wheat",
+        "image": "/images/items/T_itemicon_Food_Wheat.png"
+      }
+    ]
+  },
+  {
+    "name": "Wine",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Wine.png",
+    "description": "Wine",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1.5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Wood",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Wood.png",
+    "description": "Material for structures and items.\r\nCan be obtained by cutting trees.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Wool",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_Wool.png",
+    "description": "Material sheared from sheep Pals.\r\nA necessity for creating bedding, Cloth and more.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  }
+]

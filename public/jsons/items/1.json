@@ -1,0 +1,2889 @@
+[
+  {
+    "name": "Attack Pendant",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_AT_1.png",
+    "description": "An accessory that slightly raises Attack.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Attack Pendant +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_AT_1.png",
+    "description": "An accessory that raises Attack.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Attack Pendant +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_AT_1.png",
+    "description": "An accessory that greatly raises Attack.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Water Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_AquaResist_1.png",
+    "description": "An accessory that slightly lowers Water damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Water Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_AquaResist_1.png",
+    "description": "An accessory that lowers Water damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Water Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_AquaResist_1.png",
+    "description": "An accessory that greatly lowers Water damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Thermal Underwear",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_HeatResist_1.png",
+    "description": "An accessory that slightly raises Cold Resistance.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Thermal Underwear +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_HeatResist_1.png",
+    "description": "An accessory that raises Cold Resistance.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Thermal Underwear +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_HeatResist_1.png",
+    "description": "An accessory that greatly raises Cold Resistance.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Dark Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_DarkResist_1.png",
+    "description": "An accessory that slightly lowers Dark damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Dark Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_DarkResist_1.png",
+    "description": "An accessory that lowers Dark damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Dark Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_DarkResist_1.png",
+    "description": "An accessory that greatly lowers Dark damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Dragon Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_DragonResist_1.png",
+    "description": "An accessory that slightly lowers Dragon damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Dragon Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_DragonResist_1.png",
+    "description": "An accessory that lowers Dragon damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Dragon Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_DragonResist_1.png",
+    "description": "An accessory that greatly lowers Dragon damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Earth Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_EarthResist_1.png",
+    "description": "An accessory that slightly lowers Earth damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Earth Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_EarthResist_1.png",
+    "description": "An accessory that lowers Earth damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Earth Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_EarthResist_1.png",
+    "description": "An accessory that greatly lowers Earth damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Flame Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_FireResist_1.png",
+    "description": "An accessory that slightly lowers Fire damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Flame Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_FireResist_1.png",
+    "description": "An accessory that lowers Fire damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Flame Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_FireResist_1.png",
+    "description": "An accessory that greatly lowers Fire damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Life Pendant",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_HP_1.png",
+    "description": "An accessory that slightly raises Health.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Life Pendant +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_HP_1.png",
+    "description": "An accessory that raises Health.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Life Pendant +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_HP_1.png",
+    "description": "An accessory that greatly raises Health.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Underwear",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_CoolResist_1.png",
+    "description": "An accessory that slightly raises Heat Resistance.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Underwear +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_CoolResist_1.png",
+    "description": "An accessory that raises Heat Resistance.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Heat Resistant Underwear +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_CoolResist_1.png",
+    "description": "An accessory that greatly raises Heat Resistance.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Ice Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_IceResist_1.png",
+    "description": "An accessory that slightly lowers Ice damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Ice Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_IceResist_1.png",
+    "description": "An accessory that lowers Ice damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Ice Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_IceResist_1.png",
+    "description": "An accessory that greatly lowers Ice damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Grass Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_LeafResist_1.png",
+    "description": "An accessory that slightly lowers Grass damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Grass Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_LeafResist_1.png",
+    "description": "An accessory that lowers Grass damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Grass Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_LeafResist_1.png",
+    "description": "An accessory that greatly lowers Grass damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_NormalResist_1.png",
+    "description": "Accessory that slightly lowers Neutral damage.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_NormalResist_1.png",
+    "description": "Accessory that lowers Neutral damage.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_NormalResist_1.png",
+    "description": "Accessory that greatly lowers Neutral damage.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Lightning Resistance",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_ThunderResist_1.png",
+    "description": "An accessory that slightly lowers Electric damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Lightning Resistance +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_ThunderResist_1.png",
+    "description": "An accessory that lowers Electric damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Ring of Lightning Resistance +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_ThunderResist_1.png",
+    "description": "An accessory that greatly lowers Electric damage.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "8"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pendant of Diligence",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_WorkSpeed_1.png",
+    "description": "An accessory that slightly raises Work Speed.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pendant of Diligence +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_WorkSpeed_1.png",
+    "description": "An accessory that raises Work Speed.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Pendant of Diligence +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_WorkSpeed_1.png",
+    "description": "An accessory that greatly raises Work Speed.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Defense Pendant",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_defense_1.png",
+    "description": "An accessory that slightly raises Defense.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Defense Pendant +1",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_defense_1.png",
+    "description": "An accessory that raises Defense.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "4"
+      },
+      {
+        "name": "Price",
+        "value": "4000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Defense Pendant +2",
+    "type": "Accessory",
+    "image": "/images/items/T_itemicon_Accessory_defense_1.png",
+    "description": "An accessory that greatly raises Defense.\r\n",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Animal Skin",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_AnimalSkin.png",
+    "description": "Animal Skin",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "140"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Antibiotic_Good",
+    "type": "Consumable",
+    "image": "/images/items/Tex_medicines_05.png",
+    "description": "Antibiotic_Good",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "6"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Concentration",
+        "value": "100"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Antibiotic_Normal",
+    "type": "Consumable",
+    "image": "/images/items/Tex_medicines_05.png",
+    "description": "Antibiotic_Normal",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "5"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Concentration",
+        "value": "100"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Antibiotic_Super",
+    "type": "Consumable",
+    "image": "/images/items/Tex_medicines_05.png",
+    "description": "Antibiotic_Super",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "7"
+      },
+      {
+        "name": "Price",
+        "value": "10"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Concentration",
+        "value": "100"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Arrow",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_Arrow.png",
+    "description": "An Arrow for use with a bow.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "5"
+      },
+      {
+        "name": "Weight",
+        "value": "0.025"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "1 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Fire Arrow",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_Arrow_Fire.png",
+    "description": "An Arrow for use with a Bow_Fire.\r\nDeals COMMON_ELEMENT_NAME_Fire damage.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "15"
+      },
+      {
+        "name": "Weight",
+        "value": "0.025"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Poison Arrow",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_Arrow_Poison.png",
+    "description": "Arrows to use with a Bow_Poison.\r\nThey will poison any target hit.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "15"
+      },
+      {
+        "name": "Weight",
+        "value": "0.025"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "3 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Venom Gland",
+        "image": "/images/items/T_itemicon_Material_Venom.png"
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle Ammo",
+    "type": "Ammo",
+    "image": "/images/items/T_itemicon_Ammo_AssaultRifleBullet.png",
+    "description": "Ammo for AssaultRifle_Default1 and other similar weapons.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "150"
+      },
+      {
+        "name": "Weight",
+        "value": "0.01"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "2 Gunpowder",
+        "image": "/images/items/T_itemicon_Material_Gunpowder2.png"
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_AssaultRifle_Default1.png",
+    "description": "An AssaultRifle_Default1 suited to long range combat.\r\nIt excels at rapid-fire and is well suited to taking down powerful foes.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "82400"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "3000"
+      },
+      {
+        "name": "Magazine",
+        "value": "20"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "320"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "40 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "30 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_AssaultRifle_Default1.png",
+    "description": "An AssaultRifle_Default1 suited to long range combat.\r\nIt excels at rapid-fire and is well suited to taking down powerful foes.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "82400"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "1500"
+      },
+      {
+        "name": "Magazine",
+        "value": "24"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "400"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "80 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "60 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_AssaultRifle_Default1.png",
+    "description": "An AssaultRifle_Default1 suited to long range combat.\r\nIt excels at rapid-fire and is well suited to taking down powerful foes.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "82400"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "2000"
+      },
+      {
+        "name": "Magazine",
+        "value": "26"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "448"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "120 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "30 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "90 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "10 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_AssaultRifle_Default1.png",
+    "description": "An AssaultRifle_Default1 suited to long range combat.\r\nIt excels at rapid-fire and is well suited to taking down powerful foes.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "82400"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "2500"
+      },
+      {
+        "name": "Magazine",
+        "value": "28"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "512"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "180 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "45 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "135 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "20 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_AssaultRifle_Default1.png",
+    "description": "An AssaultRifle_Default1 suited to long range combat.\r\nIt excels at rapid-fire and is well suited to taking down powerful foes.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "82400"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "3000"
+      },
+      {
+        "name": "Magazine",
+        "value": "30"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "560"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "270 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "67 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "202 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      },
+      {
+        "name": "30 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Small Feed Bag",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_AutoMealPouch_Tier1.png",
+    "description": "Unlocks a food slot in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      }
+    ]
+  },
+  {
+    "name": "Average Feed Bag",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_AutoMealPouch_Tier2.png",
+    "description": "A decently sized pouch for holding food.\r\nUnlocks 2 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "10 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      }
+    ]
+  },
+  {
+    "name": "Large Feed Bag",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_AutoMealPouch_Tier4.png",
+    "description": "A large pouch for holding food.\r\nUnlocks 3 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "50 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "20 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      }
+    ]
+  },
+  {
+    "name": "Huge Feed Bag",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_AutoMealPouch_Tier4.png",
+    "description": "An extremely large pouch for holding food.\r\nUnlocks 4 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "90 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "35 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "10 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Giant Feed Bag",
+    "type": "Essential",
+    "image": "/images/items/T_itemicon_Essential_AutoMealPouch_Tier5.png",
+    "description": "An extraordinarily large sack for storing food.\r\nUnlocks 5 food slots in your inventory.\r\nPlayers and Pals automatically consume food when hungry.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "1"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "200 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "50 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "20 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Axe",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Axe_Tier_00.png",
+    "description": "An axe for cutting wood.\r\nMade from stone, it's not very sharp.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "200"
+      },
+      {
+        "name": "Weight",
+        "value": "10"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "20"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Axe",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Axe_Tier_00.png",
+    "description": "An axe for cutting wood.\r\nMade from metal, its sharpness has improved.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "2800"
+      },
+      {
+        "name": "Weight",
+        "value": "15"
+      },
+      {
+        "name": "Durability",
+        "value": "250"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "30"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "15 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Refined Metal Axe",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Axe_Tier_00.png",
+    "description": "An axe for cutting wood.\r\nMade from high quality metal, its sharpness has improved even further.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "7000"
+      },
+      {
+        "name": "Weight",
+        "value": "20"
+      },
+      {
+        "name": "Durability",
+        "value": "300"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "60"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "40 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Axe4",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Axe_Tier_00.png",
+    "description": "Axe4",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "33000"
+      },
+      {
+        "name": "Weight",
+        "value": "25"
+      },
+      {
+        "name": "Durability",
+        "value": "400"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "75"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Burrito",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BLT.png",
+    "description": "A dish where bacon, Lettuce, Tomato are sandwiched in Pan. Consumption increases the COMMON_STATUS_RANGE_ATTACK by +15% for a while.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "3"
+      },
+      {
+        "name": "Price",
+        "value": "3000"
+      },
+      {
+        "name": "Weight",
+        "value": "0.3"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "22"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "316"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Rushoar Bacon 'n' Eggs",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BaconEggs.png",
+    "description": "The smoky essence of bacon intertwines flawlessly\r\nwith the gentle texture of eggs, creating a sublime harmony of flavors.\r\nEat to increase COMMON_STATUS_RANGE_ATTACK by +10% for a period of time.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "2"
+      },
+      {
+        "name": "Price",
+        "value": "1670"
+      },
+      {
+        "name": "Weight",
+        "value": "0.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "21"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "167"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Rushoar Pork",
+        "image": "/images/items/T_itemicon_Food_Meat_Boar.png"
+      },
+      {
+        "name": "2 Egg",
+        "image": "/images/items/T_itemicon_Food_Egg.png"
+      }
+    ]
+  },
+  {
+    "name": "Herb Roasted Caprity",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_BerryGoat.png",
+    "description": "Mild roast filled with the natural aromas of\r\nherbs and berries embedded in the meat.\r\nGives a pleasant sense of warmth when eaten outdoors.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "2.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "80"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Caprity Meat",
+        "image": "/images/items/T_itemicon_Food_Meat_BerryGoat.png"
+      }
+    ]
+  },
+  {
+    "name": "Roast Rushoar",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_Boar.png",
+    "description": "Boar grilled over a hearty flame.\r\nCrispy on the outside, juicy on the inside.\r\nPerfect as an extravagant main dish for a big party.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "600"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "60"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Rushoar Pork",
+        "image": "/images/items/T_itemicon_Food_Meat_Boar.png"
+      }
+    ]
+  },
+  {
+    "name": "Grilled Chikipi",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_ChickenPal.png",
+    "description": "Chicken skewer slow-grilled over a charcoal fire.\r\nLight and refreshing on the tongue.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "50"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Chikipi Poultry",
+        "image": "/images/items/T_itemicon_Food_Meat_ChickenPal.png"
+      }
+    ]
+  },
+  {
+    "name": "Mozzarina Steak",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_CowPal.png",
+    "description": "Thick, well-done steak.\r\nStrong flavors give those who eat it an energy boost.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "800"
+      },
+      {
+        "name": "Weight",
+        "value": "2.5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "80"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Mozzarina Meat",
+        "image": "/images/items/T_itemicon_Food_Meat_CowPal.png"
+      }
+    ]
+  },
+  {
+    "name": "Roast Eikthyrdeer",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_Deer.png",
+    "description": "Carefully roasted venison with delicate flavor notes accented\r\nby the aromas of the deep forest.\r\nElegant taste for an elegant lifestyle.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "700"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "70"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Eikthyrdeer Venison",
+        "image": "/images/items/T_itemicon_Food_Meat_Deer.png"
+      }
+    ]
+  },
+  {
+    "name": "Grilled Galeclaw",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_Eagle.png",
+    "description": "Grilled meat full of vitality for flying high in the skies.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "50"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Galeclaw Poultry",
+        "image": "/images/items/T_itemicon_Food_Meat_Eagle.png"
+      }
+    ]
+  },
+  {
+    "name": "Mammorest Steak",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_GrassMammoth.png",
+    "description": "Boasts a rich and dignified flavor.\r\nMemories of glaciers and deep forests come rushing back with every bite.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2520"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "3"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "252"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Mammorest Meat",
+        "image": "/images/items/T_itemicon_Food_Meat_GrassMammoth.png"
+      }
+    ]
+  },
+  {
+    "name": "Roast Reindrix",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_IceDeer.png",
+    "description": "When taken from a flame, Reindrix meat rapidly drops in temperature.\r\nThis allows it to retain freshness for long periods of time,\r\nmaking it a perfect emergency ration.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2520"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "252"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Reindrix Venison",
+        "image": "/images/items/T_itemicon_Food_Meat_IceDeer.png"
+      }
+    ]
+  },
+  {
+    "name": "Grilled Kelpsea",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_Kelpie.png",
+    "description": "Fresh fish grilled over a charcoal fire.\r\nPlump and juicy.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "500"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "50"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Raw Kelpsea",
+        "image": "/images/items/T_itemicon_Food_Meat_Kelpie.png"
+      }
+    ]
+  },
+  {
+    "name": "Broiled Dumud",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_LazyCatfish.png",
+    "description": "Grilled fish slathered with a secret sauce.\r\nSoothes both mind and body.\r\nPerfect for tired Pal Tamers.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "700"
+      },
+      {
+        "name": "Weight",
+        "value": "2"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "70"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Raw Dumud",
+        "image": "/images/items/T_itemicon_Food_Meat_LazyCatfish.png"
+      }
+    ]
+  },
+  {
+    "name": "Broncherry Rib Roast",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_SakuraSaurus.png",
+    "description": "Grilled meat brimming with the flavor of the king of the wilds.\r\nJuices from the compressed meat flow from the bone,\r\nmaking it surprisingly tender despite the initial toughness.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "2520"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "3"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "252"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Broncherry Meat",
+        "image": "/images/items/T_itemicon_Food_Meat_SakuraSaurus.png"
+      }
+    ]
+  },
+  {
+    "name": "Lamball Kebab",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMeat_SheepBall.png",
+    "description": "Spiced and roasted mutton.\r\nDeeply complex with unique flavors.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "520"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "52"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Lamball Mutton",
+        "image": "/images/items/T_itemicon_Food_Meat_SheepBall.png"
+      }
+    ]
+  },
+  {
+    "name": "Baked Mushroom",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_BakedMushroom.png",
+    "description": "Cooking this mushroom enhances its nutritional value.\r\nCuriously, it's also quite filling.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "18"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Mushroom",
+        "image": "/images/items/T_itemicon_Food_Mushroom.png"
+      }
+    ]
+  },
+  {
+    "name": "Baked Berries",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Baked_Berries.png",
+    "description": "Cooking enhances their nutritional value,\r\nand surprisingly, they are quite filling.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "0.15"
+      },
+      {
+        "name": "Restore Sanity",
+        "value": "1"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "21"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "1 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Club",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Bat.png",
+    "description": "A Bat for close range combat.\r\nFighting a Pal with it might be tough.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "80"
+      },
+      {
+        "name": "Weight",
+        "value": "5"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "25"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Bat",
+    "type": "Weapon",
+    "image": "/images/items/T_itemicon_Weapon_Spear_Bat2.png",
+    "description": "Baseball bat for close-range combat.\r\nMight be tough to get a home run with a Pal.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "80"
+      },
+      {
+        "name": "Weight",
+        "value": "3"
+      },
+      {
+        "name": "Durability",
+        "value": "150"
+      },
+      {
+        "name": "Physical Attack",
+        "value": "50"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Beer",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Beer.png",
+    "description": "Beer",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "100"
+      },
+      {
+        "name": "Weight",
+        "value": "1.5"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "25"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Red Berries",
+    "type": "Food",
+    "image": "/images/items/T_itemicon_Food_Berries.png",
+    "description": "A versatile ingredient that is delicious raw or cooked.\r\nThey can be found anywhere on the island.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "50"
+      },
+      {
+        "name": "Weight",
+        "value": "0.2"
+      },
+      {
+        "name": "Restore Satiety",
+        "value": "15"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Berry Seeds",
+    "type": "Material",
+    "image": "/images/items/T_itemicon_Material_BerrySeeds.png",
+    "description": "Seeds that produce Berries.\r\nNecessary for starting a farm.\r\nCan be obtained when picking Berries.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "0"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "50"
+      },
+      {
+        "name": "Weight",
+        "value": "0.05"
+      }
+    ],
+    "recipe": [
+      {
+        "name": "2 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      }
+    ]
+  },
+  {
+    "name": "Assault Rifle Schematic 1",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for AssaultRifle_Default1\r\n(RARITY_UNCOMMON).\r\nCan be crafted at WeaponFactory_Dirty_02.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "1"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Assault Rifle Schematic 2",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for AssaultRifle_Default1\r\n(RARITY_RARE).\r\nCan be crafted at WeaponFactory_Dirty_02.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "2"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Assault Rifle Schematic 3",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for AssaultRifle_Default1\r\n(RARITY_EPIC).\r\nCan be crafted at WeaponFactory_Dirty_02.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "3"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  },
+  {
+    "name": "Assault Rifle Schematic 4",
+    "type": "Blueprint",
+    "image": "/images/items/T_itemicon_Material_Blueprint.png",
+    "description": "Unlocks recipe for AssaultRifle_Default1\r\n(RARITY_LEGENDARY).\r\nCan be crafted at WeaponFactory_Dirty_02.",
+    "keys": [
+      {
+        "name": "Rarity",
+        "value": "4"
+      },
+      {
+        "name": "Rank",
+        "value": "1"
+      },
+      {
+        "name": "Price",
+        "value": "10000"
+      },
+      {
+        "name": "Weight",
+        "value": "0"
+      }
+    ],
+    "recipe": []
+  }
+]
