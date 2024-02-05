@@ -273,7 +273,7 @@ const PalDetailPage = () => {
                         <div className="header">
                           <div className="wrap">
                             <div className="name">{item.name}</div>
-                            <div className="level">- Lv {item.level}</div>
+                            <div className="level">{item.level}</div>
                           </div>
                           <div className="waza-element">
                             <div className="element">

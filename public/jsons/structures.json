@@ -1,0 +1,5869 @@
+[
+  {
+    "name": "Red Metal Barrel",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Barrel01_Iron.png",
+    "description": "Decorative red metal barrel.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Blue Metal Barrel",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Barrel02_Iron.png",
+    "description": "Decorative blue metal barrel.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Green Metal Barrel",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Barrel03_Iron.png",
+    "description": "Decorative green metal barrel.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Venom Gland",
+        "image": "/images/items/T_itemicon_Material_Venom.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Barrel",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Barrel_Wood.png",
+    "description": "Wooden barrel for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Alarm Bell",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_BaseCampBattleDirector.png",
+    "description": "Bell that sets the alert status for Pals on base.\r\nChange Pal behavior to either attack invading enemies, or focus entirely on work\r\nwhenever you like.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Monitoring Stand",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_BaseCampWorkHard.png",
+    "description": "You can command your Pals to work on various things inside a base.\r\nTry not to overwork them!",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Bathtub",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_BathTub_Stone.png",
+    "description": "Decorative antique bathtub.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Bench",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Bench_Wood.png",
+    "description": "Decorative wooden bench.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Primitive Furnace",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_BlastFurnace.png",
+    "description": "Allows refinement of CopperIngot.\r\nThe quality leaves much to desire, and processing is slow.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "50 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "3 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Improved Furnace",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_BlastFurnace_2.png",
+    "description": "Allows refinement of IronIngot.\r\nThe quality has improved, but the processing speed is still unsatisfactory.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "30 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      },
+      {
+        "name": "15 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Electric Furnace",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_BlastFurnace3.png",
+    "description": "Allows refinement of StealIngot.\r\nIt requires electricity to use, but is quicker to process.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "20 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "20 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_BlastFurnace4.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "6000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "4 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": []
+  },
+  {
+    "name": "Small Container",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Box01_Iron.png",
+    "description": "Small container for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Braided Basket",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Box01_Stone.png",
+    "description": "Decorative antique braided basket.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Cloth Covered Container",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Box02_Iron.png",
+    "description": "Cloth covered container for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Box",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Box_Wood.png",
+    "description": "Wooden box for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Breeding Farm",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_BreedFarm.png",
+    "description": "Assign one male and one female Pal to produce eggs.\r\nPlacing Cake in the facility is required for production.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "15000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "50 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Statue of Power",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_BuildableGoddessStatue.png",
+    "description": "Stone statue spoken of in legends on Palpagos Island.\r\nOffer up Relic\r\nto receive strange powers.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Cable Reel",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_CableCoil01_Iron.png",
+    "description": "Decorative cable reel.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "6000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Campfire",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_CampFire.png",
+    "description": "Needed for cooking food.\r\nIt can only be used to grill simple ingredients.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Witch Cauldron",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_Cauldron.png",
+    "description": "Place in base to improve\r\nmedicine manufacturing speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "60000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "15 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      },
+      {
+        "name": "15 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      }
+    ]
+  },
+  {
+    "name": "Ceiling Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_LampTop.png",
+    "description": "A light source that provides illumination to a base even at night.\r\nIt can be placed on a ceiling.\r\nRequires electricity, but lights up a larger area.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Leather Chair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Chair01_Iron.png",
+    "description": "Decorative leather chair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "2 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      }
+    ]
+  },
+  {
+    "name": "Frog Chair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Chair01_Pal.png",
+    "description": "Cute decorative chair.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "2 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wooden Chair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Chair01_Stone.png",
+    "description": "Decorative antique wooden chair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Chair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Chair01_Wood.png",
+    "description": "Decorative wooden chair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Iron Chair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Chair02_Iron.png",
+    "description": "Decorative wooden chair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Green Wooden Chair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Chair02_Stone.png",
+    "description": "Decorative antique green wooden chair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "1 Venom Gland",
+        "image": "/images/items/T_itemicon_Material_Venom.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Essence Condenser",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_CharacterRankUp.png",
+    "description": "A chamber for increasing a Pal's rank.\r\nPals can surpass their physical limitations if given\r\na concentrated extract taken from a Pal of the same type.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Grandfather Clock",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Clock01_Stone.png",
+    "description": "Decorative antique grandfather clock.\r\nBroken, it doesn't tell time.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Wall Clock",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Clock01_Wall_Iron.png",
+    "description": "Decorative wall clock.\r\nBroken, it doesn't tell time.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Large Container",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Container01_Iron.png",
+    "description": "Large container for storing items.\r\nImitates the designs left behind by an ancient and prosperous civilization.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Cooking Pot",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_CookingStove.png",
+    "description": "Needed for cooking food.\r\nUse of a cooking pot allows for a wider variety of meal preparation.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Cooler",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_CoolerMedieval.png",
+    "description": "A device that blows cool air, lowering the temperature of a base.\r\nIt doesn't provide much relief from the heat, but helps one to endure somewhat hot environments.\r\nRequires an Ice Pal for cooling.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Cooler Box",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_CoolerBox.png",
+    "description": "Small food vault.\r\nAssign an Ice Pal to help prevent\r\nfood stored inside from spoiling.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Counter",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Counter_Wood.png",
+    "description": "Decorative wooden counter.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Crusher",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_Crusher.png",
+    "description": "Facility for breaking down Stone and Wood to exchange them for other materials.\r\nRequires Pal with the Watering trait to spin the water turbine.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Curtain",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Curtain01_Wall_Stone.png",
+    "description": "Decorative antique curtain.\r\nCan be placed on walls.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Training Dummy",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_DamagedScarecrow.png",
+    "description": "Training dummy shaped like a Penguin.\r\nCan only be placed in wide open areas.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Tuppanyan sticker",
+    "type": "Furniture",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Crossbow",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_efenseBulletLauncher_BowGun.png",
+    "description": "Deploy a Pal to operate this defensive installation.\r\nRequires Arrow to use.\r\nPlace ammo in the chest, and the deployed Pal will automatically load the weapon.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "15 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Gatling Gun",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_DefenseGatlingGun.png",
+    "description": "A defensive installation for protecting a base from enemies.\r\nIt fires high-powered ammunition.\r\nDeploy a Pal to it to prepare for battle.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "30 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Machine Gun",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_DefenseMachinegun.png",
+    "description": "Deploy a Pal to operate this defensive installation.\r\nRequires RifleBullet to use.\r\nPlace ammo in the chest, and the deployed Pal will automatically load the weapon.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "15 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Defense",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "70000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "15 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "20 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Missile Launcher",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_efenseBulletLauncher_Missile.png",
+    "description": "Deploy a Pal to operate this defensive installation.\r\nRequires ExplosiveBullet to use.\r\nPlace ammo in the chest, and the deployed Pal will automatically load the weapon.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "150000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "20 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "50 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Sandbag",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_DefenseWait.png",
+    "description": "Defensive installation to protect a base from enemies.\r\nPlace a Pal and it will ignore other work\r\nto stay on lookout and prepare for combat.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Defensive Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_DefenseWall.png",
+    "description": "Massive defensive wall to prevent enemy intrusions.\r\nMade from stone, it is reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 ",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Defensive Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_DefenseWall_Metal.png",
+    "description": "Massive defensive wall to prevent enemy intrusions.\r\nMade from metal, it is extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 ",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Defensive Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_DefenseWall_Wood.png",
+    "description": "Massive defensive wall to prevent enemy intrusions.\r\nMade from wood, it breaks easily.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Iron Desk",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Desk01_Iron.png",
+    "description": "Decorative iron desk.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Desk",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Desk01_Stone.png",
+    "description": "Decorative antique desk.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "25 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Viewing Cage",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_DisplayCharacter.png",
+    "description": "Container for observing captured Pals.\r\nPals inside cannot participate in battle or production,\r\nbut they do not become hungry.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Electric Cooler",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_CoolerElectric.png",
+    "description": "A device that blows cool air, lowering the temperature of a base.\r\nUsing electricity, it can really lower the temperature.\r\nRequires an Ice Pal for cooling.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Power Generator",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_EnergyGenerator_Electric.png",
+    "description": "A Lightning Pal-powered electric generator.\r\nElectric equipment won't run without this.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_ElectricGenerator.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_ElectricGenerator.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Infrastructure",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Electric Heater",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_HeaterElectric.png",
+    "description": "A device that blows warm air, raising the temperature of a base.\r\nUsing electricity, it can really heat things up.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Electric Kitchen",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_ElectricKitchen.png",
+    "description": "Needed for cooking food.\r\nIt requires electricity to run, but allows a large amount of meals to be prepared rapidly.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "70000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "5 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "20 Charcoal",
+        "image": "/images/items/T_itemicon_Material_Charcoal.png"
+      },
+      {
+        "name": "5 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_Factory_Comfortable_01.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_Factory_Comfortable_02.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "High Quality Workbench",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_Factory_Hard_01.png",
+    "description": "A Factory_Hard_01 for producing items and gear.\r\nA small workspace limits production speeds.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Production Assembly Line",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_Factory_Hard_02.png",
+    "description": "A Factory_Hard_01 for producing items and gear.\r\nBy splitting Pals into groups, production speeds have somewhat increased.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "10 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Production Assembly Line II",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_Factory_Hard_03.png",
+    "description": "A Factory_Hard_01 for producing items and gear.\r\nThrough clever management, production speeds have greatly increased.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "30 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Berry Plantation",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_FarmBlockV2_Berries.png",
+    "description": "A farm that can grow Berries.\r\nHarvest time is quick, but eating them doesn't provide much sustenance.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Berry Seeds",
+        "image": "/images/items/T_itemicon_Material_BerrySeeds.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 ",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Plantation",
+    "type": "Food",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 en Text",
+        "image": "/images/items/Potato.png"
+      },
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Plantation",
+    "type": "Food",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "30 ",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Plantation",
+    "type": "Food",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "100 ",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Lettuce Plantation",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_FarmBlockV2_Berries.png",
+    "description": "A farm that can grow Lettuce.\r\nIt takes time to harvest, but increases the variety of meals you can prepare.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "40000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Lettuce Seeds",
+        "image": "/images/items/T_itemicon_Material_LettuceSeeds.png"
+      },
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "70 ",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "10 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Tomato Plantation",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_FarmBlockV2_Berries.png",
+    "description": "A farm that can grow Tomato.\r\nThey take time to harvest, but increase the variety of meals you can prepare.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "20000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Tomato Seeds",
+        "image": "/images/items/T_itemicon_Material_TomatoSeeds.png"
+      },
+      {
+        "name": "70 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "50 ",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Wheat Plantation",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_FarmBlockV2_Berries.png",
+    "description": "A farm that can grow Wheat.\r\nIt requires an average amount of time to harvest.\r\nRequires a few Pals to plant seeds, water, and harvest crops.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Wheat Seeds",
+        "image": "/images/items/T_itemicon_Material_WheatSeeds.png"
+      },
+      {
+        "name": "35 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "35 ",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Great Eagle Statue",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_FastTravelPoint.png",
+    "description": "A stone monument in the shape of a ChickenPal.\r\nAllows fast travel to the location where it is placed.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Mill",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_FlourMill.png",
+    "description": "Facility for milling Wheat to produce Flour.\r\nRequires Pal with the Watering trait to spin the water turbine.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "40 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Flower Bed",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_FlowerBed.png",
+    "description": "Place in base to improve\r\ngathering speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "32000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "100 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "40 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      },
+      {
+        "name": "20 Beautiful Flower",
+        "image": "/images/items/T_itemicon_Food_Poppy.png"
+      }
+    ]
+  },
+  {
+    "name": "Water Fountain",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_Fountain.png",
+    "description": "Place in base to improve\r\nwatering speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "20000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "200 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "20 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Garbage Bag",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_GarbageBag_Iron.png",
+    "description": "Decorative garbage bag.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Globe",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Globe01_Stone.png",
+    "description": "Decorative antique globe.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Soccer Goal",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_GoalSoccer_Iron.png",
+    "description": "Decorative soccer goal.\r\nKicking a SheepBall into it will get you no points.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Egg Incubator",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_HatchingPalEgg.png",
+    "description": "Used for incubating a PalEgg.\r\nIf a PalEgg is left in it, it will automatically hatch after some time has passed.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "5 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "2 Ancient Civilization Parts",
+        "image": "/images/items/T_itemicon_Material_PalCrystal_Ex.png"
+      }
+    ]
+  },
+  {
+    "name": "Heater",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_HeaterMedieval.png",
+    "description": "A device that blows warm air, raising the temperature of a base.\r\nIt doesn't provide much warmth, but helps one to endure somewhat cold environments.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "10 Charcoal",
+        "image": "/images/items/T_itemicon_Material_Charcoal.png"
+      },
+      {
+        "name": "5 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_HighTechKitchen.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "1 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Chest",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_ItemChest.png",
+    "description": "Stores items.\r\nMade of wood, it is easy to break.\r\nIt's probably not the best thing to store valuables in.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Chest",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_ItemChest_02.png",
+    "description": "Stores items.\r\nReinforced with metal, it is somewhat durable.\r\nThe increased size allows for the storage of more things.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Refined Metal Chest",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_ItemChest_03.png",
+    "description": "Stores items.\r\nMade of iron, it is extremely durable.\r\nIt is useful as a large, secure storage box.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Big Wall Ivy",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Ivy01.png",
+    "description": "Decorative large ivy.\r\nCan be placed on a wall.\r\n",
+    "keys": [],
+    "materials": [
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Small Wall Ivy",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Ivy02.png",
+    "description": "Decorative small ivy.\r\nCan be placed on a wall.\r\n",
+    "keys": [],
+    "materials": [
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Horizontal Wall Ivy",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Ivy03.png",
+    "description": "Decorative horizontal ivy.\r\nCan be placed on a wall.\r\n",
+    "keys": [],
+    "materials": [
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_LampStand.png",
+    "description": "A light source that provides illumination to a base even at night.\r\nRequires electricity, but lights up a larger area.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Large Ceiling Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_LampTopLarge.png",
+    "description": "A light source that provides illumination to a base even at night.\r\nIt can be placed on a ceiling.\r\nRequires a significant amount of electricity, but lights up an even larger area.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "5 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Large Mounted Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_LampStandLarge.png",
+    "description": "A light source that provides illumination to a base even at night.\r\nRequires a significant amount of electricity, but lights up an even larger area.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "5 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Chandelier",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_CandleSticks_Top.png",
+    "description": "Chandelier that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Wall Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_CandleSticks_Wall.png",
+    "description": "Wall lamp that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "2 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Brick Fireplace",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_FirePlace01.png",
+    "description": "Brick fireplace that provides illumination.\r\nMust be lit with fire from a Fire Pal.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "15 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Charcoal",
+        "image": "/images/items/T_itemicon_Material_Charcoal.png"
+      }
+    ]
+  },
+  {
+    "name": "Fireplace",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_FirePlace02.png",
+    "description": "Fireplace that provides illumination.\r\nMust be lit with fire from a Fire Pal.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Charcoal",
+        "image": "/images/items/T_itemicon_Material_Charcoal.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Brown Floor Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_FloorLamp01.png",
+    "description": "Antique brown floor lamp that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Red Floor Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_FloorLamp02.png",
+    "description": "Antique red floor lamp that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Simple Street Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_LightPole01.png",
+    "description": "Simple street lamp that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Double Street Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_LightPole02.png",
+    "description": "Double street lamp that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Retro Street Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_LightPole03.png",
+    "description": "Retro street lamp that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Stylish Street Lamp",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_Light_LightPole04.png",
+    "description": "Stylish street lamp that provides illumination.\r\nRequires electricity to light.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Claw Crane",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_MachineGame01_Iron.png",
+    "description": "Decorative claw crane.\r\nBroken, it can't be played.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Cola Vending Machine",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_MachineVending01_Iron.png",
+    "description": "Decorative cola vending machine.\r\nCannot be used to buy items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_MedicalPalBed.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      }
+    ]
+  },
+  {
+    "name": "Straw Pal Bed",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_MedicalPalBed_02.png",
+    "description": "A straw bed for Pals.\r\nPals can rest on it when injured, or to sleep at night.\r\nIt isn't soft, but it's better than nothing.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Fluffy Pal Bed",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_MedicalPalBed_03.png",
+    "description": "A fluffy bed that Pals can get a good rest on.\r\nPals can rest on it when injured, or to sleep at night.\r\nPals love sleeping on fluffy beds like this.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Large Pal Bed",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_MedicalPalBed_04.png",
+    "description": "Fluffy bed to give Pals a good rest.\r\nPals can rest when injured or sleep at night.\r\nEven large Pals can sleep soundly on a bed like this.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 High Quality Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "60 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Medieval Medicine Workbench",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_MedicineFacility_01.png",
+    "description": "A facility for making Pal medicine.\r\nIt can only produce simple medicines.\r\nLeave its operation to a Pal that can make medicine.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Electric Medicine Workbench",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_MedicineFacility_02.png",
+    "description": "A facility for making Pal medicine.\r\nIt requires electricity, but can produce high quality medicine.\r\nLeave its operation to a Pal that can make medicine.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "40 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "20 Carbon Fiber",
+        "image": "/images/items/T_itemicon_Material_CarbonFiber.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_MedicineFacility_03.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Door",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_DoorWall.png",
+    "description": "Door built on a foundation. Becomes an entrance.\r\nMade of metal, it is extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Iron Gate",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_Gate.png",
+    "description": "Gate large enough for big Pals to pass through.\r\nMade from metal, it is extremely durable.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "15000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 ",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Slanted Roof",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_SlantedRoof.png",
+    "description": "Slanted roof built on top of walls to keep out the rain and wind.\r\nMade of metal, it is extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Triangular Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_TriangleWall.png",
+    "description": "Triangular wall built on a foundation for keeping out intruders.\r\nMade of metal, it is extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Wall and Window",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_WindowWall.png",
+    "description": "Wall built on a foundation for keeping out intruders. Includes a window.\r\nMade of metal, it is extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Foundation",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_Foundation.png",
+    "description": "A foundation for building walls or facilities on.\r\nMade of metal, it is extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Roof",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_Roof.png",
+    "description": "A roof built on top of walls to keep out the rain and wind.\r\nMade of metal, it is extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Stairs",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_Stair.png",
+    "description": "Stairs placed below a foundation or roof for climbing up.\r\nMade of metal, they are extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Metal Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Metal_Wall_V2.png",
+    "description": "Walls built on foundations for keeping out intruders.\r\nMade of metal, they are extremely durable.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Pickaxe and Helmet",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_MiningTool.png",
+    "description": "Place in base to improve\r\nmining speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "48000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "50 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Oval Mirror",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Mirror01_Stone.png",
+    "description": "Decorative antique oval mirror.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "2 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wall Mirror",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Mirror01_Wall_Stone.png",
+    "description": "Decorative antique wall mirror.\r\nCan be placed on walls.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "2 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Mirror",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Mirror02_Stone.png",
+    "description": "Decorative antique mirror.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "8 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Ranch",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_MonsterFarm.png",
+    "description": "Farm for raising sheep and fowl-like Pals.\r\nAssign a Pal with the appropriate Partner Skill to a farm\r\nto produce items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "15000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "30 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Flame Cauldron",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_OlympicCauldron.png",
+    "description": "Place in base to improve\r\nfire-making speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "16000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Palbox",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_PalBoxV2.png",
+    "description": "Facility for storing captured Pals.\r\nPals inside gradually recover HP.\r\nArea around this facility becomes a base.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "8 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Feed Box",
+    "type": "Food",
+    "image": "/images/buildings/T_icon_buildObject_PalFoodBox.png",
+    "description": "A box for storing Pal food.\r\nPals can feed from it when hungry.\r\nMake sure to keep it well-stocked to keep your Pals happy.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Partition",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Partition_Stone.png",
+    "description": "Decorative antique partition.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Grand Piano",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Piano01_Stone.png",
+    "description": "Decorative grand piano.\r\nCannot be played.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Upright Piano",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Piano02_Stone.png",
+    "description": "Decorative upright piano.\r\nCannot be played.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Earthen Pipe",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_PipeClay01_Iron.png",
+    "description": "Decorative earthen pipe.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Houseplant",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Plant01_Plant.png",
+    "description": "Decorative houseplant.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Houseplant and Chair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Plant02_Plant.png",
+    "description": "Decorative houseplant and chair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Tabletop Houseplant",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Plant03_Plant.png",
+    "description": "Decorative tabletop houseplant.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Potted Houseplant",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Plant04_Plant.png",
+    "description": "Decorative potted houseplant.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Human Bed",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_PlayerBed.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "1 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      }
+    ]
+  },
+  {
+    "name": "Shoddy Bed",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_PlayerBed_02.png",
+    "description": "A shoddy bed for humans.\r\nUse it when injured or to sleep at night.\r\nYou won't be able to sleep soundly without a roof over your head.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "1 Wool",
+        "image": "/images/items/T_itemicon_Material_Wool.png"
+      }
+    ]
+  },
+  {
+    "name": "Fine Bed",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_PlayerBed_03.png",
+    "description": "A fluffy bed for humans.\r\nUse it when injured or to sleep at night.\r\nYou won't be able to sleep soundly without a roof over your head.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "20000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_RecoverOtomo.png",
+    "description": "Used for recovering a Pal's HP.\r\nSoothes and calms a Pal inside their sphere using Paldium.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "3 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Refrigerator",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Refrigerator.png",
+    "description": "Large food vault.\r\nAssign an Ice Pal to help prevent\r\nfood stored inside from spoiling.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "20 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "15 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "5 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      }
+    ]
+  },
+  {
+    "name": "Repair Bench",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_RepairBench.png",
+    "description": "Workbench for repairing broken tools.\r\nMaterials are needed to make repairs.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Carpet",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Rug01_Stone.png",
+    "description": "Decorative antique carpet.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "1 Venom Gland",
+        "image": "/images/items/T_itemicon_Material_Venom.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Red Carpet",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Rug02_Stone.png",
+    "description": "Decorative antique red carpet.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "2 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Green Carpet",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Rug03_Stone.png",
+    "description": "Decorative antique green carpet.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "2 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "1 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Long Carpet",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Rug04_Stone.png",
+    "description": "Decorative antique long carpet.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Fur rug",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Rug_Wood.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Iron Shelf",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf01_Iron.png",
+    "description": "Iron shelf for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Bookshelf",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf01_Stone.png",
+    "description": "Antique bookshelf for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "40 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Iron Wall Shelf",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf01_Wall_Iron.png",
+    "description": "Iron wall shelf for storing items.\r\nCan be placed on a wall.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wall Cabinet",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf01_Wall_Stone.png",
+    "description": "Antique cabinet for storing items.\r\nCan be placed on walls.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "3 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      }
+    ]
+  },
+  {
+    "name": "Long Iron Shelf",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf02_Iron.png",
+    "description": "Long iron shelf for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wardrobe",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf02_Stone.png",
+    "description": "Antique wardrobe for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "70 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Orange Locker",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf03_Iron.png",
+    "description": "Orange locker for storing items.\r\nDecorated with Pal stickers.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Chest",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf03_Stone.png",
+    "description": "Antique chest for storing items.\r\nAdorned with a photo of a Pal.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Locker",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf04_Iron.png",
+    "description": "Locker for storing items.\r\nDecorated with Pal stickers.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Side Chest",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf04_Stone.png",
+    "description": "Antique side chest for storing items.\r\nAdorned with a photo of a Pal.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Cabinet",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf05_Stone.png",
+    "description": "Antique cabinet for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Long Cabinet",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf06_Stone.png",
+    "description": "Antique long cabinet for storing items.\r\nAdorned with a photo of a Pal.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "40 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Large Antique Cabinet",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf07_Stone.png",
+    "description": "Large antique cabinet for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "40 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Barrel Shelf",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf_Cask_Wood.png",
+    "description": "Wooden barrel shelf for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "70 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Wall Shelf",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf_Hang01_Wood.png",
+    "description": "Wooden shelf for storing items.\r\nCan be placed on a wall.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Decorative Wall Shelf",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Shelf_Hang02_Wood.png",
+    "description": "Decorative wooden shelf.\r\nCan be placed on a wall.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Shelf",
+    "type": "Storage",
+    "image": "/images/buildings/T_icon_buildObject_Shelf_Wood.png",
+    "description": "Wooden shelf for storing items.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "40 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Shipping Box",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_ShippingItemBox.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Emergency Exit Ceiling Sign",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_SignExit_Ceiling_Iron.png",
+    "description": "Decorative emergency exit sign.\r\nCan be placed on ceilings.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "1 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Emergency Exit Wall Sign",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_SignExit_Wall_Iron.png",
+    "description": "Decorative emergency exit sign.\r\nCan be placed on walls.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "1 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Sign",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_Signboard.png",
+    "description": "Can be written on.\r\nUse for memos or to communicate with others.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Silo",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_Silo.png",
+    "description": "Place in base to improve\r\nplanting speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "40000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "300 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "100 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "100 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Snowman",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_Snowman.png",
+    "description": "Place in base to improve\r\ncooling speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "40000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Leather Armchair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Sofa01_Iron.png",
+    "description": "Decorative leather armchair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      },
+      {
+        "name": "1 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Armchair",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Sofa01_Stone.png",
+    "description": "Decorative antique armchair.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Leather Couch",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Sofa02_Iron.png",
+    "description": "Decorative leather couch.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Leather",
+        "image": "/images/items/T_itemicon_Material_Leather.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Couch",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Sofa02_Stone.png",
+    "description": "Decorative antique couch.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "2 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Ottoman",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Sofa03_Stone.png",
+    "description": "Decorative antique ottoman.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "8 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "1 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Hot Spring",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_Spa.png",
+    "description": "Facility where Pals on base can rest.\r\nRestores SAN after a long day of hard work.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "15 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "10 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "High Quality Hot Spring",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_Spa_2.png",
+    "description": "Facility where Pals on base can rest.\r\nNow comfier and restores more SAN.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "20 Cement",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Sphere Workbench",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_SphereFactory_Black_01.png",
+    "description": "An Assembly Line for producing spheres used for capturing Pals.\r\nA small workspace keeps the production speed slow.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Sphere Assembly Line",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_SphereFactory_Black_02.png",
+    "description": "An Assembly Line for producing spheres used for capturing Pals.\r\nBy splitting Pals into groups, production speeds have somewhat increased.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "20 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Sphere Assembly Line II",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_SphereFactory_Black_03.png",
+    "description": "An Assembly Line for producing spheres used for capturing Pals.\r\nThrough clever management, production speeds have greatly increased.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "120000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "30 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "50 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Superior Sphere Factory Ⅰ",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_SphereFactory_White_01.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Superior Sphere Factory Ⅱ",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_SphereFactory_White_02.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Superior Sphere Factory Ⅲ",
+    "type": "Pals",
+    "image": "/images/buildings/T_icon_buildObject_SphereFactory_White_03.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "5 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Logging Site",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_StationDeforest2.png",
+    "description": "A facility for producing Wood.\r\nCutting wood is hard work that requires much physical endurance.\r\nLeave it to Pals skilled in logging.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Pit",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_StonePit.png",
+    "description": "A facility for producing Stone.\r\nMining Stone is hard work that requires much physical endurance.\r\nLeave it to Pals skilled at mining.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Door",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_DoorWall.png",
+    "description": "Door built on a foundation. Becomes an entrance.\r\nMade of stone, it is reasonably sturdy.\r\nPlacing more than one has no additional effect.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Gate",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_Gate.png",
+    "description": "Gate large enough for big Pals to pass through.\r\nMade from stone, it is reasonably sturdy.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 ",
+        "image": "/images/items/T_itemicon_Material_Cement.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Slanted Roof",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_SlantedRoof.png",
+    "description": "Slanted roof built on top of walls to keep out the rain and wind.\r\nMade of stone, it is reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Triangular Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_TriangleWall.png",
+    "description": "Triangular wall built on a foundation for keeping out intruders.\r\nMade of stone, it is reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Wall and Window",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_WindowWall.png",
+    "description": "Wall built on a foundation for keeping out intruders. Includes a window.\r\nMade of stone, it is reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Foundation",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_Foundation.png",
+    "description": "A foundation for building walls or facilities on.\r\nMade of stone, they are reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Roof",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_Roof.png",
+    "description": "A roof built on top of walls to keep out the rain and wind.\r\nMade of stone, it is reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Stairs",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_Stair.png",
+    "description": "Stairs placed below a foundation or roof for climbing up.\r\nMade of stone, they are reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stone_Wall_V2.png",
+    "description": "Walls built on foundations for keeping out intruders.\r\nMade of stone, they are reasonably sturdy.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Stonehouse1.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Iron Stool",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Stool01_Iron.png",
+    "description": "Decorative iron stool.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Stool",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Stool01_Stone.png",
+    "description": "Decorative antique stool.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Bar Stool",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Stool_High_Wood.png",
+    "description": "Decorative bar stool.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "8 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Stool",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Stool_Wood.png",
+    "description": "Decorative wooden stool.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Stove",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Stove01_Stone.png",
+    "description": "Decorative antique stove.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "5 Charcoal",
+        "image": "/images/items/T_itemicon_Material_Charcoal.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Foundation",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "1 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Stump and Axe",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_Stump.png",
+    "description": "Place in base to improve\r\nlogging speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "32000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "150 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "40 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Round Iron Table",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableCircular01_Iron.png",
+    "description": "Decorative round iron table.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Round Table",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableCircular01_Stone.png",
+    "description": "Decorative antique round table.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Round Table",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableCircular_Wood.png",
+    "description": "Decorative round table.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Dresser",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableDresser01_Stone.png",
+    "description": "Decorative antique dresser.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "1 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Ironwood Side Table",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableSide01_Iron.png",
+    "description": "Decorative ironwood side table.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Washstand",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableSink01_Stone.png",
+    "description": "Decorative antique washstand.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "2 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "1 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Ironwood Table",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableSquare01_Iron.png",
+    "description": "Decorative ironwood table.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      }
+    ]
+  },
+  {
+    "name": "Ironwood Low Table",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableSquare02_Iron.png",
+    "description": "Decorative ironwood low table.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Square Table",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TableSquare_Wood.png",
+    "description": "Decorative square table.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Red Berries",
+        "image": "/images/items/T_itemicon_Food_Berries.png"
+      }
+    ]
+  },
+  {
+    "name": "Old TV",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Television01_Iron.png",
+    "description": "Decorative old TV.\r\nLeft behind by an ancient civilization,\r\nnow it only shows images of Pengullet.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "1 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      }
+    ]
+  },
+  {
+    "name": "Tire",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Tire01_Iron.png",
+    "description": "Decorative tire.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "2 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      },
+      {
+        "name": "2 Pal Fluids",
+        "image": "/images/items/T_itemicon_Material_PalFluid.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Toilet",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_Toilet01_Stone.png",
+    "description": "Decorative antique toilet.\r\nCannot be used for its original purpose.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "2 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Toilet Paper Holder",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_ToiletHolder01_Stone.png",
+    "description": "Decorative antique toilet paper holder.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Large Toolbox",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_ToolBoxV1.png",
+    "description": "Place in base to improve\r\nhandwork speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "40 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "15 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "ToolBox",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_ToolBoxV2.png",
+    "description": "Toolbox V2",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Torch",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_TorchStand.png",
+    "description": "A light source that provides illumination to a base even at night.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Antique Towel Rack",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TowlRack01_Stone.png",
+    "description": "Decorative antique towel rack.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  },
+  {
+    "name": "Barricade",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficBarricade01_Iron.png",
+    "description": "Decorative barricade.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Orange Barricade",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficBarricade02_Iron.png",
+    "description": "Decorative orange barricade.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "3 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      },
+      {
+        "name": "3 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Red Iron Barricade",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficBarricade03_Iron.png",
+    "description": "Decorative red barricade.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "1 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      },
+      {
+        "name": "3 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "White Iron Barricade",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficBarricade04_Iron.png",
+    "description": "Decorative white barricade.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Iron Fence",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficBarricade05_Iron.png",
+    "description": "Decorative iron fence.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 ",
+        "image": "/images/items/null.png"
+      }
+    ]
+  },
+  {
+    "name": "Traffic Cone",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficCone01_Iron.png",
+    "description": "Decorative traffic cone.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      }
+    ]
+  },
+  {
+    "name": "Fat Traffic Cone",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficCone02_Iron.png",
+    "description": "Decorative fat traffic cone.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "2 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      }
+    ]
+  },
+  {
+    "name": "Skinny Traffic Cone",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficCone03_Iron.png",
+    "description": "Decorative skinny traffic cone.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Polymer",
+        "image": "/images/items/T_itemicon_Material_Polymer.png"
+      }
+    ]
+  },
+  {
+    "name": "Traffic Light",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficLight01_Iron.png",
+    "description": "Decorative traffic light.\r\n",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "6000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "No Pals Beyond Sign",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficSign01_Iron.png",
+    "description": "Decorative No Pals Beyond sign.\r\nUsed in ancient times, it now serves no real purpose.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Stop Sign",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficSign02_Iron.png",
+    "description": "Decorative Stop sign.\r\nUsed in ancient times, it now serves no real purpose.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Beware of Eikthyrdeer Sign",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficSign03_Iron.png",
+    "description": "Decorative Beware of Eikthyrdeer sign.\r\nIn ancient times, collisions between Eikthyrdeer and other Pals were frequent.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Beware of Mammorest Sign",
+    "type": "Furniture",
+    "image": "/images/buildings/T_icon_buildObject_TrafficSign04_Iron.png",
+    "description": "Decorative Beware of Mammorest sign.\r\nIn ancient times, those who angered a Mammorest were often killed.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Electric Pylon",
+    "type": "Other",
+    "image": "/images/buildings/T_icon_buildObject_TransmissionTower.png",
+    "description": "Place in base to improve\r\nelectricity generating speed.\r\nPlacing more than one has no additional effect.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "60000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "30 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      },
+      {
+        "name": "20 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      }
+    ]
+  },
+  {
+    "name": "Bear Trap (Small)",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_Trap_LegHold.png",
+    "description": "Trap that immobilizes Pals who step on it. The capture rate with the sphere increases when a Pal is trapped. Only effective on small Pals.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Bear Trap (Large)",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_Trap_LegHold_Big.png",
+    "description": "A bear trap to immobilize large Pals. The capture rate with the sphere increases when a Pal is trapped. Only effective on large Pals, small Pals will not be caught.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "20 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      }
+    ]
+  },
+  {
+    "name": "Mine",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_Trap_MineAttack.png",
+    "description": "Trap that explodes when a Pal steps on it. It deals damage to a wide area.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Flame Organ",
+        "image": "/images/items/T_itemicon_Material_FireOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Electric Mine",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_Trap_MineElecShock.png",
+    "description": "Trap that electrocutes the Pal that steps on it. The electrocuted Pal has a higher capture rate with the sphere.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Electric Organ",
+        "image": "/images/items/T_itemicon_Material_ElectricOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Ice Mine",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_Trap_MineFreeze.png",
+    "description": "Trap that freezes the Pal that steps on it. The frozen Pal has a higher capture rate with the sphere.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "5 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "2 Ice Organ",
+        "image": "/images/items/T_itemicon_Material_IceOrgan.png"
+      }
+    ]
+  },
+  {
+    "name": "Moving panels",
+    "type": "Defense",
+    "description": "A description of the moving panel",
+    "keys": [],
+    "materials": [
+      {
+        "name": "50 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      }
+    ]
+  },
+  {
+    "name": "Hanging Trap",
+    "type": "Defense",
+    "image": "/images/buildings/T_icon_buildObject_Trap_Noose.png",
+    "description": "Trap that catches Pals passing through it.\r\nPals caught in the trap are easier to catch with Spheres.\r\nOnly effective on small Pals.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "5 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Wall Torch",
+    "type": "Light",
+    "image": "/images/buildings/T_icon_buildObject_TorchHang.png",
+    "description": "A light source that provides illumination to a base even at night.\r\nIt can be placed on walls.\r\nRequires a Fire Pal to light a flame.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "5 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Chest",
+    "type": "Infrastructure",
+    "image": "/images/buildings/T_icon_buildObject_WeaponChest.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "description": "",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WeaponFactory_Clean_01.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "3 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "3 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WeaponFactory_Clean_02.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "en Text",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WeaponFactory_Clean_03.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "1 Pal Metal Ingot",
+        "image": "/images/items/T_itemicon_Material_StealIngot.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "30 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Workbench",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WeaponFactory_Dirty_01.png",
+    "description": "An Assembly Line for producing weapons and ammunition.\r\nA small workspace prevents the production of high quality weapons.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "15 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Production Assembly Line II",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WeaponFactory_Dirty_02.png",
+    "description": "An Assembly Line for producing weapons and ammunition.\r\nDividing up work has allowed for the production of somewhat decent armaments.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Ingot",
+        "image": "/images/items/T_itemicon_Material_CopperIngot.png"
+      },
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      },
+      {
+        "name": "10 High Quality Pal Oil",
+        "image": "/images/items/T_itemicon_Material_PalOil.png"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Assembly Line II",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WeaponFactory_Dirty_03.png",
+    "description": "An Assembly Line for producing weapons and ammunition.\r\nCleverly dividing up work has allowed for production of top-class weapons.\r\nRequires Pals that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "120000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "100 Refined Ingot",
+        "image": "/images/items/T_itemicon_Material_IronIngot.png"
+      },
+      {
+        "name": "10 Circuit Board",
+        "image": "/images/items/T_itemicon_Material_ElectronicCircuit.png"
+      },
+      {
+        "name": "30 Nail",
+        "image": "/images/items/T_itemicon_Material_MachineParts.png"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Factory",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WeaponFactry.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "10 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Water Well",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_Well.png",
+    "description": "en Text",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      }
+    ]
+  },
+  {
+    "name": "Wood dismantling tables",
+    "type": "Product",
+    "description": "Facility that can saw Wood to extract Fiber.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "50 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "20 Stone",
+        "image": "/images/items/T_itemicon_Material_Stone.png"
+      },
+      {
+        "name": "20 Fiber",
+        "image": "/images/items/T_itemicon_Material_Fiber.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Gate",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_Gate.png",
+    "description": "Gate large enough for big Pals to pass through.\r\nMade from wood, it breaks easily.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Slanted Roof",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_SlantedRoof.png",
+    "description": "Slanted roof built on top of walls to keep out the rain and wind.\r\nMade of wood, it is easy to break.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Triangular Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_TriangleWall.png",
+    "description": "Triangular wall built on a foundation for keeping out intruders.\r\nMade of wood, it is easy to break.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Wall and Window",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_WindowWall.png",
+    "description": "Wall built on a foundation for keeping out intruders. Includes a window.\r\nMade of wood, it is easy to break.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Door",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_DoorWall.png",
+    "description": "Door built on a foundation. Becomes an entrance.\r\nMade from wood, it breaks easily.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Foundation",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_Foundation.png",
+    "description": "A foundation for building walls or facilities on.\r\nMade of wood, it is easy to break.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Roof",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_Roof.png",
+    "description": "A roof built on top of walls to keep out the rain and wind.\r\nMade of wood, it is easy to break.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Stairs",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_Stair.png",
+    "description": "Stairs placed below a foundation or roof for climbing up.\r\nMade of wood, they are easy to break.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Wall",
+    "type": "Foundation",
+    "image": "/images/buildings/T_icon_buildObject_Wood_Wall_V2.png",
+    "description": "Walls built on foundations for keeping out intruders.\r\nMade of wood, they are easy to break.",
+    "keys": [],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Primitive Workbench",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WorkBench.png",
+    "description": "A WorkBench for producing simple items.\r\nRequires a Pal that can work with their hands.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "500"
+      }
+    ],
+    "materials": [
+      {
+        "name": "2 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      }
+    ]
+  },
+  {
+    "name": "Pal Gear Workbench",
+    "type": "Product",
+    "image": "/images/buildings/T_icon_buildObject_WorkBench_SkillUnlock.png",
+    "description": "A WorkBench for producing Pal tools.\r\nMake a saddle to ride Pals, or make a gun for Pals to use.",
+    "keys": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "materials": [
+      {
+        "name": "10 Paldium Fragment",
+        "image": "/images/items/T_itemicon_Material_Pal_crystal_S.png"
+      },
+      {
+        "name": "30 Wood",
+        "image": "/images/items/T_itemicon_Material_Wood.png"
+      },
+      {
+        "name": "2 Cloth",
+        "image": "/images/items/T_itemicon_Material_Cloth.png"
+      }
+    ]
+  }
+]

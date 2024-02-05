@@ -1756,10 +1756,11 @@ a {
 }
 
 .tier-list .tier .content .pal .link {
-  height: 55px;
   position: absolute;
   top: 0;
-  width: 55px;
+  cursor: pointer;
+  /* height: 55px; */
+  /* width: 55px; */
 }
 
 .tier-list .tier .content .pal .link:hover + img {
@@ -1793,8 +1794,9 @@ a {
 }
 
 .tier-list .tier .content.worktier .pal .link {
-  height: 70px;
-  width: 70px;
+  /* height: 70px; */
+  /* width: 70px; */
+  cursor: pointer;
 }
 
 .tier-list .tier .content.worktier .pal .works {

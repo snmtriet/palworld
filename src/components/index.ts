@@ -3,5 +3,6 @@ import Footer from "./Footer";
 import PalCard from "./PalCard";
 import MiniCard from "./MiniCard";
 import ItemList from "./ItemList";
+import StructureList from "./StructureList";
 
-export { Header, Footer, PalCard, MiniCard, ItemList };
+export { Header, Footer, PalCard, MiniCard, ItemList, StructureList };

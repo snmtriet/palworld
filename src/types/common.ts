@@ -2,7 +2,7 @@ export interface Pal {
   name: string;
   rarity: string;
   level: string;
-  palImage: string;
+  image: string;
   elements: {
     name: string;
     image: string;
@@ -12,6 +12,20 @@ export interface Pal {
     name: string;
     level: string;
   }[];
+  best?: string;
+  worker?: string;
+  ground?: Ground;
+  combat?: string;
+  flying?: Ground;
+}
+
+export interface Ground {
+  rank: string;
+  speed: string;
+}
+export interface Flying {
+  rank: string;
+  speed: string;
 }
 
 export type RarityEnum = "all" | "common" | "rare" | "epic" | "legendary";
@@ -131,12 +145,26 @@ export interface Item {
   recipe: Recipe[];
 }
 
+export interface Structure {
+  name: string;
+  type: string;
+  image: string;
+  description: string;
+  keys: Key[];
+  materials: Material[];
+}
+
 export interface Key {
   name: string;
   value: string;
 }
 
 export interface Recipe {
+  name: string;
+  image: string;
+}
+
+export interface Material {
   name: string;
   image: string;
 }

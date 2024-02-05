@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Pal } from "@/types";
 
 const PalCard = ({ pal }: { pal: Pal }) => {
-  const { elements, palImage, works, level, name, rarity } = pal;
+  const { elements, image, works, level, name, rarity } = pal;
   return (
     <div className="pal">
       <Link href={`/pal/${name.toLowerCase().replaceAll(" ", "-")}`}>
@@ -25,7 +25,7 @@ const PalCard = ({ pal }: { pal: Pal }) => {
           <div className="image">
             <Image
               loading="lazy"
-              src={palImage}
+              src={image}
               alt={name}
               height={60}
               width={60}

@@ -25,7 +25,7 @@ const Header = () => {
             pathname === "/" && "router-link-active router-link-exact-active"
           )}
         >
-          <div className="logo">Palworld.gg</div>
+          <div className="logo">Palworld</div>
         </Link>
         <div className="burger" onClick={onToggleBurger}>
           <span />

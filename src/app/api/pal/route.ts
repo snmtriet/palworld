@@ -12,15 +12,15 @@ export async function POST(request: Request) {
   if (!fs.existsSync(folderPath)) {
     fs.mkdirSync(folderPath);
   }
-  const filePath = path.join(folderPath, `${body.uniqueName}.json`);
+  const filePath = path.join(folderPath, `pals.json`);
   const jsonString = JSON.stringify(body, null, 2);
   fs.writeFile(filePath, jsonString, (err) => {
     if (err) {
       console.error("Error writing JSON file:", err);
     } else {
-      console.log(`JSON file "${body.name}" saved to "pals" folder.`);
+      console.log(`JSON file  saved to "pals" folder.`);
     }
   });
 
-  return Response.json(body.name + " đã lưu");
+  return Response.json("đã lưu");
 }
