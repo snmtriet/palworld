@@ -4,7 +4,13 @@ import Image from "next/image";
 import Link from "next/link";
 import { Pal } from "@/types";
 
-const PalCard = ({ pal }: { pal: Pal }) => {
+const PalCard = ({
+  pal,
+  worksShort = true,
+}: {
+  pal: Pal;
+  worksShort?: Boolean;
+}) => {
   const { elements, image, works, level, name, rarity } = pal;
   return (
     <div className="pal">
@@ -36,28 +42,30 @@ const PalCard = ({ pal }: { pal: Pal }) => {
             <div className="lv">{level}</div>
             <div className="name">{rarity}</div>
           </div>
-          <div className="works short">
-            <div className="items">
-              {works.map((item) => (
-                <div key={item.name} className="active item">
-                  <div className="w">
-                    <div className="image">
-                      <Image
-                        loading="lazy"
-                        src={item.image}
-                        width={20}
-                        height={20}
-                        alt={item.name}
-                      />
+          {worksShort && (
+            <div className="works short">
+              <div className="items">
+                {works.map((item) => (
+                  <div key={item.name} className="active item">
+                    <div className="w">
+                      <div className="image">
+                        <Image
+                          loading="lazy"
+                          src={item.image}
+                          width={20}
+                          height={20}
+                          alt={item.name}
+                        />
+                      </div>
+                    </div>
+                    <div className="level">
+                      <span className="value">{item.level}</span>
                     </div>
                   </div>
-                  <div className="level">
-                    <span className="value">{item.level}</span>
-                  </div>
-                </div>
-              ))}
+                ))}
+              </div>
             </div>
-          </div>
+          )}
         </div>
       </Link>
     </div>

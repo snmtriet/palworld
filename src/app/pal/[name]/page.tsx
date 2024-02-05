@@ -74,7 +74,12 @@ const PalDetailPage = () => {
           <h1 className="name">{data.name}</h1>
           <p>{data.title}</p>
           <div className="below">
-            <div className="rare rarity">
+            <div
+              className={classNames(
+                "rarity",
+                data?.rarity?.name?.toLowerCase()
+              )}
+            >
               <div className="lv">{data.rarity.level}</div>
 
               <div className="name">{data.rarity.name}</div>
